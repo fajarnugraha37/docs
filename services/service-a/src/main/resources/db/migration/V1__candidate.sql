@@ -1,0 +1,4 @@
+CREATE TABLE candidate (
+    id VARCHAR2(64) PRIMARY KEY,
+    status VARCHAR2(32) NOT NULL
+);
