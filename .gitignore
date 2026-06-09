@@ -1,0 +1,126 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-log.txt
+pip-delete-this-directory.txt
+.venv
+env/
+venv/
+ENV/
+.env
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# JavaScript/TypeScript
+dist/
+build/
+*.tsbuildinfo
+.eslintcache
+
+# Java
+*.class
+*.jar
+*.war
+target/
+.classpath
+.project
+.settings/
+
+# C/C++
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.exe
+CMakeFiles/
+cmake_install.cmake
+CMakeCache.txt
+
+# C#
+bin/
+obj/
+*.csproj.user
+*.sln.docstates
+
+# Go
+/dist
+*.exe
+*.exe~
+*.dll
+*.so
+*.so.*
+*.dylib
+*.test
+*.out
+
+# Ruby
+Gemfile.lock
+.bundle/
+vendor/bundle/
+
+# PHP
+vendor/
+composer.lock
+
+# .NET
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# IDE/Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.vim/
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# General
+.cache/
+.tmp/
+*.bak
+*.swp
+.env.local
+.env.*.local
+
+.gemini/
+.opencode/
+.claude/
