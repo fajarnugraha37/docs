@@ -6,13 +6,22 @@ Expected output:
 
 ```md
 # implementation plan
+
 ## requirement interpretation
+
 ## affected areas
+
 ## existing behavior
+
 ## proposed behavior
+
 ## implementation steps
+
 ## tests
+
 ## migration / rollback
+
 ## risks and mitigations
+
 ## unknowns
 ```

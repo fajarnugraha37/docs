@@ -6,9 +6,14 @@ Expected output:
 
 ```md
 ## answer
+
 ## evidence-backed facts
+
 ## inferences
+
 ## unknowns
+
 ## risks / edge cases
+
 ## suggested next step
 ```
