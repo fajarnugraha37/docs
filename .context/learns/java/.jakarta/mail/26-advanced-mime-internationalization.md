@@ -1972,3 +1972,9 @@ If you internalize this, you stop treating email as string concatenation and sta
 - RFC 6532 — Internationalized Email Headers.
 - Java `java.net.IDN` documentation.
 - Java `java.text.Normalizer` documentation.
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 25 — Compliance, Privacy, and Regulatory-Grade Mail Systems](./25-compliance-privacy-regulatory-mail-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Failure Modelling and Production Incident Playbook](./27-production-incident-playbook.md)

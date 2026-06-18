@@ -2635,3 +2635,9 @@ Part 13 akan membahas threat model mail sending dari sisi Java application:
 - audit security;
 - secure production checklist.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 11 — Reliable Email Delivery Architecture: Queue, Outbox, Retry, Idempotency](./11-reliable-delivery-outbox-retry-idempotency.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Security Deep Dive: TLS, Credential, OAuth2, Secret Management](./13-security-tls-oauth-secret-header-injection.md)

@@ -1746,3 +1746,9 @@ Di sana kita akan masuk ke object model Jakarta Mail secara lebih dalam:
 - kapan memakai `Transport.send()` dan kapan manual connect/send/close;
 - anti-pattern yang sering membuat connection leak atau behavior tidak predictable.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 1 — Email Protocol Stack: SMTP, MIME, POP3, IMAP](./01-email-protocol-stack-smtp-mime-pop3-imap.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — Core API Mental Model: `Session`, `Store`, `Folder`, `Transport`, `Message`](./03-core-api-session-transport-store-message.md)

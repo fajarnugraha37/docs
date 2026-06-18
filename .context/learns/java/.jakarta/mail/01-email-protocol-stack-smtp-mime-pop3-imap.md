@@ -1944,3 +1944,9 @@ Seri belum selesai. Bagian berikutnya adalah:
 ```text
 Part 2 — JavaMail to Jakarta Mail: History, Namespace, Compatibility, and Migration Strategy
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 0 — Orientation: Email as a Distributed System](./00-orientation-email-as-distributed-system.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — JavaMail to Jakarta Mail: History, Namespace, Compatibility, and Migration Strategy](./02-javamail-to-jakarta-mail-migration.md)

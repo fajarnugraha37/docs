@@ -2318,3 +2318,9 @@ Kita akan membahas:
 - capacity planning;
 - benchmark realistis mail pipeline.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 19 — Testing Mail Systems](./19-testing-mail-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Performance and Resource Management](./21-performance-resource-management.md)

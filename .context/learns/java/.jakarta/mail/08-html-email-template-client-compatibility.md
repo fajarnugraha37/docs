@@ -1934,3 +1934,9 @@ Ambil satu email notification di sistem nyata. Buat checklist:
 - Litmus dark mode resources: email clients apply dark mode differently, including partial and full color changes, so dark mode must be tested explicitly.
 - Microsoft email dark mode/accessibility guidance: readability and contrast remain important in light and dark modes.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 7 — Attachment Handling and Jakarta Activation](./07-attachment-handling-jakarta-activation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Mail Addressing, Identity, and Header Semantics](./09-addressing-identity-header-semantics.md)

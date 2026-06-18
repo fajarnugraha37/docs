@@ -2063,3 +2063,9 @@ Itu mencakup SPF, DKIM, DMARC, alignment, reputation, hard bounce, soft bounce, 
 - Eclipse Angus Mail documentation: Angus Mail is the modern Jakarta Mail implementation and documents SMTP provider behavior and OAuth2 support.
 - RFC 5321: Simple Mail Transfer Protocol, including SMTP reply code classes and envelope semantics.
 - Jakarta Activation specification: relevant for attachment/data handling security because mail content often crosses MIME/data source boundaries.
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 12 — Bulk, Batch, and Rate-Limited Sending](./12-bulk-batch-rate-limited-sending.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Deliverability Fundamentals: SPF, DKIM, DMARC, Reputation, Bounce](./14-deliverability-spf-dkim-dmarc-bounce.md)

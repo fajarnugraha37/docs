@@ -2074,3 +2074,9 @@ Part 11 — Reliable Email Delivery Architecture: Queue, Outbox, Retry, Idempote
 
 Part 10 focused on understanding and classifying failure. Part 11 will use that classification to design a reliable mail delivery architecture: outbox table, worker, lock strategy, retry schedule, deduplication, idempotency, dead-letter, and operational recovery.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 9 — Mail Addressing, Identity, and Header Semantics](./09-addressing-identity-header-semantics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Reliable Email Delivery Architecture: Queue, Outbox, Retry, Idempotency](./11-reliable-delivery-outbox-retry-idempotency.md)

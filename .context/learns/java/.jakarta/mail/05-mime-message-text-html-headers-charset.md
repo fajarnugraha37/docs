@@ -1944,3 +1944,9 @@ Progress seri:
 ```
 
 Seri belum selesai. Bagian berikutnya adalah **Part 6 — Multipart Email: Alternative, Mixed, Related, Nested Structure**.
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 4 — SMTP Sending: Properties, Transport, Timeout, TLS, Auth](./04-smtp-sending-timeout-tls-auth.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Multipart Email: Alternative, Mixed, Related, Nested Structure](./06-multipart-email-alternative-mixed-related.md)

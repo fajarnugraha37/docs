@@ -2108,4 +2108,4 @@ Sumber-sumber berikut dipakai untuk mengunci fakta versi/spec di Part 0 dan akan
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-040.md](../learn-java-jakarta-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 1](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md)
+[⬅️ Sebelumnya: Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect](../mail/29-top-one-percent-design-review.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 1](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md)

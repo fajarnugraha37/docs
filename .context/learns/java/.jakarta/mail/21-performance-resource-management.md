@@ -1583,3 +1583,9 @@ Seri **belum selesai**. Bagian berikutnya adalah:
 ```text
 Part 22 — Provider Integration Patterns: SMTP Relay vs API-Based Email Provider
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 20 — Observability: Logs, Metrics, Tracing, Audit](./20-observability-logs-metrics-tracing-audit.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Provider Integration Patterns: SMTP Relay vs API-Based Email Provider](./22-provider-integration-smtp-vs-api.md)

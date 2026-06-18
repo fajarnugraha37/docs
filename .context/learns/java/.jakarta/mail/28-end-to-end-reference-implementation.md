@@ -2330,3 +2330,9 @@ Sisa:
 ```text
 [ ] Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 27 — Failure Modelling and Production Incident Playbook](./27-production-incident-playbook.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect](./29-top-one-percent-design-review.md)

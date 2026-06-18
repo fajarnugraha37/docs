@@ -3186,3 +3186,9 @@ Progress:
 [ ] Part 28 — End-to-End Reference Implementation: Java 8 Legacy and Java 21/25 Modern
 [ ] Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 23 — Bounce, Complaint, Webhook, and Delivery Feedback Loop](./23-bounce-complaint-webhook-feedback-loop.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Compliance, Privacy, and Regulatory-Grade Mail Systems](./25-compliance-privacy-regulatory-mail-systems.md)

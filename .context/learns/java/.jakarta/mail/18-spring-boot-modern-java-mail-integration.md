@@ -2684,3 +2684,9 @@ Kita akan masuk jauh lebih detail ke:
 - non-flaky E2E email testing;
 - testing outbox and retry;
 - privacy-safe test data.
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 17 — Jakarta Mail in Jakarta EE Containers](./17-jakarta-ee-container-managed-mail.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Testing Mail Systems](./19-testing-mail-systems.md)

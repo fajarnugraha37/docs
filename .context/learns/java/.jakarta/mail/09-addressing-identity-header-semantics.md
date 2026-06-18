@@ -2479,3 +2479,9 @@ Kita akan masuk ke failure taxonomy Jakarta Mail/SMTP:
 - retry classification;
 - domain-level error model.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 8 — HTML Email Engineering: Templates, CSS, Images, and Client Compatibility](./08-html-email-template-client-compatibility.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Error Model: `MessagingException`, `SendFailedException`, `SMTPAddressFailedException`](./10-error-model-exception-failure-classification.md)

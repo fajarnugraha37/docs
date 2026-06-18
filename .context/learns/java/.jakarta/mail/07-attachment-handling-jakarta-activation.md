@@ -2365,3 +2365,9 @@ Part 8 will cover:
 - accessibility;
 - localization;
 - template versioning and snapshot testing.
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 6 — Multipart Email: Alternative, Mixed, Related, Nested Structure](./06-multipart-email-alternative-mixed-related.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — HTML Email Engineering: Templates, CSS, Images, and Client Compatibility](./08-html-email-template-client-compatibility.md)

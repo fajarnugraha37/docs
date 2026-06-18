@@ -2076,3 +2076,9 @@ Progress:
 ```
 
 Seri belum selesai. Part berikutnya: **Part 18 — Jakarta Mail in Spring Boot and Modern Java Applications**.
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 16 — MIME Parsing: Reading Complex Messages Safely](./16-mime-parsing-safe-message-ingestion.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — Jakarta Mail in Spring Boot and Modern Java Applications](./18-spring-boot-modern-java-mail-integration.md)

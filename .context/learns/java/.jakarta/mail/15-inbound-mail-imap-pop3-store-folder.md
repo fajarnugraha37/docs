@@ -1721,3 +1721,9 @@ Itu akan dibahas di part berikutnya:
 - POP3 as simple message retrieval protocol.
 - MIME message structure from earlier parts.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 14 — Deliverability Fundamentals: SPF, DKIM, DMARC, Reputation, Bounce](./14-deliverability-spf-dkim-dmarc-bounce.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — MIME Parsing: Reading Complex Messages Safely](./16-mime-parsing-safe-message-ingestion.md)

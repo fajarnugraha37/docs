@@ -2330,3 +2330,9 @@ Seri **belum selesai**. Bagian berikutnya adalah:
 ```text
 Part 7 — Attachment Handling and Jakarta Activation
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 5 — MIME Message Construction: Text, HTML, Charset, Headers](./05-mime-message-text-html-headers-charset.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Attachment Handling and Jakarta Activation](./07-attachment-handling-jakarta-activation.md)

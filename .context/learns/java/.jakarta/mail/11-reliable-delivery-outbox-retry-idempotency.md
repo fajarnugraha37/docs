@@ -3040,3 +3040,9 @@ Di sana kita akan membahas desain high-throughput mail sending, per-domain throt
 - RFC 5321 — Simple Mail Transfer Protocol.
 - RFC 5322 — Internet Message Format.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 10 — Error Model: `MessagingException`, `SendFailedException`, `SMTPAddressFailedException`](./10-error-model-exception-failure-classification.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Bulk, Batch, and Rate-Limited Sending](./12-bulk-batch-rate-limited-sending.md)

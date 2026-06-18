@@ -5,6 +5,7 @@
 - [📁 Dependency](dependency/index.md)
 - [📁 Jax.Rs](jax.rs/index.md)
 - [📁 Jsp](jsp/index.md)
+- [📁 Mail](mail/index.md)
 - [📁 Mapper](mapper/index.md)
 - [📁 Persistence](persistence/index.md)
 - [📁 Security](security/index.md)

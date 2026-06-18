@@ -2430,3 +2430,9 @@ Progress:
 
 Seri **belum selesai**.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 2 — JavaMail to Jakarta Mail: History, Namespace, Compatibility, and Migration Strategy](./02-javamail-to-jakarta-mail-migration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — SMTP Sending: Properties, Transport, Timeout, TLS, Auth](./04-smtp-sending-timeout-tls-auth.md)

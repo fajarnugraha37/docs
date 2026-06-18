@@ -2303,3 +2303,9 @@ Next:
 ```text
 [ ] Part 26 — Advanced MIME and Internationalization
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 24 — Template Architecture and Domain Notification Design](./24-template-architecture-domain-notification.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Advanced MIME and Internationalization](./26-advanced-mime-internationalization.md)

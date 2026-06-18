@@ -2347,3 +2347,9 @@ Kamu dianggap menguasai part ini jika bisa menjelaskan tanpa melihat catatan:
 
 Jika semua poin ini bisa dijawab, kamu sudah jauh di atas engineer yang hanya tahu `Transport.send()`.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[⬅️ Sebelumnya: Part 13 — Security Deep Dive: TLS, Credential, OAuth2, Secret Management](./13-security-tls-oauth-secret-header-injection.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Inbound Mail: IMAP/POP3, Store, Folder, Message Reading](./15-inbound-mail-imap-pop3-store-folder.md)
