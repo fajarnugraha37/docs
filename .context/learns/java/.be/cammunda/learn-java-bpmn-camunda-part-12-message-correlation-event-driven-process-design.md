@@ -2579,4 +2579,4 @@ Seri belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-11-dmn-decision-engineering-separating-flow-from-decision-logic.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-13-timers-sla-timeout-expiry-scheduled-process-behavior.md)
+[⬅️ Sebelumnya: Part 11 — DMN and Decision Engineering: Separating Flow from Decision Logic](./learn-java-bpmn-camunda-part-11-dmn-decision-engineering-separating-flow-from-decision-logic.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Timers, SLA, Timeout, Expiry, and Scheduled Process Behavior](./learn-java-bpmn-camunda-part-13-timers-sla-timeout-expiry-scheduled-process-behavior.md)

@@ -2108,4 +2108,4 @@ Sumber-sumber berikut dipakai untuk mengunci fakta versi/spec di Part 0 dan akan
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect](../mail/29-top-one-percent-design-review.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 1](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md)
+[⬅️ Sebelumnya: Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect](../mail/29-top-one-percent-design-review.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Data Format as Contract: JSON, XML, XSD, WSDL, and Integration Compatibility](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md)

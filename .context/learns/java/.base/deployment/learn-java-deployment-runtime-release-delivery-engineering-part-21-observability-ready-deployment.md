@@ -1802,4 +1802,4 @@ Belum selesai. Lanjut ke:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md)
+[⬅️ Sebelumnya: Part 20 — Configuration, Secret Rotation, Certificate Rotation, and Truststore Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Deployment Verification: Smoke Test, Health Gate, Synthetic Check, Contract Check](./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md)

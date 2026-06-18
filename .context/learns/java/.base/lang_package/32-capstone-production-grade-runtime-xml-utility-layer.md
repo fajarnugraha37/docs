@@ -2584,4 +2584,4 @@ Dengan ini, seri mencapai bagian terakhir.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 31 — Advanced XML Processing Patterns: DOM/SAX Hybrid, Streaming State Machines, Large Documents](./31-advanced-xml-processing-patterns-dom-sax-hybrid-large-documents.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-000](../memory_management/learn-java-memory-byte-bit-buffer-offheap-gc-part-000.md)
+[⬅️ Sebelumnya: Part 31 — Advanced XML Processing Patterns: DOM/SAX Hybrid, Streaming State Machines, Large Documents](./31-advanced-xml-processing-patterns-dom-sax-hybrid-large-documents.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Mental Model Besar: Java Memory as a Layered System](../memory_management/learn-java-memory-byte-bit-buffer-offheap-gc-part-000.md)

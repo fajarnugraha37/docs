@@ -2270,4 +2270,4 @@ Belum selesai. Lanjut ke:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-08-containerizing-java-applications-correctly.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-10-jlink-jdeps-jpackage-custom-runtime-images.md)
+[⬅️ Sebelumnya: Part 8 — Containerizing Java Applications Correctly](./learn-java-deployment-runtime-release-delivery-engineering-part-08-containerizing-java-applications-correctly.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — `jlink`, `jdeps`, `jpackage`, and Custom Runtime Images](./learn-java-deployment-runtime-release-delivery-engineering-part-10-jlink-jdeps-jpackage-custom-runtime-images.md)

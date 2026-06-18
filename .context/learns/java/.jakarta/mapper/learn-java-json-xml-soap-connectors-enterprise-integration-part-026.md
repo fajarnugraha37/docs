@@ -1780,4 +1780,4 @@ Berikutnya: **Part 27 — SOAP Attachments & MTOM/SAAJ**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-025](./learn-java-json-xml-soap-connectors-enterprise-integration-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-027](./learn-java-json-xml-soap-connectors-enterprise-integration-part-027.md)
+[⬅️ Sebelumnya: Part 25 — JAX-WS / Jakarta XML Web Services Client Side](./learn-java-json-xml-soap-connectors-enterprise-integration-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — SOAP Attachments & MTOM/SAAJ](./learn-java-json-xml-soap-connectors-enterprise-integration-part-027.md)

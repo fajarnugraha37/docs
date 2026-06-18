@@ -2536,4 +2536,4 @@ That is process orchestration engineering.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-29-anti-patterns-failure-modes-design-review-checklist.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: ORM as State Synchronization Engine, Not Just Mapping](../database/jpa/00-orientation-orm-as-state-synchronization-engine.md)
+[⬅️ Sebelumnya: Part 29 — Anti-patterns, Failure Modes, and Design Review Checklist](./learn-java-bpmn-camunda-part-29-anti-patterns-failure-modes-design-review-checklist.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: ORM as State Synchronization Engine, Not Just Mapping](../database/jpa/00-orientation-orm-as-state-synchronization-engine.md)

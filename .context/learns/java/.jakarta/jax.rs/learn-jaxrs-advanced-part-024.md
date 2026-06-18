@@ -2274,4 +2274,4 @@ Kita akan membahas SSE secara mendalam: event stream, `Sse`, `SseEventSink`, bro
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-023.md](./learn-jaxrs-advanced-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-025.md](./learn-jaxrs-advanced-part-025.md)
+[⬅️ Sebelumnya: Bagian 023 — Hypermedia and Links: `Link`, HATEOAS, Practical REST Maturity, `Location`, `Content-Location`, Pagination Links, Action Affordances, dan API Evolvability](./learn-jaxrs-advanced-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 025 — Server-Sent Events / SSE: `Sse`, `SseEventSink`, `SseBroadcaster`, Event Stream Protocol, Reconnect, `Last-Event-ID`, Heartbeat, Backpressure, Auth, Proxy Buffering, dan Production Streaming](./learn-jaxrs-advanced-part-025.md)

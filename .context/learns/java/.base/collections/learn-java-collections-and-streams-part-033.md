@@ -1586,4 +1586,4 @@ If not, do I want fail-fast, first-wins, last-wins, domain merge, or groupingBy?
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-032.md](./learn-java-collections-and-streams-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-034.md](./learn-java-collections-and-streams-part-034.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 032](./learn-java-collections-and-streams-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 034](./learn-java-collections-and-streams-part-034.md)

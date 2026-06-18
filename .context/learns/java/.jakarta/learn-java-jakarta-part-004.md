@@ -2729,4 +2729,4 @@ Jika kamu bisa menjawab pertanyaan itu, kamu sudah jauh melampaui level “bisa 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-003.md](./learn-java-jakarta-part-003.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-005.md](./learn-java-jakarta-part-005.md)
+[⬅️ Sebelumnya: Bagian 3 — Dependency Management: API, Implementation, Runtime, dan BOM](./learn-java-jakarta-part-003.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 5 — `jakarta.annotation` dan Common Annotations](./learn-java-jakarta-part-005.md)

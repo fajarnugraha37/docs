@@ -2658,4 +2658,4 @@ Kita akan membahas upload secara mendalam: multipart/form-data, `EntityPart`, st
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-025.md](./learn-jaxrs-advanced-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-027.md](./learn-jaxrs-advanced-part-027.md)
+[⬅️ Sebelumnya: Bagian 025 — Server-Sent Events / SSE: `Sse`, `SseEventSink`, `SseBroadcaster`, Event Stream Protocol, Reconnect, `Last-Event-ID`, Heartbeat, Backpressure, Auth, Proxy Buffering, dan Production Streaming](./learn-jaxrs-advanced-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 027 — Multipart and File Upload: `multipart/form-data`, `EntityPart`, Streaming Upload, Size Limits, Malware Scanning, Content-Type Validation, Object Storage, Transactional Metadata, and Secure File Handling](./learn-jaxrs-advanced-part-027.md)

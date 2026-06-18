@@ -3038,4 +3038,4 @@ Blame, Pickaxe, dan Forensic Code Archaeology
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-018.md](./learn-git-mastery-for-java-engineers-part-018.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-020.md](./learn-git-mastery-for-java-engineers-part-020.md)
+[⬅️ Sebelumnya: Part 018 — Stash, Worktree, dan Context Switching](./learn-git-mastery-for-java-engineers-part-018.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 020 — Blame, Pickaxe, dan Forensic Code Archaeology](./learn-git-mastery-for-java-engineers-part-020.md)

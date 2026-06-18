@@ -1918,4 +1918,4 @@ The key is matching numeric representation to domain semantics.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-002.md](./learn-java-data-types-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-004.md](./learn-java-data-types-part-004.md)
+[⬅️ Sebelumnya: Java Data Types — Part 002](./learn-java-data-types-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 004](./learn-java-data-types-part-004.md)

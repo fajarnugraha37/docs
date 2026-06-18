@@ -1545,4 +1545,4 @@ and imperative code is simpler.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-030.md](./learn-java-concurrency-and-reactive-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-032.md](./learn-java-concurrency-and-reactive-part-032.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 030](./learn-java-concurrency-and-reactive-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 032](./learn-java-concurrency-and-reactive-part-032.md)

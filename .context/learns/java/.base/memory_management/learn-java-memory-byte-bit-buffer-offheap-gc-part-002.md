@@ -2206,4 +2206,4 @@ Masih lanjut ke part 003 sampai part 030.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-001.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-003](./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md)
+[⬅️ Sebelumnya: Part 001 — Bits, Bytes, Words, Alignment, Endianness: Fondasi Representasi Data](./learn-java-memory-byte-bit-buffer-offheap-gc-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Object Layout in HotSpot: Header, Mark Word, Klass Pointer, Padding](./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md)

@@ -2483,4 +2483,4 @@ Class Anatomy: Fields, Methods, Constructors, Initializers, Class Loading Semant
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-000](./learn-java-oop-functional-reflection-codegen-modules-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-002](./learn-java-oop-functional-reflection-codegen-modules-part-002.md)
+[⬅️ Sebelumnya: Part 000 — Orientation: Mental Model Besar Java Program Structure](./learn-java-oop-functional-reflection-codegen-modules-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — Class Anatomy: Fields, Methods, Constructors, Initializers, Class Loading Semantics](./learn-java-oop-functional-reflection-codegen-modules-part-002.md)

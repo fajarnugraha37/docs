@@ -2105,4 +2105,4 @@ Di part berikutnya kita akan masuk ke **Annotation Design**: bagaimana mendesain
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-019](./learn-java-oop-functional-reflection-codegen-modules-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-021.md](./learn-java-oop-functional-reflection-codegen-modules-part-021.md)
+[⬅️ Sebelumnya: Reflection Deep Dive II: Dynamic Invocation, Proxies, Framework Mechanics](./learn-java-oop-functional-reflection-codegen-modules-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — Annotation Design: Metadata, Retention, Targets, Repeatable, Inheritance](./learn-java-oop-functional-reflection-codegen-modules-part-021.md)

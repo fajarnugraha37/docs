@@ -1726,4 +1726,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-026](./learn-java-oop-functional-reflection-codegen-modules-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-028](./learn-java-oop-functional-reflection-codegen-modules-part-028.md)
+[⬅️ Sebelumnya: JPMS Deep Dive I: Modules, Descriptors, Readability, Exports, Requires](./learn-java-oop-functional-reflection-codegen-modules-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Maven/Gradle Dependency Governance for Serious Java Systems](./learn-java-oop-functional-reflection-codegen-modules-part-028.md)

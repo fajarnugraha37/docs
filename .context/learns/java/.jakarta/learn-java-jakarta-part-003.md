@@ -2505,4 +2505,4 @@ Bagian berikutnya akan membahas **Runtime / Container Model** lebih dalam: bagai
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-002.md](./learn-java-jakarta-part-002.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-004.md](./learn-java-jakarta-part-004.md)
+[⬅️ Sebelumnya: Bagian 2 — Jakarta EE Platform, Web Profile, dan Core Profile](./learn-java-jakarta-part-002.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 4 — Runtime / Container Model: Cara Jakarta EE Benar-Benar Menjalankan Aplikasi](./learn-java-jakarta-part-004.md)

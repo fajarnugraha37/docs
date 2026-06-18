@@ -2494,4 +2494,4 @@ Kita akan masuk sangat detail ke desain resource class, resource method, subreso
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-001.md](./learn-jaxrs-advanced-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-003.md](./learn-jaxrs-advanced-part-003.md)
+[⬅️ Sebelumnya: Bagian 001 — HTTP Semantics yang Wajib Dikuasai Sebelum JAX-RS](./learn-jaxrs-advanced-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 003 — Resource Class Mental Model: Class-Level Path, Method-Level Path, Subresource, Lifecycle, dan Boundary Design](./learn-jaxrs-advanced-part-003.md)

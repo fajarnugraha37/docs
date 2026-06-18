@@ -1912,4 +1912,4 @@ Use Set when uniqueness is the model, not merely because duplicates are inconven
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-002.md](./learn-java-collections-and-streams-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-004.md](./learn-java-collections-and-streams-part-004.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 002](./learn-java-collections-and-streams-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 004](./learn-java-collections-and-streams-part-004.md)

@@ -2081,4 +2081,4 @@ Kita akan membahas desain API untuk operasi panjang: 202 Accepted, operation res
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-042.md](./learn-jaxrs-advanced-part-042.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-044.md](./learn-jaxrs-advanced-part-044.md)
+[⬅️ Sebelumnya: Bagian 042 — Production Security Hardening for JAX-RS APIs: Authentication, Authorization, JWT/OIDC, CORS/CSRF, Input Limits, Security Headers, Rate Limit, Request Smuggling, SSRF, Deserialization Safety, File Upload Security, Audit, and Security Testing](./learn-jaxrs-advanced-part-042.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 044 — Long-Running Operations and Async API Design: 202 Accepted, Operation Resource, Polling, Webhook, SSE Progress, Cancellation, Retry, Idempotency, Timeout, Result Resources, Failure Recovery, and Production Job Orchestration](./learn-jaxrs-advanced-part-044.md)

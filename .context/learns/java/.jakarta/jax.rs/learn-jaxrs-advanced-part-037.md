@@ -1860,4 +1860,4 @@ Kita akan membahas migrasi namespace dan ekosistem secara mendalam: dependency a
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-036.md](./learn-jaxrs-advanced-part-036.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-038.md](./learn-jaxrs-advanced-part-038.md)
+[⬅️ Sebelumnya: Bagian 036 — Testing JAX-RS Client: Mock Server, Request Verification, Timeout/Retry/Circuit Tests, Problem Details Decoder, Streaming Download, Upload, SSE Client, Contract Tests, and Resilience Fault Injection](./learn-jaxrs-advanced-part-036.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 038 — Migration: `javax.ws.rs` to `jakarta.ws.rs`: Namespace Shift, Dependency Alignment, Runtime Upgrade, OpenRewrite, Eclipse Transformer, CDI/Servlet/Validation/Persistence Ecosystem, Testing Strategy, and Migration Failure Modes](./learn-jaxrs-advanced-part-038.md)

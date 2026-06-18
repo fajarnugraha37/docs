@@ -1913,4 +1913,4 @@ Part 028 — Reliability Architecture Review Checklist
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-026.md](./learn-java-reliability-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-028.md](./learn-java-reliability-part-028.md)
+[⬅️ Sebelumnya: Part 026 — Testing Failure and Shutdown Behavior](./learn-java-reliability-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 028 — Reliability Architecture Review Checklist](./learn-java-reliability-part-028.md)

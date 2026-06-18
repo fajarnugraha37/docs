@@ -1470,4 +1470,4 @@ Use explicit workflows to make important things happen.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-035.md](./learn-java-collections-and-streams-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-037.md](./learn-java-collections-and-streams-part-037.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 035](./learn-java-collections-and-streams-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 037](./learn-java-collections-and-streams-part-037.md)

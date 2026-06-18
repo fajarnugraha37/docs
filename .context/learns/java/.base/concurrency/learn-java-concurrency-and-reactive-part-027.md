@@ -1643,4 +1643,4 @@ and how long has it been there?”
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-026.md](./learn-java-concurrency-and-reactive-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-028.md](./learn-java-concurrency-and-reactive-part-028.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 026](./learn-java-concurrency-and-reactive-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 028](./learn-java-concurrency-and-reactive-part-028.md)

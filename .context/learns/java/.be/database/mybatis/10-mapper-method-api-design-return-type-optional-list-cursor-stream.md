@@ -2466,4 +2466,4 @@ Part 11 will go deeper into:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: 09 — MyBatis Dynamic SQL Library: Type-Safe Query Generation](./09-mybatis-dynamic-sql-library-type-safe-query-generation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — Transaction Integration: Spring, SqlSession, Propagation, Rollback](./11-transaction-integration-spring-sqlsession-propagation-rollback.md)
+[⬅️ Sebelumnya: MyBatis Dynamic SQL Library: Type-Safe Query Generation](./09-mybatis-dynamic-sql-library-type-safe-query-generation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — Transaction Integration: Spring, SqlSession, Propagation, Rollback](./11-transaction-integration-spring-sqlsession-propagation-rollback.md)

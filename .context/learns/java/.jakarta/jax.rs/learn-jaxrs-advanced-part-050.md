@@ -1716,4 +1716,4 @@ Kita akan membahas bagaimana runtime JAX-RS bekerja di dalam: bootstrap, applica
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-049.md](./learn-jaxrs-advanced-part-049.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-051.md](./learn-jaxrs-advanced-part-051.md)
+[⬅️ Sebelumnya: Bagian 049 — JAX-RS with MicroProfile: Config, Rest Client, Fault Tolerance, Telemetry/Metrics, OpenAPI, JWT, Health, and Production Runtime Patterns](./learn-jaxrs-advanced-part-049.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 051 — JAX-RS Runtime Internals and Extension Points: Bootstrap, Application Model, Resource Scanning, Request Matching, Provider Registry, Injection, Filters/Interceptors Pipeline, Entity Provider Selection, Exception Mapper Resolution, Async Internals, and Extension Design](./learn-jaxrs-advanced-part-051.md)

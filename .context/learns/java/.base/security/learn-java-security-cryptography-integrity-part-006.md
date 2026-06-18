@@ -1957,4 +1957,4 @@ Di sana kita akan mulai masuk ke encryption sungguhan: AES, mode operasi, paddin
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-005](./learn-java-security-cryptography-integrity-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-007](./learn-java-security-cryptography-integrity-part-007.md)
+[⬅️ Sebelumnya: Hashing, Digest, Fingerprint, Checksum, and Integrity Boundaries](./learn-java-security-cryptography-integrity-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Symmetric Encryption in Java: AES, Modes, Padding, AEAD](./learn-java-security-cryptography-integrity-part-007.md)

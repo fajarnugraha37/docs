@@ -1954,4 +1954,4 @@ Kita akan membahas desain kontrak error enterprise: Problem Details, stable erro
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-043.md](./learn-jaxrs-advanced-part-043.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-045.md](./learn-jaxrs-advanced-part-045.md)
+[⬅️ Sebelumnya: Bagian 043 — REST API Design for Enterprise Domains: Aggregate and Resource Modeling, Command vs Resource Endpoints, Workflows, State Machines, Domain Errors, Idempotency, Tenant/Security Boundaries, Event/Outbox Integration, and Long-Term Evolvability](./learn-jaxrs-advanced-part-043.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 045 — Error Contract and Enterprise Error Taxonomy: Problem Details, Stable Error Code, Domain vs Validation vs Security vs Infrastructure Errors, Localization, Retryability, Field Errors, Correlation ID, Supportability, Compatibility, and Governance](./learn-jaxrs-advanced-part-045.md)

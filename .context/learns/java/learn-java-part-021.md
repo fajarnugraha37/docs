@@ -3447,4 +3447,4 @@ Engineer yang kuat tidak takut framework, tetapi juga tidak tunduk buta pada fra
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-part-020.md](./learn-java-part-020.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-022.md](./learn-java-part-022.md)
+[⬅️ Sebelumnya: Bagian 20 — Advanced Performance Engineering di Java](./learn-java-part-020.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 22 — Design Principles dan Domain Modeling dengan Java](./learn-java-part-022.md)

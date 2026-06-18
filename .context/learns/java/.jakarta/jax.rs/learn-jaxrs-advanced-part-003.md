@@ -3303,4 +3303,4 @@ Kita akan membedah bagaimana runtime memilih resource method ketika ada banyak `
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-002.md](./learn-jaxrs-advanced-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-004.md](./learn-jaxrs-advanced-part-004.md)
+[⬅️ Sebelumnya: Bagian 002 — Anatomy of JAX-RS Application: `Application`, Base Path, Deployment, Runtime](./learn-jaxrs-advanced-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 004 — Request Matching Algorithm Deep Dive: Path Template, Specificity, Subresource, Media Type, dan Debugging 404/405/406/415](./learn-jaxrs-advanced-part-004.md)

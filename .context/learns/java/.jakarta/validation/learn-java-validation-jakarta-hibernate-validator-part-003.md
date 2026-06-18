@@ -2012,4 +2012,4 @@ Part berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-002](./learn-java-validation-jakarta-hibernate-validator-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-004](./learn-java-validation-jakarta-hibernate-validator-part-004.md)
+[⬅️ Sebelumnya: Core API Mental Model: `ValidatorFactory`, `Validator`, `ConstraintViolation`, and Metadata](./learn-java-validation-jakarta-hibernate-validator-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Nullability Strategy: `@NotNull`, Optional, Defaults, and Domain Absence](./learn-java-validation-jakarta-hibernate-validator-part-004.md)

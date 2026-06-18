@@ -2794,4 +2794,4 @@ Jika generics membantu compiler menjaga invariant, gunakan. Jika generics membua
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-014.md](./learn-java-data-types-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-016.md](./learn-java-data-types-part-016.md)
+[⬅️ Sebelumnya: Java Data Types — Part 014](./learn-java-data-types-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 016](./learn-java-data-types-part-016.md)

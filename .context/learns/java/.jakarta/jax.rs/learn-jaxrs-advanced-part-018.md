@@ -2896,4 +2896,4 @@ Kita akan membahas browser-facing REST security secara mendalam: CORS protocol, 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-017.md](./learn-jaxrs-advanced-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-019.md](./learn-jaxrs-advanced-part-019.md)
+[⬅️ Sebelumnya: Bagian 017 — Name Binding, `DynamicFeature`, Priorities, Provider Lifecycle, Registration Strategy, CDI Integration, dan Production Extension Architecture](./learn-jaxrs-advanced-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 019 — CORS, CSRF, Cookies, Browser Security, and REST APIs: Preflight, Credentialed Requests, SameSite, Token Storage, XSS Interaction, Security Headers, dan JAX-RS Implementation](./learn-jaxrs-advanced-part-019.md)

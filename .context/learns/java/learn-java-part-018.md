@@ -3480,4 +3480,4 @@ Referensi utama yang digunakan untuk menyusun materi ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Learn Java Part 017 — Testing di Java](./learn-java-part-017.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-019.md](./learn-java-part-019.md)
+[⬅️ Sebelumnya: Learn Java Part 017 — Testing di Java](./learn-java-part-017.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 19 — Java di Cloud, Container, dan Kubernetes](./learn-java-part-019.md)

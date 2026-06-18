@@ -3106,4 +3106,4 @@ Part 3 — Runtime Selection Engineering: JDK, JRE, OpenJDK Distributions, Vendo
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-01-java-deployment-evolution-java-8-to-25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-03-runtime-selection-engineering.md)
+[⬅️ Sebelumnya: Part 1 — Java Deployment Evolution: Java 8 to Java 25](./learn-java-deployment-runtime-release-delivery-engineering-part-01-java-deployment-evolution-java-8-to-25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — Runtime Selection Engineering: JDK, JRE, OpenJDK Distributions, Vendor Choice](./learn-java-deployment-runtime-release-delivery-engineering-part-03-runtime-selection-engineering.md)

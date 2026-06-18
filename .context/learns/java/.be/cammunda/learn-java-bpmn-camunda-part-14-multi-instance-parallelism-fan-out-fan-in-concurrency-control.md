@@ -1860,4 +1860,4 @@ Part ini menjadi fondasi untuk memahami **process composition**, **saga**, dan *
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-13-timers-sla-timeout-expiry-scheduled-process-behavior.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md)
+[⬅️ Sebelumnya: Part 13 — Timers, SLA, Timeout, Expiry, and Scheduled Process Behavior](./learn-java-bpmn-camunda-part-13-timers-sla-timeout-expiry-scheduled-process-behavior.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Subprocess, Call Activity, Reusable Process, and Process Composition](./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md)

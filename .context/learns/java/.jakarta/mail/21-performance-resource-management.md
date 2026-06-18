@@ -1584,7 +1584,6 @@ Seri **belum selesai**. Bagian berikutnya adalah:
 Part 22 — Provider Integration Patterns: SMTP Relay vs API-Based Email Provider
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

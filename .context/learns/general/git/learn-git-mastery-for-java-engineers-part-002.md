@@ -1960,4 +1960,4 @@ class Calculator {
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-001.md](./learn-git-mastery-for-java-engineers-part-001.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-003.md](./learn-git-mastery-for-java-engineers-part-003.md)
+[⬅️ Sebelumnya: Part 001 — Git sebagai Model Evolusi Software](./learn-git-mastery-for-java-engineers-part-001.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 003 — Commit Graph: Parent, Branch, HEAD, dan Reachability](./learn-git-mastery-for-java-engineers-part-003.md)

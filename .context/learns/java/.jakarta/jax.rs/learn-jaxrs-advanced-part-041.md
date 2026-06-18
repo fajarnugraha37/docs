@@ -2075,4 +2075,4 @@ Kita akan membahas hardening production API: authentication, authorization, JWT/
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-040.md](./learn-jaxrs-advanced-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-042.md](./learn-jaxrs-advanced-part-042.md)
+[⬅️ Sebelumnya: Bagian 040 — Production Observability for JAX-RS: Logs, Metrics, Traces, Correlation ID, OpenTelemetry, MicroProfile Telemetry, HTTP Semantic Conventions, RED/USE, SLOs, Dashboards, and Incident Debugging](./learn-jaxrs-advanced-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 042 — Production Security Hardening for JAX-RS APIs: Authentication, Authorization, JWT/OIDC, CORS/CSRF, Input Limits, Security Headers, Rate Limit, Request Smuggling, SSRF, Deserialization Safety, File Upload Security, Audit, and Security Testing](./learn-jaxrs-advanced-part-042.md)

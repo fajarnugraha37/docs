@@ -3102,4 +3102,4 @@ Bagian berikutnya akan membahas **Jakarta XML Web Services (`jakarta.xml.ws`) / 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-030.md](./learn-java-jakarta-part-030.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-032.md](./learn-java-jakarta-part-032.md)
+[⬅️ Sebelumnya: Bagian 30 — Jakarta Debugging Support for Other Languages: SMAP, SourceDebugExtension, Generated Code, dan Tooling-Oriented Debuggability](./learn-java-jakarta-part-030.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 32 — Jakarta XML Web Services (`jakarta.xml.ws`) / JAX-WS: SOAP, WSDL, Endpoint, Client, Handler, Fault, MTOM, dan Legacy Interoperability](./learn-java-jakarta-part-032.md)

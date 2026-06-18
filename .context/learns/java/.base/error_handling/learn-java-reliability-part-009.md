@@ -2144,4 +2144,4 @@ Seri belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-008.md](./learn-java-reliability-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-010.md](./learn-java-reliability-part-010.md)
+[⬅️ Sebelumnya: Part 008 — Graceful Shutdown Fundamentals](./learn-java-reliability-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 010 — Spring Boot Graceful Shutdown Deep Dive](./learn-java-reliability-part-010.md)

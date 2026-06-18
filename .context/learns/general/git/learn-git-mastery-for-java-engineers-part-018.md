@@ -2365,4 +2365,4 @@ Kita akan belajar menggunakan Git bukan hanya sebagai version control, tetapi se
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-017.md](./learn-git-mastery-for-java-engineers-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-019.md](./learn-git-mastery-for-java-engineers-part-019.md)
+[⬅️ Sebelumnya: Part 017 — Recovery: Reflog, Lost Commit, dan Disaster Handling](./learn-git-mastery-for-java-engineers-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 019 — Bisect: Debugging Regresi dengan Git](./learn-git-mastery-for-java-engineers-part-019.md)

@@ -1875,4 +1875,4 @@ dan bagaimana kita mengurangi cost tanpa mengubah semantics?
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary](./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads](./learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads.md)
+[⬅️ Sebelumnya: Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary](./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Observability and Troubleshooting File Workloads](./learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads.md)

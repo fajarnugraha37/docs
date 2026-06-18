@@ -1374,4 +1374,4 @@ If it is just a view over in-memory data, do not add resource-management noise.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-039.md](./learn-java-collections-and-streams-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-041.md](./learn-java-collections-and-streams-part-041.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 039](./learn-java-collections-and-streams-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 041](./learn-java-collections-and-streams-part-041.md)

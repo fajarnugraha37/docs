@@ -2260,8 +2260,6 @@ Kita akan naik satu level dari delivery feedback ke domain design:
 - channel abstraction,
 - audit defensibility.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

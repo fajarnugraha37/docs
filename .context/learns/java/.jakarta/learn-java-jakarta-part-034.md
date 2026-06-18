@@ -2441,4 +2441,4 @@ Bagian berikutnya akan membahas **Jakarta Deployment (`jakarta.enterprise.deploy
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-033.md](./learn-java-jakarta-part-033.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-035.md](./learn-java-jakarta-part-035.md)
+[⬅️ Sebelumnya: Bagian 33 — Jakarta SOAP with Attachments (`jakarta.xml.soap`) / SAAJ: SOAP Message Object Model, Header, Body, Fault, Attachments, dan Low-Level SOAP Processing](./learn-java-jakarta-part-033.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 35 — Jakarta Deployment (`javax.enterprise.deploy` / `jakarta.enterprise.deploy-api`): Deployment SPI, Tooling Contract, TargetModuleID, ProgressObject, dan Relevansi Modern](./learn-java-jakarta-part-035.md)

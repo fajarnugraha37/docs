@@ -1477,4 +1477,4 @@ ownership, size, lifecycle, and failure semantics.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-047.md](./learn-java-collections-and-streams-part-047.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-049.md](./learn-java-collections-and-streams-part-049.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 047](./learn-java-collections-and-streams-part-047.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 049](./learn-java-collections-and-streams-part-049.md)

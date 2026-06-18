@@ -2147,4 +2147,4 @@ Kita akan membahas fitur era JAX-RS 2.1 yang masih penting untuk maintenance leg
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-037.md](./learn-jaxrs-advanced-part-037.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-039.md](./learn-jaxrs-advanced-part-039.md)
+[⬅️ Sebelumnya: Bagian 037 — Implementation Deep Dive: Jersey, RESTEasy, Apache CXF, Open Liberty, Quarkus REST, Provider Discovery, CDI Integration, Client Connector, Multipart, SSE, Async, Testing Tools, Performance Knobs, and Migration Strategy](./learn-jaxrs-advanced-part-037.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 039 — Legacy JAX-RS 2.1 Features: Async, SSE, Reactive Client, Java EE 8 Maintenance, `javax.ws.rs`, Compatibility Behavior, and Modernization to Jakarta REST 4.0](./learn-jaxrs-advanced-part-039.md)

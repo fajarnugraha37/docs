@@ -1918,4 +1918,4 @@ Part 34 - Capstone Regulatory Case Management Platform
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-033](./learn-java-security-cryptography-integrity-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-000.md](../sql/learn-java-sql-jdbc-hikaricp-part-000.md)
+[⬅️ Sebelumnya: Secure Design Patterns and Anti-Patterns for Java Enterprise Systems](./learn-java-security-cryptography-integrity-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 000 — Orientation: Mental Model JDBC sebagai Boundary antara Java dan Database](../sql/learn-java-sql-jdbc-hikaricp-part-000.md)

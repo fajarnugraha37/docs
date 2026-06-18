@@ -2329,4 +2329,4 @@ Di sana kita akan membahas kenapa filesystem behavior berbeda antar OS: case sen
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 25](./learn-java-io-file-filesystem-storage-engineering-part-25-custom-filesystemprovider-pluggable-filesystem.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS](./learn-java-io-file-filesystem-storage-engineering-part-27-cross-platform-filesystem-behavior.md)
+[⬅️ Sebelumnya: Part 25 — Custom `FileSystemProvider` and Pluggable Filesystem Mental Model](./learn-java-io-file-filesystem-storage-engineering-part-25-custom-filesystemprovider-pluggable-filesystem.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS](./learn-java-io-file-filesystem-storage-engineering-part-27-cross-platform-filesystem-behavior.md)

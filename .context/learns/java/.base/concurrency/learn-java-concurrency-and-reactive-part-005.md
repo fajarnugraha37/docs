@@ -1901,4 +1901,4 @@ what happens when full, and how we know it is saturated.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-004.md](./learn-java-concurrency-and-reactive-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-006.md](./learn-java-concurrency-and-reactive-part-006.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 004](./learn-java-concurrency-and-reactive-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 006](./learn-java-concurrency-and-reactive-part-006.md)

@@ -3112,4 +3112,4 @@ Kita akan membahas partial update secara mendalam: PUT vs PATCH, JSON Merge Patc
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-019.md](./learn-jaxrs-advanced-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-021.md](./learn-jaxrs-advanced-part-021.md)
+[⬅️ Sebelumnya: Bagian 019 — CORS, CSRF, Cookies, Browser Security, and REST APIs: Preflight, Credentialed Requests, SameSite, Token Storage, XSS Interaction, Security Headers, dan JAX-RS Implementation](./learn-jaxrs-advanced-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 021 — PATCH, JSON Patch, JSON Merge Patch, and Partial Update Semantics: PUT vs PATCH, Null vs Missing, Field Authorization, Validation, Optimistic Locking, Idempotency, Audit, dan Domain State Semantics](./learn-jaxrs-advanced-part-021.md)

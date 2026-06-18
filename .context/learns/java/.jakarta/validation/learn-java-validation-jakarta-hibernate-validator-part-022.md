@@ -2879,4 +2879,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-021](./learn-java-validation-jakarta-hibernate-validator-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-023](./learn-java-validation-jakarta-hibernate-validator-part-023.md)
+[⬅️ Sebelumnya: Validation in Event-Driven and Async Systems](./learn-java-validation-jakarta-hibernate-validator-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Advanced Domain Rule Modeling: Specification Pattern, Policy Objects, and Validators](./learn-java-validation-jakarta-hibernate-validator-part-023.md)

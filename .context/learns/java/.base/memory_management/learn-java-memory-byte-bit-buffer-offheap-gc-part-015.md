@@ -2768,4 +2768,4 @@ Masih lanjut ke part 016 sampai part 030.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-014](./learn-java-memory-byte-bit-buffer-offheap-gc-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-016](./learn-java-memory-byte-bit-buffer-offheap-gc-part-016.md)
+[⬅️ Sebelumnya: Foreign Function & Memory API: Modern Off-Heap Memory](./learn-java-memory-byte-bit-buffer-offheap-gc-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: CPU Cache, Cache Lines, False Sharing, and Memory Locality](./learn-java-memory-byte-bit-buffer-offheap-gc-part-016.md)

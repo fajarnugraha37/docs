@@ -2246,4 +2246,4 @@ Di sana kita akan membahas bagaimana migration masuk ke CI/CD secara production-
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 24 — Migration in Spring Boot Applications](./24-migration-in-spring-boot-applications.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 26 — CI/CD Pipeline for Database Migration](./26-cicd-pipeline-database-migration.md)
+[⬅️ Sebelumnya: Part 24 — Migration in Spring Boot Applications](./24-migration-in-spring-boot-applications.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: CI/CD Pipeline for Database Migration](./26-cicd-pipeline-database-migration.md)

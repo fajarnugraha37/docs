@@ -2709,4 +2709,4 @@ ByteBuffer Deep Dive: Heap Buffer, Direct Buffer, Slice, Duplicate, View
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-009](./learn-java-memory-byte-bit-buffer-offheap-gc-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md)
+[⬅️ Sebelumnya: Arrays, Strings, Compact Strings, Charsets, and Memory Footprint](./learn-java-memory-byte-bit-buffer-offheap-gc-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — `ByteBuffer` Deep Dive: Heap Buffer, Direct Buffer, Slice, Duplicate, View](./learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md)

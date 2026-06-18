@@ -24,12 +24,47 @@ function walk(dir) {
 // Extract Title from markdown
 function getTitle(filePath) {
     const content = fs.readFileSync(filePath, 'utf8');
-    const match = content.match(/^#\s+(.+)$/m);
-    if (match) return match[1];
+    const matches = [...content.matchAll(/^#{1,2}\s+(.+)$/gm)];
+    const baseNameNoExt = path.basename(filePath, '.md').toLowerCase();
     
+    let candidates = [];
+
+    for (const match of matches) {
+        let rawTitle = match[1].trim();
+        let lower = rawTitle.toLowerCase();
+        
+        // Skip exact matches with filename
+        if (lower === baseNameNoExt || lower === baseNameNoExt + '.md') {
+            continue;
+        }
+
+        // Skip pure kebab-case slugs
+        if (/^[a-z0-9]+(-[a-z0-9]+)+$/.test(rawTitle)) {
+            continue;
+        }
+
+        // Clean up common kebab-case prefixes like "learn-java-dsa-part-004 — "
+        let cleaned = rawTitle.replace(/^[a-z0-9]+(?:-[a-z0-9]+)*\s*(?:—|-|:)\s*/i, (match) => {
+            let m = match.match(/part-?(\d+)/i);
+            if (m) {
+                return `Part ${m[1]} — `;
+            }
+            return '';
+        });
+        
+        candidates.push(cleaned);
+    }
+    
+    if (candidates.length > 0) {
+        // If the first candidate is just "Part X" and there is a second candidate, combine them
+        if (candidates.length > 1 && /^(part|bagian)\s*\d+$/i.test(candidates[0])) {
+            return candidates[0] + " — " + candidates[1];
+        }
+        return candidates[0];
+    }
+
     // Fallback: make title out of filename
-    const base = path.basename(filePath, '.md');
-    return base.replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+    return path.basename(filePath, '.md').replace(/-/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
 }
 
 // Generate Relative Path

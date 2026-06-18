@@ -1831,4 +1831,4 @@ Di Part 20 kita akan membahas bagaimana mendesain file binary yang bisa diakses 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 18 — File Locking: Advisory, Mandatory, Local, Network, and Cross-Process Coordination](./learn-java-io-file-filesystem-storage-engineering-part-18-file-locking.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md)
+[⬅️ Sebelumnya: Part 18 — File Locking: Advisory, Mandatory, Local, Network, and Cross-Process Coordination](./learn-java-io-file-filesystem-storage-engineering-part-18-file-locking.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Random Access and Structured Binary File Layout](./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md)

@@ -2754,4 +2754,4 @@ Seri ini **belum selesai**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 18](./learn-java-json-xml-soap-connectors-enterprise-integration-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 20](./learn-java-json-xml-soap-connectors-enterprise-integration-part-020.md)
+[⬅️ Sebelumnya: Part 18 — JAXB Schema-First Workflow: XSD → Java with XJC, Binding Customization, Episode Files, and Generated-Code Hygiene](./learn-java-json-xml-soap-connectors-enterprise-integration-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — JAXB Advanced Mapping: Adapters, Polymorphism, `JAXBElement`, Wildcards, Mixed Content, and Contract-Safe XML Models](./learn-java-json-xml-soap-connectors-enterprise-integration-part-020.md)

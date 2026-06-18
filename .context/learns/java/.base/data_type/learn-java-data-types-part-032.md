@@ -1950,4 +1950,4 @@ This mindset turns bugs into stronger type design.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-031.md](./learn-java-data-types-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-033.md](./learn-java-data-types-part-033.md)
+[⬅️ Sebelumnya: Java Data Types — Part 031](./learn-java-data-types-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 033](./learn-java-data-types-part-033.md)

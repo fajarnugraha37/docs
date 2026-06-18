@@ -1851,4 +1851,4 @@ Reflection is a sharp tool: essential for frameworks, dangerous as a shortcut fo
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-028.md](./learn-java-data-types-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-030.md](./learn-java-data-types-part-030.md)
+[⬅️ Sebelumnya: Java Data Types — Part 028](./learn-java-data-types-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 030](./learn-java-data-types-part-030.md)

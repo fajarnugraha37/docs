@@ -3067,4 +3067,4 @@ Di sana kita akan belajar bagaimana JDBC dapat membaca informasi tentang databas
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-012.md](./learn-java-sql-jdbc-hikaricp-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-014](./learn-java-sql-jdbc-hikaricp-part-014.md)
+[⬅️ Sebelumnya: Part 012 — Batch Operations: Throughput, Atomicity, and Driver Rewriting](./learn-java-sql-jdbc-hikaricp-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — Metadata APIs: `DatabaseMetaData`, `ResultSetMetaData`, `ParameterMetaData`](./learn-java-sql-jdbc-hikaricp-part-014.md)

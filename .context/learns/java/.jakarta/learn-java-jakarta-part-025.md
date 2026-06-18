@@ -2885,4 +2885,4 @@ Bagian berikutnya akan membahas **Jakarta Faces (`jakarta.faces`)**: component-b
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-024.md](./learn-java-jakarta-part-024.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-026.md](./learn-java-jakarta-part-026.md)
+[⬅️ Sebelumnya: Bagian 24 — Jakarta Connectors (`jakarta.resource`): Resource Adapter, EIS Integration, Connection Management, XA, dan Message Inflow](./learn-java-jakarta-part-024.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 26 — Jakarta Faces (`jakarta.faces`): Component-Based Server-Side UI, Lifecycle, State, Validation, Ajax, dan Modern Relevance](./learn-java-jakarta-part-026.md)

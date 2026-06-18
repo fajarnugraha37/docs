@@ -1682,4 +1682,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-023](./learn-java-oop-functional-reflection-codegen-modules-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-025](./learn-java-oop-functional-reflection-codegen-modules-part-025.md)
+[⬅️ Sebelumnya: Code Generation Strategy: Source Generation, Runtime Generation, Bytecode Generation](./learn-java-oop-functional-reflection-codegen-modules-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Package Architecture: Naming, Visibility, Boundaries, and Internal APIs](./learn-java-oop-functional-reflection-codegen-modules-part-025.md)

@@ -2196,4 +2196,4 @@ Request Dispatching: Forward, Include, Async, Error
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-006](./learn-java-servlet-websocket-web-container-runtime-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-008](./learn-java-servlet-websocket-web-container-runtime-part-008.md)
+[⬅️ Sebelumnya: Part 006 — Response Object Internals: `HttpServletResponse`](./learn-java-servlet-websocket-web-container-runtime-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 008 — Request Dispatching: Forward, Include, Async, Error](./learn-java-servlet-websocket-web-container-runtime-part-008.md)

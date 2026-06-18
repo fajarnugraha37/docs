@@ -2056,4 +2056,4 @@ Seri **belum selesai**. Masih ada satu bagian terakhir: **Part 035**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 033 — Architecture Patterns for Enterprise Java Runtime Design](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-035](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-035.md)
+[⬅️ Sebelumnya: Part 033 — Architecture Patterns for Enterprise Java Runtime Design](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 035 — Capstone: Designing a Production-Grade Enterprise Runtime Skeleton](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-035.md)

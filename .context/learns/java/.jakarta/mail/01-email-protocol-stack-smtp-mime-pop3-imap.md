@@ -1945,7 +1945,6 @@ Seri belum selesai. Bagian berikutnya adalah:
 Part 2 — JavaMail to Jakarta Mail: History, Namespace, Compatibility, and Migration Strategy
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

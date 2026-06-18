@@ -2597,4 +2597,4 @@ Bagian berikutnya akan menjadi bagian synthesis terakhir/lanjutan: **Jakarta EE 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-038.md](./learn-java-jakarta-part-038.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-040.md](./learn-java-jakarta-part-040.md)
+[⬅️ Sebelumnya: Bagian 38 — Jakarta EE Configuration, Runtime Selection, dan Production Architecture Strategy](./learn-java-jakarta-part-038.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 40 — Jakarta EE Production Readiness & Top 1% Engineering Playbook: Reliability, Security, Observability, Performance, Cost, Governance, dan Long-Term Maintainability](./learn-java-jakarta-part-040.md)

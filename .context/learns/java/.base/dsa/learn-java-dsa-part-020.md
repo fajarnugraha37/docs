@@ -1737,4 +1737,4 @@ Di sana kita akan masuk ke pola linear-time yang sangat penting untuk data strea
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Learn Java DSA — Part 019: Dynamic Programming II — Classic Patterns and Engineering Use](./learn-java-dsa-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-021 — Sliding Window, Two Pointers, Prefix Sum, Difference Array](./learn-java-dsa-part-021.md)
+[⬅️ Sebelumnya: Learn Java DSA — Part 019: Dynamic Programming II — Classic Patterns and Engineering Use](./learn-java-dsa-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — Sliding Window, Two Pointers, Prefix Sum, Difference Array](./learn-java-dsa-part-021.md)

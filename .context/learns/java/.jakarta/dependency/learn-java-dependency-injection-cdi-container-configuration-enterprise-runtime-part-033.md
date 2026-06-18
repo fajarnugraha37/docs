@@ -2366,4 +2366,4 @@ Di sana kita akan menyusun playbook modernisasi dari legacy Java EE/Jakarta EE r
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-032](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 034 — Migration and Modernization Playbook](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-034.md)
+[⬅️ Sebelumnya: Part 032 — Observability and Debugging of Dependency/Container Problems](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 034 — Migration and Modernization Playbook](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-034.md)

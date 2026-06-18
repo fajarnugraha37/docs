@@ -2442,4 +2442,4 @@ Referensi utama untuk pendalaman:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-024.md](./learn-java-testing-benchmarking-performance-jvm-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-026](./learn-java-testing-benchmarking-performance-jvm-part-026.md)
+[⬅️ Sebelumnya: Part 024 — JVM Arguments & Configuration I: Java Launcher, Standard Flags, `-X`, `-XX`](./learn-java-testing-benchmarking-performance-jvm-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Profiling & Diagnostics I: JDK Tools, Thread Dump, Heap Dump, JFR, JMC](./learn-java-testing-benchmarking-performance-jvm-part-026.md)

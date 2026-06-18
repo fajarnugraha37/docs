@@ -1717,4 +1717,4 @@ Use TreeMap when ordered navigation is the question.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-016.md](./learn-java-collections-and-streams-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-018.md](./learn-java-collections-and-streams-part-018.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 016](./learn-java-collections-and-streams-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 018](./learn-java-collections-and-streams-part-018.md)

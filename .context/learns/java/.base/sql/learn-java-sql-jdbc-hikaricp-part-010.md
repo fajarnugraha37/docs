@@ -1936,4 +1936,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-011.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-009](./learn-java-sql-jdbc-hikaricp-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-011](./learn-java-sql-jdbc-hikaricp-part-011.md)
+[⬅️ Sebelumnya: SQLException Mastery: SQLState, Vendor Code, Warnings, and Recovery](./learn-java-sql-jdbc-hikaricp-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: DataSource over DriverManager: Modern Connection Acquisition](./learn-java-sql-jdbc-hikaricp-part-011.md)

@@ -1438,4 +1438,4 @@ and leave it only when you need objects again.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-027.md](./learn-java-collections-and-streams-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-029.md](./learn-java-collections-and-streams-part-029.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 027](./learn-java-collections-and-streams-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 029](./learn-java-collections-and-streams-part-029.md)

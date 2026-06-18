@@ -2785,4 +2785,4 @@ Kita akan membahas security boundary secara mendalam: authentication mechanisms,
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-016.md](./learn-jaxrs-advanced-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-018.md](./learn-jaxrs-advanced-part-018.md)
+[⬅️ Sebelumnya: Bagian 016 — Interceptors: `ReaderInterceptor`, `WriterInterceptor`, Entity Stream Pipeline, Compression, Encryption, Signature, Body Hash, Priority, Name Binding, dan Production-Safe Stream Transformation](./learn-jaxrs-advanced-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 018 — Security in JAX-RS: Authentication, Authorization, `SecurityContext`, Principal, Roles, Scopes, JWT/OIDC, Jakarta Security, Tenant/Data Authorization, dan Production Hardening](./learn-jaxrs-advanced-part-018.md)

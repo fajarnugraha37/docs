@@ -2149,4 +2149,4 @@ Pastikan tidak ada annotation transport di domain model.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-000](./learn-java-json-xml-soap-connectors-enterprise-integration-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-002](./learn-java-json-xml-soap-connectors-enterprise-integration-part-002.md)
+[⬅️ Sebelumnya: Part 0 — Orientation & Mental Model: JSON, XML, SOAP, dan Jakarta Connectors untuk Java 8–25](./learn-java-json-xml-soap-connectors-enterprise-integration-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Java JSON Ecosystem Map: JSON-P, JSON-B, Jackson, Gson, Provider Runtime, dan Pilihan Library yang Benar](./learn-java-json-xml-soap-connectors-enterprise-integration-part-002.md)

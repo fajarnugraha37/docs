@@ -1642,4 +1642,4 @@ job_rate = peak_starts_per_sec * service_tasks_per_process * retry_factor
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Learn Java BPMN Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-24-integration-patterns-external-systems-connectors.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-26-process-versioning-deployment-strategy-change-management.md)
+[⬅️ Sebelumnya: Learn Java BPMN Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-24-integration-patterns-external-systems-connectors.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Process Versioning, Deployment Strategy, and Change Management](./learn-java-bpmn-camunda-part-26-process-versioning-deployment-strategy-change-management.md)

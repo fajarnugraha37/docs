@@ -2063,4 +2063,4 @@ cancellation, shutdown, and observability.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-001.md](./learn-java-concurrency-and-reactive-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-003.md](./learn-java-concurrency-and-reactive-part-003.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 001](./learn-java-concurrency-and-reactive-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 003](./learn-java-concurrency-and-reactive-part-003.md)

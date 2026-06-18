@@ -2475,4 +2475,4 @@ Belum selesai. Seri masih berlanjut ke Part 5.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-03-bpmn-modeling-discipline-production-ready-models.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-05-camunda-8-runtime-internals-zeebe-mental-model.md)
+[⬅️ Sebelumnya: Part 3 — BPMN Modeling Discipline: Membuat Process Model yang Bisa Hidup di Production](./learn-java-bpmn-camunda-part-03-bpmn-modeling-discipline-production-ready-models.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Camunda 8 Runtime Internals: Zeebe Mental Model](./learn-java-bpmn-camunda-part-05-camunda-8-runtime-internals-zeebe-mental-model.md)

@@ -2788,4 +2788,4 @@ Bagian berikutnya akan membahas **Jakarta Connectors (`jakarta.resource`)**: res
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-022.md](./learn-java-jakarta-part-022.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-024.md](./learn-java-jakarta-part-024.md)
+[⬅️ Sebelumnya: Bagian 22 — Jakarta Concurrency (`jakarta.enterprise.concurrent`): Managed Threads, Async Task, Context Propagation, dan Resource Safety](./learn-java-jakarta-part-022.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 24 — Jakarta Connectors (`jakarta.resource`): Resource Adapter, EIS Integration, Connection Management, XA, dan Message Inflow](./learn-java-jakarta-part-024.md)

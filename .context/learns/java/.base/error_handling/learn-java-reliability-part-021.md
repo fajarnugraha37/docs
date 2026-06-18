@@ -1722,4 +1722,4 @@ Part 022 — Consistency, Compensation, and Distributed Failure
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-020.md](./learn-java-reliability-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-022.md](./learn-java-reliability-part-022.md)
+[⬅️ Sebelumnya: Part 020 — Reliability Patterns for External Integrations](./learn-java-reliability-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 022 — Consistency, Compensation, and Distributed Failure](./learn-java-reliability-part-022.md)

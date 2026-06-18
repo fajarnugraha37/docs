@@ -2863,4 +2863,4 @@ Bagian berikutnya akan membahas **Jakarta EE Migration & Modernization Playbook*
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-037.md](./learn-java-jakarta-part-037.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-039.md](./learn-java-jakarta-part-039.md)
+[⬅️ Sebelumnya: Bagian 37 — Jakarta Managed Beans / Legacy Managed Beans: `@ManagedBean`, Container-Managed POJO, Faces Managed Bean, dan Migrasi ke CDI](./learn-java-jakarta-part-037.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 39 — Jakarta EE Migration & Modernization Playbook: Java EE/Jakarta Legacy ke Jakarta EE 11 dan Runtime Modern](./learn-java-jakarta-part-039.md)

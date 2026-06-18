@@ -2108,4 +2108,4 @@ Series belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-00-deployment-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-02-artifact-taxonomy.md)
+[⬅️ Sebelumnya: Part 0 — Deployment Mental Model: From Source Code to Running Production System](./learn-java-deployment-runtime-release-delivery-engineering-part-00-deployment-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Artifact Taxonomy: JAR, WAR, EAR, Thin JAR, Fat JAR, Layered JAR, Native Image](./learn-java-deployment-runtime-release-delivery-engineering-part-02-artifact-taxonomy.md)

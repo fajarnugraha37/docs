@@ -2382,4 +2382,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-027](./learn-java-validation-jakarta-hibernate-validator-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-029](./learn-java-validation-jakarta-hibernate-validator-part-029.md)
+[⬅️ Sebelumnya: Migration Playbook: `javax.validation` ke `jakarta.validation`, Spring Boot 2→3, Hibernate Validator 6→9](./learn-java-validation-jakarta-hibernate-validator-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Observability, Operations, and Governance of Validation Rules](./learn-java-validation-jakarta-hibernate-validator-part-029.md)

@@ -1,7 +1,7 @@
 # Daftar Isi: Mapper
 
 ## Artikel
-- [📄 00 — Orientation: Data Transformation as Software Boundary](00-orientation-data-transformation-as-software-boundary.md)
+- [📄 Orientation: Data Transformation as Software Boundary](00-orientation-data-transformation-as-software-boundary.md)
 - [📄 Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability](01-java-object-model-for-mapping-beans-records-pojos-immutability.md)
 - [📄 Part 2 — Transformation Taxonomy: Copy, Convert, Normalize, Enrich, Redact, Project](02-transformation-taxonomy-copy-convert-normalize-enrich-redact-project.md)
 - [📄 Part 3 — DTO Design: API DTO, Domain DTO, Persistence DTO, Event DTO](03-dto-design-api-domain-persistence-event-dto.md)

@@ -2255,4 +2255,4 @@ Berikutnya: **Part 11 — JSON Security & Robustness**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-009](./learn-java-json-xml-soap-connectors-enterprise-integration-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 011](./learn-java-json-xml-soap-connectors-enterprise-integration-part-011.md)
+[⬅️ Sebelumnya: Part 9 — JSON-B Customization & Provider Internals](./learn-java-json-xml-soap-connectors-enterprise-integration-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — JSON Security & Robustness](./learn-java-json-xml-soap-connectors-enterprise-integration-part-011.md)

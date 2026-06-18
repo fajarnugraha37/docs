@@ -2142,4 +2142,4 @@ Itulah pergeseran mental yang dibutuhkan untuk membangun sistem file workflow ya
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 26](./learn-java-io-file-filesystem-storage-engineering-part-26-legacy-java-io-file-interop-migration-compatibility.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Containers, Cloud Runtime, Kubernetes Volumes, and Ephemeral Files](./learn-java-io-file-filesystem-storage-engineering-part-28-containers-cloud-runtime-kubernetes-volumes-ephemeral-files.md)
+[⬅️ Sebelumnya: Part 26 — Legacy `java.io.File`: Interop, Migration, and Compatibility](./learn-java-io-file-filesystem-storage-engineering-part-26-legacy-java-io-file-interop-migration-compatibility.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Containers, Cloud Runtime, Kubernetes Volumes, and Ephemeral Files](./learn-java-io-file-filesystem-storage-engineering-part-28-containers-cloud-runtime-kubernetes-volumes-ephemeral-files.md)

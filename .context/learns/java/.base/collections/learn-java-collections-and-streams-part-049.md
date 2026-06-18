@@ -1498,4 +1498,4 @@ If the caller simply needs data, return a collection, page, cursor, or result ob
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-048.md](./learn-java-collections-and-streams-part-048.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-050.md](./learn-java-collections-and-streams-part-050.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 048](./learn-java-collections-and-streams-part-048.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 050](./learn-java-collections-and-streams-part-050.md)

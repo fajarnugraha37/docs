@@ -2453,4 +2453,4 @@ Jika pertanyaan itu bisa dijawab, tuning GC menjadi aktivitas engineering, bukan
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-017](./learn-java-memory-byte-bit-buffer-offheap-gc-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-019](./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md)
+[⬅️ Sebelumnya: Java Memory Model vs JVM Memory Management](./learn-java-memory-byte-bit-buffer-offheap-gc-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Generational GC Internals: Young, Survivor, Old, Promotion, Card Marking](./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md)

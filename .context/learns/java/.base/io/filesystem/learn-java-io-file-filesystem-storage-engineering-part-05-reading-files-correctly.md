@@ -1852,4 +1852,4 @@ Belum selesai. Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 04  ](./learn-java-io-file-filesystem-storage-engineering-part-04-open-options-file-handles.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 06](./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md)
+[⬅️ Sebelumnya: Part 04 — Open Options and File Handles: How Java Opens Files](./learn-java-io-file-filesystem-storage-engineering-part-04-open-options-file-handles.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 06 — Writing Files Correctly: Replace, Append, Flush, Durability](./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md)

@@ -1954,4 +1954,4 @@ Only share mutable state when ownership and synchronization are explicit.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-010.md](./learn-java-concurrency-and-reactive-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-012.md](./learn-java-concurrency-and-reactive-part-012.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 010](./learn-java-concurrency-and-reactive-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 012](./learn-java-concurrency-and-reactive-part-012.md)

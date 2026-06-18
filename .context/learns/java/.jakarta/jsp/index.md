@@ -3,7 +3,7 @@
 ## Artikel
 - [📄 Part 0 — Orientation: Mental Model Server-Side UI di Java](00-orientation-server-side-ui-mental-model.md)
 - [📄 Part 1 — Historical Evolution dan Compatibility Matrix: JSP, JSTL, EL, JSF, Jakarta Faces](01-history-compatibility-java8-to-java25.md)
-- [📄 02 — Jakarta Pages / JSP Internal Architecture: From `.jsp` to Servlet](02-jakarta-pages-jsp-internal-architecture.md)
+- [📄 Jakarta Pages / JSP Internal Architecture: From `.jsp` to Servlet](02-jakarta-pages-jsp-internal-architecture.md)
 - [📄 Part 3 — JSP Syntax Deep Dive: Directives, Declarations, Scriptlets, Expressions, Actions](03-jsp-syntax-directives-scriptlets-actions.md)
 - [📄 Part 4 — Request, Session, Application Scope: View Data Flow and State Boundaries](04-request-session-application-scope-view-data-flow.md)
 - [📄 Part 5 — Expression Language Fundamentals: Value Expressions, Method Expressions, Resolver Chain](05-expression-language-fundamentals-value-method-resolver-chain.md)

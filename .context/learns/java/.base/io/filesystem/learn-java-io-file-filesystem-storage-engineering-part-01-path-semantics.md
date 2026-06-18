@@ -2516,4 +2516,4 @@ Part 02 — File Existence, Type, and Identity: exists Is Not a Lock
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 00 — Orientation](./learn-java-io-file-filesystem-storage-engineering-part-00-orientation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering-part-02-file-existence-type-identity](./learn-java-io-file-filesystem-storage-engineering-part-02-file-existence-type-identity.md)
+[⬅️ Sebelumnya: Part 00 — Orientation](./learn-java-io-file-filesystem-storage-engineering-part-00-orientation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 02 — File Existence, Type, and Identity: `exists` Is Not a Lock](./learn-java-io-file-filesystem-storage-engineering-part-02-file-existence-type-identity.md)

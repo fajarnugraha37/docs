@@ -2091,4 +2091,4 @@ Kita akan membahas:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-21-observability-logs-metrics-tracing-audit-operability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-23-security-identity-authorization-data-protection.md)
+[⬅️ Sebelumnya: Part 21 — Observability: Logs, Metrics, Tracing, Audit, and Operability](./learn-java-bpmn-camunda-part-21-observability-logs-metrics-tracing-audit-operability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Security, Identity, Authorization, and Data Protection](./learn-java-bpmn-camunda-part-23-security-identity-authorization-data-protection.md)

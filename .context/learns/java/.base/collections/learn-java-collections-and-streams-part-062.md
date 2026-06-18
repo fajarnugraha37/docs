@@ -2154,4 +2154,4 @@ Pakai checklist part 061 untuk review implementasi final.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-061.md](./learn-java-collections-and-streams-part-061.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-000.md](../concurrency/learn-java-concurrency-and-reactive-part-000.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 061](./learn-java-collections-and-streams-part-061.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 000](../concurrency/learn-java-concurrency-and-reactive-part-000.md)

@@ -2419,4 +2419,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-18-database-aware-deployment-schema-migration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md)
+[⬅️ Sebelumnya: Part 18 — Database-Aware Deployment and Schema Migration](./learn-java-deployment-runtime-release-delivery-engineering-part-18-database-aware-deployment-schema-migration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Configuration, Secret Rotation, Certificate Rotation, and Truststore Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md)

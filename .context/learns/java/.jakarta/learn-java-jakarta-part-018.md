@@ -2656,4 +2656,4 @@ Bagian berikutnya akan membahas **Jakarta Messaging (`jakarta.jms`)**: queue/top
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-017.md](./learn-java-jakarta-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-019.md](./learn-java-jakarta-part-019.md)
+[⬅️ Sebelumnya: Bagian 17 — Jakarta Security (`jakarta.security.enterprise`): Authentication, Identity Store, dan Security Boundary](./learn-java-jakarta-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 19 — Jakarta Messaging (`jakarta.jms`): Queue, Topic, Reliability, dan Event-Driven Boundary](./learn-java-jakarta-part-019.md)

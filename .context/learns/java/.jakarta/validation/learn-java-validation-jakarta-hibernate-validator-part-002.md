@@ -2183,4 +2183,4 @@ Built-in Constraints Deep Dive: Semantics, Edge Cases, and Misuse
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-001](./learn-java-validation-jakarta-hibernate-validator-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-003](./learn-java-validation-jakarta-hibernate-validator-part-003.md)
+[⬅️ Sebelumnya: Specification Landscape: Bean Validation, Jakarta Validation, `javax` vs `jakarta`](./learn-java-validation-jakarta-hibernate-validator-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: in Constraints Deep Dive: Semantics, Edge Cases, and Misuse](./learn-java-validation-jakarta-hibernate-validator-part-003.md)

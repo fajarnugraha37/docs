@@ -1866,4 +1866,4 @@ Seri belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-016.md](./learn-java-reliability-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-018.md](./learn-java-reliability-part-018.md)
+[⬅️ Sebelumnya: Part 016 — Timeouts, Deadlines, and Cancellation](./learn-java-reliability-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Circuit Breaker, Bulkhead, Rate Limiter, and Time Limiter](./learn-java-reliability-part-018.md)

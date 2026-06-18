@@ -1929,4 +1929,4 @@ Part 013 — Background Workers, Schedulers, Queues, and Message Consumers
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-011.md](./learn-java-reliability-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-013.md](./learn-java-reliability-part-013.md)
+[⬅️ Sebelumnya: Part 011 — Kubernetes, Containers, and Shutdown Reality](./learn-java-reliability-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Background Workers, Schedulers, Queues, and Message Consumers](./learn-java-reliability-part-013.md)

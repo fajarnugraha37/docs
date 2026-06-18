@@ -1665,4 +1665,4 @@ timeout, cancel, cleanup, and report its outcome predictably.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-017.md](./learn-java-concurrency-and-reactive-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-019.md](./learn-java-concurrency-and-reactive-part-019.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 017](./learn-java-concurrency-and-reactive-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 019](./learn-java-concurrency-and-reactive-part-019.md)

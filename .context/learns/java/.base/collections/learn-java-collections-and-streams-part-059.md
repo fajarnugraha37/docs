@@ -1365,4 +1365,4 @@ pagination, aggregation, and lifecycle.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-058.md](./learn-java-collections-and-streams-part-058.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-060.md](./learn-java-collections-and-streams-part-060.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 058](./learn-java-collections-and-streams-part-058.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 060](./learn-java-collections-and-streams-part-060.md)

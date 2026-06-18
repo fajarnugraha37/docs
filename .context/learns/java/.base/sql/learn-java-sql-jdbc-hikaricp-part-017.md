@@ -1850,4 +1850,4 @@ Di sana kita akan membahas pool sebagai concurrency governor: active, idle, pend
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-016](./learn-java-sql-jdbc-hikaricp-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-018](./learn-java-sql-jdbc-hikaricp-part-018.md)
+[⬅️ Sebelumnya: Stored Procedures and `CallableStatement`](./learn-java-sql-jdbc-hikaricp-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Connection Pooling Fundamentals](./learn-java-sql-jdbc-hikaricp-part-018.md)

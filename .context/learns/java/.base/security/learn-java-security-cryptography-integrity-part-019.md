@@ -2714,4 +2714,4 @@ Remaining: Part 20 sampai Part 34
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-018.md](./learn-java-security-cryptography-integrity-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-020](./learn-java-security-cryptography-integrity-part-020.md)
+[⬅️ Sebelumnya: Part 18 — XML Security, XXE, XML Signature, XML Encryption](./learn-java-security-cryptography-integrity-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: OAuth2/OIDC Security for Java Systems Without Repeating Jakarta/JAX-RS](./learn-java-security-cryptography-integrity-part-020.md)

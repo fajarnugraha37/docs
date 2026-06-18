@@ -2452,4 +2452,4 @@ migration dari Unsafe/direct buffer
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-012](./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-014](./learn-java-memory-byte-bit-buffer-offheap-gc-part-014.md)
+[⬅️ Sebelumnya: Direct Buffer and Native Memory: What Actually Happens](./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Foreign Function & Memory API: Modern Off-Heap Memory](./learn-java-memory-byte-bit-buffer-offheap-gc-part-014.md)

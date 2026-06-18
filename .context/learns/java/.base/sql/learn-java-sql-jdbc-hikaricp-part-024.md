@@ -2699,4 +2699,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-025.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-023](./learn-java-sql-jdbc-hikaricp-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-025](./learn-java-sql-jdbc-hikaricp-part-025.md)
+[⬅️ Sebelumnya: Transaction and Pool Interaction](./learn-java-sql-jdbc-hikaricp-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Failure Modes and Recovery Patterns](./learn-java-sql-jdbc-hikaricp-part-025.md)

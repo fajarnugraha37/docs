@@ -3144,4 +3144,4 @@ Migrasi berhasil bukan saat `mvn test` hijau. Migrasi berhasil saat aplikasi ber
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-part-022.md](./learn-java-part-022.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-024.md](./learn-java-part-024.md)
+[⬅️ Sebelumnya: Bagian 22 — Design Principles dan Domain Modeling dengan Java](./learn-java-part-022.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 24 — Capstone: Java Engineering Mastery dan Production-Grade Decision Making](./learn-java-part-024.md)

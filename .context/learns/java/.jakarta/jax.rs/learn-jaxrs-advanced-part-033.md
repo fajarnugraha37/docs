@@ -2034,4 +2034,4 @@ Kita akan membahas OpenAPI sebagai contract artifact: schema design, examples, e
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-032.md](./learn-jaxrs-advanced-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-034.md](./learn-jaxrs-advanced-part-034.md)
+[⬅️ Sebelumnya: Bagian 032 — Transactions, Persistence, and REST Boundary: JPA Entity vs DTO, Service-Layer Transaction, Lazy Loading, Optimistic Locking, Outbox, Pagination Query, Streaming/Export, and Consistency Patterns](./learn-jaxrs-advanced-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 034 — OpenAPI and Documentation Strategy: Contract Artifact, Code-First vs Spec-First, MicroProfile OpenAPI, Schema Design, Examples, Error Docs, Versioned Specs, Governance, CI Validation, Codegen, and Docs-as-Product](./learn-jaxrs-advanced-part-034.md)

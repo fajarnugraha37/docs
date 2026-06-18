@@ -2529,4 +2529,4 @@ Bagian berikutnya akan membahas **Jakarta Activation (`jakarta.activation`)**: M
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-032.md](./learn-java-jakarta-part-032.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-034.md](./learn-java-jakarta-part-034.md)
+[⬅️ Sebelumnya: Bagian 32 — Jakarta XML Web Services (`jakarta.xml.ws`) / JAX-WS: SOAP, WSDL, Endpoint, Client, Handler, Fault, MTOM, dan Legacy Interoperability](./learn-java-jakarta-part-032.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 34 — Jakarta Activation (`jakarta.activation`): MIME Type, `DataHandler`, `DataSource`, Binary Content, Mail/SOAP Attachments, dan Content Handling](./learn-java-jakarta-part-034.md)

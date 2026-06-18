@@ -2392,4 +2392,4 @@ Part 003 — Exception Taxonomy for Enterprise Systems
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-001.md](./learn-java-reliability-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-003.md](./learn-java-reliability-part-003.md)
+[⬅️ Sebelumnya: Part 001 — Mental Model of Failure: Dari Bug ke Reliability Engineering](./learn-java-reliability-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Exception Taxonomy for Enterprise Systems](./learn-java-reliability-part-003.md)

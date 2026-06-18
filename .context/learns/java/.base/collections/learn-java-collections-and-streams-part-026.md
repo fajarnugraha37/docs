@@ -1643,4 +1643,4 @@ They encode dataflow, state, ordering, memory, and termination behavior.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-025.md](./learn-java-collections-and-streams-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-027.md](./learn-java-collections-and-streams-part-027.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 025](./learn-java-collections-and-streams-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 027](./learn-java-collections-and-streams-part-027.md)

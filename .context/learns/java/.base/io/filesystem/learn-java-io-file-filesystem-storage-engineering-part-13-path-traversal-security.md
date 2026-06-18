@@ -2044,4 +2044,4 @@ Seri belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming](./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 14](./learn-java-io-file-filesystem-storage-engineering-part-14-file-attributes.md)
+[⬅️ Sebelumnya: Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming](./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 14 — File Attributes: Basic, POSIX, DOS, Owner, ACL](./learn-java-io-file-filesystem-storage-engineering-part-14-file-attributes.md)

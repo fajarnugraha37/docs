@@ -2721,4 +2721,4 @@ Di sana kita akan membahas:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-017](./learn-java-oop-functional-reflection-codegen-modules-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-019](./learn-java-oop-functional-reflection-codegen-modules-part-019.md)
+[⬅️ Sebelumnya: Optional, Nullability, Result Modeling, and Error Channels](./learn-java-oop-functional-reflection-codegen-modules-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Reflection Deep Dive II: Dynamic Invocation, Proxies, Framework Mechanics](./learn-java-oop-functional-reflection-codegen-modules-part-019.md)

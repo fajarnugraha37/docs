@@ -1979,4 +1979,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 30](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 032](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md)
+[⬅️ Sebelumnya: Part 30 — Legacy SOAP Modernization Patterns](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 032 — JCA Inbound/Outbound Architecture](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md)

@@ -2422,4 +2422,4 @@ Large Files, Binary Assets, Git LFS, dan Repository Bloat
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-024.md](./learn-git-mastery-for-java-engineers-part-024.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-026.md](./learn-git-mastery-for-java-engineers-part-026.md)
+[⬅️ Sebelumnya: Part 024 — Submodules, Subtree, dan Multi-Repository Dependency](./learn-git-mastery-for-java-engineers-part-024.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 026 — Large Files, Binary Assets, Git LFS, dan Repository Bloat](./learn-git-mastery-for-java-engineers-part-026.md)

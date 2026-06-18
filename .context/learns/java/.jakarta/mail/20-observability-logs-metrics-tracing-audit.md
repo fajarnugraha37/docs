@@ -2318,8 +2318,6 @@ Kita akan membahas:
 - capacity planning;
 - benchmark realistis mail pipeline.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

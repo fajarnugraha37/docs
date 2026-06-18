@@ -2118,4 +2118,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-010.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-008](./learn-java-sql-jdbc-hikaricp-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-010](./learn-java-sql-jdbc-hikaricp-part-010.md)
+[⬅️ Sebelumnya: Isolation Levels, Locking, and Observable Anomalies](./learn-java-sql-jdbc-hikaricp-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Resource Lifecycle: Closing, Try-With-Resources, Leaks, and Ownership](./learn-java-sql-jdbc-hikaricp-part-010.md)

@@ -2224,4 +2224,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-023.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-021](./learn-java-sql-jdbc-hikaricp-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-023](./learn-java-sql-jdbc-hikaricp-part-023.md)
+[⬅️ Sebelumnya: Pool Sizing: From Guesswork to Capacity Model](./learn-java-sql-jdbc-hikaricp-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Transaction and Pool Interaction](./learn-java-sql-jdbc-hikaricp-part-023.md)

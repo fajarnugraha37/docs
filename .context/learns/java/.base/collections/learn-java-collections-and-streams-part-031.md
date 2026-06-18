@@ -1688,4 +1688,4 @@ Then choose the collector that encodes that contract.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-030.md](./learn-java-collections-and-streams-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-032.md](./learn-java-collections-and-streams-part-032.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 030](./learn-java-collections-and-streams-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 032](./learn-java-collections-and-streams-part-032.md)

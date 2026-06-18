@@ -2635,8 +2635,6 @@ Part 13 akan membahas threat model mail sending dari sisi Java application:
 - audit security;
 - secure production checklist.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

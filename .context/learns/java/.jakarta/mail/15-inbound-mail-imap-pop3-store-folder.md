@@ -1721,8 +1721,6 @@ Itu akan dibahas di part berikutnya:
 - POP3 as simple message retrieval protocol.
 - MIME message structure from earlier parts.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

@@ -2549,4 +2549,4 @@ Top-tier engineering is not choosing the “largest” or “most precise” typ
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-001.md](./learn-java-data-types-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-003.md](./learn-java-data-types-part-003.md)
+[⬅️ Sebelumnya: Java Data Types — Part 001](./learn-java-data-types-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 003](./learn-java-data-types-part-003.md)

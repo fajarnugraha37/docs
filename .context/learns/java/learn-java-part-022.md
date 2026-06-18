@@ -3567,4 +3567,4 @@ Engineer Java yang kuat tidak hanya menulis service yang “jalan”. Ia membuat
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-part-021.md](./learn-java-part-021.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-023.md](./learn-java-part-023.md)
+[⬅️ Sebelumnya: Bagian 21 — Framework Internals: Kenapa Framework Java Bisa Bekerja](./learn-java-part-021.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 23 — Migration: Java 8 → 11 → 17 → 21 → 25](./learn-java-part-023.md)

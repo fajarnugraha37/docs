@@ -2199,4 +2199,4 @@ Belum selesai. Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-06-jvm-options-as-deployment-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-08-containerizing-java-applications-correctly.md)
+[⬅️ Sebelumnya: Part 6 — JVM Options as Deployment Contract](./learn-java-deployment-runtime-release-delivery-engineering-part-06-jvm-options-as-deployment-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Containerizing Java Applications Correctly](./learn-java-deployment-runtime-release-delivery-engineering-part-08-containerizing-java-applications-correctly.md)

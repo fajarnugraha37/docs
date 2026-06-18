@@ -2471,4 +2471,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-022](./learn-java-validation-jakarta-hibernate-validator-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-024](./learn-java-validation-jakarta-hibernate-validator-part-024.md)
+[⬅️ Sebelumnya: Validation for Workflow, State Machines, and Regulatory Case Management](./learn-java-validation-jakarta-hibernate-validator-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Performance Engineering: Cost Model, Fail Fast, Caching, Reflection, Hot Paths](./learn-java-validation-jakarta-hibernate-validator-part-024.md)

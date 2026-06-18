@@ -1510,4 +1510,4 @@ are all honest and tested.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-045.md](./learn-java-collections-and-streams-part-045.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-047.md](./learn-java-collections-and-streams-part-047.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 045](./learn-java-collections-and-streams-part-045.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 047](./learn-java-collections-and-streams-part-047.md)

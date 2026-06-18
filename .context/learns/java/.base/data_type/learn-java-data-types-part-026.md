@@ -2057,4 +2057,4 @@ API data type design yang baik membuat client aman, evolution terkendali, dan bu
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-025.md](./learn-java-data-types-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-027.md](./learn-java-data-types-part-027.md)
+[⬅️ Sebelumnya: Java Data Types — Part 025](./learn-java-data-types-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 027](./learn-java-data-types-part-027.md)

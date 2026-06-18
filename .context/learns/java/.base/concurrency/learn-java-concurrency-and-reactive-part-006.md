@@ -1962,4 +1962,4 @@ and observability explicitly.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-005.md](./learn-java-concurrency-and-reactive-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-007.md](./learn-java-concurrency-and-reactive-part-007.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 005](./learn-java-concurrency-and-reactive-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 007](./learn-java-concurrency-and-reactive-part-007.md)

@@ -1756,4 +1756,4 @@ It is the result of good key design, good hash distribution, reasonable capacity
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-014.md](./learn-java-collections-and-streams-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-016.md](./learn-java-collections-and-streams-part-016.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 014](./learn-java-collections-and-streams-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 016](./learn-java-collections-and-streams-part-016.md)

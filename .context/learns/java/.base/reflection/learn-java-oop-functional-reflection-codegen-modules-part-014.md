@@ -2706,4 +2706,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-013](./learn-java-oop-functional-reflection-codegen-modules-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-015](./learn-java-oop-functional-reflection-codegen-modules-part-015.md)
+[⬅️ Sebelumnya: Composition, Delegation, Mixins, and Object Collaboration Design](./learn-java-oop-functional-reflection-codegen-modules-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Lambdas Under the Hood: Capture, Target Typing, `invokedynamic`, and SAM](./learn-java-oop-functional-reflection-codegen-modules-part-015.md)

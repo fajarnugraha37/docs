@@ -1968,4 +1968,4 @@ Rujukan utama yang menjadi anchor seri:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dsa-part-030 — Capstone: Designing a Production-Grade Rule, Workflow, and Case Indexing Engine](../dsa/learn-java-dsa-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-001.md](./learn-java-reliability-part-001.md)
+[⬅️ Sebelumnya: Part 030 — Capstone: Designing a Production-Grade Rule, Workflow, and Case Indexing Engine](../dsa/learn-java-dsa-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Mental Model of Failure: Dari Bug ke Reliability Engineering](./learn-java-reliability-part-001.md)

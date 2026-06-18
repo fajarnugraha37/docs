@@ -1718,4 +1718,4 @@ Progress saat ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-003](./learn-java-security-cryptography-integrity-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-005](./learn-java-security-cryptography-integrity-part-005.md)
+[⬅️ Sebelumnya: Part 3 — Cryptography Mental Model: What Crypto Can and Cannot Guarantee](./learn-java-security-cryptography-integrity-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Hashing, Digest, Fingerprint, Checksum, and Integrity Boundaries](./learn-java-security-cryptography-integrity-part-005.md)

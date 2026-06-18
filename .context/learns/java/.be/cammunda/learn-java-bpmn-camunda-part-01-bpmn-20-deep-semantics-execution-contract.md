@@ -2845,4 +2845,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-00-orientation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-02-bpmn-core-elements-events-tasks-gateways-subprocesses.md)
+[⬅️ Sebelumnya: Part 0 — Orientation: Dari CRUD Engineer ke Process Orchestration Engineer](./learn-java-bpmn-camunda-part-00-orientation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — BPMN Core Elements: Events, Tasks, Gateways, Subprocesses](./learn-java-bpmn-camunda-part-02-bpmn-core-elements-events-tasks-gateways-subprocesses.md)

@@ -2541,4 +2541,4 @@ Bagian berikutnya akan membahas **Jakarta Management (`jakarta.management.j2ee`)
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-034.md](./learn-java-jakarta-part-034.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-036.md](./learn-java-jakarta-part-036.md)
+[⬅️ Sebelumnya: Bagian 34 — Jakarta Activation (`jakarta.activation`): MIME Type, `DataHandler`, `DataSource`, Binary Content, Mail/SOAP Attachments, dan Content Handling](./learn-java-jakarta-part-034.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 36 — Jakarta Management (`javax.management.j2ee`): MEJB, JSR-77 Management Model, Managed Objects, JMX Bridge, dan Observability Legacy](./learn-java-jakarta-part-036.md)

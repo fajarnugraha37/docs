@@ -1910,4 +1910,4 @@ Referensi ini tidak dimaksudkan sebagai bacaan wajib sebelum lanjut, tetapi menj
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering — Part 35](../deployment/learn-java-deployment-runtime-release-delivery-engineering-part-35-final-mastery-review.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-001.md](./learn-java-dsa-part-001.md)
+[⬅️ Sebelumnya: Part 35 — Final Mastery Review: Top 1% Java Deployment Engineer Mindset](../deployment/learn-java-deployment-runtime-release-delivery-engineering-part-35-final-mastery-review.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Complexity Analysis yang Realistis di Java](./learn-java-dsa-part-001.md)

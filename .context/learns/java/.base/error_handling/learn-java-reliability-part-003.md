@@ -2741,4 +2741,4 @@ Itulah inti dari error handling philosophy.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-002.md](./learn-java-reliability-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-004.md](./learn-java-reliability-part-004.md)
+[⬅️ Sebelumnya: Part 002 — Java Exception Semantics Deep Dive](./learn-java-reliability-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Error Handling Philosophy: Fail Fast, Fail Safe, Fail Closed, Fail Open](./learn-java-reliability-part-004.md)

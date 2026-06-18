@@ -2120,4 +2120,4 @@ Kita akan membahas bagaimana REST boundary berinteraksi dengan database transact
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-030.md](./learn-jaxrs-advanced-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-032.md](./learn-jaxrs-advanced-part-032.md)
+[⬅️ Sebelumnya: Bagian 030 — Client Resilience: Timeout, Retry, Circuit Breaker, Bulkhead, Rate Limit, Idempotency, Deadline Budget, Fallback, and Production-Grade Outbound HTTP Policy](./learn-jaxrs-advanced-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 032 — Transactions, Persistence, and REST Boundary: JPA Entity vs DTO, Service-Layer Transaction, Lazy Loading, Optimistic Locking, Outbox, Pagination Query, Streaming/Export, and Consistency Patterns](./learn-jaxrs-advanced-part-032.md)

@@ -2479,8 +2479,6 @@ Kita akan masuk ke failure taxonomy Jakarta Mail/SMTP:
 - retry classification;
 - domain-level error model.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

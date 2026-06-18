@@ -2197,4 +2197,4 @@ Submodules, Subtree, dan Multi-Repository Dependency
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-022.md](./learn-git-mastery-for-java-engineers-part-022.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-024.md](./learn-git-mastery-for-java-engineers-part-024.md)
+[⬅️ Sebelumnya: Part 022 — Line Endings, Whitespace, Encoding, dan Cross-Platform Issues](./learn-git-mastery-for-java-engineers-part-022.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 024 — Submodules, Subtree, dan Multi-Repository Dependency](./learn-git-mastery-for-java-engineers-part-024.md)

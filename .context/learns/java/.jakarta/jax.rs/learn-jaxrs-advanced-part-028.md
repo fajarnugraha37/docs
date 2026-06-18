@@ -2281,4 +2281,4 @@ Kita akan membahas client-side extension dan advanced invocation: `ClientRequest
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-027.md](./learn-jaxrs-advanced-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-029.md](./learn-jaxrs-advanced-part-029.md)
+[⬅️ Sebelumnya: Bagian 027 — Multipart and File Upload: `multipart/form-data`, `EntityPart`, Streaming Upload, Size Limits, Malware Scanning, Content-Type Validation, Object Storage, Transactional Metadata, and Secure File Handling](./learn-jaxrs-advanced-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 029 — Advanced Client API: Filters, Interceptors, Features, Async, Reactive Invoker, SSE Client, Resilience Hooks, and Production Instrumentation](./learn-jaxrs-advanced-part-029.md)

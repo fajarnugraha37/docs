@@ -2935,4 +2935,4 @@ Part 1 — Java Version Strategy: Java 8–25, Source/Target/Release, Toolchains
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-032.md](../../../general/git/learn-git-mastery-for-java-engineers-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Java Version Strategy: Java 8–25, Source/Target/Release, Toolchains, dan Compatibility Boundary](./01-java-version-strategy-java-8-to-25.md)
+[⬅️ Sebelumnya: Part 032 — Capstone: Mendesain Git Workflow untuk Java Engineering Team](../../../general/git/learn-git-mastery-for-java-engineers-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Java Version Strategy: Java 8–25, Source/Target/Release, Toolchains, dan Compatibility Boundary](./01-java-version-strategy-java-8-to-25.md)

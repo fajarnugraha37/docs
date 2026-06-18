@@ -1965,4 +1965,4 @@ but to make invalid collection states impossible to express.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-011.md](./learn-java-collections-and-streams-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-013.md](./learn-java-collections-and-streams-part-013.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 011](./learn-java-collections-and-streams-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 013](./learn-java-collections-and-streams-part-013.md)

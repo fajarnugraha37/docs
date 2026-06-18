@@ -2533,4 +2533,4 @@ Referensi yang relevan untuk part ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-031](./learn-java-security-cryptography-integrity-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-033](./learn-java-security-cryptography-integrity-part-033.md)
+[⬅️ Sebelumnya: Security Testing: Unit, Property, Fuzzing, SAST, DAST, IAST](./learn-java-security-cryptography-integrity-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Secure Design Patterns and Anti-Patterns for Java Enterprise Systems](./learn-java-security-cryptography-integrity-part-033.md)

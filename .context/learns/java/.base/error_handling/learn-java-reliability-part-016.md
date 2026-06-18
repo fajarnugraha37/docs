@@ -2713,4 +2713,4 @@ Part 017 — Retry Engineering
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-015.md](./learn-java-reliability-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-017.md](./learn-java-reliability-part-017.md)
+[⬅️ Sebelumnya: Part 015 — Idempotency as Core Reliability Primitive](./learn-java-reliability-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Retry Engineering](./learn-java-reliability-part-017.md)

@@ -2399,4 +2399,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-015](./learn-java-security-cryptography-integrity-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-017](./learn-java-security-cryptography-integrity-part-017.md)
+[⬅️ Sebelumnya: Part 15 — TLS Hardening, Disabled Algorithms, and Runtime Security Properties](./learn-java-security-cryptography-integrity-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Secure File, Archive, and Data Transfer Integrity](./learn-java-security-cryptography-integrity-part-017.md)

@@ -3040,8 +3040,6 @@ Di sana kita akan membahas desain high-throughput mail sending, per-domain throt
 - RFC 5321 — Simple Mail Transfer Protocol.
 - RFC 5322 — Internet Message Format.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

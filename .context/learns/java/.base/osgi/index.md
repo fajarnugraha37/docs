@@ -4,7 +4,7 @@
 - [📄 Part 0 — OSGi Mental Model: Dynamic Module System, Not Just Plugin Framework](00-osgi-mental-model-dynamic-module-system-not-just-plugin-framework.md)
 - [📄 Part 1 — OSGi Core Architecture: Framework Layers and Runtime Invariants](01-osgi-core-architecture-framework-layers-runtime-invariants.md)
 - [📄 Part 2 — Bundle Anatomy: Manifest, Headers, Metadata, and Build-Time Contracts](02-bundle-anatomy-manifest-headers-metadata-build-time-contracts.md)
-- [📄 03 — Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules](03-class-loading-per-bundle-classloaders-visibility-rules.md)
+- [📄 Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules](03-class-loading-per-bundle-classloaders-visibility-rules.md)
 - [📄 Part 4 — Dependency Model: Import-Package, Export-Package, Require-Bundle, Capabilities](04-dependency-model-import-export-require-bundle-capabilities.md)
 - [📄 Part 5 — Resolver Engineering: Constraint Solving, Wiring, Uses Constraints, and Failure Analysis](05-resolver-engineering-constraint-solving-wiring-uses-constraints-failure-analysis.md)
 - [📄 Part 6 — Semantic Versioning in OSGi: Package Versions, Bundle Versions, API Evolution](06-semantic-versioning-package-versions-bundle-versions-api-evolution.md)
@@ -20,7 +20,7 @@
 - [📄 Part 16 — Persistence in OSGi: JDBC, JPA, Transactions, Hibernate, EclipseLink](16-persistence-osgi-jdbc-jpa-transactions-hibernate-eclipselink.md)
 - [📄 Part 17 — Messaging, Events, and Async Runtime: Event Admin, Push Streams, Reactive Bridges](17-messaging-events-async-runtime-event-admin-push-streams-reactive-bridges.md)
 - [📄 Part 18 — Security Model: Permissions, Conditional Permission Admin, Signing, and Sandboxing Reality](18-security-model-permissions-conditional-permission-admin-signing-sandboxing-reality.md)
-- [📄 19 — JPMS and OSGi: Java Module System Interop from Java 9 to 25](19-jpms-osgi-java-module-system-interop-java-9-to-25.md)
+- [📄 JPMS and OSGi: Java Module System Interop from Java 9 to 25](19-jpms-osgi-java-module-system-interop-java-9-to-25.md)
 - [📄 Part 20 — Java 8 to 25 Compatibility Engineering for OSGi Systems](20-java-8-to-25-compatibility-engineering-osgi-systems.md)
 - [📄 Part 21 — Enterprise Integration in OSGi: CDI, Blueprint, Spring, Aries, CXF, and Legacy Stacks](21-enterprise-integration-osgi-cdi-blueprint-spring-aries-cxf-legacy-stacks.md)
 - [📄 Part 22 — Extender Pattern Internals: How OSGi Frameworks Add Runtime Semantics](22-extender-pattern-internals-runtime-semantics.md)
@@ -35,7 +35,7 @@
 - [📄 Part 31 — Migration Playbooks: Legacy Classpath App to OSGi, OSGi to Modern Java, and Hybrid Systems](31-migration-playbooks-legacy-classpath-app-to-osgi-osgi-to-modern-java-hybrid-systems.md)
 - [📄 Part 32 — Building a Production-Grade OSGi Case Study Runtime from Scratch](32-building-production-grade-osgi-case-study-runtime-from-scratch.md)
 - [📄 Part 33 — Advanced Runtime Customization: Embedding Frameworks, Launcher Design, Hooks, Connect](33-advanced-runtime-customization-embedding-frameworks-launcher-hooks-connect.md)
-- [📄 34 — Top 1% OSGi Engineering: Design Reviews, Invariants, Checklists, and Decision Framework](34-top-1-percent-osgi-engineering-design-reviews-invariants-checklists-decision-framework.md)
+- [📄 Top 1% OSGi Engineering: Design Reviews, Invariants, Checklists, and Decision Framework](34-top-1-percent-osgi-engineering-design-reviews-invariants-checklists-decision-framework.md)
 
 
 ---

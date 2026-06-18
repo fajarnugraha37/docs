@@ -2207,4 +2207,4 @@ CDI extension teaches how CDI can be customized. Enterprise Beans teaches what t
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime — Part 018](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — Enterprise Beans / EJB Mental Model: Why It Exists and What Still Matters](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-020.md)
+[⬅️ Sebelumnya: Part 018 — Lifecycle Callbacks: Construction, Initialization, Destruction](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — Enterprise Beans / EJB Mental Model: Why It Exists and What Still Matters](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-020.md)

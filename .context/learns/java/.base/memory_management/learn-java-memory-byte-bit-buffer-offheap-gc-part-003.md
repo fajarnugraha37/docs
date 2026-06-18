@@ -2214,4 +2214,4 @@ Referensi utama yang relevan untuk bagian ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-002](./learn-java-memory-byte-bit-buffer-offheap-gc-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-004](./learn-java-memory-byte-bit-buffer-offheap-gc-part-004.md)
+[⬅️ Sebelumnya: Java Primitive Memory Semantics: Dari `boolean` sampai `double`](./learn-java-memory-byte-bit-buffer-offheap-gc-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: References, Pointers, OOPs, CompressedOops, dan Object Graph](./learn-java-memory-byte-bit-buffer-offheap-gc-part-004.md)

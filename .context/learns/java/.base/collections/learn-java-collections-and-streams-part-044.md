@@ -1506,4 +1506,4 @@ Do not use it just to look clever.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-043.md](./learn-java-collections-and-streams-part-043.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-045.md](./learn-java-collections-and-streams-part-045.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 043](./learn-java-collections-and-streams-part-043.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 045](./learn-java-collections-and-streams-part-045.md)

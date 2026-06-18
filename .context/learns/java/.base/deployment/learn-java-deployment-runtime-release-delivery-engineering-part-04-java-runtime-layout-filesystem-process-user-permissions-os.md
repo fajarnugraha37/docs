@@ -2862,4 +2862,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-03-runtime-selection-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-05-configuration-deployment.md)
+[⬅️ Sebelumnya: Part 3 — Runtime Selection Engineering: JDK, JRE, OpenJDK Distributions, Vendor Choice](./learn-java-deployment-runtime-release-delivery-engineering-part-03-runtime-selection-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Configuration Deployment: Config Files, Env Vars, System Properties, Secrets, Profiles](./learn-java-deployment-runtime-release-delivery-engineering-part-05-configuration-deployment.md)

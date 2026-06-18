@@ -3109,4 +3109,4 @@ Pada part berikutnya, kita akan masuk ke desain DTO enterprise yang lebih sistem
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 008](./learn-java-json-xml-soap-connectors-enterprise-integration-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 10](./learn-java-json-xml-soap-connectors-enterprise-integration-part-010.md)
+[⬅️ Sebelumnya: Part 008 — B Annotation Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — B for Enterprise DTO Design](./learn-java-json-xml-soap-connectors-enterprise-integration-part-010.md)

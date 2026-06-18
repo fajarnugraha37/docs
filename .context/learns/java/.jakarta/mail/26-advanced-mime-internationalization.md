@@ -1973,7 +1973,6 @@ If you internalize this, you stop treating email as string concatenation and sta
 - Java `java.net.IDN` documentation.
 - Java `java.text.Normalizer` documentation.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

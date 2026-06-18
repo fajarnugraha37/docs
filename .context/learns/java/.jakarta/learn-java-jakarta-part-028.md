@@ -3162,4 +3162,4 @@ Bagian berikutnya akan membahas **Jakarta Standard Tag Library / Jakarta Tags** 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-027.md](./learn-java-jakarta-part-027.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-029.md](./learn-java-jakarta-part-029.md)
+[⬅️ Sebelumnya: Bagian 27 — Jakarta Expression Language (`jakarta.el`): Expression Evaluation, Resolver Chain, Coercion, Method Expression, dan Security](./learn-java-jakarta-part-027.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 29 — Jakarta Standard Tag Library / Jakarta Tags: Core, Formatting, Functions, XML, SQL, Custom Tags, dan Migration](./learn-java-jakarta-part-029.md)

@@ -423,4 +423,4 @@ file
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-016](./learn-java-security-cryptography-integrity-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-018.md](./learn-java-security-cryptography-integrity-part-018.md)
+[⬅️ Sebelumnya: Part 16 — Secure Serialization, Deserialization, and Object Integrity](./learn-java-security-cryptography-integrity-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — XML Security, XXE, XML Signature, XML Encryption](./learn-java-security-cryptography-integrity-part-018.md)

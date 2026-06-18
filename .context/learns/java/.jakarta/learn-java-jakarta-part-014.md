@@ -3398,4 +3398,4 @@ Bagian berikutnya akan membahas **Jakarta Validation (`jakarta.validation`)**, y
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-013.md](./learn-java-jakarta-part-013.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-015.md](./learn-java-jakarta-part-015.md)
+[⬅️ Sebelumnya: Bagian 13 — Jakarta Data: Repository Abstraction Standar](./learn-java-jakarta-part-013.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 15 — Jakarta Validation (`jakarta.validation`): Contract Validation, Constraints, Groups, dan Integration Boundary](./learn-java-jakarta-part-015.md)

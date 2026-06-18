@@ -1,8 +1,8 @@
 # Daftar Isi: Mybatis
 
 ## Artikel
-- [📄 00 — MyBatis Orientation: SQL-First Persistence Mental Model](00-mybatis-orientation-sql-first-persistence-mental-model.md)
-- [📄 01 — MyBatis Core Runtime Architecture: `SqlSession`, `Executor`, `Configuration`](01-mybatis-core-runtime-architecture-sqlsession-executor-configuration.md)
+- [📄 MyBatis Orientation: SQL-First Persistence Mental Model](00-mybatis-orientation-sql-first-persistence-mental-model.md)
+- [📄 MyBatis Core Runtime Architecture: `SqlSession`, `Executor`, `Configuration`](01-mybatis-core-runtime-architecture-sqlsession-executor-configuration.md)
 - [📄 Part 2 — Java 8 to 25 MyBatis Version Strategy and Compatibility](02-java-8-to-25-mybatis-version-strategy-and-compatibility.md)
 - [📄 Part 3 — Mapper Design: Interface, XML, Annotation, and Naming Discipline](03-mapper-design-interface-xml-annotation-and-naming-discipline.md)
 - [📄 Part 4 — SQL Statement Mapping: SELECT, INSERT, UPDATE, DELETE Deep Dive](04-sql-statement-mapping-select-insert-update-delete-deep-dive.md)
@@ -10,7 +10,7 @@
 - [📄 Part 6 — Result Mapping: Auto Mapping, Explicit Mapping, and Column Discipline](06-result-mapping-auto-explicit-mapping-column-discipline.md)
 - [📄 Part 7 — Advanced Result Mapping: Constructor, Record, Immutable DTO, Nested Object](07-advanced-result-mapping-constructor-record-immutable-dto-nested-object.md)
 - [📄 Part 8 — Dynamic SQL XML: `if`, `choose`, `where`, `set`, `trim`, `foreach`](08-dynamic-sql-xml-if-choose-where-set-trim-foreach.md)
-- [📄 09 — MyBatis Dynamic SQL Library: Type-Safe Query Generation](09-mybatis-dynamic-sql-library-type-safe-query-generation.md)
+- [📄 MyBatis Dynamic SQL Library: Type-Safe Query Generation](09-mybatis-dynamic-sql-library-type-safe-query-generation.md)
 - [📄 Part 10 — Mapper Method API Design: Return Type, Optional, List, Cursor, Stream](10-mapper-method-api-design-return-type-optional-list-cursor-stream.md)
 - [📄 Part 11 — Transaction Integration: Spring, SqlSession, Propagation, Rollback](11-transaction-integration-spring-sqlsession-propagation-rollback.md)
 - [📄 Part 12 — Spring Boot Integration: Auto Configuration, Mapper Scan, Configuration Customizer](12-spring-boot-integration-autoconfiguration-mapperscan-customizer.md)

@@ -1906,4 +1906,4 @@ Advanced Ref Management: Refspec, Notes, Namespaces, dan Internals
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-027.md](./learn-git-mastery-for-java-engineers-part-027.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-029.md](./learn-git-mastery-for-java-engineers-part-029.md)
+[⬅️ Sebelumnya: Part 027 — Security: Secret Leakage, Signed Commits, dan Supply Chain](./learn-git-mastery-for-java-engineers-part-027.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 029 — Advanced Ref Management: Refspec, Notes, Namespaces, dan Internals](./learn-git-mastery-for-java-engineers-part-029.md)

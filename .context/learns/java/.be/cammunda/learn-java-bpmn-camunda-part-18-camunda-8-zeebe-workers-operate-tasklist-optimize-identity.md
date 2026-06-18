@@ -1812,4 +1812,4 @@ Itulah perbedaan antara “menggunakan Camunda” dan “mendesain process orche
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering  ](./learn-java-bpmn-camunda-part-17-camunda-7-embedded-engine-job-executor-transactions-spring-boot.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-19-spring-boot-camunda-8-process-application-architecture.md)
+[⬅️ Sebelumnya: Part 17 — Camunda 7 Deep Dive: Embedded Engine, Job Executor, Transactions, and Spring Boot](./learn-java-bpmn-camunda-part-17-camunda-7-embedded-engine-job-executor-transactions-spring-boot.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Spring Boot + Camunda 8 Process Application Architecture](./learn-java-bpmn-camunda-part-19-spring-boot-camunda-8-process-application-architecture.md)

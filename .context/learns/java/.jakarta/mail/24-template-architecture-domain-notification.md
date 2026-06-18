@@ -3187,7 +3187,6 @@ Progress:
 [ ] Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

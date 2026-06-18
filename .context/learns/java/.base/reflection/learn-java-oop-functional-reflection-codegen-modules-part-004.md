@@ -2370,4 +2370,4 @@ Inheritance Deep Dive: Substitutability, Fragility, and Runtime Dispatch
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-003](./learn-java-oop-functional-reflection-codegen-modules-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-005](./learn-java-oop-functional-reflection-codegen-modules-part-005.md)
+[⬅️ Sebelumnya: Object Identity, Equality, Hashing, Immutability, and Object Contracts](./learn-java-oop-functional-reflection-codegen-modules-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Inheritance Deep Dive: Substitutability, Fragility, and Runtime Dispatch](./learn-java-oop-functional-reflection-codegen-modules-part-005.md)

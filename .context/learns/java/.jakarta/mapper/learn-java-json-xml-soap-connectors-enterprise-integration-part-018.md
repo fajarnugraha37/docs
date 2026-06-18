@@ -2768,4 +2768,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 17 — JAXB / Jakarta XML Binding Annotation Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 19](./learn-java-json-xml-soap-connectors-enterprise-integration-part-019.md)
+[⬅️ Sebelumnya: Part 17 — JAXB / Jakarta XML Binding Annotation Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — JAXB Code-First Workflow: Java → XSD, Contract Drift Risk, Schema Generation, and Compatibility Testing](./learn-java-json-xml-soap-connectors-enterprise-integration-part-019.md)

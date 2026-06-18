@@ -2122,4 +2122,4 @@ Kita akan membahas performance secara mendalam: request pipeline cost, JSON seri
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-039.md](./learn-jaxrs-advanced-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-041.md](./learn-jaxrs-advanced-part-041.md)
+[⬅️ Sebelumnya: Bagian 039 — Legacy JAX-RS 2.1 Features: Async, SSE, Reactive Client, Java EE 8 Maintenance, `javax.ws.rs`, Compatibility Behavior, and Modernization to Jakarta REST 4.0](./learn-jaxrs-advanced-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 041 — Performance Engineering JAX-RS: Request Pipeline Cost, JSON Serialization, Filters/Providers Overhead, Thread and Connection Pools, Blocking vs Async, Streaming, Multipart, Database/Downstream Latency, Benchmarking, Profiling, GC/Memory, and Capacity Planning](./learn-jaxrs-advanced-part-041.md)

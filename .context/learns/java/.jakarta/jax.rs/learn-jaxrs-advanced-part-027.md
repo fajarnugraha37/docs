@@ -2756,4 +2756,4 @@ Kita akan membahas client-side JAX-RS secara mendalam: `Client`, `WebTarget`, `I
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-026.md](./learn-jaxrs-advanced-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-028.md](./learn-jaxrs-advanced-part-028.md)
+[⬅️ Sebelumnya: Bagian 026 — Streaming Responses: `StreamingOutput`, Chunking, Large Download, File Streaming, Range Requests, Backpressure, Error After Commit, Compression, Checksums, and Production-Safe Download APIs](./learn-jaxrs-advanced-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 028 — JAX-RS Client API: Mental Model and Core Usage: `Client`, `ClientBuilder`, `WebTarget`, `Invocation.Builder`, `Entity`, `Response`, Headers, Cookies, Timeouts, Providers, and Safe Resource Management](./learn-jaxrs-advanced-part-028.md)

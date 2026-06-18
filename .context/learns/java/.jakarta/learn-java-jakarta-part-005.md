@@ -2472,4 +2472,4 @@ Dengan mental model ini, bagian berikutnya tentang **`jakarta.inject` dan Depend
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-004.md](./learn-java-jakarta-part-004.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-006.md](./learn-java-jakarta-part-006.md)
+[⬅️ Sebelumnya: Bagian 4 — Runtime / Container Model: Cara Jakarta EE Benar-Benar Menjalankan Aplikasi](./learn-java-jakarta-part-004.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 6 — `jakarta.inject`: Dependency Injection Minimal](./learn-java-jakarta-part-006.md)

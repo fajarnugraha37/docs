@@ -2922,4 +2922,4 @@ Performance yang baik bukan hasil “micro-optimization acak”. Performance yan
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-part-019.md](./learn-java-part-019.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-021.md](./learn-java-part-021.md)
+[⬅️ Sebelumnya: Bagian 19 — Java di Cloud, Container, dan Kubernetes](./learn-java-part-019.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 21 — Framework Internals: Kenapa Framework Java Bisa Bekerja](./learn-java-part-021.md)

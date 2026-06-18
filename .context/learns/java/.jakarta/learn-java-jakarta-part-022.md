@@ -2709,4 +2709,4 @@ Bagian berikutnya akan membahas **Jakarta Enterprise Beans (`jakarta.ejb`)**: st
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-021.md](./learn-java-jakarta-part-021.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-023.md](./learn-java-jakarta-part-023.md)
+[⬅️ Sebelumnya: Bagian 21 — Jakarta Batch (`jakarta.batch`): Job, Step, Chunk, Checkpoint, Restartability, dan Production Batch Processing](./learn-java-jakarta-part-021.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 23 — Jakarta Enterprise Beans (`jakarta.ejb`): Session Bean, MDB, Transaction, Security, Timer, dan Legacy-Modern Boundary](./learn-java-jakarta-part-023.md)

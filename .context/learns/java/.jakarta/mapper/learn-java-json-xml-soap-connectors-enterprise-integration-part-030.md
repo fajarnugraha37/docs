@@ -2058,4 +2058,4 @@ Mulai Part 31, kita bergeser dari SOAP/XML web service ke **Jakarta Connectors /
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 29](./learn-java-json-xml-soap-connectors-enterprise-integration-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-031](./learn-java-json-xml-soap-connectors-enterprise-integration-part-031.md)
+[⬅️ Sebelumnya: Part 29 — SOAP Security in Practice](./learn-java-json-xml-soap-connectors-enterprise-integration-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Jakarta Connectors / JCA Mental Model](./learn-java-json-xml-soap-connectors-enterprise-integration-part-031.md)

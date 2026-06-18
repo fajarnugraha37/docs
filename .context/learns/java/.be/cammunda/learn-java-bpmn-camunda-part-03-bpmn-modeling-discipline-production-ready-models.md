@@ -3536,4 +3536,4 @@ Kita akan membahas:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-02-bpmn-core-elements-events-tasks-gateways-subprocesses.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md)
+[⬅️ Sebelumnya: Part 2 — BPMN Core Elements: Events, Tasks, Gateways, Subprocesses](./learn-java-bpmn-camunda-part-02-bpmn-core-elements-events-tasks-gateways-subprocesses.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Camunda Landscape: Camunda 7 vs Camunda 8](./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md)

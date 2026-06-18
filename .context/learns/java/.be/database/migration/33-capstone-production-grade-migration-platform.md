@@ -2140,4 +2140,4 @@ Seri ini selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 32 — Case Studies: Realistic Production Scenarios](./32-case-studies-production-scenarios.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 00 — MyBatis Orientation: SQL-First Persistence Mental Model](../mybatis/00-mybatis-orientation-sql-first-persistence-mental-model.md)
+[⬅️ Sebelumnya: Part 32 — Case Studies: Realistic Production Scenarios](./32-case-studies-production-scenarios.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: MyBatis Orientation: SQL-First Persistence Mental Model](../mybatis/00-mybatis-orientation-sql-first-persistence-mental-model.md)

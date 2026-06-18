@@ -1888,4 +1888,4 @@ Part 08 will broaden from atomic update into the complete semantics of `Files.co
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 06](./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 08](./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md)
+[⬅️ Sebelumnya: Part 06 — Writing Files Correctly: Replace, Append, Flush, Durability](./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 08 — Copy and Move Semantics: Replace, Attributes, Links, Cross-Device Behavior](./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md)

@@ -1646,4 +1646,4 @@ and document the failure mode.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-029.md](./learn-java-concurrency-and-reactive-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-031.md](./learn-java-concurrency-and-reactive-part-031.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 029](./learn-java-concurrency-and-reactive-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 031](./learn-java-concurrency-and-reactive-part-031.md)

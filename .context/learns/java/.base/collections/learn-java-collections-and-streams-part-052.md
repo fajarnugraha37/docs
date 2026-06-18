@@ -1379,4 +1379,4 @@ authorized, defensively copied, and returned through least-privilege views.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-050.md](./learn-java-collections-and-streams-part-050.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-053.md](./learn-java-collections-and-streams-part-053.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 050](./learn-java-collections-and-streams-part-050.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 053](./learn-java-collections-and-streams-part-053.md)

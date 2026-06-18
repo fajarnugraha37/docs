@@ -2255,4 +2255,4 @@ Mutability bugs are often not syntax bugs. They are ownership design bugs.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-019.md](./learn-java-data-types-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-021.md](./learn-java-data-types-part-021.md)
+[⬅️ Sebelumnya: Java Data Types — Part 019](./learn-java-data-types-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 021](./learn-java-data-types-part-021.md)

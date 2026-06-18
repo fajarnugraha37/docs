@@ -1852,4 +1852,4 @@ Choose them by contract.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-010.md](./learn-java-collections-and-streams-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-012.md](./learn-java-collections-and-streams-part-012.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 010](./learn-java-collections-and-streams-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 012](./learn-java-collections-and-streams-part-012.md)

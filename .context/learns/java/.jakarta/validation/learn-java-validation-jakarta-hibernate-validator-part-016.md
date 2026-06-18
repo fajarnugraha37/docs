@@ -1456,4 +1456,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-015.md](./learn-java-validation-jakarta-hibernate-validator-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-017](./learn-java-validation-jakarta-hibernate-validator-part-017.md)
+[⬅️ Sebelumnya: Part 015 — Programmatic Constraint Mapping and Runtime Metadata](./learn-java-validation-jakarta-hibernate-validator-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Hibernate Validator Extensions: Beyond the Specification](./learn-java-validation-jakarta-hibernate-validator-part-017.md)

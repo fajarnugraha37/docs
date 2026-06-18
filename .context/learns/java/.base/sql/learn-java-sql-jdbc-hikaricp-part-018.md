@@ -2403,4 +2403,4 @@ Fokus berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-017](./learn-java-sql-jdbc-hikaricp-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-019](./learn-java-sql-jdbc-hikaricp-part-019.md)
+[⬅️ Sebelumnya: Part 017 — Performance Model of JDBC Calls](./learn-java-sql-jdbc-hikaricp-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — HikariCP Architecture and Design Philosophy](./learn-java-sql-jdbc-hikaricp-part-019.md)

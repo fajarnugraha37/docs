@@ -2463,4 +2463,4 @@ Part 19 — Stateful Java Deployment: Sessions, Caches, Queues, Schedulers, and 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-17-release-strategy-rolling-bluegreen-canary-shadow-ring.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-19-stateful-java-deployment.md)
+[⬅️ Sebelumnya: Part 17 — Release Strategy: Rolling, Blue-Green, Canary, Shadow, Ring Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-17-release-strategy-rolling-bluegreen-canary-shadow-ring.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Stateful Java Deployment: Sessions, Caches, Queues, Schedulers, and Jobs](./learn-java-deployment-runtime-release-delivery-engineering-part-19-stateful-java-deployment.md)

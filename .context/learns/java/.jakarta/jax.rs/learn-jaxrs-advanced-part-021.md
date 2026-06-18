@@ -2897,4 +2897,4 @@ Kita akan membahas HTTP conditional requests secara mendalam: validators, strong
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-020.md](./learn-jaxrs-advanced-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-022.md](./learn-jaxrs-advanced-part-022.md)
+[⬅️ Sebelumnya: Bagian 020 — Pagination, Sorting, Filtering, Search, and Query Contract Design: Offset vs Cursor, Stable Ordering, Allowlist, Query DTO, Index-Aware API, dan Enterprise Search Semantics](./learn-jaxrs-advanced-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 022 — Conditional Requests, ETag, Last-Modified, Optimistic Concurrency: Validators, `If-Match`, `If-None-Match`, `If-Modified-Since`, `If-Unmodified-Since`, `304`, `412`, `428`, Cache Revalidation, dan Lost Update Prevention](./learn-jaxrs-advanced-part-022.md)

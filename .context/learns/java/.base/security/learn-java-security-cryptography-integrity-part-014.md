@@ -2110,4 +2110,4 @@ Part 15 — TLS Hardening, Disabled Algorithms, and Runtime Security Properties
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-013](./learn-java-security-cryptography-integrity-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-015](./learn-java-security-cryptography-integrity-part-015.md)
+[⬅️ Sebelumnya: X.509, PKI, Certificate Path Validation, Revocation](./learn-java-security-cryptography-integrity-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — TLS Hardening, Disabled Algorithms, and Runtime Security Properties](./learn-java-security-cryptography-integrity-part-015.md)

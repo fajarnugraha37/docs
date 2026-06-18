@@ -2580,4 +2580,4 @@ Top-tier Java engineer tidak anti-boolean. Ia tahu bahwa boolean adalah alat yan
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-003.md](./learn-java-data-types-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-005.md](./learn-java-data-types-part-005.md)
+[⬅️ Sebelumnya: Java Data Types — Part 003](./learn-java-data-types-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 005](./learn-java-data-types-part-005.md)

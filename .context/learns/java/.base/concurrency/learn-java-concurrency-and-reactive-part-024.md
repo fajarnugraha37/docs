@@ -1486,4 +1486,4 @@ context boundaries, and observability.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-023.md](./learn-java-concurrency-and-reactive-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-025.md](./learn-java-concurrency-and-reactive-part-025.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 023](./learn-java-concurrency-and-reactive-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 025](./learn-java-concurrency-and-reactive-part-025.md)

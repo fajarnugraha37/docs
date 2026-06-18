@@ -1607,4 +1607,4 @@ Kita akan membahas integrasi Jakarta REST dengan MicroProfile: config-driven app
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-047.md](./learn-jaxrs-advanced-part-047.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-049.md](./learn-jaxrs-advanced-part-049.md)
+[⬅️ Sebelumnya: Bagian 047 — API Gateway, Reverse Proxy, Load Balancer, and JAX-RS Apps: Forwarded Headers, Base URI, TLS Termination, Path Rewriting, Auth Offload, Rate Limit, Request Size, Timeout, Buffering, Streaming/SSE, Observability, and Security Boundaries](./learn-jaxrs-advanced-part-047.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 049 — JAX-RS with MicroProfile: Config, Rest Client, Fault Tolerance, Telemetry/Metrics, OpenAPI, JWT, Health, and Production Runtime Patterns](./learn-jaxrs-advanced-part-049.md)

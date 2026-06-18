@@ -1803,4 +1803,4 @@ Part 001 — Evolution Map: JDBC, JPA, Hibernate, Spring Data, Jakarta Data, Jak
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 34](../mapper/learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Evolution Map: JDBC, JPA, Hibernate, Spring Data, Jakarta Data, Jakarta Transactions](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-001.md)
+[⬅️ Sebelumnya: Part 34 — Integration Architecture Capstone](../mapper/learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Evolution Map: JDBC, JPA, Hibernate, Spring Data, Jakarta Data, Jakarta Transactions](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-001.md)

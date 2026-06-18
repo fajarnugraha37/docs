@@ -2389,4 +2389,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-000](./learn-java-validation-jakarta-hibernate-validator-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-002](./learn-java-validation-jakarta-hibernate-validator-part-002.md)
+[⬅️ Sebelumnya: Validation as Contract, Boundary Defense, and Domain Integrity](./learn-java-validation-jakarta-hibernate-validator-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Core API Mental Model: `ValidatorFactory`, `Validator`, `ConstraintViolation`, and Metadata](./learn-java-validation-jakarta-hibernate-validator-part-002.md)

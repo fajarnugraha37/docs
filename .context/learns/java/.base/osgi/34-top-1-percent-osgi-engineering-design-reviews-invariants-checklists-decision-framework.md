@@ -1411,4 +1411,4 @@ Catatan: roadmap awal menyebut “35 part” dengan indexing `00` sampai `34`. J
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 33 — Advanced Runtime Customization: Embedding Frameworks, Launcher Design, Hooks, Connect](./33-advanced-runtime-customization-embedding-frameworks-launcher-hooks-connect.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-000](../reflection/learn-java-oop-functional-reflection-codegen-modules-part-000.md)
+[⬅️ Sebelumnya: Part 33 — Advanced Runtime Customization: Embedding Frameworks, Launcher Design, Hooks, Connect](./33-advanced-runtime-customization-embedding-frameworks-launcher-hooks-connect.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 000 — Orientation: Mental Model Besar Java Program Structure](../reflection/learn-java-oop-functional-reflection-codegen-modules-part-000.md)

@@ -2200,4 +2200,4 @@ Part berikutnya akan naik satu layer keluar dari container: **reverse proxy, loa
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 027](./learn-java-servlet-websocket-web-container-runtime-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 029](./learn-java-servlet-websocket-web-container-runtime-part-029.md)
+[⬅️ Sebelumnya: Part 027 — JSP, Jakarta Pages, Expression Language, JSTL: Legacy but Still Important](./learn-java-servlet-websocket-web-container-runtime-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — Reverse Proxy, Load Balancer, Kubernetes, and Cloud Runtime](./learn-java-servlet-websocket-web-container-runtime-part-029.md)

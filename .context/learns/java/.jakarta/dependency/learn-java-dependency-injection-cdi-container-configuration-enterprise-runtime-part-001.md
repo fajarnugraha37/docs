@@ -2975,4 +2975,4 @@ Progress saat ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime — Part 000](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002.md)
+[⬅️ Sebelumnya: Part 000 — Enterprise Runtime Mental Model](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — API, SPI, Implementation, Provider: The Hidden Layering of Java Enterprise](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002.md)

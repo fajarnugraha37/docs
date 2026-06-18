@@ -2430,8 +2430,6 @@ Progress:
 
 Seri **belum selesai**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

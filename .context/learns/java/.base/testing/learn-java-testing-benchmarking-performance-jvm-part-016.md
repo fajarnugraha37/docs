@@ -2512,4 +2512,4 @@ Part 017 — JMH Deep Dive I: Harness, State, Scope, Mode, Warmup, Measurement
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-015](./learn-java-testing-benchmarking-performance-jvm-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-017](./learn-java-testing-benchmarking-performance-jvm-part-017.md)
+[⬅️ Sebelumnya: Test Runtime Architecture: Build Tool, Parallel Test, Flakiness, dan CI Optimization](./learn-java-testing-benchmarking-performance-jvm-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: JMH Deep Dive I: Harness, State, Scope, Mode, Warmup, Measurement](./learn-java-testing-benchmarking-performance-jvm-part-017.md)

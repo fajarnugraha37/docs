@@ -2759,4 +2759,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-007.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-005](./learn-java-sql-jdbc-hikaricp-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-007.md](./learn-java-sql-jdbc-hikaricp-part-007.md)
+[⬅️ Sebelumnya: ResultSet Deep Dive: Cursor, Fetching, Streaming, and Memory](./learn-java-sql-jdbc-hikaricp-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — Transaction Fundamentals in JDBC](./learn-java-sql-jdbc-hikaricp-part-007.md)

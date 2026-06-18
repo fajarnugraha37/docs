@@ -2376,4 +2376,4 @@ Senior Java engineer tidak memakai enum hanya sebagai “daftar konstanta”, te
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-010.md](./learn-java-data-types-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-012.md](./learn-java-data-types-part-012.md)
+[⬅️ Sebelumnya: Java Data Types — Part 010](./learn-java-data-types-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 012](./learn-java-data-types-part-012.md)

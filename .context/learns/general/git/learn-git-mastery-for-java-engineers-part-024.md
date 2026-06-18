@@ -2253,4 +2253,4 @@ Monorepo, Polyrepo, dan Repository Architecture
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-023.md](./learn-git-mastery-for-java-engineers-part-023.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-025.md](./learn-git-mastery-for-java-engineers-part-025.md)
+[⬅️ Sebelumnya: Part 023 — Git Hooks: Automasi Lokal dan Guardrails](./learn-git-mastery-for-java-engineers-part-023.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 025 — Monorepo, Polyrepo, dan Repository Architecture](./learn-git-mastery-for-java-engineers-part-025.md)

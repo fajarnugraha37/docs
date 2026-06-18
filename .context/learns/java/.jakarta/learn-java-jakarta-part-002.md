@@ -2267,4 +2267,4 @@ Dengan mental model ini, bagian berikutnya—dependency management API/implement
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-001.md](./learn-java-jakarta-part-001.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-003.md](./learn-java-jakarta-part-003.md)
+[⬅️ Sebelumnya: Bagian 1 — Namespace Migration: `javax.*` ke `jakarta.*`](./learn-java-jakarta-part-001.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 3 — Dependency Management: API, Implementation, Runtime, dan BOM](./learn-java-jakarta-part-003.md)

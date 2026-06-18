@@ -2482,4 +2482,4 @@ Engineer senior tidak melihat array sebagai sekadar “list sederhana”, tetapi
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-008.md](./learn-java-data-types-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-010.md](./learn-java-data-types-part-010.md)
+[⬅️ Sebelumnya: Java Data Types — Part 008](./learn-java-data-types-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 010](./learn-java-data-types-part-010.md)

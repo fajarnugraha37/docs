@@ -2292,4 +2292,4 @@ Primitive itu powerful, tetapi terlalu sering dipakai untuk konsep domain yang s
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-000.md](./learn-java-data-types-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-002.md](./learn-java-data-types-part-002.md)
+[⬅️ Sebelumnya: Java Data Types — Part 000](./learn-java-data-types-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 002](./learn-java-data-types-part-002.md)

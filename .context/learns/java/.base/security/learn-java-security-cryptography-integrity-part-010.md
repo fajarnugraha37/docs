@@ -2260,4 +2260,4 @@ Part berikutnya: **Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KM
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-009](./learn-java-security-cryptography-integrity-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-011](./learn-java-security-cryptography-integrity-part-011.md)
+[⬅️ Sebelumnya: Part 9 — Digital Signature: RSA, ECDSA, EdDSA, Signing Semantics](./learn-java-security-cryptography-integrity-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KMS, HSM](./learn-java-security-cryptography-integrity-part-011.md)

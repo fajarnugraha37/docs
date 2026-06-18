@@ -2358,4 +2358,4 @@ Status seri: **belum selesai**. Ini adalah **Part 5 dari 35**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-004](./learn-java-security-cryptography-integrity-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-006](./learn-java-security-cryptography-integrity-part-006.md)
+[⬅️ Sebelumnya: Part 4 — Randomness, Entropy, Nonce, Salt, IV, Token](./learn-java-security-cryptography-integrity-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Password Storage, Password Verification, and Secret-Derived Keys](./learn-java-security-cryptography-integrity-part-006.md)

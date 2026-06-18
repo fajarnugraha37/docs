@@ -1578,4 +1578,4 @@ It is where overload, latency, memory, and lifecycle policy become real.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-020.md](./learn-java-collections-and-streams-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-022.md](./learn-java-collections-and-streams-part-022.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 020](./learn-java-collections-and-streams-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 022](./learn-java-collections-and-streams-part-022.md)

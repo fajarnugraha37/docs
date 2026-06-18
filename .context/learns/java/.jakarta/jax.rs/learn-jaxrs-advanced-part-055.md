@@ -1116,4 +1116,4 @@ Every API review should leave the system safer, clearer, more testable, and more
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-054.md](./learn-jaxrs-advanced-part-054.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Mental Model Server-Side UI di Java](../jsp/00-orientation-server-side-ui-mental-model.md)
+[⬅️ Sebelumnya: Bagian 054 — Capstone: Top 1% JAX-RS Reference Architecture — Resource Design, Domain Model, API Gateway, Security, Tenancy, Persistence, Outbox/Events, Clients, Resilience, Observability, Testing, CI/CD, Deployment, and Operational Excellence](./learn-jaxrs-advanced-part-054.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Mental Model Server-Side UI di Java](../jsp/00-orientation-server-side-ui-mental-model.md)

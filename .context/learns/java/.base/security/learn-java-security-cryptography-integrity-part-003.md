@@ -1814,4 +1814,4 @@ Progress:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-002](./learn-java-security-cryptography-integrity-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-004](./learn-java-security-cryptography-integrity-part-004.md)
+[⬅️ Sebelumnya: Part 2 — Threat Modeling for Java Systems](./learn-java-security-cryptography-integrity-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Randomness, Entropy, Nonce, Salt, IV, Token](./learn-java-security-cryptography-integrity-part-004.md)

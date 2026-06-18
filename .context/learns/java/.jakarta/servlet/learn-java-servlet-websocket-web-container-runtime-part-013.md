@@ -1697,4 +1697,4 @@ Pemahaman cookie/header tetap relevan di async karena response commit, redirect,
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-012](./learn-java-servlet-websocket-web-container-runtime-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-014](./learn-java-servlet-websocket-web-container-runtime-part-014.md)
+[⬅️ Sebelumnya: Part 012 — Session Management: `HttpSession` Deep Dive](./learn-java-servlet-websocket-web-container-runtime-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — Async Servlet: Non-Blocking Request Lifecycle](./learn-java-servlet-websocket-web-container-runtime-part-014.md)

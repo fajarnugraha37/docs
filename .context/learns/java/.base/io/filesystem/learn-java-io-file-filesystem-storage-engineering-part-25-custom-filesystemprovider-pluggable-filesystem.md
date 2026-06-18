@@ -3062,4 +3062,4 @@ Part 26 — Legacy java.io.File: Interop, Migration, and Compatibility
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 24](./learn-java-io-file-filesystem-storage-engineering-part-24-archives-virtual-filesystems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 26](./learn-java-io-file-filesystem-storage-engineering-part-26-legacy-java-io-file-interop-migration-compatibility.md)
+[⬅️ Sebelumnya: Part 24 — Archives and Virtual Filesystems: ZIP FileSystem and JAR-Like Access](./learn-java-io-file-filesystem-storage-engineering-part-24-archives-virtual-filesystems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 26 — Legacy `java.io.File`: Interop, Migration, and Compatibility](./learn-java-io-file-filesystem-storage-engineering-part-26-legacy-java-io-file-interop-migration-compatibility.md)

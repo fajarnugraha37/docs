@@ -3100,4 +3100,4 @@ Kita akan masuk ke bagaimana JAX-RS application dibootstrap, bagaimana `Applicat
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-000.md](./learn-jaxrs-advanced-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-002.md](./learn-jaxrs-advanced-part-002.md)
+[⬅️ Sebelumnya: Bagian 000 — Big Picture JAX-RS: From Annotation API to HTTP Runtime Contract](./learn-jaxrs-advanced-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 002 — Anatomy of JAX-RS Application: `Application`, Base Path, Deployment, Runtime](./learn-jaxrs-advanced-part-002.md)

@@ -1930,4 +1930,4 @@ Part 029 — Performance Engineering for Services: Thread Pool, Connection Pool,
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-027](./learn-java-testing-benchmarking-performance-jvm-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-029](./learn-java-testing-benchmarking-performance-jvm-part-029.md)
+[⬅️ Sebelumnya: Profiling & Diagnostics II: async-profiler, Flame Graph, Allocation Profile, Wall-Clock Profile](./learn-java-testing-benchmarking-performance-jvm-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Performance Engineering for Services: Thread Pool, Connection Pool, Backpressure, Timeout](./learn-java-testing-benchmarking-performance-jvm-part-029.md)

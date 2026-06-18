@@ -1456,4 +1456,4 @@ source, fused stateless stages, stateful barriers, short-circuit points, termina
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-034.md](./learn-java-collections-and-streams-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-036.md](./learn-java-collections-and-streams-part-036.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 034](./learn-java-collections-and-streams-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 036](./learn-java-collections-and-streams-part-036.md)

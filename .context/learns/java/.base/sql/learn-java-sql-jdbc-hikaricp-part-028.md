@@ -2057,4 +2057,4 @@ Part 029 — Production Playbook: Diagnosis, Tuning, Review Checklist, and Case 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-027.md](./learn-java-sql-jdbc-hikaricp-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-029](./learn-java-sql-jdbc-hikaricp-part-029.md)
+[⬅️ Sebelumnya: Part 027 — Testing JDBC Code Properly](./learn-java-sql-jdbc-hikaricp-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Production Playbook: Diagnosis, Tuning, Review Checklist, and Case Studies](./learn-java-sql-jdbc-hikaricp-part-029.md)

@@ -1757,4 +1757,4 @@ Di sana kita akan membahas struktur linear untuk kontrol alur: LIFO, FIFO, bound
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dsa-part-003.md](./learn-java-dsa-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-005 — Stack, Queue, Deque, Ring Buffer](./learn-java-dsa-part-005.md)
+[⬅️ Sebelumnya: Part 003 — Arrays, Dynamic Arrays, `ArrayList`, dan Cost Model-nya](./learn-java-dsa-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Stack, Queue, Deque, Ring Buffer](./learn-java-dsa-part-005.md)

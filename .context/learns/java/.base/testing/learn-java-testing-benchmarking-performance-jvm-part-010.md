@@ -2611,4 +2611,4 @@ Progress saat ini: **Part 010 dari 031 selesai**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-009](./learn-java-testing-benchmarking-performance-jvm-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-011](./learn-java-testing-benchmarking-performance-jvm-part-011.md)
+[⬅️ Sebelumnya: Testing Persistence: JDBC, JPA, Transaction, Isolation, Locking, dan Migration](./learn-java-testing-benchmarking-performance-jvm-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Testing Messaging, Event Flow, Outbox, Scheduler, dan Async Processing](./learn-java-testing-benchmarking-performance-jvm-part-011.md)

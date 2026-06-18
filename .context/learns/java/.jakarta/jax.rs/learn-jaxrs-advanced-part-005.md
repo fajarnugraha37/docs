@@ -4040,4 +4040,4 @@ Kita akan membedah semua mekanisme parameter injection, conversion, default valu
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-004.md](./learn-jaxrs-advanced-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-006.md](./learn-jaxrs-advanced-part-006.md)
+[⬅️ Sebelumnya: Bagian 004 — Request Matching Algorithm Deep Dive: Path Template, Specificity, Subresource, Media Type, dan Debugging 404/405/406/415](./learn-jaxrs-advanced-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 006 — Parameter Injection: `@PathParam`, `@QueryParam`, `@HeaderParam`, `@CookieParam`, `@MatrixParam`, `@DefaultValue`, `@BeanParam`](./learn-jaxrs-advanced-part-006.md)

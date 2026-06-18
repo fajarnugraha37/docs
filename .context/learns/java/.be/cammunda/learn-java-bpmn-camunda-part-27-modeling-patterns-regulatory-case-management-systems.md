@@ -2673,4 +2673,4 @@ If the system can answer those questions consistently, BPMN/Camunda is being use
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-26-process-versioning-deployment-strategy-change-management.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-28-workflow-engine-vs-state-machine-rules-engine-temporal.md)
+[⬅️ Sebelumnya: Part 26 — Process Versioning, Deployment Strategy, and Change Management](./learn-java-bpmn-camunda-part-26-process-versioning-deployment-strategy-change-management.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Workflow Engine vs State Machine vs Rules Engine vs Temporal](./learn-java-bpmn-camunda-part-28-workflow-engine-vs-state-machine-rules-engine-temporal.md)

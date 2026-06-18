@@ -2624,4 +2624,4 @@ Part 009 — Bean Discovery and Archive Model
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 007 — JSR-330 / Jakarta Inject: Minimal DI Vocabulary](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009.md)
+[⬅️ Sebelumnya: Part 007 — JSR-330 / Jakarta Inject: Minimal DI Vocabulary](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 009 — Bean Discovery and Archive Model](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009.md)

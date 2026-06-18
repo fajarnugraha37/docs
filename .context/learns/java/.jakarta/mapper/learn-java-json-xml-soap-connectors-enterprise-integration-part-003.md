@@ -2746,4 +2746,4 @@ Berikutnya: **Part 4 — JSON-P Streaming Deep Dive**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-002](./learn-java-json-xml-soap-connectors-enterprise-integration-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-004](./learn-java-json-xml-soap-connectors-enterprise-integration-part-004.md)
+[⬅️ Sebelumnya: Part 2 — Java JSON Ecosystem Map: JSON-P, JSON-B, Jackson, Gson, Provider Runtime, dan Pilihan Library yang Benar](./learn-java-json-xml-soap-connectors-enterprise-integration-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — JSON-P Streaming Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-004.md)

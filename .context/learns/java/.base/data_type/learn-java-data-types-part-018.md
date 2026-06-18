@@ -2158,4 +2158,4 @@ Dari pertanyaan itu, type yang benar akan terlihat.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-017.md](./learn-java-data-types-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-019.md](./learn-java-data-types-part-019.md)
+[⬅️ Sebelumnya: Java Data Types — Part 017](./learn-java-data-types-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 019](./learn-java-data-types-part-019.md)

@@ -2326,4 +2326,4 @@ Status seri: belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-011](./learn-java-oop-functional-reflection-codegen-modules-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-013](./learn-java-oop-functional-reflection-codegen-modules-part-013.md)
+[⬅️ Sebelumnya: Generics for API Designers: Variance, Bounds, Erasure, and Type Tokens](./learn-java-oop-functional-reflection-codegen-modules-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Composition, Delegation, Mixins, and Object Collaboration Design](./learn-java-oop-functional-reflection-codegen-modules-part-013.md)

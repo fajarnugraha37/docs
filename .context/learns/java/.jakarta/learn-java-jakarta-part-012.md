@@ -3058,4 +3058,4 @@ Bagian berikutnya akan membahas **Jakarta Data**, yaitu repository abstraction s
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-011.md](./learn-java-jakarta-part-011.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-013.md](./learn-java-jakarta-part-013.md)
+[⬅️ Sebelumnya: Bagian 11 — Jakarta JSON Binding (`jakarta.json.bind` / JSON-B)](./learn-java-jakarta-part-011.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 13 — Jakarta Data: Repository Abstraction Standar](./learn-java-jakarta-part-013.md)

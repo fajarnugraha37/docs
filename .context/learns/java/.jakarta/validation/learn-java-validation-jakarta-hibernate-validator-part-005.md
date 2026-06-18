@@ -2536,4 +2536,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-004](./learn-java-validation-jakarta-hibernate-validator-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-006](./learn-java-validation-jakarta-hibernate-validator-part-006.md)
+[⬅️ Sebelumnya: Nullability Strategy: `@NotNull`, Optional, Defaults, and Domain Absence](./learn-java-validation-jakarta-hibernate-validator-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Container Element Constraints: Lists, Maps, Optional, Custom Containers](./learn-java-validation-jakarta-hibernate-validator-part-006.md)

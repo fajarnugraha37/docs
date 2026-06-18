@@ -1848,4 +1848,4 @@ Senior Java engineer uses pattern matching not as syntax sugar, but as a compile
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-013.md](./learn-java-data-types-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-015.md](./learn-java-data-types-part-015.md)
+[⬅️ Sebelumnya: Java Data Types — Part 013](./learn-java-data-types-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 015](./learn-java-data-types-part-015.md)

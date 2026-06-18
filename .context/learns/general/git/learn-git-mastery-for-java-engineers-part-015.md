@@ -2261,4 +2261,4 @@ Harus revert, reset, restore, checkout, atau cherry-pick?
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-014.md](./learn-git-mastery-for-java-engineers-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-016.md](./learn-git-mastery-for-java-engineers-part-016.md)
+[⬅️ Sebelumnya: Part 014 — Git Workflow untuk Tim: Trunk-Based, Git Flow, GitHub Flow](./learn-git-mastery-for-java-engineers-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 016 — Cherry-Pick, Revert, Reset: Memilih Operasi Koreksi yang Tepat](./learn-git-mastery-for-java-engineers-part-016.md)

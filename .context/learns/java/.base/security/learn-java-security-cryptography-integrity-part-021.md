@@ -2764,4 +2764,4 @@ High-integrity systems should treat authorization as part of state integrity. Au
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-020](./learn-java-security-cryptography-integrity-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-022](./learn-java-security-cryptography-integrity-part-022.md)
+[⬅️ Sebelumnya: OAuth2/OIDC Security for Java Systems Without Repeating Jakarta/JAX-RS](./learn-java-security-cryptography-integrity-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Input Validation, Canonicalization, Injection Resistance](./learn-java-security-cryptography-integrity-part-022.md)

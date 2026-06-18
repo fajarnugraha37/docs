@@ -1939,4 +1939,4 @@ API Evolution, Binary Compatibility, Semantic Versioning, and Library Design
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-027](./learn-java-oop-functional-reflection-codegen-modules-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-029](./learn-java-oop-functional-reflection-codegen-modules-part-029.md)
+[⬅️ Sebelumnya: JPMS Deep Dive II: Opens, Reflection, Services, Layers, and Runtime Images](./learn-java-oop-functional-reflection-codegen-modules-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: API Evolution, Binary Compatibility, Semantic Versioning, and Library Design](./learn-java-oop-functional-reflection-codegen-modules-part-029.md)

@@ -1942,4 +1942,4 @@ Total: 32 part.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-030](./learn-java-testing-benchmarking-performance-jvm-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](../../.be/cammunda/learn-java-bpmn-camunda-part-00-orientation.md)
+[⬅️ Sebelumnya: Performance Regression Pipeline: CI Benchmark, Baseline, Threshold, and Release Gate](./learn-java-testing-benchmarking-performance-jvm-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Dari CRUD Engineer ke Process Orchestration Engineer](../../.be/cammunda/learn-java-bpmn-camunda-part-00-orientation.md)

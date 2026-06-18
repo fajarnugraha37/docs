@@ -2066,4 +2066,4 @@ Architecture Patterns: Validation Layering in Large Systems
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-026](./learn-java-validation-jakarta-hibernate-validator-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-028](./learn-java-validation-jakarta-hibernate-validator-part-028.md)
+[⬅️ Sebelumnya: Testing Validation: Unit, Integration, Contract, Mutation, and Property-Based Tests](./learn-java-validation-jakarta-hibernate-validator-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Architecture Patterns: Validation Layering in Large Systems](./learn-java-validation-jakarta-hibernate-validator-part-028.md)

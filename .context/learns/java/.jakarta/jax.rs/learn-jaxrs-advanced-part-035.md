@@ -1858,4 +1858,4 @@ Kita akan membahas testing outbound HTTP client: mock server, timeout/retry/circ
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-034.md](./learn-jaxrs-advanced-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-036.md](./learn-jaxrs-advanced-part-036.md)
+[⬅️ Sebelumnya: Bagian 034 — OpenAPI and Documentation Strategy: Contract Artifact, Code-First vs Spec-First, MicroProfile OpenAPI, Schema Design, Examples, Error Docs, Versioned Specs, Governance, CI Validation, Codegen, and Docs-as-Product](./learn-jaxrs-advanced-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 036 — Testing JAX-RS Client: Mock Server, Request Verification, Timeout/Retry/Circuit Tests, Problem Details Decoder, Streaming Download, Upload, SSE Client, Contract Tests, and Resilience Fault Injection](./learn-jaxrs-advanced-part-036.md)

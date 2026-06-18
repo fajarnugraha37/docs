@@ -2800,4 +2800,4 @@ Itulah perbedaan antara memakai Git sebagai command-line tool dan memakai Git se
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-006.md](./learn-git-mastery-for-java-engineers-part-006.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-008.md](./learn-git-mastery-for-java-engineers-part-008.md)
+[⬅️ Sebelumnya: Part 006 — Diff Mental Model: Membandingkan State, Bukan Sekadar File](./learn-git-mastery-for-java-engineers-part-006.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Menggabungkan Sejarah Tanpa Kehilangan Konteks](./learn-git-mastery-for-java-engineers-part-008.md)

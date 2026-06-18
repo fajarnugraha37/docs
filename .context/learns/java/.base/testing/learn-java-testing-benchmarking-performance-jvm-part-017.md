@@ -2798,4 +2798,4 @@ Progress: **Part 017 dari 031 selesai**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-016](./learn-java-testing-benchmarking-performance-jvm-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-018](./learn-java-testing-benchmarking-performance-jvm-part-018.md)
+[⬅️ Sebelumnya: Part 016 — Benchmarking Fundamentals: Latency, Throughput, Percentile, Warmup, dan Noise](./learn-java-testing-benchmarking-performance-jvm-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: JMH Deep Dive II: Benchmark Pitfalls dan Benchmark Design Patterns](./learn-java-testing-benchmarking-performance-jvm-part-018.md)

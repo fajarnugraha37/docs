@@ -2893,4 +2893,4 @@ Dengan pemahaman ini, bagian berikutnya tentang **Jakarta JSON Binding / JSON-B*
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-009.md](./learn-java-jakarta-part-009.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-011.md](./learn-java-jakarta-part-011.md)
+[⬅️ Sebelumnya: Bagian 9 — Jakarta RESTful Web Services (`jakarta.ws.rs`) Production-Grade](./learn-java-jakarta-part-009.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 11 — Jakarta JSON Binding (`jakarta.json.bind` / JSON-B)](./learn-java-jakarta-part-011.md)

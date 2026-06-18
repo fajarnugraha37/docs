@@ -3041,4 +3041,4 @@ Setelah menyelesaikan part ini, Anda seharusnya mampu:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-028](./learn-java-oop-functional-reflection-codegen-modules-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-030](./learn-java-oop-functional-reflection-codegen-modules-part-030.md)
+[⬅️ Sebelumnya: Maven/Gradle Dependency Governance for Serious Java Systems](./learn-java-oop-functional-reflection-codegen-modules-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Capstone: Designing a Modular, Reflective, Generated-Code Friendly Java Library](./learn-java-oop-functional-reflection-codegen-modules-part-030.md)

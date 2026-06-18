@@ -1780,4 +1780,4 @@ Seri **belum selesai**. Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dsa-part-001.md](./learn-java-dsa-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-003.md](./learn-java-dsa-part-003.md)
+[⬅️ Sebelumnya: Part 001 — Complexity Analysis yang Realistis di Java](./learn-java-dsa-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Arrays, Dynamic Arrays, `ArrayList`, dan Cost Model-nya](./learn-java-dsa-part-003.md)

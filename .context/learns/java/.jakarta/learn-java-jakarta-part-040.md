@@ -3067,4 +3067,4 @@ Appendix/lanjutan opsional yang masih bisa dibuat setelah ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-039.md](./learn-java-jakarta-part-039.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Email as a Distributed System](./mail/00-orientation-email-as-distributed-system.md)
+[⬅️ Sebelumnya: Bagian 39 — Jakarta EE Migration & Modernization Playbook: Java EE/Jakarta Legacy ke Jakarta EE 11 dan Runtime Modern](./learn-java-jakarta-part-039.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Email as a Distributed System](./mail/00-orientation-email-as-distributed-system.md)

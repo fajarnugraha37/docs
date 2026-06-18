@@ -2398,4 +2398,4 @@ Kita akan membahas outbound resilience secara mendalam: timeout budget, deadline
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-028.md](./learn-jaxrs-advanced-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-030.md](./learn-jaxrs-advanced-part-030.md)
+[⬅️ Sebelumnya: Bagian 028 — JAX-RS Client API: Mental Model and Core Usage: `Client`, `ClientBuilder`, `WebTarget`, `Invocation.Builder`, `Entity`, `Response`, Headers, Cookies, Timeouts, Providers, and Safe Resource Management](./learn-jaxrs-advanced-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 030 — Client Resilience: Timeout, Retry, Circuit Breaker, Bulkhead, Rate Limit, Idempotency, Deadline Budget, Fallback, and Production-Grade Outbound HTTP Policy](./learn-jaxrs-advanced-part-030.md)

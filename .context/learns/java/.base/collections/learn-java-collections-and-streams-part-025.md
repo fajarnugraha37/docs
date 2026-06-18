@@ -1586,4 +1586,4 @@ Before designing operations, understand source order, size, lifetime, mutability
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-024.md](./learn-java-collections-and-streams-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-026.md](./learn-java-collections-and-streams-part-026.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 024](./learn-java-collections-and-streams-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 026](./learn-java-collections-and-streams-part-026.md)

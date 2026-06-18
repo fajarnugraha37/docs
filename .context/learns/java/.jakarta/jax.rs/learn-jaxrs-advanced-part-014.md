@@ -2988,4 +2988,4 @@ Kita akan membahas filter pipeline: pre-matching vs post-matching, auth/correlat
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-013.md](./learn-jaxrs-advanced-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-015.md](./learn-jaxrs-advanced-part-015.md)
+[⬅️ Sebelumnya: Bagian 013 — Error Handling Architecture: Exceptions, `ExceptionMapper`, `WebApplicationException`, RFC 9457 Problem Details, Error Taxonomy, dan Production Error Contract](./learn-jaxrs-advanced-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 015 — Filters: `ContainerRequestFilter`, `ContainerResponseFilter`, Pre-Matching, Post-Matching, `abortWith`, Priority, Name Binding, dan Cross-Cutting REST Boundary](./learn-jaxrs-advanced-part-015.md)

@@ -1926,4 +1926,4 @@ Kita akan membahas:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 03](./learn-java-io-file-filesystem-storage-engineering-part-03-file-creation-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 05](./learn-java-io-file-filesystem-storage-engineering-part-05-reading-files-correctly.md)
+[⬅️ Sebelumnya: Part 03 — File Creation Semantics: Atomic Create, Temp File, Directory Creation](./learn-java-io-file-filesystem-storage-engineering-part-03-file-creation-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 05 — Reading Files Correctly: Small File, Large File, Streaming, Lazy Lines](./learn-java-io-file-filesystem-storage-engineering-part-05-reading-files-correctly.md)

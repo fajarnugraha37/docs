@@ -2308,4 +2308,4 @@ Part berikutnya akan melanjutkan tema representasi, tetapi fokusnya bergeser dar
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dsa-part-021 — Sliding Window, Two Pointers, Prefix Sum, Difference Array](./learn-java-dsa-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-023 — Disjoint Set, Indexing, Sparse vs Dense Data](./learn-java-dsa-part-023.md)
+[⬅️ Sebelumnya: Part 021 — Sliding Window, Two Pointers, Prefix Sum, Difference Array](./learn-java-dsa-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — Disjoint Set, Indexing, Sparse vs Dense Data](./learn-java-dsa-part-023.md)

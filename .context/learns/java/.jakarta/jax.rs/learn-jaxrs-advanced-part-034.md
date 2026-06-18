@@ -2213,4 +2213,4 @@ Kita akan membahas testing server-side JAX-RS secara mendalam: unit test resourc
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-033.md](./learn-jaxrs-advanced-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-035.md](./learn-jaxrs-advanced-part-035.md)
+[⬅️ Sebelumnya: Bagian 033 — API Versioning Strategy: URI Versioning, Media Type Versioning, Header Versioning, Compatibility Rules, Deprecation, Sunset, Consumer Migration, and Enterprise API Governance](./learn-jaxrs-advanced-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 035 — Testing JAX-RS Server: Unit Test, Integration Test, Runtime Pipeline, Filters, Providers, Exception Mappers, Validation, Security, Async, Streaming, Multipart, Contract Tests, and Production-Grade Test Strategy](./learn-jaxrs-advanced-part-035.md)

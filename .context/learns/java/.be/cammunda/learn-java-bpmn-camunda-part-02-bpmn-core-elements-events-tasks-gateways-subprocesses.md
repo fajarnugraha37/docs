@@ -3021,4 +3021,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-01-bpmn-20-deep-semantics-execution-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-03-bpmn-modeling-discipline-production-ready-models.md)
+[⬅️ Sebelumnya: Part 1 — BPMN 2.0 Deep Semantics: Bukan Diagram, Tapi Execution Contract](./learn-java-bpmn-camunda-part-01-bpmn-20-deep-semantics-execution-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — BPMN Modeling Discipline: Membuat Process Model yang Bisa Hidup di Production](./learn-java-bpmn-camunda-part-03-bpmn-modeling-discipline-production-ready-models.md)

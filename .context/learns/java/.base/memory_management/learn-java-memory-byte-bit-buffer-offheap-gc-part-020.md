@@ -2107,4 +2107,4 @@ G1 GC Deep Dive: Regions, SATB, Remembered Sets, Mixed Collections
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-019](./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-021](./learn-java-memory-byte-bit-buffer-offheap-gc-part-021.md)
+[⬅️ Sebelumnya: Generational GC Internals: Young, Survivor, Old, Promotion, Card Marking](./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: G1 GC Deep Dive: Regions, SATB, Remembered Sets, Mixed Collections](./learn-java-memory-byte-bit-buffer-offheap-gc-part-021.md)

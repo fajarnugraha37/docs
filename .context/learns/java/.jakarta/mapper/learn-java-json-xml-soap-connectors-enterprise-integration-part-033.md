@@ -1628,4 +1628,4 @@ Part ini menyelesaikan fondasi JCA reliability. Bagian berikutnya adalah bagian 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 032](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 34](./learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md)
+[⬅️ Sebelumnya: Part 032 — JCA Inbound/Outbound Architecture](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Integration Architecture Capstone](./learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md)

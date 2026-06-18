@@ -1394,4 +1394,4 @@ performance, and consistency consequences.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-049.md](./learn-java-collections-and-streams-part-049.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-052.md](./learn-java-collections-and-streams-part-052.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 049](./learn-java-collections-and-streams-part-049.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 052](./learn-java-collections-and-streams-part-052.md)

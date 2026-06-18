@@ -1404,4 +1404,4 @@ nulls, ordering, concurrency, and lifecycle.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-054.md](./learn-java-collections-and-streams-part-054.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-056.md](./learn-java-collections-and-streams-part-056.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 054](./learn-java-collections-and-streams-part-054.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 056](./learn-java-collections-and-streams-part-056.md)

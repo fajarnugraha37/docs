@@ -2698,4 +2698,4 @@ Masih lanjut ke part 005 sampai part 030.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-003](./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-005](./learn-java-memory-byte-bit-buffer-offheap-gc-part-005.md)
+[⬅️ Sebelumnya: Object Layout in HotSpot: Header, Mark Word, Klass Pointer, Padding](./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Stack, Heap, Metaspace, Code Cache, Thread Memory](./learn-java-memory-byte-bit-buffer-offheap-gc-part-005.md)

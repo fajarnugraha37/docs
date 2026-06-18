@@ -2849,4 +2849,4 @@ Macrobenchmark, Load Test, Stress Test, Soak Test, dan Capacity Test
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-017](./learn-java-testing-benchmarking-performance-jvm-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-019](./learn-java-testing-benchmarking-performance-jvm-part-019.md)
+[⬅️ Sebelumnya: JMH Deep Dive I: Harness, State, Scope, Mode, Warmup, Measurement](./learn-java-testing-benchmarking-performance-jvm-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Macrobenchmark, Load Test, Stress Test, Soak Test, dan Capacity Test](./learn-java-testing-benchmarking-performance-jvm-part-019.md)

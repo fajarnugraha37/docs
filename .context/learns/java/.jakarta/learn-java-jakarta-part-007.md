@@ -3147,4 +3147,4 @@ Bagian berikutnya akan membahas **Interceptors dan Decorators** secara lebih men
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-006.md](./learn-java-jakarta-part-006.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-008.md](./learn-java-jakarta-part-008.md)
+[⬅️ Sebelumnya: Bagian 6 — `jakarta.inject`: Dependency Injection Minimal](./learn-java-jakarta-part-006.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 8 — Jakarta Interceptors dan CDI Decorators](./learn-java-jakarta-part-008.md)

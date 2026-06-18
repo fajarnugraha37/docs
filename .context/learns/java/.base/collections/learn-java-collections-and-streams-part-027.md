@@ -1420,4 +1420,4 @@ it decides execution, result shape, ordering cost, side effects, memory allocati
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-026.md](./learn-java-collections-and-streams-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-028.md](./learn-java-collections-and-streams-part-028.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 026](./learn-java-collections-and-streams-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 028](./learn-java-collections-and-streams-part-028.md)

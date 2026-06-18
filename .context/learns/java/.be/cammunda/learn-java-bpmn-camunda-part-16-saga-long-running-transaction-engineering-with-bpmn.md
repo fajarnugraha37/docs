@@ -2186,4 +2186,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering  ](./learn-java-bpmn-camunda-part-17-camunda-7-embedded-engine-job-executor-transactions-spring-boot.md)
+[⬅️ Sebelumnya: Part 15 — Subprocess, Call Activity, Reusable Process, and Process Composition](./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Camunda 7 Deep Dive: Embedded Engine, Job Executor, Transactions, and Spring Boot](./learn-java-bpmn-camunda-part-17-camunda-7-embedded-engine-job-executor-transactions-spring-boot.md)

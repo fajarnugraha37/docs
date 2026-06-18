@@ -2321,4 +2321,4 @@ Seri belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-023.md](./learn-java-reliability-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-025.md](./learn-java-reliability-part-025.md)
+[⬅️ Sebelumnya: Part 023 — Observability for Errors and Reliability](./learn-java-reliability-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 025 — Security and Compliance in Error Handling](./learn-java-reliability-part-025.md)

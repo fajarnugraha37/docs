@@ -3214,4 +3214,4 @@ Payload, Severity, Error Codes, and Machine-Readable Violations
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-012](./learn-java-validation-jakarta-hibernate-validator-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-014](./learn-java-validation-jakarta-hibernate-validator-part-014.md)
+[⬅️ Sebelumnya: Records, Immutability, Builders, Lombok, and Modern Java Modeling](./learn-java-validation-jakarta-hibernate-validator-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Payload, Severity, Error Codes, and Machine-Readable Violations](./learn-java-validation-jakarta-hibernate-validator-part-014.md)

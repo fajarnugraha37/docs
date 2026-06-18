@@ -2321,4 +2321,4 @@ Di sana kita akan membahas **MyBatis Dynamic SQL library**, yaitu pendekatan pro
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 7 — Advanced Result Mapping: Constructor, Record, Immutable DTO, Nested Object](./07-advanced-result-mapping-constructor-record-immutable-dto-nested-object.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 09 — MyBatis Dynamic SQL Library: Type-Safe Query Generation](./09-mybatis-dynamic-sql-library-type-safe-query-generation.md)
+[⬅️ Sebelumnya: Part 7 — Advanced Result Mapping: Constructor, Record, Immutable DTO, Nested Object](./07-advanced-result-mapping-constructor-record-immutable-dto-nested-object.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: MyBatis Dynamic SQL Library: Type-Safe Query Generation](./09-mybatis-dynamic-sql-library-type-safe-query-generation.md)

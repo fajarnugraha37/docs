@@ -1893,4 +1893,4 @@ Are its elements immutable?
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-009.md](./learn-java-collections-and-streams-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-011.md](./learn-java-collections-and-streams-part-011.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 009](./learn-java-collections-and-streams-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 011](./learn-java-collections-and-streams-part-011.md)

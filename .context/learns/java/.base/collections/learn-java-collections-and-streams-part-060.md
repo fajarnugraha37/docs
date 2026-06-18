@@ -1707,4 +1707,4 @@ concurrency, lifecycle, security visibility, and observability.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-059.md](./learn-java-collections-and-streams-part-059.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-061.md](./learn-java-collections-and-streams-part-061.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 059](./learn-java-collections-and-streams-part-059.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 061](./learn-java-collections-and-streams-part-061.md)

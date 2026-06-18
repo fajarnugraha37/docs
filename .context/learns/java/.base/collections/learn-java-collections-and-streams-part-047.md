@@ -1690,4 +1690,4 @@ and how will the type/API prevent invalid states?”
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-046.md](./learn-java-collections-and-streams-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-048.md](./learn-java-collections-and-streams-part-048.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 046](./learn-java-collections-and-streams-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 048](./learn-java-collections-and-streams-part-048.md)

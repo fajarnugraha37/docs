@@ -2739,4 +2739,4 @@ Bagian berikutnya akan membahas **Jakarta Batch (`jakarta.batch`)**: job, step, 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-019.md](./learn-java-jakarta-part-019.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-021.md](./learn-java-jakarta-part-021.md)
+[⬅️ Sebelumnya: Bagian 19 — Jakarta Messaging (`jakarta.jms`): Queue, Topic, Reliability, dan Event-Driven Boundary](./learn-java-jakarta-part-019.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 21 — Jakarta Batch (`jakarta.batch`): Job, Step, Chunk, Checkpoint, Restartability, dan Production Batch Processing](./learn-java-jakarta-part-021.md)

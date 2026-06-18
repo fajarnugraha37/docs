@@ -2421,4 +2421,4 @@ Jika statement itu benar, record adalah pilihan sangat kuat. Jika tidak benar, g
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-011.md](./learn-java-data-types-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-013.md](./learn-java-data-types-part-013.md)
+[⬅️ Sebelumnya: Java Data Types — Part 011](./learn-java-data-types-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 013](./learn-java-data-types-part-013.md)

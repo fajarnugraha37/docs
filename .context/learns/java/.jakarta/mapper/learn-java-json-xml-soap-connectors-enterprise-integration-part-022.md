@@ -2047,4 +2047,4 @@ Status seri: **belum selesai**. Part ini adalah **Part 22 dari 34**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 21](./learn-java-json-xml-soap-connectors-enterprise-integration-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 23](./learn-java-json-xml-soap-connectors-enterprise-integration-part-023.md)
+[⬅️ Sebelumnya: Part 21 — JAXB Runtime, Performance & Migration](./learn-java-json-xml-soap-connectors-enterprise-integration-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — WSDL Deep Dive: Contract, Types, Messages, Port Types, Bindings, Services, and Evolution](./learn-java-json-xml-soap-connectors-enterprise-integration-part-023.md)

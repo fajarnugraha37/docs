@@ -2040,4 +2040,4 @@ Part 031 — Capstone: Full Performance Investigation from Symptom to JVM Config
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-029](./learn-java-testing-benchmarking-performance-jvm-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-031](./learn-java-testing-benchmarking-performance-jvm-part-031.md)
+[⬅️ Sebelumnya: Performance Engineering for Services: Thread Pool, Connection Pool, Backpressure, Timeout](./learn-java-testing-benchmarking-performance-jvm-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Full Performance Investigation from Symptom to JVM Configuration](./learn-java-testing-benchmarking-performance-jvm-part-031.md)

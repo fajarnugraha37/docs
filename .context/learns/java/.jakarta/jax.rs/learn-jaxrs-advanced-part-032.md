@@ -2315,4 +2315,4 @@ Kita akan membahas versioning API secara mendalam: URI versioning, media type ve
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-031.md](./learn-jaxrs-advanced-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-033.md](./learn-jaxrs-advanced-part-033.md)
+[⬅️ Sebelumnya: Bagian 031 — CDI Integration and Resource/Provider Injection: Resource Lifecycle, Provider Lifecycle, `@Inject`, `@Context`, Scopes, Proxies, Request Context, Thread Safety, Testing, and Production Patterns](./learn-jaxrs-advanced-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 033 — API Versioning Strategy: URI Versioning, Media Type Versioning, Header Versioning, Compatibility Rules, Deprecation, Sunset, Consumer Migration, and Enterprise API Governance](./learn-jaxrs-advanced-part-033.md)

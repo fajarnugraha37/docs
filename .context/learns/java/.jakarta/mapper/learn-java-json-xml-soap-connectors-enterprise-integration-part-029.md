@@ -1918,4 +1918,4 @@ Kita belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 28  ](./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 30](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md)
+[⬅️ Sebelumnya: Part 28 — * Interoperability Field Guide](./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Legacy SOAP Modernization Patterns](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md)

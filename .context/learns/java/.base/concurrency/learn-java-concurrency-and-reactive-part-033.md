@@ -1632,4 +1632,4 @@ Not by trend.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-032.md](./learn-java-concurrency-and-reactive-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-034.md](./learn-java-concurrency-and-reactive-part-034.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 032](./learn-java-concurrency-and-reactive-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 034](./learn-java-concurrency-and-reactive-part-034.md)

@@ -17,4 +17,4 @@ Pastikan Anda telah menyalakan GitHub Pages di pengaturan repositori Anda (Setti
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[🏠 Daftar Isi](./index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-000.md](./general/git/learn-git-mastery-for-java-engineers-part-000.md)
+[🏠 Daftar Isi](./index.md) | [Selanjutnya ➡️: Part 000 — Peta Belajar Git Mastery untuk Java Software Engineers](./general/git/learn-git-mastery-for-java-engineers-part-000.md)

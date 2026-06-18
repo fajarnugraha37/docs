@@ -2179,4 +2179,4 @@ Fokus Bagian 1:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-030](.jakarta/validation/learn-java-validation-jakarta-hibernate-validator-part-030.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 001 — Setup, Toolchain, dan Cara Kerja Build Java Modern hingga Java 25](./learn-java-part-001.md)
+[⬅️ Sebelumnya: Designing a Production-Grade Validation Framework for a Case Management Platform](.jakarta/validation/learn-java-validation-jakarta-hibernate-validator-part-030.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 001 — Setup, Toolchain, dan Cara Kerja Build Java Modern hingga Java 25](./learn-java-part-001.md)

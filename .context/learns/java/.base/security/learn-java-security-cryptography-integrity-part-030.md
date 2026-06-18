@@ -3302,4 +3302,4 @@ Remaining:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-029](./learn-java-security-cryptography-integrity-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-031](./learn-java-security-cryptography-integrity-part-031.md)
+[⬅️ Sebelumnya: Part 29 — Secure Build, CI/CD, and Release Integrity for Java](./learn-java-security-cryptography-integrity-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Security Testing: Unit, Property, Fuzzing, SAST, DAST, IAST](./learn-java-security-cryptography-integrity-part-031.md)

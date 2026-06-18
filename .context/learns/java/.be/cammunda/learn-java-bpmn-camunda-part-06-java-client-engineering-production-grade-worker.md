@@ -2760,4 +2760,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-05-camunda-8-runtime-internals-zeebe-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-07-job-worker-reliability-idempotency-retry-backoff-poison-jobs.md)
+[⬅️ Sebelumnya: Part 5 — Camunda 8 Runtime Internals: Zeebe Mental Model](./learn-java-bpmn-camunda-part-05-camunda-8-runtime-internals-zeebe-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Job Worker Reliability: Idempotency, Retry, Backoff, Poison Jobs](./learn-java-bpmn-camunda-part-07-job-worker-reliability-idempotency-retry-backoff-poison-jobs.md)

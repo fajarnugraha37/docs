@@ -2482,4 +2482,4 @@ Itulah dasar untuk memahami Java object model, collections, generics, records, s
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-005.md](./learn-java-data-types-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-007.md](./learn-java-data-types-part-007.md)
+[⬅️ Sebelumnya: Java Data Types — Part 005](./learn-java-data-types-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 007](./learn-java-data-types-part-007.md)

@@ -2176,4 +2176,4 @@ Topik berikutnya akan membahas bagaimana schema migration, app deployment, dual-
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: 18 — Idempotent and Deterministic Seed Design](./18-idempotent-deterministic-seed-design.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Expand/Contract Pattern for Zero-Downtime Migration](./20-expand-contract-zero-downtime-migration.md)
+[⬅️ Sebelumnya: Idempotent and Deterministic Seed Design](./18-idempotent-deterministic-seed-design.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Expand/Contract Pattern for Zero-Downtime Migration](./20-expand-contract-zero-downtime-migration.md)

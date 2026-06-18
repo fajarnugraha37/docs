@@ -2113,4 +2113,4 @@ Di sana kita akan membedah bagaimana jenis reference memengaruhi reachability, k
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-006](./learn-java-memory-byte-bit-buffer-offheap-gc-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-008](./learn-java-memory-byte-bit-buffer-offheap-gc-part-008.md)
+[⬅️ Sebelumnya: Allocation Mechanics: TLAB, Fast Path, Slow Path, Escape Analysis](./learn-java-memory-byte-bit-buffer-offheap-gc-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java References Deep Dive: Strong, Soft, Weak, Phantom, Cleaner](./learn-java-memory-byte-bit-buffer-offheap-gc-part-008.md)

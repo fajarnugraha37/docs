@@ -2293,4 +2293,4 @@ This is how deployment knowledge becomes durable team capability.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering — Part 32](./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering — Part 34](./learn-java-deployment-runtime-release-delivery-engineering-part-34-capstone-designing-java-deployment-platform.md)
+[⬅️ Sebelumnya: Part 32 — Enterprise Governance: Change Request, Auditability, Approval, Compliance](./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Designing a Production-Grade Java Deployment Platform](./learn-java-deployment-runtime-release-delivery-engineering-part-34-capstone-designing-java-deployment-platform.md)

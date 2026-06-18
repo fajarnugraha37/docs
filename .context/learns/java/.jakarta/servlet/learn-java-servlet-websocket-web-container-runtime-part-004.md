@@ -2318,4 +2318,4 @@ Part 005 berikutnya
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-003](./learn-java-servlet-websocket-web-container-runtime-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-005](./learn-java-servlet-websocket-web-container-runtime-part-005.md)
+[⬅️ Sebelumnya: Part 003 — Servlet Container Architecture](./learn-java-servlet-websocket-web-container-runtime-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Request Object Internals: `HttpServletRequest`](./learn-java-servlet-websocket-web-container-runtime-part-005.md)

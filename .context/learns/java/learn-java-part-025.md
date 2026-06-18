@@ -2424,4 +2424,4 @@ Jika kamu bisa membaca semua sinyal itu dan menghubungkannya dengan domain serta
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-part-024.md](./learn-java-part-024.md) | [🏠 Daftar Isi](../index.md)
+[⬅️ Sebelumnya: Bagian 24 — Capstone: Java Engineering Mastery dan Production-Grade Decision Making](./learn-java-part-024.md) | [🏠 Daftar Isi](../index.md)

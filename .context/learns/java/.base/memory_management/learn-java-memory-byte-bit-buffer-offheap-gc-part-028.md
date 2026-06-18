@@ -2452,4 +2452,4 @@ Di bagian berikutnya kita akan naik dari tuning runtime ke desain sistem dan API
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md)
+[⬅️ Sebelumnya: Part 027 — Native Memory Leak and Off-Heap Investigation](./learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — Memory-Aware API and System Design Patterns](./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md)

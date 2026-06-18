@@ -2072,4 +2072,4 @@ immutable snapshots for read-mostly shared state.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-007.md](./learn-java-concurrency-and-reactive-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-009.md](./learn-java-concurrency-and-reactive-part-009.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 007](./learn-java-concurrency-and-reactive-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 009](./learn-java-concurrency-and-reactive-part-009.md)

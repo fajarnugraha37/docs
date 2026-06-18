@@ -2344,4 +2344,4 @@ Jika lima hal ini tidak dicampur sembarangan, validation layer akan menjadi jela
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-014](./learn-java-validation-jakarta-hibernate-validator-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-016](./learn-java-validation-jakarta-hibernate-validator-part-016.md)
+[⬅️ Sebelumnya: Payload, Severity, Error Codes, and Machine-Readable Violations](./learn-java-validation-jakarta-hibernate-validator-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Constraint Composition: Reusable Higher-Level Constraints](./learn-java-validation-jakarta-hibernate-validator-part-016.md)

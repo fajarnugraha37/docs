@@ -3307,4 +3307,4 @@ Kita akan membahas URI design dan path template secara jauh lebih detail: canoni
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-003.md](./learn-jaxrs-advanced-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-005.md](./learn-jaxrs-advanced-part-005.md)
+[⬅️ Sebelumnya: Bagian 003 — Resource Class Mental Model: Class-Level Path, Method-Level Path, Subresource, Lifecycle, dan Boundary Design](./learn-jaxrs-advanced-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 005 — Path Template, Regex, Matrix Param, and URI Design: Canonical Resource Identity, Reserved Literals, Nested Resources, Versioning, dan Gateway-Aware URI](./learn-jaxrs-advanced-part-005.md)

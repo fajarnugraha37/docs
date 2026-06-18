@@ -3094,4 +3094,4 @@ Bagian berikutnya akan masuk ke **Jakarta RESTful Web Services (`jakarta.ws.rs`)
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-007.md](./learn-java-jakarta-part-007.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-009.md](./learn-java-jakarta-part-009.md)
+[⬅️ Sebelumnya: Bagian 7 — CDI: `jakarta.enterprise.*` sebagai Container Programming Model](./learn-java-jakarta-part-007.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 9 — Jakarta RESTful Web Services (`jakarta.ws.rs`) Production-Grade](./learn-java-jakarta-part-009.md)

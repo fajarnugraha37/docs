@@ -2955,4 +2955,4 @@ Bagian berikutnya akan membahas **Jakarta Debugging Support for Other Languages 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-028.md](./learn-java-jakarta-part-028.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-030.md](./learn-java-jakarta-part-030.md)
+[⬅️ Sebelumnya: Bagian 28 — Jakarta Pages / JSP (`jakarta.servlet.jsp`): Translation to Servlet, Tag Libraries, EL, JSTL, dan Modern Relevance](./learn-java-jakarta-part-028.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 30 — Jakarta Debugging Support for Other Languages: SMAP, SourceDebugExtension, Generated Code, dan Tooling-Oriented Debuggability](./learn-java-jakarta-part-030.md)

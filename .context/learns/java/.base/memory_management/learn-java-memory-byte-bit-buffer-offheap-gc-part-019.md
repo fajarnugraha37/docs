@@ -1861,4 +1861,4 @@ Karena:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-018](./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-020](./learn-java-memory-byte-bit-buffer-offheap-gc-part-020.md)
+[⬅️ Sebelumnya: Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact](./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Serial, Parallel, CMS: Legacy Collectors You Still Need to Understand](./learn-java-memory-byte-bit-buffer-offheap-gc-part-020.md)

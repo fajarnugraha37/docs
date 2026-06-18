@@ -1469,4 +1469,4 @@ terminate once, and clean up on cancellation.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-031.md](./learn-java-concurrency-and-reactive-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-033.md](./learn-java-concurrency-and-reactive-part-033.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 031](./learn-java-concurrency-and-reactive-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 033](./learn-java-concurrency-and-reactive-part-033.md)

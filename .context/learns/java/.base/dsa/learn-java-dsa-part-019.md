@@ -2827,4 +2827,4 @@ Part 020 — Greedy Algorithms and Exchange Argument
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dsa-part-018 — Dynamic Programming I: Mental Model, Memoization, Tabulation](./learn-java-dsa-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-020 — Greedy Algorithms and Exchange Argument](./learn-java-dsa-part-020.md)
+[⬅️ Sebelumnya: Part 018 — Dynamic Programming I: Mental Model, Memoization, Tabulation](./learn-java-dsa-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — Greedy Algorithms and Exchange Argument](./learn-java-dsa-part-020.md)

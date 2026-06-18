@@ -2753,4 +2753,4 @@ Kita akan membahas JSON secara sangat mendalam: JSON-B vs JSON-P vs Jackson, pro
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-010.md](./learn-jaxrs-advanced-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-012.md](./learn-jaxrs-advanced-part-012.md)
+[⬅️ Sebelumnya: Bagian 010 — Response Entity Writing: `Response`, `GenericEntity`, `StreamingOutput`, Headers, Cookies, Links, Cache, dan `MessageBodyWriter`](./learn-jaxrs-advanced-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 012 — JSON in JAX-RS: JSON-B, JSON-P, Jackson, Provider Selection, DTO Contract, Null Policy, Unknown Fields, Date/Time, Enum Wire Values, dan Security](./learn-jaxrs-advanced-part-012.md)

@@ -1962,4 +1962,4 @@ Pertanyaan berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-019](./learn-java-security-cryptography-integrity-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-021](./learn-java-security-cryptography-integrity-part-021.md)
+[⬅️ Sebelumnya: Part 19 — JSON, JWT, JWS, JWE, JOSE, and Token Integrity](./learn-java-security-cryptography-integrity-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Authorization Integrity: Policy, Permission, and Confused Deputy](./learn-java-security-cryptography-integrity-part-021.md)

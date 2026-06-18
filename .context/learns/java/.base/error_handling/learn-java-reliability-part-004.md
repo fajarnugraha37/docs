@@ -2526,4 +2526,4 @@ And start asking:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-003.md](./learn-java-reliability-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-005.md](./learn-java-reliability-part-005.md)
+[⬅️ Sebelumnya: Part 003 — Exception Taxonomy for Enterprise Systems](./learn-java-reliability-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Designing Error Contracts for APIs](./learn-java-reliability-part-005.md)

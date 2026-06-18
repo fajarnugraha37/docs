@@ -2735,4 +2735,4 @@ Part 006 — Exception Translation Layers
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-004.md](./learn-java-reliability-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-006.md](./learn-java-reliability-part-006.md)
+[⬅️ Sebelumnya: Part 004 — Error Handling Philosophy: Fail Fast, Fail Safe, Fail Closed, Fail Open](./learn-java-reliability-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 006 — Exception Translation Layers](./learn-java-reliability-part-006.md)

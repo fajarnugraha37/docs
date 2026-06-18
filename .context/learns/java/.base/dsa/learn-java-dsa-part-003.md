@@ -2328,4 +2328,4 @@ Fokus berikutnya: membongkar linked list secara realistis: node chain, pointer c
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dsa-part-002.md](./learn-java-dsa-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-004 — Linked Structures: LinkedList, Node Chain, Pointer Chasing](./learn-java-dsa-part-004.md)
+[⬅️ Sebelumnya: Part 002 — Java Object, Array, Reference, Equality, Hashing](./learn-java-dsa-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Linked Structures: LinkedList, Node Chain, Pointer Chasing](./learn-java-dsa-part-004.md)

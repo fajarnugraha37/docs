@@ -2807,4 +2807,4 @@ Masih lanjut ke part 015 sampai part 030.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-013](./learn-java-memory-byte-bit-buffer-offheap-gc-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-015.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-015.md)
+[⬅️ Sebelumnya: Mapped Files: `MappedByteBuffer`, Page Cache, and OS Semantics](./learn-java-memory-byte-bit-buffer-offheap-gc-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — `Unsafe`, `VarHandle`, Memory Access Deprecation, and Migration Strategy](./learn-java-memory-byte-bit-buffer-offheap-gc-part-015.md)

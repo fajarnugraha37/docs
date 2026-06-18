@@ -1821,4 +1821,4 @@ Belum selesai. Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 11 — FileVisitor and Tree Algorithms: Robust Recursive Operations](./learn-java-io-file-filesystem-storage-engineering-part-11-filevisitor-tree-algorithms.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 13](./learn-java-io-file-filesystem-storage-engineering-part-13-path-traversal-security.md)
+[⬅️ Sebelumnya: Part 11 — FileVisitor and Tree Algorithms: Robust Recursive Operations](./learn-java-io-file-filesystem-storage-engineering-part-11-filevisitor-tree-algorithms.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — Path Traversal Security: User Input, Uploads, Archives, and Sandboxes](./learn-java-io-file-filesystem-storage-engineering-part-13-path-traversal-security.md)

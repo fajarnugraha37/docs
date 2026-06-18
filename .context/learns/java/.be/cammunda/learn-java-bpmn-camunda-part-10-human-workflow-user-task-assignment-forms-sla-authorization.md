@@ -2975,4 +2975,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-09-bpmn-error-technical-failure-incident-escalation-compensation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-11-dmn-decision-engineering-separating-flow-from-decision-logic.md)
+[⬅️ Sebelumnya: Part 9 — BPMN Error, Technical Failure, Incident, Escalation, and Compensation](./learn-java-bpmn-camunda-part-09-bpmn-error-technical-failure-incident-escalation-compensation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — DMN and Decision Engineering: Separating Flow from Decision Logic](./learn-java-bpmn-camunda-part-11-dmn-decision-engineering-separating-flow-from-decision-logic.md)

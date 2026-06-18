@@ -1697,4 +1697,4 @@ blocking operations, and external resource limits.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-000.md](./learn-java-concurrency-and-reactive-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-002.md](./learn-java-concurrency-and-reactive-part-002.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 000](./learn-java-concurrency-and-reactive-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 002](./learn-java-concurrency-and-reactive-part-002.md)

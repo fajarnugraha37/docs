@@ -2566,4 +2566,4 @@ Di part berikutnya kita akan membahas bagaimana menguji JDBC code dengan benar: 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-025](./learn-java-sql-jdbc-hikaricp-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-027.md](./learn-java-sql-jdbc-hikaricp-part-027.md)
+[⬅️ Sebelumnya: Failure Modes and Recovery Patterns](./learn-java-sql-jdbc-hikaricp-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — Testing JDBC Code Properly](./learn-java-sql-jdbc-hikaricp-part-027.md)

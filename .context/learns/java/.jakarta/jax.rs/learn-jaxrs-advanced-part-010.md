@@ -2995,4 +2995,4 @@ Kita akan membedah negotiation secara sangat detail: request `Content-Type`, res
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-009.md](./learn-jaxrs-advanced-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-011.md](./learn-jaxrs-advanced-part-011.md)
+[⬅️ Sebelumnya: Bagian 009 — Request Entity Binding: Input Entity, Streams, Readers, DTO Boundary, Payload Safety, dan `MessageBodyReader`](./learn-jaxrs-advanced-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 011 — Content Negotiation Deep Dive: `@Consumes`, `@Produces`, `MediaType`, `Variant`, `Accept`, `Content-Type`, `q/qs`, `Vary`, dan Debugging `406/415`](./learn-jaxrs-advanced-part-011.md)

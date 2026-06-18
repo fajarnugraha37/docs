@@ -2137,4 +2137,4 @@ Daftar bagian yang telah selesai:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-033.md](./learn-java-concurrency-and-reactive-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-000.md](../data_type/learn-java-data-types-part-000.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 033](./learn-java-concurrency-and-reactive-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 000](../data_type/learn-java-data-types-part-000.md)

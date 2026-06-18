@@ -2262,4 +2262,4 @@ Bagian terakhir seri ini: learn-git-mastery-for-java-engineers-part-032.md.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-007.md](./learn-git-mastery-for-java-engineers-part-007.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-009.md](./learn-git-mastery-for-java-engineers-part-009.md)
+[⬅️ Sebelumnya: Part 007 — Branching: Isolasi Perubahan dan Eksperimen Aman](./learn-git-mastery-for-java-engineers-part-007.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 009 — Rebase: Memindahkan Perubahan dengan Aman](./learn-git-mastery-for-java-engineers-part-009.md)

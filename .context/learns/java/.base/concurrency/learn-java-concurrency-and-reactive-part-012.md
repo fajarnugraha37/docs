@@ -1767,4 +1767,4 @@ and value size, do not use it.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-011.md](./learn-java-concurrency-and-reactive-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-013.md](./learn-java-concurrency-and-reactive-part-013.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 011](./learn-java-concurrency-and-reactive-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 013](./learn-java-concurrency-and-reactive-part-013.md)

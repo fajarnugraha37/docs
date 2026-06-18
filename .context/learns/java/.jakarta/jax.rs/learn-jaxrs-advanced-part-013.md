@@ -2953,4 +2953,4 @@ Kita akan membahas integrasi Jakarta Validation secara mendalam: parameter valid
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-012.md](./learn-jaxrs-advanced-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-014.md](./learn-jaxrs-advanced-part-014.md)
+[⬅️ Sebelumnya: Bagian 012 — JSON in JAX-RS: JSON-B, JSON-P, Jackson, Provider Selection, DTO Contract, Null Policy, Unknown Fields, Date/Time, Enum Wire Values, dan Security](./learn-jaxrs-advanced-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 014 — Validation Integration: Jakarta Validation at REST Boundary, `@Valid`, Parameter Validation, Entity Validation, Groups, Cross-Field Constraint, dan Error Mapping](./learn-jaxrs-advanced-part-014.md)

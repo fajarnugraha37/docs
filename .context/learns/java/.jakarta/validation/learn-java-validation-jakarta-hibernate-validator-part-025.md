@@ -2360,4 +2360,4 @@ Testing Validation: Unit, Integration, Contract, Mutation, and Property-Based Te
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-024](./learn-java-validation-jakarta-hibernate-validator-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-026](./learn-java-validation-jakarta-hibernate-validator-part-026.md)
+[⬅️ Sebelumnya: Performance Engineering: Cost Model, Fail Fast, Caching, Reflection, Hot Paths](./learn-java-validation-jakarta-hibernate-validator-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Testing Validation: Unit, Integration, Contract, Mutation, and Property-Based Tests](./learn-java-validation-jakarta-hibernate-validator-part-026.md)

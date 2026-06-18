@@ -2305,4 +2305,4 @@ Bagian berikutnya akan membahas **Jakarta XML Binding (`jakarta.xml.bind`) / JAX
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-029.md](./learn-java-jakarta-part-029.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-031.md](./learn-java-jakarta-part-031.md)
+[⬅️ Sebelumnya: Bagian 29 — Jakarta Standard Tag Library / Jakarta Tags: Core, Formatting, Functions, XML, SQL, Custom Tags, dan Migration](./learn-java-jakarta-part-029.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 31 — Jakarta XML Binding (`jakarta.xml.bind`) / JAXB: Object-XML Mapping, Schema, Marshalling, Security, dan Migration](./learn-java-jakarta-part-031.md)

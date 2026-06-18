@@ -2324,4 +2324,4 @@ Native Memory Leak and Off-Heap Investigation
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-025](./learn-java-memory-byte-bit-buffer-offheap-gc-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md)
+[⬅️ Sebelumnya: GC Logging, JFR, JMX, Native Memory Tracking, and Observability](./learn-java-memory-byte-bit-buffer-offheap-gc-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — Native Memory Leak and Off-Heap Investigation](./learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md)

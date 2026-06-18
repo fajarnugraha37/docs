@@ -2903,4 +2903,4 @@ Itulah mental model yang akan kita pakai untuk seluruh materi Jakarta berikutnya
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-000.md](./learn-java-jakarta-part-000.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-002.md](./learn-java-jakarta-part-002.md)
+[⬅️ Sebelumnya: Bagian 0 — Jakarta Package: Big Picture, Sejarah, dan Mental Model](./learn-java-jakarta-part-000.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 2 — Jakarta EE Platform, Web Profile, dan Core Profile](./learn-java-jakarta-part-002.md)

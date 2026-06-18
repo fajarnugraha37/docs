@@ -2039,4 +2039,4 @@ Do not use List just because you need “many values”.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-001.md](./learn-java-collections-and-streams-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-003.md](./learn-java-collections-and-streams-part-003.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 001](./learn-java-collections-and-streams-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 003](./learn-java-collections-and-streams-part-003.md)

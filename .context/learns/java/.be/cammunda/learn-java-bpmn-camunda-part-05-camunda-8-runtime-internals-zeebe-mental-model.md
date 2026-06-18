@@ -2463,4 +2463,4 @@ Seri belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-06-java-client-engineering-production-grade-worker.md)
+[⬅️ Sebelumnya: Part 4 — Camunda Landscape: Camunda 7 vs Camunda 8](./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Java Client Engineering: From API Call to Production-grade Worker](./learn-java-bpmn-camunda-part-06-java-client-engineering-production-grade-worker.md)

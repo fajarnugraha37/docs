@@ -1698,4 +1698,4 @@ Di sana kita akan membahas deployment ketika satu release melibatkan banyak serv
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-25-deployment-security-hardening.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-27-multi-service-distributed-java-deployment.md)
+[⬅️ Sebelumnya: Part 25 — Deployment Security Hardening](./learn-java-deployment-runtime-release-delivery-engineering-part-25-deployment-security-hardening.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Multi-Service and Distributed Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-27-multi-service-distributed-java-deployment.md)

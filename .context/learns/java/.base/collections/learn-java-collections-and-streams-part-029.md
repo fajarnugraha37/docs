@@ -1806,4 +1806,4 @@ Am I reducing a value or collecting a container?
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-028.md](./learn-java-collections-and-streams-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-030.md](./learn-java-collections-and-streams-part-030.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 028](./learn-java-collections-and-streams-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 030](./learn-java-collections-and-streams-part-030.md)

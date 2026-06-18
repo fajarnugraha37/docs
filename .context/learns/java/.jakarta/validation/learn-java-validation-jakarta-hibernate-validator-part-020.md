@@ -2591,4 +2591,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-019](./learn-java-validation-jakarta-hibernate-validator-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-021](./learn-java-validation-jakarta-hibernate-validator-part-021.md)
+[⬅️ Sebelumnya: Validation in REST APIs: JAX-RS, Spring MVC, Error Mapping, and Problem Details](./learn-java-validation-jakarta-hibernate-validator-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Validation in Event-Driven and Async Systems](./learn-java-validation-jakarta-hibernate-validator-part-021.md)

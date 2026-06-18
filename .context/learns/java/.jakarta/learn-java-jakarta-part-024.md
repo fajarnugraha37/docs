@@ -3002,4 +3002,4 @@ Bagian berikutnya akan membahas **Jakarta WebSocket (`jakarta.websocket`)**: ful
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-023.md](./learn-java-jakarta-part-023.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-025.md](./learn-java-jakarta-part-025.md)
+[⬅️ Sebelumnya: Bagian 23 — Jakarta Enterprise Beans (`jakarta.ejb`): Session Bean, MDB, Transaction, Security, Timer, dan Legacy-Modern Boundary](./learn-java-jakarta-part-023.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 25 — Jakarta WebSocket (`jakarta.websocket`): Full-Duplex Communication, Session, Backpressure, dan Real-Time Reliability](./learn-java-jakarta-part-025.md)

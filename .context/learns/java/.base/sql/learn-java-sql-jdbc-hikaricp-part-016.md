@@ -2512,4 +2512,4 @@ File berikutnya: `learn-java-sql-jdbc-hikaricp-part-017.md`.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-015](./learn-java-sql-jdbc-hikaricp-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-017](./learn-java-sql-jdbc-hikaricp-part-017.md)
+[⬅️ Sebelumnya: Advanced JDBC Features: Savepoint, Array, Struct, Ref, RowId, SQLData](./learn-java-sql-jdbc-hikaricp-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Performance Model of JDBC Calls](./learn-java-sql-jdbc-hikaricp-part-017.md)

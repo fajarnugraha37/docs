@@ -1438,4 +1438,4 @@ Use it only when source splits well, work is heavy enough, reduction is correct,
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-038.md](./learn-java-collections-and-streams-part-038.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-040.md](./learn-java-collections-and-streams-part-040.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 038](./learn-java-collections-and-streams-part-038.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 040](./learn-java-collections-and-streams-part-040.md)

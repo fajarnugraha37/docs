@@ -2267,4 +2267,4 @@ Itu akan menjadi kelanjutan natural dari seri DSA ini.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dsa-part-029.md](./learn-java-dsa-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-000.md](../error_handling/learn-java-reliability-part-000.md)
+[⬅️ Sebelumnya: Part 029 — DSA Anti-Patterns and Failure Modes in Java Systems](./learn-java-dsa-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 000 — Orientation, Scope, and Mental Model for Graceful Shutdown, Error Handling, Exceptions, and Reliability](../error_handling/learn-java-reliability-part-000.md)

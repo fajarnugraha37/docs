@@ -3231,4 +3231,4 @@ Bagian berikutnya akan membahas **Jakarta Security (`jakarta.security.enterprise
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-014.md](./learn-java-jakarta-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-016.md](./learn-java-jakarta-part-016.md)
+[⬅️ Sebelumnya: Bagian 14 — Jakarta Transactions: Transaction Boundary, Rollback, XA, dan Consistency Engineering](./learn-java-jakarta-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 16 — Jakarta Servlet (`jakarta.servlet`): Fondasi Web Container](./learn-java-jakarta-part-016.md)

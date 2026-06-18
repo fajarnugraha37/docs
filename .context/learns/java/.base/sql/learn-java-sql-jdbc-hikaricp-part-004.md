@@ -2367,4 +2367,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-005.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-003](./learn-java-sql-jdbc-hikaricp-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-005](./learn-java-sql-jdbc-hikaricp-part-005.md)
+[⬅️ Sebelumnya: Connection Is a Database Session, Not Just a Pipe](./learn-java-sql-jdbc-hikaricp-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: ResultSet Deep Dive: Cursor, Fetching, Streaming, and Memory](./learn-java-sql-jdbc-hikaricp-part-005.md)

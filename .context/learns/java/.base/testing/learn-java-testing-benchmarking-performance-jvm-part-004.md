@@ -2890,4 +2890,4 @@ Jika part sebelumnya menjawab “bagaimana mendesain test yang jelas”, part in
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-003](./learn-java-testing-benchmarking-performance-jvm-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-005](./learn-java-testing-benchmarking-performance-jvm-part-005.md)
+[⬅️ Sebelumnya: Test Design: Arrange-Act-Assert, Given-When-Then, dan Behavioral Clarity](./learn-java-testing-benchmarking-performance-jvm-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Test Data Engineering: Fixture, Builder, Mother, Factory, Randomized Data](./learn-java-testing-benchmarking-performance-jvm-part-005.md)

@@ -1970,4 +1970,4 @@ Progress saat ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-006](./learn-java-security-cryptography-integrity-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-008](./learn-java-security-cryptography-integrity-part-008.md)
+[⬅️ Sebelumnya: Part 6 — Password Storage, Password Verification, and Secret-Derived Keys](./learn-java-security-cryptography-integrity-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Message Authentication Code: HMAC, CMAC, and Integrity Tokens](./learn-java-security-cryptography-integrity-part-008.md)

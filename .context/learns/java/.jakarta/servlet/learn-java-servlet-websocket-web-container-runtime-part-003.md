@@ -2151,4 +2151,4 @@ Kita akan membahas:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 002](./learn-java-servlet-websocket-web-container-runtime-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-004](./learn-java-servlet-websocket-web-container-runtime-part-004.md)
+[⬅️ Sebelumnya: Part 002 — HTTP Fundamentals for Servlet Engineers](./learn-java-servlet-websocket-web-container-runtime-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Servlet Lifecycle Deep Dive](./learn-java-servlet-websocket-web-container-runtime-part-004.md)

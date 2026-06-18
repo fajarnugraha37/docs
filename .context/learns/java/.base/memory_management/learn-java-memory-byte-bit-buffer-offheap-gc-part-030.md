@@ -2008,4 +2008,4 @@ Primary references used across this final integration:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — OSGi Mental Model: Dynamic Module System, Not Just Plugin Framework](../osgi/00-osgi-mental-model-dynamic-module-system-not-just-plugin-framework.md)
+[⬅️ Sebelumnya: Part 029 — Memory-Aware API and System Design Patterns](./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — OSGi Mental Model: Dynamic Module System, Not Just Plugin Framework](../osgi/00-osgi-mental-model-dynamic-module-system-not-just-plugin-framework.md)

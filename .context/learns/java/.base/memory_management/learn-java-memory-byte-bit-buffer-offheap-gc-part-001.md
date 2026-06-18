@@ -1876,4 +1876,4 @@ Java Primitive Memory Semantics: Dari boolean sampai double
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-000](./learn-java-memory-byte-bit-buffer-offheap-gc-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-002](./learn-java-memory-byte-bit-buffer-offheap-gc-part-002.md)
+[⬅️ Sebelumnya: Mental Model Besar: Java Memory as a Layered System](./learn-java-memory-byte-bit-buffer-offheap-gc-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Primitive Memory Semantics: Dari `boolean` sampai `double`](./learn-java-memory-byte-bit-buffer-offheap-gc-part-002.md)

@@ -2129,4 +2129,4 @@ Part 03 — File Creation Semantics: Atomic Create, Temp File, Directory Creatio
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering-part-01-path-semantics](./learn-java-io-file-filesystem-storage-engineering-part-01-path-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 03](./learn-java-io-file-filesystem-storage-engineering-part-03-file-creation-semantics.md)
+[⬅️ Sebelumnya: Part 01 — Path Semantics Deep Dive: Name, Root, Absolute, Relative, Normalize, Resolve](./learn-java-io-file-filesystem-storage-engineering-part-01-path-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 03 — File Creation Semantics: Atomic Create, Temp File, Directory Creation](./learn-java-io-file-filesystem-storage-engineering-part-03-file-creation-semantics.md)

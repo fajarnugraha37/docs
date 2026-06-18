@@ -1942,4 +1942,4 @@ If you cannot answer, the code is not concurrency-safe.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-006.md](./learn-java-concurrency-and-reactive-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-008.md](./learn-java-concurrency-and-reactive-part-008.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 006](./learn-java-concurrency-and-reactive-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 008](./learn-java-concurrency-and-reactive-part-008.md)

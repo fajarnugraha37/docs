@@ -2368,4 +2368,4 @@ Kita akan membahas CDI integration secara mendalam: injection ke resource/provid
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-029.md](./learn-jaxrs-advanced-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-031.md](./learn-jaxrs-advanced-part-031.md)
+[⬅️ Sebelumnya: Bagian 029 — Advanced Client API: Filters, Interceptors, Features, Async, Reactive Invoker, SSE Client, Resilience Hooks, and Production Instrumentation](./learn-jaxrs-advanced-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 031 — CDI Integration and Resource/Provider Injection: Resource Lifecycle, Provider Lifecycle, `@Inject`, `@Context`, Scopes, Proxies, Request Context, Thread Safety, Testing, and Production Patterns](./learn-jaxrs-advanced-part-031.md)

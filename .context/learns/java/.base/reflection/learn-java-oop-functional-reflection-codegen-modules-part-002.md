@@ -2695,4 +2695,4 @@ Progress saat ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-001](./learn-java-oop-functional-reflection-codegen-modules-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-003](./learn-java-oop-functional-reflection-codegen-modules-part-003.md)
+[⬅️ Sebelumnya: Java Type System Deep Dive: Identity, Value, Reference, Nominal Typing](./learn-java-oop-functional-reflection-codegen-modules-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Object Identity, Equality, Hashing, Immutability, and Object Contracts](./learn-java-oop-functional-reflection-codegen-modules-part-003.md)

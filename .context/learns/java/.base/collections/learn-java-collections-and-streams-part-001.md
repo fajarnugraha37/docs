@@ -2260,4 +2260,4 @@ Those must be designed, documented, tested, and often wrapped in domain types.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-000.md](./learn-java-collections-and-streams-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-002.md](./learn-java-collections-and-streams-part-002.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 000](./learn-java-collections-and-streams-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 002](./learn-java-collections-and-streams-part-002.md)

@@ -1743,4 +1743,4 @@ and an observable metric.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-018.md](./learn-java-concurrency-and-reactive-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-020.md](./learn-java-concurrency-and-reactive-part-020.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 018](./learn-java-concurrency-and-reactive-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 020](./learn-java-concurrency-and-reactive-part-020.md)

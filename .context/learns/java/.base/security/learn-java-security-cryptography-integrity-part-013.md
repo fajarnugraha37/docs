@@ -3224,4 +3224,4 @@ Status seri: **belum selesai**. Masih ada part 14 sampai part 34.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-012](./learn-java-security-cryptography-integrity-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-014](./learn-java-security-cryptography-integrity-part-014.md)
+[⬅️ Sebelumnya: Java KeyStore, TrustStore, Certificates, and Private Key Custody](./learn-java-security-cryptography-integrity-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — TLS/JSSE Deep Dive for Java Engineers](./learn-java-security-cryptography-integrity-part-014.md)

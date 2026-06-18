@@ -2048,4 +2048,4 @@ Itulah tujuan bagian ini.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-016.md](./learn-git-mastery-for-java-engineers-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-018.md](./learn-git-mastery-for-java-engineers-part-018.md)
+[⬅️ Sebelumnya: Part 016 — Cherry-Pick, Revert, Reset: Memilih Operasi Koreksi yang Tepat](./learn-git-mastery-for-java-engineers-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 018 — Stash, Worktree, dan Context Switching](./learn-git-mastery-for-java-engineers-part-018.md)

@@ -1435,4 +1435,4 @@ If yes, is that exactly what the algorithm needs?
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-022.md](./learn-java-collections-and-streams-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-024.md](./learn-java-collections-and-streams-part-024.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 022](./learn-java-collections-and-streams-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 024](./learn-java-collections-and-streams-part-024.md)

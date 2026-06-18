@@ -2098,4 +2098,4 @@ Use Sequenced interfaces to express order as a contract, not as an implementatio
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-005.md](./learn-java-collections-and-streams-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-007.md](./learn-java-collections-and-streams-part-007.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 005](./learn-java-collections-and-streams-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 007](./learn-java-collections-and-streams-part-007.md)

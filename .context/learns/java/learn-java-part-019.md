@@ -2527,4 +2527,4 @@ Di situlah Java cloud-native engineering yang sebenarnya dimulai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-part-018 — Enterprise Java dan Backend Engineering](./learn-java-part-018.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-020.md](./learn-java-part-020.md)
+[⬅️ Sebelumnya: Part 018 — Enterprise Java dan Backend Engineering](./learn-java-part-018.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 20 — Advanced Performance Engineering di Java](./learn-java-part-020.md)

@@ -3049,4 +3049,4 @@ Belum selesai. Lanjut ke:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-24-supply-chain-security-for-java-deployment.md)
+[⬅️ Sebelumnya: Part 22 — Deployment Verification: Smoke Test, Health Gate, Synthetic Check, Contract Check](./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Supply Chain Security for Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-24-supply-chain-security-for-java-deployment.md)

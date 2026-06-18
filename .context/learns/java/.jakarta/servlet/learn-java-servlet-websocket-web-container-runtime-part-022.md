@@ -1905,4 +1905,4 @@ Part berikutnya akan masuk ke **Part 023 — WebSocket Session, Concurrency, and
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-021](./learn-java-servlet-websocket-web-container-runtime-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — WebSocket Session, Concurrency, and State Management](./learn-java-servlet-websocket-web-container-runtime-part-023.md)
+[⬅️ Sebelumnya: Part 021 — WebSocket Protocol Fundamentals](./learn-java-servlet-websocket-web-container-runtime-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — WebSocket Session, Concurrency, and State Management](./learn-java-servlet-websocket-web-container-runtime-part-023.md)

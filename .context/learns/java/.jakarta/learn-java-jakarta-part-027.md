@@ -2916,4 +2916,4 @@ Bagian berikutnya akan membahas **Jakarta Server Pages (`jakarta.servlet.jsp`) /
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-026.md](./learn-java-jakarta-part-026.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-028.md](./learn-java-jakarta-part-028.md)
+[⬅️ Sebelumnya: Bagian 26 — Jakarta Faces (`jakarta.faces`): Component-Based Server-Side UI, Lifecycle, State, Validation, Ajax, dan Modern Relevance](./learn-java-jakarta-part-026.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 28 — Jakarta Pages / JSP (`jakarta.servlet.jsp`): Translation to Servlet, Tag Libraries, EL, JSTL, dan Modern Relevance](./learn-java-jakarta-part-028.md)

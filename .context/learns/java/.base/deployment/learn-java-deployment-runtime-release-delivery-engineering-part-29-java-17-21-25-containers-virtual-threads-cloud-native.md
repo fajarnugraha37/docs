@@ -2158,4 +2158,4 @@ That part will focus on how deployment fails in production, how to classify symp
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration-constraints.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md)
+[⬅️ Sebelumnya: Part 28 — Legacy Java Deployment: Java 8, App Servers, Monoliths, and Migration Constraints](./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration-constraints.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Failure Modeling: Deployment Incident Patterns and Root Cause Analysis](./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md)

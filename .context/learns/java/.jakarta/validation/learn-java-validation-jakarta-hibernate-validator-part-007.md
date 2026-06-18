@@ -2354,4 +2354,4 @@ Dalam sistem besar, clarity lebih penting daripada menghindari class tambahan. J
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-006](./learn-java-validation-jakarta-hibernate-validator-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-008](./learn-java-validation-jakarta-hibernate-validator-part-008.md)
+[⬅️ Sebelumnya: Container Element Constraints: Lists, Maps, Optional, Custom Containers](./learn-java-validation-jakarta-hibernate-validator-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Group Sequence and Dynamic Group Sequence: Ordered Validation and Short-Circuiting](./learn-java-validation-jakarta-hibernate-validator-part-008.md)

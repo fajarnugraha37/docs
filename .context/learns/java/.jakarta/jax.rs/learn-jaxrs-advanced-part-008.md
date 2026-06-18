@@ -3161,4 +3161,4 @@ Kita akan membahas bagaimana request body dibaca: entity parameter, `InputStream
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-007.md](./learn-jaxrs-advanced-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-009.md](./learn-jaxrs-advanced-part-009.md)
+[⬅️ Sebelumnya: Bagian 007 — Advanced Parameter Conversion: `ParamConverter`, `ParamConverterProvider`, `valueOf`, Constructor, `fromString`, `@Lazy`, Error Taxonomy, dan Typed Boundary Design](./learn-jaxrs-advanced-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 009 — Request Entity Binding: Input Entity, Streams, Readers, DTO Boundary, Payload Safety, dan `MessageBodyReader`](./learn-jaxrs-advanced-part-009.md)

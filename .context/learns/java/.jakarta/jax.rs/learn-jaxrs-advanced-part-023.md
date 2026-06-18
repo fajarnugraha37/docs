@@ -2297,4 +2297,4 @@ Kita akan membahas server-side async secara mendalam: `@Suspended AsyncResponse`
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-022.md](./learn-jaxrs-advanced-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-024.md](./learn-jaxrs-advanced-part-024.md)
+[⬅️ Sebelumnya: Bagian 022 — Conditional Requests, ETag, Last-Modified, Optimistic Concurrency: Validators, `If-Match`, `If-None-Match`, `If-Modified-Since`, `If-Unmodified-Since`, `304`, `412`, `428`, Cache Revalidation, dan Lost Update Prevention](./learn-jaxrs-advanced-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 024 — Asynchronous JAX-RS Server: `AsyncResponse`, `@Suspended`, `CompletionStage`, Timeouts, Cancellation, Lifecycle Callbacks, Executor Model, Backpressure, and Production-Safe Async APIs](./learn-jaxrs-advanced-part-024.md)

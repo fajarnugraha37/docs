@@ -2307,4 +2307,4 @@ Part berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-003](./learn-java-validation-jakarta-hibernate-validator-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-005](./learn-java-validation-jakarta-hibernate-validator-part-005.md)
+[⬅️ Sebelumnya: in Constraints Deep Dive: Semantics, Edge Cases, and Misuse](./learn-java-validation-jakarta-hibernate-validator-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Cascaded Validation: `@Valid`, Object Graphs, Aggregates, and Boundary Control](./learn-java-validation-jakarta-hibernate-validator-part-005.md)

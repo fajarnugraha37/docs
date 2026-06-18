@@ -2027,4 +2027,4 @@ Jika jawaban tidak jelas, production bug tinggal menunggu waktu.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-020.md](./learn-java-data-types-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-022.md](./learn-java-data-types-part-022.md)
+[⬅️ Sebelumnya: Java Data Types — Part 020](./learn-java-data-types-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 022](./learn-java-data-types-part-022.md)

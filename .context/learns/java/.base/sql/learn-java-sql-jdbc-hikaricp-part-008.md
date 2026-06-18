@@ -2016,4 +2016,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-009.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-007.md](./learn-java-sql-jdbc-hikaricp-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-009](./learn-java-sql-jdbc-hikaricp-part-009.md)
+[⬅️ Sebelumnya: Part 007 — Transaction Fundamentals in JDBC](./learn-java-sql-jdbc-hikaricp-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: SQLException Mastery: SQLState, Vendor Code, Warnings, and Recovery](./learn-java-sql-jdbc-hikaricp-part-009.md)

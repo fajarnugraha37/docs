@@ -3080,4 +3080,4 @@ Bagian berikutnya akan membahas **Jakarta Security (`jakarta.security.enterprise
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-015.md](./learn-java-jakarta-part-015.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-017.md](./learn-java-jakarta-part-017.md)
+[⬅️ Sebelumnya: Bagian 15 — Jakarta Validation (`jakarta.validation`): Contract Validation, Constraints, Groups, dan Integration Boundary](./learn-java-jakarta-part-015.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 17 — Jakarta Security (`jakarta.security.enterprise`): Authentication, Identity Store, dan Security Boundary](./learn-java-jakarta-part-017.md)

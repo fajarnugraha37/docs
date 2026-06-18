@@ -1658,4 +1658,4 @@ Series: learn-java-jakarta-security-authentication-authorization-identity
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 33 — Failure Modelling: How Jakarta Security Systems Actually Break](./learn-java-jakarta-security-authentication-authorization-identity-part-33-failure-modelling-how-security-breaks.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 000](../servlet/learn-java-servlet-websocket-web-container-runtime-part-000.md)
+[⬅️ Sebelumnya: Part 33 — Failure Modelling: How Jakarta Security Systems Actually Break](./learn-java-jakarta-security-authentication-authorization-identity-part-33-failure-modelling-how-security-breaks.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 000 — Mental Model Server-Side Java Web Runtime](../servlet/learn-java-servlet-websocket-web-container-runtime-part-000.md)

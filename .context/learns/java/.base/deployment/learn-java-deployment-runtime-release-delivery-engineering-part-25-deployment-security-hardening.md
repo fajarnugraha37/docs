@@ -2523,4 +2523,4 @@ That is the deployment posture expected from a top-tier Java engineer.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-24-supply-chain-security-for-java-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-26-multi-environment-deployment.md)
+[⬅️ Sebelumnya: Part 24 — Supply Chain Security for Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-24-supply-chain-security-for-java-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Multi-Environment Deployment: DEV, SIT, UAT, Staging, Production, DR](./learn-java-deployment-runtime-release-delivery-engineering-part-26-multi-environment-deployment.md)

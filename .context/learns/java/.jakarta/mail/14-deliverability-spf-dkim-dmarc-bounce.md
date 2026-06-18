@@ -2347,8 +2347,6 @@ Kamu dianggap menguasai part ini jika bisa menjelaskan tanpa melihat catatan:
 
 Jika semua poin ini bisa dijawab, kamu sudah jauh di atas engineer yang hanya tahu `Transport.send()`.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

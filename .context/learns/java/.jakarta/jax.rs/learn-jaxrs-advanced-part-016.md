@@ -2592,4 +2592,4 @@ Kita akan membahas extension binding secara sangat mendalam: global vs name-boun
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-015.md](./learn-jaxrs-advanced-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-017.md](./learn-jaxrs-advanced-part-017.md)
+[⬅️ Sebelumnya: Bagian 015 — Filters: `ContainerRequestFilter`, `ContainerResponseFilter`, Pre-Matching, Post-Matching, `abortWith`, Priority, Name Binding, dan Cross-Cutting REST Boundary](./learn-jaxrs-advanced-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 017 — Name Binding, `DynamicFeature`, Priorities, Provider Lifecycle, Registration Strategy, CDI Integration, dan Production Extension Architecture](./learn-jaxrs-advanced-part-017.md)

@@ -1882,4 +1882,4 @@ A queue is not just a collection. A queue is a load, order, and processing polic
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-004.md](./learn-java-collections-and-streams-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-006.md](./learn-java-collections-and-streams-part-006.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 004](./learn-java-collections-and-streams-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 006](./learn-java-collections-and-streams-part-006.md)

@@ -2122,4 +2122,4 @@ failure observation, shutdown, and metrics as intentionally as you design a data
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-003.md](./learn-java-concurrency-and-reactive-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-005.md](./learn-java-concurrency-and-reactive-part-005.md)
+[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 003](./learn-java-concurrency-and-reactive-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 005](./learn-java-concurrency-and-reactive-part-005.md)

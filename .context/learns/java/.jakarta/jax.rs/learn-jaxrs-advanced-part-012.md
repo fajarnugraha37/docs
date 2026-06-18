@@ -3159,4 +3159,4 @@ Kita akan membahas arsitektur error handling lengkap: checked vs unchecked excep
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-011.md](./learn-jaxrs-advanced-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-013.md](./learn-jaxrs-advanced-part-013.md)
+[⬅️ Sebelumnya: Bagian 011 — Content Negotiation Deep Dive: `@Consumes`, `@Produces`, `MediaType`, `Variant`, `Accept`, `Content-Type`, `q/qs`, `Vary`, dan Debugging `406/415`](./learn-jaxrs-advanced-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 013 — Error Handling Architecture: Exceptions, `ExceptionMapper`, `WebApplicationException`, RFC 9457 Problem Details, Error Taxonomy, dan Production Error Contract](./learn-jaxrs-advanced-part-013.md)

@@ -2194,4 +2194,4 @@ Jika bagian ini diringkas menjadi satu prinsip:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 000](./learn-java-servlet-websocket-web-container-runtime-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 002](./learn-java-servlet-websocket-web-container-runtime-part-002.md)
+[⬅️ Sebelumnya: Part 000 — Mental Model Server-Side Java Web Runtime](./learn-java-servlet-websocket-web-container-runtime-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — HTTP Fundamentals for Servlet Engineers](./learn-java-servlet-websocket-web-container-runtime-part-002.md)

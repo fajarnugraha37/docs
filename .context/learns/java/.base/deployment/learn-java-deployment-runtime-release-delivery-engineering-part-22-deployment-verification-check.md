@@ -2291,4 +2291,4 @@ Belum selesai. Lanjut ke:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-21-observability-ready-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-23-cicd-pipeline-for-java-deployment.md)
+[⬅️ Sebelumnya: Part 21 — Observability-Ready Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-21-observability-ready-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — CI/CD Pipeline for Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-23-cicd-pipeline-for-java-deployment.md)

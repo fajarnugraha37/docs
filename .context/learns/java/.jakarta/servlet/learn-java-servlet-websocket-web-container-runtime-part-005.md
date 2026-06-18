@@ -2323,4 +2323,4 @@ Part berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-004](./learn-java-servlet-websocket-web-container-runtime-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-006](./learn-java-servlet-websocket-web-container-runtime-part-006.md)
+[⬅️ Sebelumnya: Part 004 — Servlet Lifecycle Deep Dive](./learn-java-servlet-websocket-web-container-runtime-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 006 — Response Object Internals: `HttpServletResponse`](./learn-java-servlet-websocket-web-container-runtime-part-006.md)

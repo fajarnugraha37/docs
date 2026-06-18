@@ -1760,4 +1760,4 @@ That is the real mastery of JAX-RS.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-053.md](./learn-jaxrs-advanced-part-053.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-055.md](./learn-jaxrs-advanced-part-055.md)
+[⬅️ Sebelumnya: Bagian 053 — Refactoring Legacy JAX-RS API: Strangler Pattern, Endpoint Inventory, Compatibility Preservation, Error Contract Migration, javax→jakarta, DTO Extraction, Security Hardening, Test Harness, OpenAPI Recovery, and Incremental Rollout](./learn-jaxrs-advanced-part-053.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bonus Appendix 055 — JAX-RS Production Review Playbook: Maturity Rubric, Architecture Review Checklist, Design Interview Drills, Failure Scenario Matrix, Security Review Prompts, Performance Review Prompts, and Decision Records](./learn-jaxrs-advanced-part-055.md)

@@ -2064,7 +2064,6 @@ Itu mencakup SPF, DKIM, DMARC, alignment, reputation, hard bounce, soft bounce, 
 - RFC 5321: Simple Mail Transfer Protocol, including SMTP reply code classes and envelope semantics.
 - Jakarta Activation specification: relevant for attachment/data handling security because mail content often crosses MIME/data source boundaries.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

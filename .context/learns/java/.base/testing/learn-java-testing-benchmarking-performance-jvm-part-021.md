@@ -2336,4 +2336,4 @@ Next: Part 022 — Garbage Collection Engineering I: GC Theory dan Collector Evo
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-020](./learn-java-testing-benchmarking-performance-jvm-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-022](./learn-java-testing-benchmarking-performance-jvm-part-022.md)
+[⬅️ Sebelumnya: Part 020 — JVM Execution Model: Interpreter, JIT, Tiered Compilation, Code Cache, Deoptimization](./learn-java-testing-benchmarking-performance-jvm-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Garbage Collection Engineering I: GC Theory dan Collector Evolution Java 8–25](./learn-java-testing-benchmarking-performance-jvm-part-022.md)

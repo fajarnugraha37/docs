@@ -2590,4 +2590,4 @@ Seri belum selesai. Ini adalah Part 011 dari 031.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 010](./learn-java-servlet-websocket-web-container-runtime-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-012](./learn-java-servlet-websocket-web-container-runtime-part-012.md)
+[⬅️ Sebelumnya: Part 010 — Observing Web Application Lifecycle](./learn-java-servlet-websocket-web-container-runtime-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 012 — Session Management: `HttpSession` Deep Dive](./learn-java-servlet-websocket-web-container-runtime-part-012.md)

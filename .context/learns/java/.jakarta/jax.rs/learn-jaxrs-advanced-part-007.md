@@ -3311,4 +3311,4 @@ Kita akan membedah request/runtime context injection, conditional requests, head
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-006.md](./learn-jaxrs-advanced-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-008.md](./learn-jaxrs-advanced-part-008.md)
+[⬅️ Sebelumnya: Bagian 006 — Parameter Injection: `@PathParam`, `@QueryParam`, `@HeaderParam`, `@CookieParam`, `@MatrixParam`, `@DefaultValue`, `@BeanParam`](./learn-jaxrs-advanced-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 008 — Context Injection: `@Context`, `UriInfo`, `HttpHeaders`, `Request`, `SecurityContext`, `Providers`, `ResourceContext`, dan Runtime Metadata Boundary](./learn-jaxrs-advanced-part-008.md)

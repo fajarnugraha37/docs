@@ -2135,4 +2135,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-018](./learn-java-servlet-websocket-web-container-runtime-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 020](./learn-java-servlet-websocket-web-container-runtime-part-020.md)
+[⬅️ Sebelumnya: Part 018 — Threading Model: Classic Servlet, Platform Threads, Virtual Threads](./learn-java-servlet-websocket-web-container-runtime-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — Packaging Models: WAR, Embedded Container, Executable JAR, Native-ish Deployments](./learn-java-servlet-websocket-web-container-runtime-part-020.md)

@@ -2610,4 +2610,4 @@ Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-016](./learn-java-memory-byte-bit-buffer-offheap-gc-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-018](./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md)
+[⬅️ Sebelumnya: CPU Cache, Cache Lines, False Sharing, and Memory Locality](./learn-java-memory-byte-bit-buffer-offheap-gc-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact](./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md)

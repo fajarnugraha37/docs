@@ -1654,4 +1654,4 @@ and parallel behavior are all explicitly correct.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-044.md](./learn-java-collections-and-streams-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-046.md](./learn-java-collections-and-streams-part-046.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 044](./learn-java-collections-and-streams-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 046](./learn-java-collections-and-streams-part-046.md)

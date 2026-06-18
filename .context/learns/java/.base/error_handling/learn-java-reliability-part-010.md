@@ -2453,4 +2453,4 @@ Di sana kita akan membahas realitas container orchestration: `SIGTERM`, `preStop
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-009.md](./learn-java-reliability-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-011.md](./learn-java-reliability-part-011.md)
+[⬅️ Sebelumnya: Part 009 — JVM Shutdown Mechanics](./learn-java-reliability-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — Kubernetes, Containers, and Shutdown Reality](./learn-java-reliability-part-011.md)

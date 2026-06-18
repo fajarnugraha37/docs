@@ -2388,4 +2388,4 @@ Bagian berikutnya akan membahas **Jakarta Transactions (`jakarta.transaction`)**
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-012.md](./learn-java-jakarta-part-012.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-014.md](./learn-java-jakarta-part-014.md)
+[⬅️ Sebelumnya: Bagian 12 — Jakarta Persistence (`jakarta.persistence`) / JPA](./learn-java-jakarta-part-012.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 14 — Jakarta Transactions: Transaction Boundary, Rollback, XA, dan Consistency Engineering](./learn-java-jakarta-part-014.md)

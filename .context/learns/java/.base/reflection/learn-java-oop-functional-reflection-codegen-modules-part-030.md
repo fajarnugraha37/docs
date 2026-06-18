@@ -2198,4 +2198,4 @@ Daftar lengkap:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-029](./learn-java-oop-functional-reflection-codegen-modules-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-000](../security/learn-java-security-cryptography-integrity-part-000.md)
+[⬅️ Sebelumnya: API Evolution, Binary Compatibility, Semantic Versioning, and Library Design](./learn-java-oop-functional-reflection-codegen-modules-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Security Mental Model for Senior Java Engineers](../security/learn-java-security-cryptography-integrity-part-000.md)

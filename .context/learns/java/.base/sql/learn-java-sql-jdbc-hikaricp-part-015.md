@@ -1562,4 +1562,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-016.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-014](./learn-java-sql-jdbc-hikaricp-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-016](./learn-java-sql-jdbc-hikaricp-part-016.md)
+[⬅️ Sebelumnya: Part 014 — Metadata APIs: `DatabaseMetaData`, `ResultSetMetaData`, `ParameterMetaData`](./learn-java-sql-jdbc-hikaricp-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Stored Procedures and `CallableStatement`](./learn-java-sql-jdbc-hikaricp-part-016.md)

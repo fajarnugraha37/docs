@@ -2510,4 +2510,4 @@ Part 32 — Incident Response for Java Security Failures
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-030](./learn-java-security-cryptography-integrity-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-032.md](./learn-java-security-cryptography-integrity-part-032.md)
+[⬅️ Sebelumnya: Part 30 — Runtime Hardening: JVM, Container, OS, Network](./learn-java-security-cryptography-integrity-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Incident Response for Java Security Failures](./learn-java-security-cryptography-integrity-part-032.md)

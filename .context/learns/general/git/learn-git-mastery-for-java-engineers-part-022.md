@@ -2269,4 +2269,4 @@ Git Hooks: Automasi Lokal dan Guardrails
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-021.md](./learn-git-mastery-for-java-engineers-part-021.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-023.md](./learn-git-mastery-for-java-engineers-part-023.md)
+[⬅️ Sebelumnya: Part 021 — Git untuk Java Projects: Maven, Gradle, IDE, dan Generated Files](./learn-git-mastery-for-java-engineers-part-021.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 023 — Git Hooks: Automasi Lokal dan Guardrails](./learn-git-mastery-for-java-engineers-part-023.md)

@@ -2159,4 +2159,4 @@ Seri belum mencapai bagian terakhir. Lanjutkan ke Part 010 untuk memahami intera
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-008.md](./learn-git-mastery-for-java-engineers-part-008.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-010.md](./learn-git-mastery-for-java-engineers-part-010.md)
+[⬅️ Sebelumnya: Menggabungkan Sejarah Tanpa Kehilangan Konteks](./learn-git-mastery-for-java-engineers-part-008.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 010 — Interactive Rebase: Sculpting History](./learn-git-mastery-for-java-engineers-part-010.md)

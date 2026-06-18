@@ -3379,4 +3379,4 @@ Kita akan membedah custom conversion jauh lebih detail: provider priority, error
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-005.md](./learn-jaxrs-advanced-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-007.md](./learn-jaxrs-advanced-part-007.md)
+[⬅️ Sebelumnya: Bagian 005 — Path Template, Regex, Matrix Param, and URI Design: Canonical Resource Identity, Reserved Literals, Nested Resources, Versioning, dan Gateway-Aware URI](./learn-jaxrs-advanced-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 007 — Advanced Parameter Conversion: `ParamConverter`, `ParamConverterProvider`, `valueOf`, Constructor, `fromString`, `@Lazy`, Error Taxonomy, dan Typed Boundary Design](./learn-jaxrs-advanced-part-007.md)

@@ -1756,4 +1756,4 @@ but enum evolution and mutability must be reviewed like schema changes.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-017.md](./learn-java-collections-and-streams-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-019.md](./learn-java-collections-and-streams-part-019.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 017](./learn-java-collections-and-streams-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 019](./learn-java-collections-and-streams-part-019.md)

@@ -2129,4 +2129,4 @@ Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-010](./learn-java-validation-jakarta-hibernate-validator-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-012](./learn-java-validation-jakarta-hibernate-validator-part-012.md)
+[⬅️ Sebelumnya: Level and Cross-Field Validation: Consistency inside One Object](./learn-java-validation-jakarta-hibernate-validator-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Records, Immutability, Builders, Lombok, and Modern Java Modeling](./learn-java-validation-jakarta-hibernate-validator-part-012.md)

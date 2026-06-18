@@ -2637,4 +2637,4 @@ Di sana kita akan membedah bagaimana container menerima connection, memetakan re
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-001](./learn-java-servlet-websocket-web-container-runtime-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-003](./learn-java-servlet-websocket-web-container-runtime-part-003.md)
+[⬅️ Sebelumnya: Part 001 — Evolution: Java EE `javax.*` ke Jakarta EE `jakarta.*`](./learn-java-servlet-websocket-web-container-runtime-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Servlet Container Architecture](./learn-java-servlet-websocket-web-container-runtime-part-003.md)

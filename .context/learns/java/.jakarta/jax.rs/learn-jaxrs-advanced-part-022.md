@@ -2613,4 +2613,4 @@ Kita akan membahas `Link`, link relations, `Location`, `Content-Location`, affor
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-021.md](./learn-jaxrs-advanced-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-023.md](./learn-jaxrs-advanced-part-023.md)
+[⬅️ Sebelumnya: Bagian 021 — PATCH, JSON Patch, JSON Merge Patch, and Partial Update Semantics: PUT vs PATCH, Null vs Missing, Field Authorization, Validation, Optimistic Locking, Idempotency, Audit, dan Domain State Semantics](./learn-jaxrs-advanced-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 023 — Hypermedia and Links: `Link`, HATEOAS, Practical REST Maturity, `Location`, `Content-Location`, Pagination Links, Action Affordances, dan API Evolvability](./learn-jaxrs-advanced-part-023.md)

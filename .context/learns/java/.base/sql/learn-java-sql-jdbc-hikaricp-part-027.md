@@ -2489,4 +2489,4 @@ Referensi utama yang relevan untuk bagian ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-026.md](./learn-java-sql-jdbc-hikaricp-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java SQL, JDBC, and HikariCP — Part 028](./learn-java-sql-jdbc-hikaricp-part-028.md)
+[⬅️ Sebelumnya: Part 026 — Security and Integrity at JDBC Boundary](./learn-java-sql-jdbc-hikaricp-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java SQL, JDBC, and HikariCP — Part 028](./learn-java-sql-jdbc-hikaricp-part-028.md)

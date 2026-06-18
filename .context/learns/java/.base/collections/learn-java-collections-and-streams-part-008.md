@@ -1790,4 +1790,4 @@ It is the contract that tells Stream how to traverse, split, and optimize a sour
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-007.md](./learn-java-collections-and-streams-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-009.md](./learn-java-collections-and-streams-part-009.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 007](./learn-java-collections-and-streams-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 009](./learn-java-collections-and-streams-part-009.md)

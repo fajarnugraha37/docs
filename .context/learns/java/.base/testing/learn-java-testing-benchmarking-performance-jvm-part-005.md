@@ -2755,4 +2755,4 @@ Part 006 berikutnya: Mocking, Stubbing, Fakes, Spies, dan Contract of Collaborat
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-004](./learn-java-testing-benchmarking-performance-jvm-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-006](./learn-java-testing-benchmarking-performance-jvm-part-006.md)
+[⬅️ Sebelumnya: Assertion Engineering: AssertJ, Hamcrest, Custom Assertion, dan Failure Diagnostics](./learn-java-testing-benchmarking-performance-jvm-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Mocking, Stubbing, Fakes, Spies, dan Contract of Collaboration](./learn-java-testing-benchmarking-performance-jvm-part-006.md)

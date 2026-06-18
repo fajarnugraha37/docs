@@ -2804,4 +2804,4 @@ Kita akan membahas entity stream interception: reader/writer interceptor pipelin
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-014.md](./learn-jaxrs-advanced-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-016.md](./learn-jaxrs-advanced-part-016.md)
+[⬅️ Sebelumnya: Bagian 014 — Validation Integration: Jakarta Validation at REST Boundary, `@Valid`, Parameter Validation, Entity Validation, Groups, Cross-Field Constraint, dan Error Mapping](./learn-jaxrs-advanced-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 016 — Interceptors: `ReaderInterceptor`, `WriterInterceptor`, Entity Stream Pipeline, Compression, Encryption, Signature, Body Hash, Priority, Name Binding, dan Production-Safe Stream Transformation](./learn-jaxrs-advanced-part-016.md)

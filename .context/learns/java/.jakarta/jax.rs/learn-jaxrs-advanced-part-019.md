@@ -2872,4 +2872,4 @@ Kita akan membahas desain query contract enterprise: pagination offset vs cursor
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-018.md](./learn-jaxrs-advanced-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-020.md](./learn-jaxrs-advanced-part-020.md)
+[⬅️ Sebelumnya: Bagian 018 — Security in JAX-RS: Authentication, Authorization, `SecurityContext`, Principal, Roles, Scopes, JWT/OIDC, Jakarta Security, Tenant/Data Authorization, dan Production Hardening](./learn-jaxrs-advanced-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 020 — Pagination, Sorting, Filtering, Search, and Query Contract Design: Offset vs Cursor, Stable Ordering, Allowlist, Query DTO, Index-Aware API, dan Enterprise Search Semantics](./learn-jaxrs-advanced-part-020.md)

@@ -1891,4 +1891,4 @@ Referensi konseptual dan teknis yang relevan:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-017](./learn-java-security-cryptography-integrity-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-019](./learn-java-security-cryptography-integrity-part-019.md)
+[⬅️ Sebelumnya: Part 17 — Secure File, Archive, and Data Transfer Integrity](./learn-java-security-cryptography-integrity-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — JSON, JWT, JWS, JWE, JOSE, and Token Integrity](./learn-java-security-cryptography-integrity-part-019.md)

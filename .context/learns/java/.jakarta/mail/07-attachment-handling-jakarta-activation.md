@@ -2366,7 +2366,6 @@ Part 8 will cover:
 - localization;
 - template versioning and snapshot testing.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

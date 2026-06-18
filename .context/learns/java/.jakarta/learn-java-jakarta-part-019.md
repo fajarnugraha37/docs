@@ -3030,4 +3030,4 @@ Bagian berikutnya akan membahas **Jakarta Mail (`jakarta.mail`)**: SMTP/IMAP, MI
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-018.md](./learn-java-jakarta-part-018.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-020.md](./learn-java-jakarta-part-020.md)
+[⬅️ Sebelumnya: Bagian 18 — Jakarta Authentication dan Jakarta Authorization: Low-Level Security SPI](./learn-java-jakarta-part-018.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 20 — Jakarta Mail (`jakarta.mail`): SMTP, MIME, Attachment, dan Production Email Pipeline](./learn-java-jakarta-part-020.md)

@@ -2099,4 +2099,4 @@ Bagian berikutnya akan membahas **Jakarta Managed Beans (`jakarta.annotation.Man
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-035.md](./learn-java-jakarta-part-035.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-037.md](./learn-java-jakarta-part-037.md)
+[⬅️ Sebelumnya: Bagian 35 — Jakarta Deployment (`javax.enterprise.deploy` / `jakarta.enterprise.deploy-api`): Deployment SPI, Tooling Contract, TargetModuleID, ProgressObject, dan Relevansi Modern](./learn-java-jakarta-part-035.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 37 — Jakarta Managed Beans / Legacy Managed Beans: `@ManagedBean`, Container-Managed POJO, Faces Managed Bean, dan Migrasi ke CDI](./learn-java-jakarta-part-037.md)

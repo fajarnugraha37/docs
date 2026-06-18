@@ -2888,4 +2888,4 @@ Seri belum selesai. Masih ada 20 bagian setelah ini.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-011.md](./learn-git-mastery-for-java-engineers-part-011.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-013.md](./learn-git-mastery-for-java-engineers-part-013.md)
+[⬅️ Sebelumnya: Part 011 — Conflict Resolution: Dari Mekanik ke Strategi](./learn-git-mastery-for-java-engineers-part-011.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Pull Request / Merge Request sebagai Engineering Control Point](./learn-git-mastery-for-java-engineers-part-013.md)

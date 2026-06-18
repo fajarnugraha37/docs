@@ -1879,4 +1879,4 @@ Kita akan membahas service-to-service HTTP secara mendalam: client lifecycle, co
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-046.md](./learn-jaxrs-advanced-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-048.md](./learn-jaxrs-advanced-part-048.md)
+[⬅️ Sebelumnya: Bagian 046 — Multi-Tenancy and Data Authorization in JAX-RS: Tenant Context Propagation, Tenant-Aware Resource Design, Object-Level Authorization, Row-Level Security, Repository Safeguards, DTO Redaction, Cross-Tenant Leakage Prevention, Testing, and Observability](./learn-jaxrs-advanced-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 048 — Advanced HTTP Client and Service-to-Service Communication: Client Lifecycle, Connection Pools, DNS, TLS/mTLS, Auth Token Propagation, Timeout Budget, Retry, Circuit Breaker, Request Signing, Idempotency, Schema Compatibility, and Safe Downstream Consumption](./learn-jaxrs-advanced-part-048.md)

@@ -2359,4 +2359,4 @@ Series belum selesai.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-15-kubernetes-probes-graceful-shutdown-traffic-draining.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-17-release-strategy-rolling-bluegreen-canary-shadow-ring.md)
+[⬅️ Sebelumnya: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-15-kubernetes-probes-graceful-shutdown-traffic-draining.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Release Strategy: Rolling, Blue-Green, Canary, Shadow, Ring Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-17-release-strategy-rolling-bluegreen-canary-shadow-ring.md)

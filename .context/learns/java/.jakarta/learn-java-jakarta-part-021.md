@@ -2993,4 +2993,4 @@ Bagian berikutnya akan membahas **Jakarta Concurrency (`jakarta.enterprise.concu
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-020.md](./learn-java-jakarta-part-020.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-022.md](./learn-java-jakarta-part-022.md)
+[⬅️ Sebelumnya: Bagian 20 — Jakarta Mail (`jakarta.mail`): SMTP, MIME, Attachment, dan Production Email Pipeline](./learn-java-jakarta-part-020.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 22 — Jakarta Concurrency (`jakarta.enterprise.concurrent`): Managed Threads, Async Task, Context Propagation, dan Resource Safety](./learn-java-jakarta-part-022.md)

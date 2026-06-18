@@ -2549,4 +2549,4 @@ Part 27 — Supply Chain Security for Java: Maven, Gradle, SBOM, Provenance
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-025](./learn-java-security-cryptography-integrity-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-027](./learn-java-security-cryptography-integrity-part-027.md)
+[⬅️ Sebelumnya: Part 25 — Secure Logging, Audit Trail Integrity, Evidence, and Non-Repudiation](./learn-java-security-cryptography-integrity-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Supply Chain Security for Java: Maven, Gradle, SBOM, Provenance](./learn-java-security-cryptography-integrity-part-027.md)

@@ -2111,4 +2111,4 @@ Belum selesai. Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-14-multi-instance-parallelism-fan-out-fan-in-concurrency-control.md)
+[⬅️ Sebelumnya: Part 12 — Message Correlation and Event-driven Process Design](./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Multi-instance, Parallelism, Fan-out/Fan-in, and Concurrency Control](./learn-java-bpmn-camunda-part-14-multi-instance-parallelism-fan-out-fan-in-concurrency-control.md)

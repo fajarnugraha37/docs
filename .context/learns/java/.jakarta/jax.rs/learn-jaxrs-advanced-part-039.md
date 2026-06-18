@@ -1901,4 +1901,4 @@ Kita akan membahas observability production-grade untuk Jakarta REST: logs, metr
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-038.md](./learn-jaxrs-advanced-part-038.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-040.md](./learn-jaxrs-advanced-part-040.md)
+[⬅️ Sebelumnya: Bagian 038 — Migration: `javax.ws.rs` to `jakarta.ws.rs`: Namespace Shift, Dependency Alignment, Runtime Upgrade, OpenRewrite, Eclipse Transformer, CDI/Servlet/Validation/Persistence Ecosystem, Testing Strategy, and Migration Failure Modes](./learn-jaxrs-advanced-part-038.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 040 — Production Observability for JAX-RS: Logs, Metrics, Traces, Correlation ID, OpenTelemetry, MicroProfile Telemetry, HTTP Semantic Conventions, RED/USE, SLOs, Dashboards, and Incident Debugging](./learn-jaxrs-advanced-part-040.md)

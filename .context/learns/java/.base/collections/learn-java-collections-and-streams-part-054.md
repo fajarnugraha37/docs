@@ -1323,4 +1323,4 @@ and how its size is monitored.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-053.md](./learn-java-collections-and-streams-part-053.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-055.md](./learn-java-collections-and-streams-part-055.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 053](./learn-java-collections-and-streams-part-053.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 055](./learn-java-collections-and-streams-part-055.md)

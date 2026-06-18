@@ -2721,4 +2721,4 @@ Belum selesai. Bagian berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime — Part 018](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-018.md)
+[⬅️ Sebelumnya: Part 016 — Decorators: Semantic Wrapping of Business Interfaces](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Lifecycle Callbacks: Construction, Initialization, Destruction](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-018.md)

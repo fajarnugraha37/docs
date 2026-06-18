@@ -2779,4 +2779,4 @@ Part 023 — Observability for Errors and Reliability
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-021.md](./learn-java-reliability-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-023.md](./learn-java-reliability-part-023.md)
+[⬅️ Sebelumnya: Part 021 — Data Reliability and Persistence Failure](./learn-java-reliability-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — Observability for Errors and Reliability](./learn-java-reliability-part-023.md)

@@ -3314,4 +3314,4 @@ part-015: Programmatic Constraint Mapping and Runtime Metadata
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-013](./learn-java-validation-jakarta-hibernate-validator-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-015.md](./learn-java-validation-jakarta-hibernate-validator-part-015.md)
+[⬅️ Sebelumnya: Message Interpolation: i18n, EL, Security, and Error Message Governance](./learn-java-validation-jakarta-hibernate-validator-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — Programmatic Constraint Mapping and Runtime Metadata](./learn-java-validation-jakarta-hibernate-validator-part-015.md)

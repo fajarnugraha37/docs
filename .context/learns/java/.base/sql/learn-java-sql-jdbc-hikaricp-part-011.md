@@ -2321,4 +2321,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-012.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-010](./learn-java-sql-jdbc-hikaricp-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-012.md](./learn-java-sql-jdbc-hikaricp-part-012.md)
+[⬅️ Sebelumnya: Resource Lifecycle: Closing, Try-With-Resources, Leaks, and Ownership](./learn-java-sql-jdbc-hikaricp-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 012 — Batch Operations: Throughput, Atomicity, and Driver Rewriting](./learn-java-sql-jdbc-hikaricp-part-012.md)

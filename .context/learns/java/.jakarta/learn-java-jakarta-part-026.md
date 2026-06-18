@@ -3109,4 +3109,4 @@ Bagian berikutnya akan membahas **Jakarta Expression Language (`jakarta.el`)**: 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-025.md](./learn-java-jakarta-part-025.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-027.md](./learn-java-jakarta-part-027.md)
+[⬅️ Sebelumnya: Bagian 25 — Jakarta WebSocket (`jakarta.websocket`): Full-Duplex Communication, Session, Backpressure, dan Real-Time Reliability](./learn-java-jakarta-part-025.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 27 — Jakarta Expression Language (`jakarta.el`): Expression Evaluation, Resolver Chain, Coercion, Method Expression, dan Security](./learn-java-jakarta-part-027.md)

@@ -1952,4 +1952,4 @@ Topik berikutnya: Conflict Resolution: Dari Mekanik ke Strategi
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-009.md](./learn-git-mastery-for-java-engineers-part-009.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-011.md](./learn-git-mastery-for-java-engineers-part-011.md)
+[⬅️ Sebelumnya: Part 009 — Rebase: Memindahkan Perubahan dengan Aman](./learn-git-mastery-for-java-engineers-part-009.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 011 — Conflict Resolution: Dari Mekanik ke Strategi](./learn-git-mastery-for-java-engineers-part-011.md)

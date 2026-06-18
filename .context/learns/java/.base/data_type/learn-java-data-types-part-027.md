@@ -2145,4 +2145,4 @@ Validation yang baik membuat codebase lebih benar, lebih aman, lebih mudah berev
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-026.md](./learn-java-data-types-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-028.md](./learn-java-data-types-part-028.md)
+[⬅️ Sebelumnya: Java Data Types — Part 026](./learn-java-data-types-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 028](./learn-java-data-types-part-028.md)

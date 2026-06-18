@@ -1514,4 +1514,4 @@ Part 24 — Archives and Virtual Filesystems: ZIP FileSystem and JAR-Like Access
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-22-checksums-hashes-integrity-deduplication.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 24](./learn-java-io-file-filesystem-storage-engineering-part-24-archives-virtual-filesystems.md)
+[⬅️ Sebelumnya: Part 22 — Checksums, Hashes, Integrity, and Deduplication](./learn-java-io-file-filesystem-storage-engineering-part-22-checksums-hashes-integrity-deduplication.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — Archives and Virtual Filesystems: ZIP FileSystem and JAR-Like Access](./learn-java-io-file-filesystem-storage-engineering-part-24-archives-virtual-filesystems.md)

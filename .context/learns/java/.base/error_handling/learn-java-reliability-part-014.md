@@ -2124,4 +2124,4 @@ Part berikutnya: **Part 015 — Idempotency as Core Reliability Primitive**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-013.md](./learn-java-reliability-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-015.md](./learn-java-reliability-part-015.md)
+[⬅️ Sebelumnya: Part 013 — Background Workers, Schedulers, Queues, and Message Consumers](./learn-java-reliability-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — Idempotency as Core Reliability Primitive](./learn-java-reliability-part-015.md)

@@ -2301,4 +2301,4 @@ tetapi bisa mendesain, mereview, mengoptimalkan, dan mengamankan penggunaannya.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 34 — Top 1% Build Engineer Playbook](../build_tools/34-top-1-percent-build-engineer-playbook.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-001.md](./learn-java-collections-and-streams-part-001.md)
+[⬅️ Sebelumnya: Part 34 — Top 1% Build Engineer Playbook](../build_tools/34-top-1-percent-build-engineer-playbook.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 001](./learn-java-collections-and-streams-part-001.md)

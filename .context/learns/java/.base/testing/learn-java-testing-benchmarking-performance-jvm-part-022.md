@@ -2229,4 +2229,4 @@ Garbage Collection Engineering II: GC Logs, Diagnosis, Tuning, dan Failure Modes
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-021](./learn-java-testing-benchmarking-performance-jvm-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-023](./learn-java-testing-benchmarking-performance-jvm-part-023.md)
+[⬅️ Sebelumnya: Memory Model for Performance: Heap, Stack, Metaspace, Direct Memory, Native Memory](./learn-java-testing-benchmarking-performance-jvm-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Garbage Collection Engineering II: GC Logs, Diagnosis, Tuning, dan Failure Modes](./learn-java-testing-benchmarking-performance-jvm-part-023.md)

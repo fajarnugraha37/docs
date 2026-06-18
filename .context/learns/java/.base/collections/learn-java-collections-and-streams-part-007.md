@@ -1757,4 +1757,4 @@ Iteration is not just looping. It is a contract about traversal, mutation, consi
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-006.md](./learn-java-collections-and-streams-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-008.md](./learn-java-collections-and-streams-part-008.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 006](./learn-java-collections-and-streams-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 008](./learn-java-collections-and-streams-part-008.md)

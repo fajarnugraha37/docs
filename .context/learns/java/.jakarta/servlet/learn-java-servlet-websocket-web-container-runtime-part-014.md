@@ -2005,4 +2005,4 @@ Jika dipakai dengan benar, async servlet adalah alat runtime yang kuat. Jika dip
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-013](./learn-java-servlet-websocket-web-container-runtime-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 015](./learn-java-servlet-websocket-web-container-runtime-part-015.md)
+[⬅️ Sebelumnya: Part 013 — Cookies, Headers, SameSite, and Browser Boundary](./learn-java-servlet-websocket-web-container-runtime-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — Servlet Non-Blocking I/O](./learn-java-servlet-websocket-web-container-runtime-part-015.md)

@@ -2336,4 +2336,4 @@ Di sana kita akan melihat bagaimana Java endpoint, annotation, SEI, implementati
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 22](./learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 24](./learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md)
+[⬅️ Sebelumnya: Part 22 — SOAP Mental Model: Envelope, Header, Body, Fault, SOAP 1.1 vs 1.2, Document-Literal, RPC Legacy, and Why SOAP Survived](./learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — WS / Jakarta XML Web Services Server Side](./learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md)

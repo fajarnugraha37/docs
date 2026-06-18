@@ -2130,4 +2130,4 @@ Referensi utama untuk part ini:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-011](./learn-java-sql-jdbc-hikaricp-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-013](./learn-java-sql-jdbc-hikaricp-part-013.md)
+[⬅️ Sebelumnya: DataSource over DriverManager: Modern Connection Acquisition](./learn-java-sql-jdbc-hikaricp-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Large Objects and Streaming: `Blob`, `Clob`, `NClob`, `SQLXML`](./learn-java-sql-jdbc-hikaricp-part-013.md)

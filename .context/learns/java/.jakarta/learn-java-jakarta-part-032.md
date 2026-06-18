@@ -2696,4 +2696,4 @@ Bagian berikutnya akan membahas **Jakarta SOAP with Attachments (`jakarta.xml.so
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-031.md](./learn-java-jakarta-part-031.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-033.md](./learn-java-jakarta-part-033.md)
+[⬅️ Sebelumnya: Bagian 31 — Jakarta XML Binding (`jakarta.xml.bind`) / JAXB: Object-XML Mapping, Schema, Marshalling, Security, dan Migration](./learn-java-jakarta-part-031.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 33 — Jakarta SOAP with Attachments (`jakarta.xml.soap`) / SAAJ: SOAP Message Object Model, Header, Body, Fault, Attachments, dan Low-Level SOAP Processing](./learn-java-jakarta-part-033.md)

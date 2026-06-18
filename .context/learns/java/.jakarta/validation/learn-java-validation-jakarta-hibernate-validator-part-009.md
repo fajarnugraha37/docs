@@ -2903,4 +2903,4 @@ Part berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-008](./learn-java-validation-jakarta-hibernate-validator-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-010](./learn-java-validation-jakarta-hibernate-validator-part-010.md)
+[⬅️ Sebelumnya: Group Sequence and Dynamic Group Sequence: Ordered Validation and Short-Circuiting](./learn-java-validation-jakarta-hibernate-validator-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Level and Cross-Field Validation: Consistency inside One Object](./learn-java-validation-jakarta-hibernate-validator-part-010.md)

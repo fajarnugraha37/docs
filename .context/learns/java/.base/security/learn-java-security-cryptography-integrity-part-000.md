@@ -2460,4 +2460,4 @@ Progress:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-030](../reflection/learn-java-oop-functional-reflection-codegen-modules-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-001](./learn-java-security-cryptography-integrity-part-001.md)
+[⬅️ Sebelumnya: Part 030 — Capstone: Designing a Modular, Reflective, Generated-Code Friendly Java Library](../reflection/learn-java-oop-functional-reflection-codegen-modules-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Security Architecture: JCA, JCE, JAAS, JSSE, JGSS, SASL, CertPath](./learn-java-security-cryptography-integrity-part-001.md)

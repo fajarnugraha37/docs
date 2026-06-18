@@ -2090,4 +2090,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-018](./learn-java-oop-functional-reflection-codegen-modules-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-020](./learn-java-oop-functional-reflection-codegen-modules-part-020.md)
+[⬅️ Sebelumnya: Reflection Deep Dive I: Class Metadata, Members, Access, and Type Inspection](./learn-java-oop-functional-reflection-codegen-modules-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: MethodHandles and VarHandles: Safer, Faster, Lower-Level Dynamic Access](./learn-java-oop-functional-reflection-codegen-modules-part-020.md)

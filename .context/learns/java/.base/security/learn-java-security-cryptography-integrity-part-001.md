@@ -2698,4 +2698,4 @@ Part 2 — Threat Modeling for Java Systems
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-000](./learn-java-security-cryptography-integrity-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-002](./learn-java-security-cryptography-integrity-part-002.md)
+[⬅️ Sebelumnya: Part 0 — Security Mental Model for Senior Java Engineers](./learn-java-security-cryptography-integrity-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Threat Modeling for Java Systems](./learn-java-security-cryptography-integrity-part-002.md)

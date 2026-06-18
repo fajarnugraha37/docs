@@ -2648,4 +2648,4 @@ Part 025 — WebSocket Security Boundary
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 023 — WebSocket Session, Concurrency, and State Management](./learn-java-servlet-websocket-web-container-runtime-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-025](./learn-java-servlet-websocket-web-container-runtime-part-025.md)
+[⬅️ Sebelumnya: Part 023 — WebSocket Session, Concurrency, and State Management](./learn-java-servlet-websocket-web-container-runtime-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 025 — WebSocket Security Boundary](./learn-java-servlet-websocket-web-container-runtime-part-025.md)

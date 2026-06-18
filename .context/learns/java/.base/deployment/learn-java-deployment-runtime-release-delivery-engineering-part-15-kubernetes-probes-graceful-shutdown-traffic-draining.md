@@ -2348,4 +2348,4 @@ Part 16 — Resource Sizing: CPU, Memory, Heap, Non-Heap, Threads, and Container
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-14-kubernetes-deployment-for-java-applications.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-16-resource-sizing-cpu-memory-heap-nonheap-threads-containers.md)
+[⬅️ Sebelumnya: Part 14 — Kubernetes Deployment for Java Applications](./learn-java-deployment-runtime-release-delivery-engineering-part-14-kubernetes-deployment-for-java-applications.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Resource Sizing: CPU, Memory, Heap, Non-Heap, Threads, and Containers](./learn-java-deployment-runtime-release-delivery-engineering-part-16-resource-sizing-cpu-memory-heap-nonheap-threads-containers.md)

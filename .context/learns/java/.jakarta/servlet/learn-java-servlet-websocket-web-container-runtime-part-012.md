@@ -2348,4 +2348,4 @@ Part berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 011](./learn-java-servlet-websocket-web-container-runtime-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-013](./learn-java-servlet-websocket-web-container-runtime-part-013.md)
+[⬅️ Sebelumnya: Part 011 — ServletContext and Application Scope](./learn-java-servlet-websocket-web-container-runtime-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Cookies, Headers, SameSite, and Browser Boundary](./learn-java-servlet-websocket-web-container-runtime-part-013.md)

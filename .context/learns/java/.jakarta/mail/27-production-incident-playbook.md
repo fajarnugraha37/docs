@@ -2378,8 +2378,6 @@ Part berikutnya akan menyatukan seluruh seri menjadi implementation blueprint:
 - migration notes;
 - production hardening checklist.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

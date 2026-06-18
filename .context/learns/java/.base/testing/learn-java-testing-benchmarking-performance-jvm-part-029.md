@@ -1847,4 +1847,4 @@ Progress: **Part 029 dari 031 selesai**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-028](./learn-java-testing-benchmarking-performance-jvm-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-030](./learn-java-testing-benchmarking-performance-jvm-part-030.md)
+[⬅️ Sebelumnya: Part 028 — Performance Engineering for Java Code: Allocation, Collections, Strings, IO, Serialization](./learn-java-testing-benchmarking-performance-jvm-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Performance Regression Pipeline: CI Benchmark, Baseline, Threshold, and Release Gate](./learn-java-testing-benchmarking-performance-jvm-part-030.md)

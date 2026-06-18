@@ -2135,4 +2135,4 @@ Kita akan membahas tenant context propagation, tenant-aware resource design, dat
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-044.md](./learn-jaxrs-advanced-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-046.md](./learn-jaxrs-advanced-part-046.md)
+[⬅️ Sebelumnya: Bagian 044 — Long-Running Operations and Async API Design: 202 Accepted, Operation Resource, Polling, Webhook, SSE Progress, Cancellation, Retry, Idempotency, Timeout, Result Resources, Failure Recovery, and Production Job Orchestration](./learn-jaxrs-advanced-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 046 — Multi-Tenancy and Data Authorization in JAX-RS: Tenant Context Propagation, Tenant-Aware Resource Design, Object-Level Authorization, Row-Level Security, Repository Safeguards, DTO Redaction, Cross-Tenant Leakage Prevention, Testing, and Observability](./learn-jaxrs-advanced-part-046.md)

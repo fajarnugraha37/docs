@@ -2383,4 +2383,4 @@ Status seri: **belum selesai**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-028.md](./learn-java-security-cryptography-integrity-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-030](./learn-java-security-cryptography-integrity-part-030.md)
+[⬅️ Sebelumnya: Part 28 — Signed JARs, JAR Integrity, Classloading, and Runtime Trust](./learn-java-security-cryptography-integrity-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Runtime Hardening: JVM, Container, OS, Network](./learn-java-security-cryptography-integrity-part-030.md)

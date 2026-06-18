@@ -2533,4 +2533,4 @@ We will go deeper into links as filesystem identity indirection:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming](./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md)
+[⬅️ Sebelumnya: Part 10 — Directory Listing and Traversal: `list`, `walk`, `find`, `DirectoryStream`](./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming](./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md)

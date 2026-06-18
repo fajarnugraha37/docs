@@ -2252,4 +2252,4 @@ Belum selesai. Lanjut ke:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md)
+[⬅️ Sebelumnya: Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 016 — Decorators: Semantic Wrapping of Business Interfaces](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md)

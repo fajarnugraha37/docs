@@ -2551,4 +2551,4 @@ Berikutnya: Part 025 — JVM Arguments & Configuration II: Production Profiles f
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-023](./learn-java-testing-benchmarking-performance-jvm-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-025](./learn-java-testing-benchmarking-performance-jvm-part-025.md)
+[⬅️ Sebelumnya: Garbage Collection Engineering II: GC Logs, Diagnosis, Tuning, dan Failure Modes](./learn-java-testing-benchmarking-performance-jvm-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: JVM Arguments & Configuration II: Production Profiles for Containers, Kubernetes, and Cloud](./learn-java-testing-benchmarking-performance-jvm-part-025.md)

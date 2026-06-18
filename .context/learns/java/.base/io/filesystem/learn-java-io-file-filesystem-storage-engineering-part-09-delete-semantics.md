@@ -1950,4 +1950,4 @@ Part 10 akan memperdalam traversal sebagai primitive fundamental untuk filesyste
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 08](./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md)
+[⬅️ Sebelumnya: Part 08 — Copy and Move Semantics: Replace, Attributes, Links, Cross-Device Behavior](./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 10 — Directory Listing and Traversal: `list`, `walk`, `find`, `DirectoryStream`](./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md)

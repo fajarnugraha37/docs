@@ -1612,4 +1612,4 @@ It is poor when your workload is front/middle mutation, membership lookup, primi
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-015.md](./learn-java-collections-and-streams-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-017.md](./learn-java-collections-and-streams-part-017.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 015](./learn-java-collections-and-streams-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 017](./learn-java-collections-and-streams-part-017.md)

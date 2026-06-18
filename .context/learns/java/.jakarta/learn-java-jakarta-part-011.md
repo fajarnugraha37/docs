@@ -2876,4 +2876,4 @@ Bagian berikutnya akan masuk ke **Jakarta Persistence (`jakarta.persistence` / J
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-010.md](./learn-java-jakarta-part-010.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-012.md](./learn-java-jakarta-part-012.md)
+[⬅️ Sebelumnya: Bagian 10 — Jakarta JSON Processing: `jakarta.json` / JSON-P](./learn-java-jakarta-part-010.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 12 — Jakarta Persistence (`jakarta.persistence`) / JPA](./learn-java-jakarta-part-012.md)

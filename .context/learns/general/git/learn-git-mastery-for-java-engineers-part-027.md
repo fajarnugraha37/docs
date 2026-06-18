@@ -2269,4 +2269,4 @@ Rewrite History Lanjutan: Filter-Repo, BFG, dan Migration
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-026.md](./learn-git-mastery-for-java-engineers-part-026.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-028.md](./learn-git-mastery-for-java-engineers-part-028.md)
+[⬅️ Sebelumnya: Part 026 — Large Files, Binary Assets, Git LFS, dan Repository Bloat](./learn-git-mastery-for-java-engineers-part-026.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 028 — Rewrite History Lanjutan: Filter-Repo, BFG, dan Migration](./learn-git-mastery-for-java-engineers-part-028.md)

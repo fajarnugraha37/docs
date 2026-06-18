@@ -2504,4 +2504,4 @@ Part berikutnya akan membahas **Sealed Classes and Controlled Hierarchies**, yai
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-005](./learn-java-oop-functional-reflection-codegen-modules-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-007](./learn-java-oop-functional-reflection-codegen-modules-part-007.md)
+[⬅️ Sebelumnya: Part 005 — Inheritance Deep Dive: Substitutability, Fragility, and Runtime Dispatch](./learn-java-oop-functional-reflection-codegen-modules-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Sealed Classes and Controlled Hierarchies](./learn-java-oop-functional-reflection-codegen-modules-part-007.md)

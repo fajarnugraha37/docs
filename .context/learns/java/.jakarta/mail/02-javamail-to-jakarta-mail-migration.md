@@ -1746,8 +1746,6 @@ Di sana kita akan masuk ke object model Jakarta Mail secara lebih dalam:
 - kapan memakai `Transport.send()` dan kapan manual connect/send/close;
 - anti-pattern yang sering membuat connection leak atau behavior tidak predictable.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

@@ -1760,4 +1760,4 @@ It is an algorithm + memory layout + allocation pattern + CPU behavior + semanti
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-013.md](./learn-java-collections-and-streams-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-015.md](./learn-java-collections-and-streams-part-015.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 013](./learn-java-collections-and-streams-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 015](./learn-java-collections-and-streams-part-015.md)

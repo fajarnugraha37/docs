@@ -2022,4 +2022,4 @@ Either reject it, name it, or model it explicitly.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-012.md](./learn-java-collections-and-streams-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-014.md](./learn-java-collections-and-streams-part-014.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 012](./learn-java-collections-and-streams-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 014](./learn-java-collections-and-streams-part-014.md)

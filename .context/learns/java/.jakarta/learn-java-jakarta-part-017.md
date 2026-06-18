@@ -3108,4 +3108,4 @@ Bagian berikutnya akan membahas **Jakarta Authorization dan Jakarta Authenticati
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-016.md](./learn-java-jakarta-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-018.md](./learn-java-jakarta-part-018.md)
+[⬅️ Sebelumnya: Bagian 16 — Jakarta Servlet (`jakarta.servlet`): Fondasi Web Container](./learn-java-jakarta-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 18 — Jakarta Authentication dan Jakarta Authorization: Low-Level Security SPI](./learn-java-jakarta-part-018.md)

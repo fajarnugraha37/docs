@@ -2022,4 +2022,4 @@ Bagian berikutnya akan membahas **Jakarta Config / Configuration-related model**
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-036.md](./learn-java-jakarta-part-036.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-038.md](./learn-java-jakarta-part-038.md)
+[⬅️ Sebelumnya: Bagian 36 — Jakarta Management (`javax.management.j2ee`): MEJB, JSR-77 Management Model, Managed Objects, JMX Bridge, dan Observability Legacy](./learn-java-jakarta-part-036.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 38 — Jakarta EE Configuration, Runtime Selection, dan Production Architecture Strategy](./learn-java-jakarta-part-038.md)

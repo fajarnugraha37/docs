@@ -2483,4 +2483,4 @@ last sequence: 12345
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-22-checksums-hashes-integrity-deduplication.md)
+[⬅️ Sebelumnya: Part 20 — Random Access and Structured Binary File Layout](./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Checksums, Hashes, Integrity, and Deduplication](./learn-java-io-file-filesystem-storage-engineering-part-22-checksums-hashes-integrity-deduplication.md)

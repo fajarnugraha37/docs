@@ -2120,4 +2120,4 @@ Di part berikutnya kita akan masuk lebih dalam ke direct buffer sebagai native m
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-010.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-012](./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md)
+[⬅️ Sebelumnya: Part 010 — Bit Manipulation Patterns for Real Systems](./learn-java-memory-byte-bit-buffer-offheap-gc-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Direct Buffer and Native Memory: What Actually Happens](./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md)

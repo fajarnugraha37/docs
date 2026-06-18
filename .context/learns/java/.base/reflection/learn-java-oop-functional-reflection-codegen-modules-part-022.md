@@ -2717,4 +2717,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-021.md](./learn-java-oop-functional-reflection-codegen-modules-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-023](./learn-java-oop-functional-reflection-codegen-modules-part-023.md)
+[⬅️ Sebelumnya: Part 021 — Annotation Design: Metadata, Retention, Targets, Repeatable, Inheritance](./learn-java-oop-functional-reflection-codegen-modules-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Code Generation Strategy: Source Generation, Runtime Generation, Bytecode Generation](./learn-java-oop-functional-reflection-codegen-modules-part-023.md)

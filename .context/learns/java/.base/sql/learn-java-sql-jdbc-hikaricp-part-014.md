@@ -2466,4 +2466,4 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-015.md
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-013](./learn-java-sql-jdbc-hikaricp-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-015](./learn-java-sql-jdbc-hikaricp-part-015.md)
+[⬅️ Sebelumnya: Part 013 — Large Objects and Streaming: `Blob`, `Clob`, `NClob`, `SQLXML`](./learn-java-sql-jdbc-hikaricp-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Advanced JDBC Features: Savepoint, Array, Struct, Ref, RowId, SQLData](./learn-java-sql-jdbc-hikaricp-part-015.md)

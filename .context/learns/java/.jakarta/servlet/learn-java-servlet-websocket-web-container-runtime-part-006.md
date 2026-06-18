@@ -2035,4 +2035,4 @@ Servlet Mapping, URL Pattern, and Dispatch Resolution
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-005](./learn-java-servlet-websocket-web-container-runtime-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-007](./learn-java-servlet-websocket-web-container-runtime-part-007.md)
+[⬅️ Sebelumnya: Part 005 — Request Object Internals: `HttpServletRequest`](./learn-java-servlet-websocket-web-container-runtime-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — Servlet Mapping, URL Pattern, and Dispatch Resolution](./learn-java-servlet-websocket-web-container-runtime-part-007.md)

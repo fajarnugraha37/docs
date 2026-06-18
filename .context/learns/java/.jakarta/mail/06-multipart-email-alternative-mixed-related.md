@@ -2331,7 +2331,6 @@ Seri **belum selesai**. Bagian berikutnya adalah:
 Part 7 — Attachment Handling and Jakarta Activation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

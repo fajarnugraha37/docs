@@ -2747,4 +2747,4 @@ Part 1 — BPMN 2.0 Deep Semantics: Bukan Diagram, Tapi Execution Contract
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-031](../../.base/testing/learn-java-testing-benchmarking-performance-jvm-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-01-bpmn-20-deep-semantics-execution-contract.md)
+[⬅️ Sebelumnya: Full Performance Investigation from Symptom to JVM Configuration](../../.base/testing/learn-java-testing-benchmarking-performance-jvm-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — BPMN 2.0 Deep Semantics: Bukan Diagram, Tapi Execution Contract](./learn-java-bpmn-camunda-part-01-bpmn-20-deep-semantics-execution-contract.md)

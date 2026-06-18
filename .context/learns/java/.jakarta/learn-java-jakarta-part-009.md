@@ -3812,4 +3812,4 @@ Bagian berikutnya akan membahas **JSON Processing (`jakarta.json` / JSON-P)**: o
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-008.md](./learn-java-jakarta-part-008.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-010.md](./learn-java-jakarta-part-010.md)
+[⬅️ Sebelumnya: Bagian 8 — Jakarta Interceptors dan CDI Decorators](./learn-java-jakarta-part-008.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 10 — Jakarta JSON Processing: `jakarta.json` / JSON-P](./learn-java-jakarta-part-010.md)

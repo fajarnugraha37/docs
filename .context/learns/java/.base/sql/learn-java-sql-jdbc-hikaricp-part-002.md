@@ -2927,4 +2927,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-001](./learn-java-sql-jdbc-hikaricp-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-003](./learn-java-sql-jdbc-hikaricp-part-003.md)
+[⬅️ Sebelumnya: Part 001 — Anatomy of `java.sql` and `javax.sql`](./learn-java-sql-jdbc-hikaricp-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Connection Is a Database Session, Not Just a Pipe](./learn-java-sql-jdbc-hikaricp-part-003.md)

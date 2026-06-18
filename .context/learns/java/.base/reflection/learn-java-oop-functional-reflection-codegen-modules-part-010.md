@@ -1986,4 +1986,4 @@ Generics for API Designers: Variance, Bounds, Erasure, and Type Tokens
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-009](./learn-java-oop-functional-reflection-codegen-modules-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-011](./learn-java-oop-functional-reflection-codegen-modules-part-011.md)
+[⬅️ Sebelumnya: Enums as Type-Safe State, Strategy, Registry, and Domain Model](./learn-java-oop-functional-reflection-codegen-modules-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Generics for API Designers: Variance, Bounds, Erasure, and Type Tokens](./learn-java-oop-functional-reflection-codegen-modules-part-011.md)

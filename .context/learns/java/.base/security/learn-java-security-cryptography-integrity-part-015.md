@@ -1938,4 +1938,4 @@ Kita akan membahas kenapa deserialization adalah trust-boundary problem, bagaima
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-014](./learn-java-security-cryptography-integrity-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-016](./learn-java-security-cryptography-integrity-part-016.md)
+[⬅️ Sebelumnya: Part 14 — TLS/JSSE Deep Dive for Java Engineers](./learn-java-security-cryptography-integrity-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Secure Serialization, Deserialization, and Object Integrity](./learn-java-security-cryptography-integrity-part-016.md)

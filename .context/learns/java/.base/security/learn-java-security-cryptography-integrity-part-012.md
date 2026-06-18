@@ -2628,4 +2628,4 @@ Di sana kita akan membahas lebih dalam:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-011](./learn-java-security-cryptography-integrity-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-013](./learn-java-security-cryptography-integrity-part-013.md)
+[⬅️ Sebelumnya: Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KMS, HSM](./learn-java-security-cryptography-integrity-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: X.509, PKI, Certificate Path Validation, Revocation](./learn-java-security-cryptography-integrity-part-013.md)

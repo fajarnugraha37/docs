@@ -2215,4 +2215,4 @@ Kita akan masuk ke API Java/Jakarta:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 020](./learn-java-servlet-websocket-web-container-runtime-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 022](./learn-java-servlet-websocket-web-container-runtime-part-022.md)
+[⬅️ Sebelumnya: Part 020 — Packaging Models: WAR, Embedded Container, Executable JAR, Native-ish Deployments](./learn-java-servlet-websocket-web-container-runtime-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 022 — Jakarta WebSocket Server Endpoint Model](./learn-java-servlet-websocket-web-container-runtime-part-022.md)

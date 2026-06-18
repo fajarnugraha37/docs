@@ -1899,4 +1899,4 @@ Memory-aware type design is not premature optimization when object count is huge
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-data-types-part-021.md](./learn-java-data-types-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-023.md](./learn-java-data-types-part-023.md)
+[⬅️ Sebelumnya: Java Data Types — Part 021](./learn-java-data-types-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 023](./learn-java-data-types-part-023.md)

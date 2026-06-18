@@ -2746,4 +2746,4 @@ Diff Mental Model: Membandingkan State, Bukan Sekadar File
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-004.md](./learn-git-mastery-for-java-engineers-part-004.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-006.md](./learn-git-mastery-for-java-engineers-part-006.md)
+[⬅️ Sebelumnya: Part 004 — Lifecycle Perubahan: Dari Edit File sampai Commit Berkualitas](./learn-git-mastery-for-java-engineers-part-004.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 006 — Diff Mental Model: Membandingkan State, Bukan Sekadar File](./learn-git-mastery-for-java-engineers-part-006.md)

@@ -2371,8 +2371,6 @@ Part 23 akan memperdalam feedback loop setelah provider menerima email:
 - delayed event;
 - state transition dari `ACCEPTED_BY_PROVIDER` ke `DELIVERED`, `BOUNCED`, `COMPLAINED`, atau `SUPPRESSED`.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

@@ -2290,4 +2290,4 @@ Part 009 berikutnya: Testing Persistence: JDBC, JPA, Transaction, Isolation, Loc
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-007](./learn-java-testing-benchmarking-performance-jvm-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-009](./learn-java-testing-benchmarking-performance-jvm-part-009.md)
+[⬅️ Sebelumnya: Testing Domain Logic, State Machine, Workflow, dan Business Invariant](./learn-java-testing-benchmarking-performance-jvm-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Testing Persistence: JDBC, JPA, Transaction, Isolation, Locking, dan Migration](./learn-java-testing-benchmarking-performance-jvm-part-009.md)

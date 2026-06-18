@@ -1071,4 +1071,4 @@ Message Interpolation: i18n, EL, Security, and Error Message Governance
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-011](./learn-java-validation-jakarta-hibernate-validator-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-013](./learn-java-validation-jakarta-hibernate-validator-part-013.md)
+[⬅️ Sebelumnya: Parameter and Executable Validation: Methods, Constructors, Return Values](./learn-java-validation-jakarta-hibernate-validator-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Message Interpolation: i18n, EL, Security, and Error Message Governance](./learn-java-validation-jakarta-hibernate-validator-part-013.md)

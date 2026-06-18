@@ -2584,4 +2584,4 @@ Berikutnya:
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-10-human-workflow-user-task-assignment-forms-sla-authorization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md)
+[⬅️ Sebelumnya: Part 10 — Human Workflow: User Task, Assignment, Forms, SLA, and Authorization](./learn-java-bpmn-camunda-part-10-human-workflow-user-task-assignment-forms-sla-authorization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Message Correlation and Event-driven Process Design](./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md)

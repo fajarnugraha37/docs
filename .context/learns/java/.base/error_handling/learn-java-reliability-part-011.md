@@ -1769,4 +1769,4 @@ Part 012 — Request Draining and In-Flight Work Management
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-reliability-part-010.md](./learn-java-reliability-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-012.md](./learn-java-reliability-part-012.md)
+[⬅️ Sebelumnya: Part 010 — Spring Boot Graceful Shutdown Deep Dive](./learn-java-reliability-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 012 — Request Draining and In-Flight Work Management](./learn-java-reliability-part-012.md)

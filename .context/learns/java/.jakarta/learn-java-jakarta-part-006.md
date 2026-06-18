@@ -2606,4 +2606,4 @@ Bagian berikutnya akan masuk ke **CDI (`jakarta.enterprise.*`)** sebagai DI cont
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-jakarta-part-005.md](./learn-java-jakarta-part-005.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-007.md](./learn-java-jakarta-part-007.md)
+[⬅️ Sebelumnya: Bagian 5 — `jakarta.annotation` dan Common Annotations](./learn-java-jakarta-part-005.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 7 — CDI: `jakarta.enterprise.*` sebagai Container Programming Model](./learn-java-jakarta-part-007.md)

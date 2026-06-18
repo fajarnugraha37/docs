@@ -1817,4 +1817,4 @@ Kita akan membahas cara refactor API JAX-RS legacy: strangler pattern, endpoint 
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-jaxrs-advanced-part-051.md](./learn-jaxrs-advanced-part-051.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-053.md](./learn-jaxrs-advanced-part-053.md)
+[⬅️ Sebelumnya: Bagian 051 — JAX-RS Runtime Internals and Extension Points: Bootstrap, Application Model, Resource Scanning, Request Matching, Provider Registry, Injection, Filters/Interceptors Pipeline, Entity Provider Selection, Exception Mapper Resolution, Async Internals, and Extension Design](./learn-jaxrs-advanced-part-051.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 053 — Refactoring Legacy JAX-RS API: Strangler Pattern, Endpoint Inventory, Compatibility Preservation, Error Contract Migration, javax→jakarta, DTO Extraction, Security Hardening, Test Harness, OpenAPI Recovery, and Incremental Rollout](./learn-jaxrs-advanced-part-053.md)

@@ -1457,4 +1457,4 @@ If handling is procedural and complex, use a loop.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: learn-java-collections-and-streams-part-041.md](./learn-java-collections-and-streams-part-041.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-043.md](./learn-java-collections-and-streams-part-043.md)
+[⬅️ Sebelumnya: Java Collections and Streams — Part 041](./learn-java-collections-and-streams-part-041.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 043](./learn-java-collections-and-streams-part-043.md)
