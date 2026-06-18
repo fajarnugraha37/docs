@@ -2348,6 +2348,9 @@ Fokus Part 1:
 [^apache-connection-management]: Apache HttpComponents Client 5.6.x Documentation, connection management guide, describing persistent connection reuse and connection managers for classic and async I/O. https://hc.apache.org/httpcomponents-client-5.6.x/connection-management.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Capstone: Building a Production-Grade Jersey Platform Module](../framework/jersey/32-capstone-building-production-grade-jersey-platform-module.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Java HTTP Client Landscape di Java 8–25](./01-java-http-client-landscape-java-8-to-25.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./01-java-http-client-landscape-java-8-to-25.md">Part 1 — Java HTTP Client Landscape di Java 8–25 ➡️</a>
+</div>

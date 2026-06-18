@@ -1695,6 +1695,9 @@ blocking operations, and external resource limits.
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/Thread.Builder.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 000](./learn-java-concurrency-and-reactive-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 002](./learn-java-concurrency-and-reactive-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-000.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 000</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-002.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 002 ➡️</a>
+</div>

@@ -1418,6 +1418,9 @@ it decides execution, result shape, ordering cost, side effects, memory allocati
     https://dev.java/learn/api/streams/reducing/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 026](./learn-java-collections-and-streams-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 028](./learn-java-collections-and-streams-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-026.md">⬅️ Java Collections and Streams — Part 026</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-028.md">Java Collections and Streams — Part 028 ➡️</a>
+</div>

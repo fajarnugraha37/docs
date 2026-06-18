@@ -1821,6 +1821,9 @@ Bagian 047 — API Gateway, Reverse Proxy, Load Balancer, and JAX-RS Apps
 Kita akan membahas bagaimana gateway/proxy/LB memengaruhi Jakarta REST apps: forwarded headers, base URI, TLS termination, path rewriting, CORS, auth offload, rate limit, request size, timeout, buffering, streaming/SSE, observability, and security boundaries.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 045 — Error Contract and Enterprise Error Taxonomy: Problem Details, Stable Error Code, Domain vs Validation vs Security vs Infrastructure Errors, Localization, Retryability, Field Errors, Correlation ID, Supportability, Compatibility, and Governance](./learn-jaxrs-advanced-part-045.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 047 — API Gateway, Reverse Proxy, Load Balancer, and JAX-RS Apps: Forwarded Headers, Base URI, TLS Termination, Path Rewriting, Auth Offload, Rate Limit, Request Size, Timeout, Buffering, Streaming/SSE, Observability, and Security Boundaries](./learn-jaxrs-advanced-part-047.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-045.md">⬅️ Bagian 045 — Error Contract and Enterprise Error Taxonomy: Problem Details, Stable Error Code, Domain vs Validation vs Security vs Infrastructure Errors, Localization, Retryability, Field Errors, Correlation ID, Supportability, Compatibility, and Governance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-047.md">Bagian 047 — API Gateway, Reverse Proxy, Load Balancer, and JAX-RS Apps: Forwarded Headers, Base URI, TLS Termination, Path Rewriting, Auth Offload, Rate Limit, Request Size, Timeout, Buffering, Streaming/SSE, Observability, and Security Boundaries ➡️</a>
+</div>

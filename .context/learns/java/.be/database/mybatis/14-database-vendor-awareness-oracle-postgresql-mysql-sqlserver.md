@@ -2126,6 +2126,9 @@ Lalu tuliskan refactoring plan.
 - SQL Server documentation — `OFFSET FETCH`, `TOP`, locking hints, identity/output behavior.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — TypeHandler Engineering: Domain Types, Enum, JSON, Array, Vendor Types](./13-typehandler-engineering-domain-types-enum-json-array-vendor-types.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — Pagination, Sorting, Search Query, and Count Strategy](./15-pagination-sorting-search-query-and-count-strategy.md)
+<div class="page-nav">
+<a href="./13-typehandler-engineering-domain-types-enum-json-array-vendor-types.md">⬅️ Part 13 — TypeHandler Engineering: Domain Types, Enum, JSON, Array, Vendor Types</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./15-pagination-sorting-search-query-and-count-strategy.md">Part 15 — Pagination, Sorting, Search Query, and Count Strategy ➡️</a>
+</div>

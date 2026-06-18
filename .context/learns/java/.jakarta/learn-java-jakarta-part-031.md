@@ -3100,6 +3100,9 @@ Engineer top-tier tidak hanya bisa `JAXB.marshal`. Ia tahu namespace, XSD, adapt
 Bagian berikutnya akan membahas **Jakarta XML Web Services (`jakarta.xml.ws`) / JAX-WS**: SOAP service/client model, WSDL-first vs code-first, JAXB payload binding, handlers, faults, MTOM, WS-Security ecosystem, migration, and why SOAP/XML Web Services are legacy-but-still-important.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 30 — Jakarta Debugging Support for Other Languages: SMAP, SourceDebugExtension, Generated Code, dan Tooling-Oriented Debuggability](./learn-java-jakarta-part-030.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 32 — Jakarta XML Web Services (`jakarta.xml.ws`) / JAX-WS: SOAP, WSDL, Endpoint, Client, Handler, Fault, MTOM, dan Legacy Interoperability](./learn-java-jakarta-part-032.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-030.md">⬅️ Bagian 30 — Jakarta Debugging Support for Other Languages: SMAP, SourceDebugExtension, Generated Code, dan Tooling-Oriented Debuggability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-032.md">Bagian 32 — Jakarta XML Web Services (`jakarta.xml.ws`) / JAX-WS: SOAP, WSDL, Endpoint, Client, Handler, Fault, MTOM, dan Legacy Interoperability ➡️</a>
+</div>

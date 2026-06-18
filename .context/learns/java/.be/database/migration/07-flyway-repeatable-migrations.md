@@ -2168,6 +2168,9 @@ Berikutnya:
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Flyway SQL Migration Design](./06-flyway-sql-migration-design.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 8 — Flyway Java-Based Migrations](./08-flyway-java-based-migrations.md)
+<div class="page-nav">
+<a href="./06-flyway-sql-migration-design.md">⬅️ Part 6 — Flyway SQL Migration Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./08-flyway-java-based-migrations.md">Part 8 — Flyway Java-Based Migrations ➡️</a>
+</div>

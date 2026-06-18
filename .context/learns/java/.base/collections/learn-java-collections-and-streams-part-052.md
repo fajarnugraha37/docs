@@ -1377,6 +1377,9 @@ authorized, defensively copied, and returned through least-privilege views.
     https://owasp.org/API-Security/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 050](./learn-java-collections-and-streams-part-050.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 053](./learn-java-collections-and-streams-part-053.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-050.md">⬅️ Java Collections and Streams — Part 050</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-053.md">Java Collections and Streams — Part 053 ➡️</a>
+</div>

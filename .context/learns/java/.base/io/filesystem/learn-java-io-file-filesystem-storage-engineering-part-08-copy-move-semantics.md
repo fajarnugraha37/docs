@@ -1726,6 +1726,9 @@ Part 09 — Delete Semantics: Delete, Recursive Delete, Tombstone, and Safe Clea
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 07 — Atomic Update Pattern: Temp File + fsync + Atomic Move](./learn-java-io-file-filesystem-storage-engineering-part-07-atomic-update-pattern.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 09 — Delete Semantics: Delete, Recursive Delete, Tombstone, and Safe Cleanup](./learn-java-io-file-filesystem-storage-engineering-part-09-delete-semantics.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-07-atomic-update-pattern.md">⬅️ Part 07 — Atomic Update Pattern: Temp File + fsync + Atomic Move</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-09-delete-semantics.md">Part 09 — Delete Semantics: Delete, Recursive Delete, Tombstone, and Safe Cleanup ➡️</a>
+</div>

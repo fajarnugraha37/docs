@@ -2392,6 +2392,9 @@ Memory Tuning in Containers and Kubernetes
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 026 — Heap Dump Analysis and Leak Investigation](./learn-java-memory-byte-bit-buffer-offheap-gc-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Memory Tuning in Containers and Kubernetes](./learn-java-memory-byte-bit-buffer-offheap-gc-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-026.md">⬅️ Part 026 — Heap Dump Analysis and Leak Investigation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-028.md">Memory Tuning in Containers and Kubernetes ➡️</a>
+</div>

@@ -2001,6 +2001,9 @@ Progress seri:
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — `Runtime.Version`, Feature Detection, and Multi-Version Compatibility](./18-runtime-version-feature-detection-multiversion-compatibility.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — `Math`, `StrictMath`, Floating Point, Exact Arithmetic, and Determinism](./20-math-strictmath-floating-point-exact-arithmetic-determinism.md)
+<div class="page-nav">
+<a href="./18-runtime-version-feature-detection-multiversion-compatibility.md">⬅️ Part 18 — `Runtime.Version`, Feature Detection, and Multi-Version Compatibility</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./20-math-strictmath-floating-point-exact-arithmetic-determinism.md">Part 20 — `Math`, `StrictMath`, Floating Point, Exact Arithmetic, and Determinism ➡️</a>
+</div>

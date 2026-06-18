@@ -2156,6 +2156,9 @@ Part 30 — Failure Modeling: Deployment Incident Patterns and Root Cause Analys
 That part will focus on how deployment fails in production, how to classify symptoms, how to reason from platform/JVM/application signals, and how to build RCA-quality explanations instead of guesswork.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Legacy Java Deployment: Java 8, App Servers, Monoliths, and Migration Constraints](./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration-constraints.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Failure Modeling: Deployment Incident Patterns and Root Cause Analysis](./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration-constraints.md">⬅️ Part 28 — Legacy Java Deployment: Java 8, App Servers, Monoliths, and Migration Constraints</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md">Part 30 — Failure Modeling: Deployment Incident Patterns and Root Cause Analysis ➡️</a>
+</div>

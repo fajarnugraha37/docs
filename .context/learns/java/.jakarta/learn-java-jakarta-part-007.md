@@ -3145,6 +3145,9 @@ Dengan pemahaman ini, kamu bisa memakai CDI sebagai alat architecture yang power
 Bagian berikutnya akan membahas **Interceptors dan Decorators** secara lebih mendalam: bagaimana cross-cutting concern dibuat, bagaimana invocation chain berjalan, bagaimana ordering bekerja, bagaimana self-invocation menjadi bug, dan bagaimana membedakan interceptor/decorator dari business logic biasa.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 6 — `jakarta.inject`: Dependency Injection Minimal](./learn-java-jakarta-part-006.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 8 — Jakarta Interceptors dan CDI Decorators](./learn-java-jakarta-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-006.md">⬅️ Bagian 6 — `jakarta.inject`: Dependency Injection Minimal</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-008.md">Bagian 8 — Jakarta Interceptors dan CDI Decorators ➡️</a>
+</div>

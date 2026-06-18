@@ -1678,6 +1678,9 @@ atomic outbox/inbox, bounded retries, and observable coordination.
     https://docs.spring.io/spring-boot/reference/features/task-execution-and-scheduling.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 025](./learn-java-concurrency-and-reactive-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 027](./learn-java-concurrency-and-reactive-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-025.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 025</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-027.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 027 ➡️</a>
+</div>

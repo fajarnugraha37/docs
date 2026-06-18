@@ -2595,6 +2595,9 @@ Engineer top-tier tahu bahwa compile success bukan akhir. Ia membuktikan migrati
 Bagian berikutnya akan menjadi bagian synthesis terakhir/lanjutan: **Jakarta EE Production Readiness & Top 1% Engineering Playbook** — bagaimana mengoperasikan aplikasi Jakarta EE modern dengan reliability, security, observability, performance, cost, governance, and long-term maintainability.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 38 — Jakarta EE Configuration, Runtime Selection, dan Production Architecture Strategy](./learn-java-jakarta-part-038.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 40 — Jakarta EE Production Readiness & Top 1% Engineering Playbook: Reliability, Security, Observability, Performance, Cost, Governance, dan Long-Term Maintainability](./learn-java-jakarta-part-040.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-038.md">⬅️ Bagian 38 — Jakarta EE Configuration, Runtime Selection, dan Production Architecture Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-040.md">Bagian 40 — Jakarta EE Production Readiness & Top 1% Engineering Playbook: Reliability, Security, Observability, Performance, Cost, Governance, dan Long-Term Maintainability ➡️</a>
+</div>

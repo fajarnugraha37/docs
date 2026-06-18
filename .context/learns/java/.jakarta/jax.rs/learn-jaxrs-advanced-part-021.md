@@ -2895,6 +2895,9 @@ Bagian 022 — Conditional Requests, ETag, Last-Modified, Optimistic Concurrency
 Kita akan membahas HTTP conditional requests secara mendalam: validators, strong/weak ETags, Last-Modified, If-Match, If-None-Match, If-Unmodified-Since, 304, 412, 428, caching, and lost update prevention.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 020 — Pagination, Sorting, Filtering, Search, and Query Contract Design: Offset vs Cursor, Stable Ordering, Allowlist, Query DTO, Index-Aware API, dan Enterprise Search Semantics](./learn-jaxrs-advanced-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 022 — Conditional Requests, ETag, Last-Modified, Optimistic Concurrency: Validators, `If-Match`, `If-None-Match`, `If-Modified-Since`, `If-Unmodified-Since`, `304`, `412`, `428`, Cache Revalidation, dan Lost Update Prevention](./learn-jaxrs-advanced-part-022.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-020.md">⬅️ Bagian 020 — Pagination, Sorting, Filtering, Search, and Query Contract Design: Offset vs Cursor, Stable Ordering, Allowlist, Query DTO, Index-Aware API, dan Enterprise Search Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-022.md">Bagian 022 — Conditional Requests, ETag, Last-Modified, Optimistic Concurrency: Validators, `If-Match`, `If-None-Match`, `If-Modified-Since`, `If-Unmodified-Since`, `304`, `412`, `428`, Cache Revalidation, dan Lost Update Prevention ➡️</a>
+</div>

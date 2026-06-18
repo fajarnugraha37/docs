@@ -1321,6 +1321,9 @@ and how its size is monitored.
     https://docs.oracle.com/javacomponents/jmc-5-5/jfr-runtime-guide/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 053](./learn-java-collections-and-streams-part-053.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 055](./learn-java-collections-and-streams-part-055.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-053.md">⬅️ Java Collections and Streams — Part 053</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-055.md">Java Collections and Streams — Part 055 ➡️</a>
+</div>

@@ -2511,6 +2511,9 @@ Berikutnya:
 Seri belum selesai. Ini adalah Part 1 dari 35.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Orientation: Data Transformation as Software Boundary](./00-orientation-data-transformation-as-software-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Transformation Taxonomy: Copy, Convert, Normalize, Enrich, Redact, Project](./02-transformation-taxonomy-copy-convert-normalize-enrich-redact-project.md)
+<div class="page-nav">
+<a href="./00-orientation-data-transformation-as-software-boundary.md">⬅️ Orientation: Data Transformation as Software Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./02-transformation-taxonomy-copy-convert-normalize-enrich-redact-project.md">Part 2 — Transformation Taxonomy: Copy, Convert, Normalize, Enrich, Redact, Project ➡️</a>
+</div>

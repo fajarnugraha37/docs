@@ -2480,6 +2480,9 @@ Itulah dasar untuk memahami Java object model, collections, generics, records, s
     https://openjdk.org/jeps/421
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 005](./learn-java-data-types-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 007](./learn-java-data-types-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-005.md">⬅️ Java Data Types — Part 005</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-007.md">Java Data Types — Part 007 ➡️</a>
+</div>

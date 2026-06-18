@@ -2071,6 +2071,9 @@ Seri belum selesai. Part berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Vendor-Specific Migration Engineering](./22-vendor-specific-migration-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — Migration in Spring Boot Applications](./24-migration-in-spring-boot-applications.md)
+<div class="page-nav">
+<a href="./22-vendor-specific-migration-engineering.md">⬅️ Part 22 — Vendor-Specific Migration Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./24-migration-in-spring-boot-applications.md">Part 24 — Migration in Spring Boot Applications ➡️</a>
+</div>

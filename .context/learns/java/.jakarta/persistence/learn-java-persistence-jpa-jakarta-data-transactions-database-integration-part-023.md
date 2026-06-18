@@ -1818,6 +1818,9 @@ Part 024 — Jakarta Data Deep Dive
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 022 — Multi-Tenancy, Multi-Schema, Multi-Database, and Data Partitioning](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 024 — Jakarta Data Deep Dive](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-022.md">⬅️ Part 022 — Multi-Tenancy, Multi-Schema, Multi-Database, and Data Partitioning</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-024.md">Part 024 — Jakarta Data Deep Dive ➡️</a>
+</div>

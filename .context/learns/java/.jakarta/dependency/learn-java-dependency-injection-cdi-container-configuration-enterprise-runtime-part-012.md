@@ -2811,6 +2811,9 @@ Part 013 — Producers and Disposers: Programmatic Object Supply
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 011 — CDI Proxies, Normal Scopes, and Method Dispatch](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Producers and Disposers: Programmatic Object Supply](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-011.md">⬅️ Part 011 — CDI Proxies, Normal Scopes, and Method Dispatch</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-013.md">Part 013 — Producers and Disposers: Programmatic Object Supply ➡️</a>
+</div>

@@ -1995,6 +1995,9 @@ Jika kamu menguasai boundary ini, kamu bisa mendesain text pipeline yang tidak h
 - Oracle Java SE 25 API — `java.nio.file.Files`: menyediakan `newBufferedReader`, `newBufferedWriter`, `readString`, `readAllLines`, dan `lines` untuk operasi text file modern.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 004 — Binary I/O: Primitive Data, Endianness, Framing, dan Format Stabil](./learn-java-io-nio-networking-data-transfer-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 006 — Console I/O: `System.in/out/err`, `Console`, Password Input, dan CLI Interaction](./learn-java-io-nio-networking-data-transfer-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-004.md">⬅️ Part 004 — Binary I/O: Primitive Data, Endianness, Framing, dan Format Stabil</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-006.md">Part 006 — Console I/O: `System.in/out/err`, `Console`, Password Input, dan CLI Interaction ➡️</a>
+</div>

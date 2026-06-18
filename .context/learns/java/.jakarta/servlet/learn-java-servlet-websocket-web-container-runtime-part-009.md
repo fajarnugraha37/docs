@@ -2377,6 +2377,9 @@ Part berikutnya:
 - Part 010 — Listeners: Observing Web Application Lifecycle
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 008 — Request Dispatching: Forward, Include, Async, Error](./learn-java-servlet-websocket-web-container-runtime-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 010 — Observing Web Application Lifecycle](./learn-java-servlet-websocket-web-container-runtime-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-008.md">⬅️ Part 008 — Request Dispatching: Forward, Include, Async, Error</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-010.md">Part 010 — Observing Web Application Lifecycle ➡️</a>
+</div>

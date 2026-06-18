@@ -2370,6 +2370,9 @@ Part 30 — Production Failure Modes: Debugging Real Jersey Incidents
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Extension Engineering: Feature, DynamicFeature, Binder, Provider, and SPI Design](./28-extension-engineering-feature-dynamicfeature-binder-provider-spi-design.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 30 — Production Failure Modes: Debugging Real Jersey Incidents](./30-production-failure-modes-debugging-real-jersey-incidents.md)
+<div class="page-nav">
+<a href="./28-extension-engineering-feature-dynamicfeature-binder-provider-spi-design.md">⬅️ Part 28 — Extension Engineering: Feature, DynamicFeature, Binder, Provider, and SPI Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./30-production-failure-modes-debugging-real-jersey-incidents.md">Part 30 — Production Failure Modes: Debugging Real Jersey Incidents ➡️</a>
+</div>

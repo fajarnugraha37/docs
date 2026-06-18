@@ -2078,6 +2078,9 @@ Part 31 = bagaimana membangun pola client kompleks setelah fondasinya benar
 - OpenRewrite Apache HttpClient migration recipes sebagai contoh tooling migrasi otomatis.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Production Failure Playbook: Diagnosis and Incident Response](./29-production-failure-playbook-diagnosis-incident-response.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Advanced Patterns: Fan-Out Aggregator, Token Single-Flight, Client-Side Cache, Idempotent Command](./31-advanced-patterns-fanout-token-singleflight-cache-idempotent-command.md)
+<div class="page-nav">
+<a href="./29-production-failure-playbook-diagnosis-incident-response.md">⬅️ Part 29 — Production Failure Playbook: Diagnosis and Incident Response</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./31-advanced-patterns-fanout-token-singleflight-cache-idempotent-command.md">Part 31 — Advanced Patterns: Fan-Out Aggregator, Token Single-Flight, Client-Side Cache, Idempotent Command ➡️</a>
+</div>

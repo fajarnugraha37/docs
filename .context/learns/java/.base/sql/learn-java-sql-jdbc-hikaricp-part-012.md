@@ -2128,6 +2128,9 @@ Referensi utama untuk part ini:
 - Lanjut ke Part 013: `Large Objects and Streaming: Blob, Clob, NClob, SQLXML`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: DataSource over DriverManager: Modern Connection Acquisition](./learn-java-sql-jdbc-hikaricp-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Large Objects and Streaming: `Blob`, `Clob`, `NClob`, `SQLXML`](./learn-java-sql-jdbc-hikaricp-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-011.md">⬅️ DataSource over DriverManager: Modern Connection Acquisition</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-013.md">Part 013 — Large Objects and Streaming: `Blob`, `Clob`, `NClob`, `SQLXML` ➡️</a>
+</div>

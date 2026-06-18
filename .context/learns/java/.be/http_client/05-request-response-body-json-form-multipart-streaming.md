@@ -2566,6 +2566,9 @@ Di sana kita akan membedah kenapa “timeout 30 detik” bukan desain yang cukup
 - Jackson Documentation — streaming parser dan object mapping behavior.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — Headers, Content Negotiation, Compression, dan Metadata Contract](./04-http-headers-content-negotiation-compression-metadata.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Timeout Engineering: Connect, Read, Write, Call, Pool, DNS, TLS](./06-timeout-engineering-connect-read-write-call-pool-dns-tls.md)
+<div class="page-nav">
+<a href="./04-http-headers-content-negotiation-compression-metadata.md">⬅️ Part 4 — Headers, Content Negotiation, Compression, dan Metadata Contract</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./06-timeout-engineering-connect-read-write-call-pool-dns-tls.md">Part 6 — Timeout Engineering: Connect, Read, Write, Call, Pool, DNS, TLS ➡️</a>
+</div>

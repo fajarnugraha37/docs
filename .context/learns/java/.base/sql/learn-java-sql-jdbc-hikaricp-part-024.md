@@ -2697,6 +2697,9 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-025.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Transaction and Pool Interaction](./learn-java-sql-jdbc-hikaricp-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Failure Modes and Recovery Patterns](./learn-java-sql-jdbc-hikaricp-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-023.md">⬅️ Transaction and Pool Interaction</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-025.md">Failure Modes and Recovery Patterns ➡️</a>
+</div>

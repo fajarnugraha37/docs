@@ -3000,6 +3000,9 @@ Engineer top-tier tidak harus selalu menulis resource adapter, tetapi harus bisa
 Bagian berikutnya akan membahas **Jakarta WebSocket (`jakarta.websocket`)**: full-duplex communication, endpoint lifecycle, session, encoder/decoder, backpressure, scaling, authentication, and production real-time messaging.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 23 — Jakarta Enterprise Beans (`jakarta.ejb`): Session Bean, MDB, Transaction, Security, Timer, dan Legacy-Modern Boundary](./learn-java-jakarta-part-023.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 25 — Jakarta WebSocket (`jakarta.websocket`): Full-Duplex Communication, Session, Backpressure, dan Real-Time Reliability](./learn-java-jakarta-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-023.md">⬅️ Bagian 23 — Jakarta Enterprise Beans (`jakarta.ejb`): Session Bean, MDB, Transaction, Security, Timer, dan Legacy-Modern Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-025.md">Bagian 25 — Jakarta WebSocket (`jakarta.websocket`): Full-Duplex Communication, Session, Backpressure, dan Real-Time Reliability ➡️</a>
+</div>

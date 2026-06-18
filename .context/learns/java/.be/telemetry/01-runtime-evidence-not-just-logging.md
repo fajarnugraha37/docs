@@ -2434,8 +2434,10 @@ Seri belum selesai.
 - Bagian berikutnya: Part 2 — Java Logging Architecture: Facade, API, Backend, Appender, Layout.
 - Target akhir: Part 35 — Capstone: Diagnose a Complex Java Production Incident End-to-End.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 0 — Orientation, Scope, Mental Model, dan Learning Contract](./00-orientation-scope-mental-model-learning-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Java Logging Architecture: Facade, API, Backend, Appender, Layout](./02-java-logging-architecture-facade-api-backend-appender-layout.md)
+<div class="page-nav">
+<a href="./00-orientation-scope-mental-model-learning-contract.md">⬅️ Bagian 0 — Orientation, Scope, Mental Model, dan Learning Contract</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./02-java-logging-architecture-facade-api-backend-appender-layout.md">Part 2 — Java Logging Architecture: Facade, API, Backend, Appender, Layout ➡️</a>
+</div>

@@ -2690,6 +2690,9 @@ File: 29-security-compliance-auditability.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Multi-Service, Multi-Module, and Shared Database Migrations](./27-multiservice-multimodule-shared-database-migrations.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Security, Compliance, and Auditability in Database Migration](./29-security-compliance-auditability.md)
+<div class="page-nav">
+<a href="./27-multiservice-multimodule-shared-database-migrations.md">⬅️ Part 27 — Multi-Service, Multi-Module, and Shared Database Migrations</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./29-security-compliance-auditability.md">Security, Compliance, and Auditability in Database Migration ➡️</a>
+</div>

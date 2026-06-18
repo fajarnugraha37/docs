@@ -2656,6 +2656,9 @@ Bagian 027 — Multipart and File Upload
 Kita akan membahas upload secara mendalam: multipart/form-data, `EntityPart`, streaming upload, size limits, virus scanning, content-type validation, object storage, transactional metadata, and secure file handling.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 025 — Server-Sent Events / SSE: `Sse`, `SseEventSink`, `SseBroadcaster`, Event Stream Protocol, Reconnect, `Last-Event-ID`, Heartbeat, Backpressure, Auth, Proxy Buffering, dan Production Streaming](./learn-jaxrs-advanced-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 027 — Multipart and File Upload: `multipart/form-data`, `EntityPart`, Streaming Upload, Size Limits, Malware Scanning, Content-Type Validation, Object Storage, Transactional Metadata, and Secure File Handling](./learn-jaxrs-advanced-part-027.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-025.md">⬅️ Bagian 025 — Server-Sent Events / SSE: `Sse`, `SseEventSink`, `SseBroadcaster`, Event Stream Protocol, Reconnect, `Last-Event-ID`, Heartbeat, Backpressure, Auth, Proxy Buffering, dan Production Streaming</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-027.md">Bagian 027 — Multipart and File Upload: `multipart/form-data`, `EntityPart`, Streaming Upload, Size Limits, Malware Scanning, Content-Type Validation, Object Storage, Transactional Metadata, and Secure File Handling ➡️</a>
+</div>

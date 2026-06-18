@@ -3065,6 +3065,9 @@ Part 014 — Metadata APIs: DatabaseMetaData, ResultSetMetaData, ParameterMetaDa
 Di sana kita akan belajar bagaimana JDBC dapat membaca informasi tentang database, table, column, capability, result shape, dan parameter metadata. Ini penting untuk dynamic SQL tooling, migration validation, code generation, diagnostics, dan compatibility checks.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 012 — Batch Operations: Throughput, Atomicity, and Driver Rewriting](./learn-java-sql-jdbc-hikaricp-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — Metadata APIs: `DatabaseMetaData`, `ResultSetMetaData`, `ParameterMetaData`](./learn-java-sql-jdbc-hikaricp-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-012.md">⬅️ Part 012 — Batch Operations: Throughput, Atomicity, and Driver Rewriting</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-014.md">Part 014 — Metadata APIs: `DatabaseMetaData`, `ResultSetMetaData`, `ParameterMetaData` ➡️</a>
+</div>

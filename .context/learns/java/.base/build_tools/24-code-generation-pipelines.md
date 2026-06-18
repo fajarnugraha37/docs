@@ -2035,6 +2035,9 @@ If a build cannot explain where generated code came from, it cannot be trusted.
 - Gradle Incremental Build: https://docs.gradle.org/current/userguide/incremental_build.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Jakarta/Spring/Enterprise Java Build Integration](./23-jakarta-spring-enterprise-java-build-integration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Static Analysis and Quality Gates: Checkstyle, PMD, SpotBugs, Error Prone, ArchUnit](./25-static-analysis-quality-gates.md)
+<div class="page-nav">
+<a href="./23-jakarta-spring-enterprise-java-build-integration.md">⬅️ Part 23 — Jakarta/Spring/Enterprise Java Build Integration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-static-analysis-quality-gates.md">Part 25 — Static Analysis and Quality Gates: Checkstyle, PMD, SpotBugs, Error Prone, ArchUnit ➡️</a>
+</div>

@@ -3100,6 +3100,9 @@ Next:
 The series is not finished yet.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — SQL Statement Mapping: SELECT, INSERT, UPDATE, DELETE Deep Dive](./04-sql-statement-mapping-select-insert-update-delete-deep-dive.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 6 — Result Mapping: Auto Mapping, Explicit Mapping, and Column Discipline](./06-result-mapping-auto-explicit-mapping-column-discipline.md)
+<div class="page-nav">
+<a href="./04-sql-statement-mapping-select-insert-update-delete-deep-dive.md">⬅️ Part 4 — SQL Statement Mapping: SELECT, INSERT, UPDATE, DELETE Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./06-result-mapping-auto-explicit-mapping-column-discipline.md">Part 6 — Result Mapping: Auto Mapping, Explicit Mapping, and Column Discipline ➡️</a>
+</div>

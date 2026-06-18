@@ -2419,6 +2419,9 @@ Jika statement itu benar, record adalah pilihan sangat kuat. Jika tidak benar, g
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Arrays.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 011](./learn-java-data-types-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 013](./learn-java-data-types-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-011.md">⬅️ Java Data Types — Part 011</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-013.md">Java Data Types — Part 013 ➡️</a>
+</div>

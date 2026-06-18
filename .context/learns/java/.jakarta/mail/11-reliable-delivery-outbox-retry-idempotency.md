@@ -3041,6 +3041,9 @@ Di sana kita akan membahas desain high-throughput mail sending, per-domain throt
 - RFC 5322 — Internet Message Format.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Error Model: `MessagingException`, `SendFailedException`, `SMTPAddressFailedException`](./10-error-model-exception-failure-classification.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Bulk, Batch, and Rate-Limited Sending](./12-bulk-batch-rate-limited-sending.md)
+<div class="page-nav">
+<a href="./10-error-model-exception-failure-classification.md">⬅️ Part 10 — Error Model: `MessagingException`, `SendFailedException`, `SMTPAddressFailedException`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-bulk-batch-rate-limited-sending.md">Part 12 — Bulk, Batch, and Rate-Limited Sending ➡️</a>
+</div>

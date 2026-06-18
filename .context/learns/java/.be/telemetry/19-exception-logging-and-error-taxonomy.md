@@ -1938,8 +1938,10 @@ Berikutnya:
 
 **Part 20 — JFR Deep Dive I: Java Flight Recorder Mental Model**.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — Secure Logging: PII, Secrets, Injection, Compliance, Auditability](./18-secure-logging-pii-secrets-injection-compliance-auditability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — JFR Deep Dive I: Java Flight Recorder Mental Model](./20-jfr-deep-dive-java-flight-recorder-mental-model.md)
+<div class="page-nav">
+<a href="./18-secure-logging-pii-secrets-injection-compliance-auditability.md">⬅️ Part 18 — Secure Logging: PII, Secrets, Injection, Compliance, Auditability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./20-jfr-deep-dive-java-flight-recorder-mental-model.md">Part 20 — JFR Deep Dive I: Java Flight Recorder Mental Model ➡️</a>
+</div>

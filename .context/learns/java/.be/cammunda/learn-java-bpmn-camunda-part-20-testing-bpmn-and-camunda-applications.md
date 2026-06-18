@@ -1855,6 +1855,9 @@ Part berikutnya:
 **Part 21 — Observability: Logs, Metrics, Tracing, Audit, and Operability**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Spring Boot + Camunda 8 Process Application Architecture](./learn-java-bpmn-camunda-part-19-spring-boot-camunda-8-process-application-architecture.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Observability: Logs, Metrics, Tracing, Audit, and Operability](./learn-java-bpmn-camunda-part-21-observability-logs-metrics-tracing-audit-operability.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-19-spring-boot-camunda-8-process-application-architecture.md">⬅️ Part 19 — Spring Boot + Camunda 8 Process Application Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-21-observability-logs-metrics-tracing-audit-operability.md">Part 21 — Observability: Logs, Metrics, Tracing, Audit, and Operability ➡️</a>
+</div>

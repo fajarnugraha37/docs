@@ -2455,6 +2455,9 @@ Jawaban dari pertanyaan itu adalah desain data type.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/time/Instant.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 018](./learn-java-data-types-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 020](./learn-java-data-types-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-018.md">⬅️ Java Data Types — Part 018</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-020.md">Java Data Types — Part 020 ➡️</a>
+</div>

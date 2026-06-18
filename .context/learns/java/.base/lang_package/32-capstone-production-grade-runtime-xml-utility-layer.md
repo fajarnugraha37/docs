@@ -2582,6 +2582,9 @@ Dengan ini, seri mencapai bagian terakhir.
 - OpenJDK JEP 185 — Restrict Fetching of External XML Resources: https://openjdk.org/jeps/185
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Advanced XML Processing Patterns: DOM/SAX Hybrid, Streaming State Machines, Large Documents](./31-advanced-xml-processing-patterns-dom-sax-hybrid-large-documents.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Mental Model Besar: Java Memory as a Layered System](../memory_management/learn-java-memory-byte-bit-buffer-offheap-gc-part-000.md)
+<div class="page-nav">
+<a href="./31-advanced-xml-processing-patterns-dom-sax-hybrid-large-documents.md">⬅️ Part 31 — Advanced XML Processing Patterns: DOM/SAX Hybrid, Streaming State Machines, Large Documents</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

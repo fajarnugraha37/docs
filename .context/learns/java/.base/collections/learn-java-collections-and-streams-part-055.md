@@ -1402,6 +1402,9 @@ nulls, ordering, concurrency, and lifecycle.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Map.html#merge(K,V,java.util.function.BiFunction)
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 054](./learn-java-collections-and-streams-part-054.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 056](./learn-java-collections-and-streams-part-056.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-054.md">⬅️ Java Collections and Streams — Part 054</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-056.md">Java Collections and Streams — Part 056 ➡️</a>
+</div>

@@ -1924,8 +1924,10 @@ Seri belum selesai.
 
 Part berikutnya: **Part 22 — Profiling Mental Model: CPU Time, Wall Time, Allocation, Lock, IO**.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — JFR Deep Dive I: Java Flight Recorder Mental Model](./20-jfr-deep-dive-java-flight-recorder-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Profiling Mental Model: CPU Time, Wall Time, Allocation, Lock, IO](./22-profiling-mental-model-cpu-time-wall-time-allocation-lock-io.md)
+<div class="page-nav">
+<a href="./20-jfr-deep-dive-java-flight-recorder-mental-model.md">⬅️ Part 20 — JFR Deep Dive I: Java Flight Recorder Mental Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./22-profiling-mental-model-cpu-time-wall-time-allocation-lock-io.md">Part 22 — Profiling Mental Model: CPU Time, Wall Time, Allocation, Lock, IO ➡️</a>
+</div>

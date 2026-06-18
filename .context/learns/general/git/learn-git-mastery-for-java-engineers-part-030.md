@@ -2042,6 +2042,9 @@ Git dalam CI/CD, Release Automation, dan Compliance
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 029 — Advanced Ref Management: Refspec, Notes, Namespaces, dan Internals](./learn-git-mastery-for-java-engineers-part-029.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 031 — Git dalam CI/CD, Release Automation, dan Compliance](./learn-git-mastery-for-java-engineers-part-031.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Advanced Ref Management: Refspec, Notes, Namespaces, dan Internals</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-031.md">Part 031 — Git dalam CI/CD, Release Automation, dan Compliance ➡️</a>
+</div>

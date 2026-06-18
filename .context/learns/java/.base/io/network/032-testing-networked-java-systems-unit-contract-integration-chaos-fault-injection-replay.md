@@ -2349,6 +2349,9 @@ Part berikutnya: Part 33 — Production Failure Catalogue: Diagnosing Real Incid
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Security Beyond TLS: SSRF, Request Smuggling, Deserialization, Header Injection, DoS, and Data Leakage](./031-security-beyond-tls-ssrf-request-smuggling-deserialization-header-injection-dos-data-leakage.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 33 — Production Failure Catalogue: Diagnosing Real Incidents](./033-production-failure-catalogue-diagnosing-real-incidents.md)
+<div class="page-nav">
+<a href="./031-security-beyond-tls-ssrf-request-smuggling-deserialization-header-injection-dos-data-leakage.md">⬅️ Part 31 — Security Beyond TLS: SSRF, Request Smuggling, Deserialization, Header Injection, DoS, and Data Leakage</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./033-production-failure-catalogue-diagnosing-real-incidents.md">Part 33 — Production Failure Catalogue: Diagnosing Real Incidents ➡️</a>
+</div>

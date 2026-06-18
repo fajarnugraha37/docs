@@ -2001,6 +2001,9 @@ Total rencana: **Part 0 sampai Part 34**.
 Part berikutnya: **Part 23 — Secure Coding in Java: Dangerous APIs, Footguns, and Review Heuristics**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Authorization Integrity: Policy, Permission, and Confused Deputy](./learn-java-security-cryptography-integrity-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Secure Coding in Java: Dangerous APIs, Footguns, and Review Heuristics](./learn-java-security-cryptography-integrity-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-021.md">⬅️ Part 21 — Authorization Integrity: Policy, Permission, and Confused Deputy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-023.md">Part 23 — Secure Coding in Java: Dangerous APIs, Footguns, and Review Heuristics ➡️</a>
+</div>

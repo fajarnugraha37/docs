@@ -1934,6 +1934,9 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-011.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: SQLException Mastery: SQLState, Vendor Code, Warnings, and Recovery](./learn-java-sql-jdbc-hikaricp-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: DataSource over DriverManager: Modern Connection Acquisition](./learn-java-sql-jdbc-hikaricp-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-009.md">⬅️ SQLException Mastery: SQLState, Vendor Code, Warnings, and Recovery</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-011.md">DataSource over DriverManager: Modern Connection Acquisition ➡️</a>
+</div>

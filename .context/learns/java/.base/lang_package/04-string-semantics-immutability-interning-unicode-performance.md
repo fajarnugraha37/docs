@@ -2008,6 +2008,9 @@ File berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — `Class<T>` and Runtime Type Tokens](./03-class-type-token-runtime-type-metadata.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — `StringBuilder`, `StringBuffer`, `CharSequence`, and Text Construction Contracts](./05-charsequence-stringbuilder-stringbuffer-text-construction.md)
+<div class="page-nav">
+<a href="./03-class-type-token-runtime-type-metadata.md">⬅️ Part 3 — `Class<T>` and Runtime Type Tokens</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./05-charsequence-stringbuilder-stringbuffer-text-construction.md">Part 5 — `StringBuilder`, `StringBuffer`, `CharSequence`, and Text Construction Contracts ➡️</a>
+</div>

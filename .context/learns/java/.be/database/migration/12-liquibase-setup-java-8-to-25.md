@@ -2839,6 +2839,9 @@ Part 13 akan membahas desain changelog secara mendalam:
 - dan bagaimana mencegah changelog berubah menjadi “migration spaghetti”.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — Liquibase Mental Model](./11-liquibase-mental-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — Liquibase Changelog Design](./13-liquibase-changelog-design.md)
+<div class="page-nav">
+<a href="./11-liquibase-mental-model.md">⬅️ Part 11 — Liquibase Mental Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./13-liquibase-changelog-design.md">Part 13 — Liquibase Changelog Design ➡️</a>
+</div>

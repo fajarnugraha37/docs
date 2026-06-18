@@ -1630,6 +1630,9 @@ Not by trend.
     https://openjdk.org/projects/code-tools/jmh/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 032](./learn-java-concurrency-and-reactive-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 034](./learn-java-concurrency-and-reactive-part-034.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-032.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 032</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-034.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 034 ➡️</a>
+</div>

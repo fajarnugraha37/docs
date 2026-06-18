@@ -2604,6 +2604,9 @@ Engineer top-tier menggunakan DI bukan untuk membuat code terlihat modern, tetap
 Bagian berikutnya akan masuk ke **CDI (`jakarta.enterprise.*`)** sebagai DI container/model yang jauh lebih kaya: bean discovery, scopes, qualifiers, producers, disposers, interceptors, decorators, events, CDI Lite vs Full, dan extension model.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 5 — `jakarta.annotation` dan Common Annotations](./learn-java-jakarta-part-005.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 7 — CDI: `jakarta.enterprise.*` sebagai Container Programming Model](./learn-java-jakarta-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-005.md">⬅️ Bagian 5 — `jakarta.annotation` dan Common Annotations</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-007.md">Bagian 7 — CDI: `jakarta.enterprise.*` sebagai Container Programming Model ➡️</a>
+</div>

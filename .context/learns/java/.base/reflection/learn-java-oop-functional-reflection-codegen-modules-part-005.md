@@ -2596,6 +2596,9 @@ Interfaces Deep Dive: Contracts, Capabilities, Traits, Default Methods
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Encapsulation Beyond `private`: Invariants, State Ownership, and API Surface](./learn-java-oop-functional-reflection-codegen-modules-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Interfaces Deep Dive: Contracts, Capabilities, Traits, Default Methods](./learn-java-oop-functional-reflection-codegen-modules-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-004.md">⬅️ Encapsulation Beyond `private`: Invariants, State Ownership, and API Surface</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-006.md">Interfaces Deep Dive: Contracts, Capabilities, Traits, Default Methods ➡️</a>
+</div>

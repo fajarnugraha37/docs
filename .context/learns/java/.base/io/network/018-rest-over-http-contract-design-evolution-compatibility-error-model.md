@@ -2738,6 +2738,9 @@ Next: Part 19 — Streaming HTTP: Server-Sent Events, Long Polling, Chunked Stre
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Proxy, Gateway, Load Balancer, Service Mesh, and Network Middleboxes](./017-proxy-gateway-load-balancer-service-mesh-network-middleboxes.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 19 — Streaming HTTP: Server-Sent Events, Long Polling, Chunked Streaming, and Backpressure](./019-streaming-http-server-sent-events-long-polling-chunked-streaming-backpressure.md)
+<div class="page-nav">
+<a href="./017-proxy-gateway-load-balancer-service-mesh-network-middleboxes.md">⬅️ Part 17 — Proxy, Gateway, Load Balancer, Service Mesh, and Network Middleboxes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./019-streaming-http-server-sent-events-long-polling-chunked-streaming-backpressure.md">Part 19 — Streaming HTTP: Server-Sent Events, Long Polling, Chunked Streaming, and Backpressure ➡️</a>
+</div>

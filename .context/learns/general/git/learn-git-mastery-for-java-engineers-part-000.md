@@ -2270,6 +2270,9 @@ Masalah engineering apa yang sebenarnya diselesaikan oleh Git?
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Notebook](../../README.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 001 — Git sebagai Model Evolusi Software](./learn-git-mastery-for-java-engineers-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-001.md">Part 001 — Git sebagai Model Evolusi Software ➡️</a>
+</div>

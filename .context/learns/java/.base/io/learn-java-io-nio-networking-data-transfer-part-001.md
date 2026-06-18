@@ -2340,6 +2340,9 @@ Part 002 — Classic java.io: Stream Hierarchy, Decorator Pattern, dan Resource 
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 000 — Mental Model Besar Java I/O: Dari Byte, Stream, Channel, Buffer, sampai Data Transfer](./learn-java-io-nio-networking-data-transfer-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — Classic `java.io`: Stream Hierarchy, Decorator Pattern, dan Resource Lifecycle](./learn-java-io-nio-networking-data-transfer-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-000.md">⬅️ Part 000 — Mental Model Besar Java I/O: Dari Byte, Stream, Channel, Buffer, sampai Data Transfer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-002.md">Part 002 — Classic `java.io`: Stream Hierarchy, Decorator Pattern, dan Resource Lifecycle ➡️</a>
+</div>

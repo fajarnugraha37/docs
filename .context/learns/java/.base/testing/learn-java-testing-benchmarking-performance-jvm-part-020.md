@@ -2295,6 +2295,9 @@ Part 021 — Memory Model for Performance: Heap, Stack, Metaspace, Direct Memory
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Macrobenchmark, Load Test, Stress Test, Soak Test, dan Capacity Test](./learn-java-testing-benchmarking-performance-jvm-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Memory Model for Performance: Heap, Stack, Metaspace, Direct Memory, Native Memory](./learn-java-testing-benchmarking-performance-jvm-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-019.md">⬅️ Macrobenchmark, Load Test, Stress Test, Soak Test, dan Capacity Test</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-021.md">Memory Model for Performance: Heap, Stack, Metaspace, Direct Memory, Native Memory ➡️</a>
+</div>

@@ -2096,6 +2096,9 @@ Use Sequenced interfaces to express order as a contract, not as an implementatio
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/NavigableMap.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 005](./learn-java-collections-and-streams-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 007](./learn-java-collections-and-streams-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-005.md">⬅️ Java Collections and Streams — Part 005</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-007.md">Java Collections and Streams — Part 007 ➡️</a>
+</div>

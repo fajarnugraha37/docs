@@ -2405,6 +2405,9 @@ File: 32-security-audit-compliance-batch-workloads.md
 Seri belum selesai. Kita berada di Part 31 dari 35.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Clustered Jakarta Batch and Distributed Execution Concerns](./30-clustered-jakarta-batch-distributed-execution.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Security, Audit, and Compliance for Batch Workloads](./32-security-audit-compliance-batch-workloads.md)
+<div class="page-nav">
+<a href="./30-clustered-jakarta-batch-distributed-execution.md">⬅️ Part 30 — Clustered Jakarta Batch and Distributed Execution Concerns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./32-security-audit-compliance-batch-workloads.md">Part 32 — Security, Audit, and Compliance for Batch Workloads ➡️</a>
+</div>

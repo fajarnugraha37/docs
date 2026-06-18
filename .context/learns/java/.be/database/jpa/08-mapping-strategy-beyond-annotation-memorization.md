@@ -2570,6 +2570,9 @@ If Part 0–7 built the mental model of ORM as a synchronization engine, Part 8 
 - EclipseLink 4.x release documentation — Jakarta EE 10 / Jakarta Persistence 3.1 era baseline; newer EclipseLink lines add Jakarta Persistence 3.2 support.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — SQL Generation Pipeline and Dialect Behavior](./07-sql-generation-pipeline-dialect-behavior.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 9 — Association Mapping: Ownership, Foreign Keys, Join Tables, and Graph Mutation](./09-association-mapping-ownership-foreign-keys-join-tables.md)
+<div class="page-nav">
+<a href="./07-sql-generation-pipeline-dialect-behavior.md">⬅️ Part 7 — SQL Generation Pipeline and Dialect Behavior</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./09-association-mapping-ownership-foreign-keys-join-tables.md">Part 9 — Association Mapping: Ownership, Foreign Keys, Join Tables, and Graph Mutation ➡️</a>
+</div>

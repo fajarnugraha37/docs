@@ -3160,6 +3160,9 @@ Engineer top-tier tidak hanya tahu tag JSP. Ia tahu JSP dikompilasi menjadi Serv
 Bagian berikutnya akan membahas **Jakarta Standard Tag Library / Jakarta Tags** lebih dalam: core/fmt/functions/xml/sql tags, tag library mechanics, TLD, tag files, custom tags, tag pooling, tag lifecycle, security, and migration from old JSTL URIs to Jakarta Tags.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 27 — Jakarta Expression Language (`jakarta.el`): Expression Evaluation, Resolver Chain, Coercion, Method Expression, dan Security](./learn-java-jakarta-part-027.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 29 — Jakarta Standard Tag Library / Jakarta Tags: Core, Formatting, Functions, XML, SQL, Custom Tags, dan Migration](./learn-java-jakarta-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-027.md">⬅️ Bagian 27 — Jakarta Expression Language (`jakarta.el`): Expression Evaluation, Resolver Chain, Coercion, Method Expression, dan Security</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-029.md">Bagian 29 — Jakarta Standard Tag Library / Jakarta Tags: Core, Formatting, Functions, XML, SQL, Custom Tags, dan Migration ➡️</a>
+</div>

@@ -2564,6 +2564,9 @@ Part 027 — Testing JDBC Code Properly
 Di part berikutnya kita akan membahas bagaimana menguji JDBC code dengan benar: unit vs integration test, Testcontainers, transaction rollback per test, isolation/race/deadlock test, pool exhaustion test, LOB/timezone test, SQLState assertion, dan performance regression test.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Failure Modes and Recovery Patterns](./learn-java-sql-jdbc-hikaricp-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — Testing JDBC Code Properly](./learn-java-sql-jdbc-hikaricp-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-025.md">⬅️ Failure Modes and Recovery Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-027.md">Part 027 — Testing JDBC Code Properly ➡️</a>
+</div>

@@ -2305,6 +2305,9 @@ Next:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — Template Architecture and Domain Notification Design](./24-template-architecture-domain-notification.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Advanced MIME and Internationalization](./26-advanced-mime-internationalization.md)
+<div class="page-nav">
+<a href="./24-template-architecture-domain-notification.md">⬅️ Part 24 — Template Architecture and Domain Notification Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./26-advanced-mime-internationalization.md">Part 26 — Advanced MIME and Internationalization ➡️</a>
+</div>

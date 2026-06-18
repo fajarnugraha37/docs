@@ -2313,6 +2313,9 @@ Bagian 033 — API Versioning Strategy
 Kita akan membahas versioning API secara mendalam: URI versioning, media type versioning, header versioning, compatibility rules, deprecation policy, migration windows, representation evolution, and consumer contract management.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 031 — CDI Integration and Resource/Provider Injection: Resource Lifecycle, Provider Lifecycle, `@Inject`, `@Context`, Scopes, Proxies, Request Context, Thread Safety, Testing, and Production Patterns](./learn-jaxrs-advanced-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 033 — API Versioning Strategy: URI Versioning, Media Type Versioning, Header Versioning, Compatibility Rules, Deprecation, Sunset, Consumer Migration, and Enterprise API Governance](./learn-jaxrs-advanced-part-033.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-031.md">⬅️ Bagian 031 — CDI Integration and Resource/Provider Injection: Resource Lifecycle, Provider Lifecycle, `@Inject`, `@Context`, Scopes, Proxies, Request Context, Thread Safety, Testing, and Production Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-033.md">Bagian 033 — API Versioning Strategy: URI Versioning, Media Type Versioning, Header Versioning, Compatibility Rules, Deprecation, Sunset, Consumer Migration, and Enterprise API Governance ➡️</a>
+</div>

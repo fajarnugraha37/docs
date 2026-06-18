@@ -1607,6 +1607,9 @@ Jika semua sudah masuk akal, kita siap lanjut ke observability yang lebih sistem
 - Oracle Database SQL Tuning Guide — Optimizer Statistics Concepts: https://docs.oracle.com/en/database/oracle/oracle-database/18/tgsql/optimizer-statistics-concepts.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Concurrency and Consistency: Locking, Versioning, Lost Update](./20-concurrency-consistency-locking-versioning-lost-update.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Observability: SQL Logging, Parameter Visibility, Correlation ID, Metrics](./22-observability-sql-logging-parameter-visibility-correlation-metrics.md)
+<div class="page-nav">
+<a href="./20-concurrency-consistency-locking-versioning-lost-update.md">⬅️ Part 20 — Concurrency and Consistency: Locking, Versioning, Lost Update</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./22-observability-sql-logging-parameter-visibility-correlation-metrics.md">Part 22 — Observability: SQL Logging, Parameter Visibility, Correlation ID, Metrics ➡️</a>
+</div>

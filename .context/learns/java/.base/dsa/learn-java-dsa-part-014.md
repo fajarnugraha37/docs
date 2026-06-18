@@ -2829,6 +2829,9 @@ Part 015 — String Algorithms I: String Cost Model, Search, Parsing
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 013 — Graph I: Graph Mental Model, Representation, Traversal](./learn-java-dsa-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — String Algorithms I: String Cost Model, Search, Parsing](./learn-java-dsa-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-013.md">⬅️ Part 013 — Graph I: Graph Mental Model, Representation, Traversal</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-015.md">Part 015 — String Algorithms I: String Cost Model, Search, Parsing ➡️</a>
+</div>

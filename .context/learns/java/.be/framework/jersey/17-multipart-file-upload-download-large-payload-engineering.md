@@ -1654,6 +1654,9 @@ Part 32 — target akhir / capstone
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Server-Sent Events and Streaming APIs with Jersey](./16-server-sent-events-and-streaming-apis-with-jersey.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 18 — Security Integration: Authentication, Authorization, Principal, Roles, and Context](./18-security-integration-authentication-authorization-principal-roles-context.md)
+<div class="page-nav">
+<a href="./16-server-sent-events-and-streaming-apis-with-jersey.md">⬅️ Part 16 — Server-Sent Events and Streaming APIs with Jersey</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./18-security-integration-authentication-authorization-principal-roles-context.md">Part 18 — Security Integration: Authentication, Authorization, Principal, Roles, and Context ➡️</a>
+</div>

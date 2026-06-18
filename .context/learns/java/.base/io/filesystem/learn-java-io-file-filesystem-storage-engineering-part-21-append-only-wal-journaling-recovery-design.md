@@ -2481,6 +2481,9 @@ last sequence: 12345
 - Java documentation: `FileChannel.force`, `FileChannel.truncate`, `StandardOpenOption.SYNC`, `StandardOpenOption.DSYNC`, `StandardOpenOption.APPEND`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Random Access and Structured Binary File Layout](./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Checksums, Hashes, Integrity, and Deduplication](./learn-java-io-file-filesystem-storage-engineering-part-22-checksums-hashes-integrity-deduplication.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md">⬅️ Part 20 — Random Access and Structured Binary File Layout</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-22-checksums-hashes-integrity-deduplication.md">Part 22 — Checksums, Hashes, Integrity, and Deduplication ➡️</a>
+</div>

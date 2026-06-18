@@ -2053,6 +2053,9 @@ Note: Numbering in file names starts from Part 00, while the conceptual list inc
 - Thoughtworks — Lightweight Architecture Decision Records: https://www.thoughtworks.com/radar/techniques/lightweight-architecture-decision-records
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — Designing a Production-Grade Java Deployment Platform](./learn-java-deployment-runtime-release-delivery-engineering-part-34-capstone-designing-java-deployment-platform.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 000 — Orientation: Cara Berpikir Data Structure & Algorithm untuk Engineer Top-Tier](../dsa/learn-java-dsa-part-000.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-34-capstone-designing-java-deployment-platform.md">⬅️ Part 34 — Designing a Production-Grade Java Deployment Platform</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

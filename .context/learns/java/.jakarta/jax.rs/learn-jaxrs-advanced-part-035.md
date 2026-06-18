@@ -1856,6 +1856,9 @@ Bagian 036 — Testing JAX-RS Client
 Kita akan membahas testing outbound HTTP client: mock server, timeout/retry/circuit tests, Problem Details decoder, request verification, streaming download, upload, SSE client, contract tests, and resilience fault injection.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 034 — OpenAPI and Documentation Strategy: Contract Artifact, Code-First vs Spec-First, MicroProfile OpenAPI, Schema Design, Examples, Error Docs, Versioned Specs, Governance, CI Validation, Codegen, and Docs-as-Product](./learn-jaxrs-advanced-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 036 — Testing JAX-RS Client: Mock Server, Request Verification, Timeout/Retry/Circuit Tests, Problem Details Decoder, Streaming Download, Upload, SSE Client, Contract Tests, and Resilience Fault Injection](./learn-jaxrs-advanced-part-036.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-034.md">⬅️ Bagian 034 — OpenAPI and Documentation Strategy: Contract Artifact, Code-First vs Spec-First, MicroProfile OpenAPI, Schema Design, Examples, Error Docs, Versioned Specs, Governance, CI Validation, Codegen, and Docs-as-Product</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-036.md">Bagian 036 — Testing JAX-RS Client: Mock Server, Request Verification, Timeout/Retry/Circuit Tests, Problem Details Decoder, Streaming Download, Upload, SSE Client, Contract Tests, and Resilience Fault Injection ➡️</a>
+</div>

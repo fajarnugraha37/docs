@@ -2563,6 +2563,9 @@ A platform is mature when it makes the safe path the easy path, the risky path v
 - CycloneDX SBOM Standard: https://cyclonedx.org/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 33 — Deployment Architecture Decision Records and Checklists](./learn-java-deployment-runtime-release-delivery-engineering-part-33-deployment-architecture-decision-records-and-checklists.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 35 — Final Mastery Review: Top 1% Java Deployment Engineer Mindset](./learn-java-deployment-runtime-release-delivery-engineering-part-35-final-mastery-review.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-33-deployment-architecture-decision-records-and-checklists.md">⬅️ Part 33 — Deployment Architecture Decision Records and Checklists</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-35-final-mastery-review.md">Part 35 — Final Mastery Review: Top 1% Java Deployment Engineer Mindset ➡️</a>
+</div>

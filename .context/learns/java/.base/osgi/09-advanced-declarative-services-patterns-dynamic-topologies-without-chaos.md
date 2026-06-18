@@ -3064,6 +3064,9 @@ Part 9 banyak memakai config secara konseptual. Part 10 akan membongkar config l
 - OSGi enRoute Declarative Services FAQ: `https://enroute.osgi.org/FAQ/300-declarative-services.html`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — Declarative Services Deep Dive: Components, References, Activation, and Conditions](./08-declarative-services-components-references-activation-conditions.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Configuration Admin and Metatype: Runtime Configuration as First-Class Contract](./10-configuration-admin-metatype-runtime-configuration-contract.md)
+<div class="page-nav">
+<a href="./08-declarative-services-components-references-activation-conditions.md">⬅️ Part 8 — Declarative Services Deep Dive: Components, References, Activation, and Conditions</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./10-configuration-admin-metatype-runtime-configuration-contract.md">Part 10 — Configuration Admin and Metatype: Runtime Configuration as First-Class Contract ➡️</a>
+</div>

@@ -2135,6 +2135,9 @@ Daftar bagian yang telah selesai:
     https://www.postgresql.org/docs/current/transaction-iso.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 033](./learn-java-concurrency-and-reactive-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 000](../data_type/learn-java-data-types-part-000.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-033.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 033</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

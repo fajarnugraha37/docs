@@ -2578,6 +2578,9 @@ Top-tier Java engineer tidak anti-boolean. Ia tahu bahwa boolean adalah alat yan
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/BitSet.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 003](./learn-java-data-types-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 005](./learn-java-data-types-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-003.md">⬅️ Java Data Types — Part 003</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-005.md">Java Data Types — Part 005 ➡️</a>
+</div>

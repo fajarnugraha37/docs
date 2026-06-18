@@ -2114,6 +2114,9 @@ The senior/staff engineer mindset is not “which isolation level should I use?�
   - SQL Server Transaction Locking and Row Versioning.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 011 — Transaction Boundary Design in Real Applications](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Optimistic Locking, Versioning, and State Machine Persistence](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-011.md">⬅️ Part 011 — Transaction Boundary Design in Real Applications</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-013.md">Part 013 — Optimistic Locking, Versioning, and State Machine Persistence ➡️</a>
+</div>

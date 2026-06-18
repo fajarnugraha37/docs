@@ -1937,6 +1937,9 @@ Part 024 — Incident-Oriented Error Handling
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 022 — Consistency, Compensation, and Distributed Failure](./learn-java-reliability-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 024 — Incident-Oriented Error Handling](./learn-java-reliability-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-022.md">⬅️ Part 022 — Consistency, Compensation, and Distributed Failure</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-024.md">Part 024 — Incident-Oriented Error Handling ➡️</a>
+</div>

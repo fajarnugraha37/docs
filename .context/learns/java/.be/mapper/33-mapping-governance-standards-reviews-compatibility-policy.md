@@ -2115,6 +2115,9 @@ Berikutnya:
 **Part 34 — Migration Playbook: Java 8 Legacy to Java 25 Modern Mapping Stack**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Integration Mapping: External API, Legacy Payload, Anti-Corruption Layer](./32-integration-mapping-external-api-legacy-payload-anti-corruption-layer.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Migration Playbook: Java 8 Legacy to Java 25 Modern Mapping Stack](./34-migration-playbook-java-8-legacy-to-java-25-modern-mapping-stack.md)
+<div class="page-nav">
+<a href="./32-integration-mapping-external-api-legacy-payload-anti-corruption-layer.md">⬅️ Part 32 — Integration Mapping: External API, Legacy Payload, Anti-Corruption Layer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./34-migration-playbook-java-8-legacy-to-java-25-modern-mapping-stack.md">Part 34 — Migration Playbook: Java 8 Legacy to Java 25 Modern Mapping Stack ➡️</a>
+</div>

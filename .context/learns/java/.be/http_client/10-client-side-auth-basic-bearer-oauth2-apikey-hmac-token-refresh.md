@@ -2369,6 +2369,9 @@ File: 11-retry-engineering-idempotency-backoff-jitter-budget-hedging.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — TLS, mTLS, Trust Store, Key Store, ALPN, Certificate Pinning](./09-tls-mtls-truststore-keystore-alpn-certificate-pinning.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Retry Engineering: Idempotency, Backoff, Jitter, Retry Budget, dan Hedging](./11-retry-engineering-idempotency-backoff-jitter-budget-hedging.md)
+<div class="page-nav">
+<a href="./09-tls-mtls-truststore-keystore-alpn-certificate-pinning.md">⬅️ Part 9 — TLS, mTLS, Trust Store, Key Store, ALPN, Certificate Pinning</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./11-retry-engineering-idempotency-backoff-jitter-budget-hedging.md">Part 11 — Retry Engineering: Idempotency, Backoff, Jitter, Retry Budget, dan Hedging ➡️</a>
+</div>

@@ -2024,6 +2024,9 @@ Part berikutnya akan membahas **Rate Limiting, Throttling, Bulkhead, dan Client-
 - RFC 9110 HTTP Semantics: https://www.rfc-editor.org/rfc/rfc9110
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Authentication Client-Side: Basic, Bearer, OAuth2, API Key, HMAC, Token Refresh](./10-client-side-auth-basic-bearer-oauth2-apikey-hmac-token-refresh.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Rate Limiting, Throttling, Bulkhead, dan Client-Side Load Shedding](./12-rate-limiting-throttling-bulkhead-client-side-load-shedding.md)
+<div class="page-nav">
+<a href="./10-client-side-auth-basic-bearer-oauth2-apikey-hmac-token-refresh.md">⬅️ Part 10 — Authentication Client-Side: Basic, Bearer, OAuth2, API Key, HMAC, Token Refresh</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-rate-limiting-throttling-bulkhead-client-side-load-shedding.md">Part 12 — Rate Limiting, Throttling, Bulkhead, dan Client-Side Load Shedding ➡️</a>
+</div>

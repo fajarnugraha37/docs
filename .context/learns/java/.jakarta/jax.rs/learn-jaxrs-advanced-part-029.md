@@ -2396,6 +2396,9 @@ Bagian 030 — Client Resilience: Timeout, Retry, Circuit Breaker, Bulkhead, Ide
 Kita akan membahas outbound resilience secara mendalam: timeout budget, deadline propagation, retry policy, exponential backoff, jitter, circuit breaker, bulkhead, rate limit, idempotency key, fallback, and failure taxonomy.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 028 — JAX-RS Client API: Mental Model and Core Usage: `Client`, `ClientBuilder`, `WebTarget`, `Invocation.Builder`, `Entity`, `Response`, Headers, Cookies, Timeouts, Providers, and Safe Resource Management](./learn-jaxrs-advanced-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 030 — Client Resilience: Timeout, Retry, Circuit Breaker, Bulkhead, Rate Limit, Idempotency, Deadline Budget, Fallback, and Production-Grade Outbound HTTP Policy](./learn-jaxrs-advanced-part-030.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-028.md">⬅️ Bagian 028 — JAX-RS Client API: Mental Model and Core Usage: `Client`, `ClientBuilder`, `WebTarget`, `Invocation.Builder`, `Entity`, `Response`, Headers, Cookies, Timeouts, Providers, and Safe Resource Management</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-030.md">Bagian 030 — Client Resilience: Timeout, Retry, Circuit Breaker, Bulkhead, Rate Limit, Idempotency, Deadline Budget, Fallback, and Production-Grade Outbound HTTP Policy ➡️</a>
+</div>

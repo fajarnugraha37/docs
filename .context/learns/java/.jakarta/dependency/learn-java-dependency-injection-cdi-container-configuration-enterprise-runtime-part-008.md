@@ -2622,6 +2622,9 @@ Part 009 — Bean Discovery and Archive Model
 - Quarkus CDI Reference Guide
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 007 — JSR-330 / Jakarta Inject: Minimal DI Vocabulary](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 009 — Bean Discovery and Archive Model](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-007.md">⬅️ Part 007 — JSR-330 / Jakarta Inject: Minimal DI Vocabulary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009.md">Part 009 — Bean Discovery and Archive Model ➡️</a>
+</div>

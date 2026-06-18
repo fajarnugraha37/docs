@@ -3028,6 +3028,9 @@ Engineer top-tier tidak hanya bisa mengirim pesan ke queue. Ia tahu apa yang ter
 Bagian berikutnya akan membahas **Jakarta Mail (`jakarta.mail`)**: SMTP/IMAP, MIME message, attachment, template, retry, bounce handling, deliverability, security, and production email pipeline design.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 18 — Jakarta Authentication dan Jakarta Authorization: Low-Level Security SPI](./learn-java-jakarta-part-018.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 20 — Jakarta Mail (`jakarta.mail`): SMTP, MIME, Attachment, dan Production Email Pipeline](./learn-java-jakarta-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-018.md">⬅️ Bagian 18 — Jakarta Authentication dan Jakarta Authorization: Low-Level Security SPI</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-020.md">Bagian 20 — Jakarta Mail (`jakarta.mail`): SMTP, MIME, Attachment, dan Production Email Pipeline ➡️</a>
+</div>

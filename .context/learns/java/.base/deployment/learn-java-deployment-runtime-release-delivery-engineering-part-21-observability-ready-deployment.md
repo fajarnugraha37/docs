@@ -1800,6 +1800,9 @@ Belum selesai. Lanjut ke:
 **Part 22 — Deployment Verification: Smoke Test, Health Gate, Synthetic Check, Contract Check**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Configuration, Secret Rotation, Certificate Rotation, and Truststore Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Deployment Verification: Smoke Test, Health Gate, Synthetic Check, Contract Check](./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md">⬅️ Part 20 — Configuration, Secret Rotation, Certificate Rotation, and Truststore Deployment</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md">Part 22 — Deployment Verification: Smoke Test, Health Gate, Synthetic Check, Contract Check ➡️</a>
+</div>

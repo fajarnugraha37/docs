@@ -2588,6 +2588,9 @@ Create an investigation plan:
 - gRPC Java Javadocs, `io.grpc.netty`. https://grpc.github.io/grpc-java/javadoc/io/grpc/netty/package-summary.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — gRPC Streaming and Backpressure: Designing High-Volume Bidirectional Systems](./024-grpc-streaming-and-backpressure-designing-high-volume-bidirectional-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 26 — Reactive, Async, Virtual Threads, and Blocking I/O: Choosing the Right Concurrency Model](./026-reactive-async-virtual-threads-blocking-io-choosing-right-concurrency-model.md)
+<div class="page-nav">
+<a href="./024-grpc-streaming-and-backpressure-designing-high-volume-bidirectional-systems.md">⬅️ Part 24 — gRPC Streaming and Backpressure: Designing High-Volume Bidirectional Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./026-reactive-async-virtual-threads-blocking-io-choosing-right-concurrency-model.md">Part 26 — Reactive, Async, Virtual Threads, and Blocking I/O: Choosing the Right Concurrency Model ➡️</a>
+</div>

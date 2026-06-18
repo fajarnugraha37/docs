@@ -2715,6 +2715,9 @@ Next part: 017-proxy-gateway-load-balancer-service-mesh-network-middleboxes.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — Connection Pooling and Resource Management](./015-connection-pooling-and-resource-management.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 17 — Proxy, Gateway, Load Balancer, Service Mesh, and Network Middleboxes](./017-proxy-gateway-load-balancer-service-mesh-network-middleboxes.md)
+<div class="page-nav">
+<a href="./015-connection-pooling-and-resource-management.md">⬅️ Part 15 — Connection Pooling and Resource Management</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./017-proxy-gateway-load-balancer-service-mesh-network-middleboxes.md">Part 17 — Proxy, Gateway, Load Balancer, Service Mesh, and Network Middleboxes ➡️</a>
+</div>

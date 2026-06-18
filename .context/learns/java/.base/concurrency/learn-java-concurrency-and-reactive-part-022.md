@@ -1573,6 +1573,9 @@ Measure before claiming speedup.
     https://openjdk.org/projects/code-tools/jmh/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 021](./learn-java-concurrency-and-reactive-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 023](./learn-java-concurrency-and-reactive-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-021.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 021</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-023.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 023 ➡️</a>
+</div>

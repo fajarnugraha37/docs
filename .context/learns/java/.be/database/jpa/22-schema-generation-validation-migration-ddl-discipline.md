@@ -2245,6 +2245,9 @@ That is the difference between CRUD-level ORM usage and production persistence e
 - Expand-contract/parallel change migration pattern — backward-compatible database evolution for rolling deployments.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Second-Level Cache, Query Cache, Natural ID Cache, and Cache Correctness](./21-second-level-cache-query-cache-natural-id-cache-correctness.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 23 — Provider Enhancement and Weaving: Bytecode, Proxies, Lazy Fields, and Build Pipelines](./23-provider-enhancement-weaving-bytecode-proxies-build-pipelines.md)
+<div class="page-nav">
+<a href="./21-second-level-cache-query-cache-natural-id-cache-correctness.md">⬅️ Part 21 — Second-Level Cache, Query Cache, Natural ID Cache, and Cache Correctness</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./23-provider-enhancement-weaving-bytecode-proxies-build-pipelines.md">Part 23 — Provider Enhancement and Weaving: Bytecode, Proxies, Lazy Fields, and Build Pipelines ➡️</a>
+</div>

@@ -1652,6 +1652,9 @@ and parallel behavior are all explicitly correct.
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/stream/Collectors.java
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 044](./learn-java-collections-and-streams-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 046](./learn-java-collections-and-streams-part-046.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-044.md">⬅️ Java Collections and Streams — Part 044</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-046.md">Java Collections and Streams — Part 046 ➡️</a>
+</div>

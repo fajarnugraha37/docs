@@ -2451,6 +2451,9 @@ Jika pertanyaan itu bisa dijawab, tuning GC menjadi aktivitas engineering, bukan
 - OpenJDK JEPs related to modern GC evolution, especially G1, ZGC, and Shenandoah changes across Java 8–25.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Memory Model vs JVM Memory Management](./learn-java-memory-byte-bit-buffer-offheap-gc-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Generational GC Internals: Young, Survivor, Old, Promotion, Card Marking](./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-017.md">⬅️ Java Memory Model vs JVM Memory Management</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md">Generational GC Internals: Young, Survivor, Old, Promotion, Card Marking ➡️</a>
+</div>

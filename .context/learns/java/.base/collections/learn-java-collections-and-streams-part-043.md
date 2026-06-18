@@ -1502,6 +1502,9 @@ Ask “what does this null mean, and what should the pipeline do with that meani
     https://arxiv.org/abs/1907.02127
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 042](./learn-java-collections-and-streams-part-042.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 044](./learn-java-collections-and-streams-part-044.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-042.md">⬅️ Java Collections and Streams — Part 042</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-044.md">Java Collections and Streams — Part 044 ➡️</a>
+</div>

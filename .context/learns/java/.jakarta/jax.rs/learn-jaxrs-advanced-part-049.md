@@ -1771,6 +1771,9 @@ Bagian 050 — JAX-RS and Jakarta Security / OAuth2 / OIDC / JWT
 Kita akan membahas authentication/authorization lebih dalam: Jakarta Security, OAuth2/OIDC flows, JWT validation, token exchange, scopes/roles/claims, SecurityContext, method security, tenant-aware authorization, and production identity architecture.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 048 — Advanced HTTP Client and Service-to-Service Communication: Client Lifecycle, Connection Pools, DNS, TLS/mTLS, Auth Token Propagation, Timeout Budget, Retry, Circuit Breaker, Request Signing, Idempotency, Schema Compatibility, and Safe Downstream Consumption](./learn-jaxrs-advanced-part-048.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 050 — JAX-RS and Jakarta Security / OAuth2 / OIDC / JWT: Authentication, Authorization, Token Validation, Scopes, Roles, Claims, SecurityContext, Method Security, Tenant-Aware Authorization, and Production Identity Architecture](./learn-jaxrs-advanced-part-050.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-048.md">⬅️ Bagian 048 — Advanced HTTP Client and Service-to-Service Communication: Client Lifecycle, Connection Pools, DNS, TLS/mTLS, Auth Token Propagation, Timeout Budget, Retry, Circuit Breaker, Request Signing, Idempotency, Schema Compatibility, and Safe Downstream Consumption</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-050.md">Bagian 050 — JAX-RS and Jakarta Security / OAuth2 / OIDC / JWT: Authentication, Authorization, Token Validation, Scopes, Roles, Claims, SecurityContext, Method Security, Tenant-Aware Authorization, and Production Identity Architecture ➡️</a>
+</div>

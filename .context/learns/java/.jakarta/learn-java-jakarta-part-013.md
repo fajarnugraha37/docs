@@ -2386,6 +2386,9 @@ Engineer top-tier tidak hanya menulis `findByStatusAndCreatedAtBetween`. Ia tahu
 Bagian berikutnya akan membahas **Jakarta Transactions (`jakarta.transaction`)**, yaitu fondasi yang menentukan consistency boundary, rollback, propagation, timeout, XA, dan kapan memilih outbox/saga daripada distributed transaction.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 12 — Jakarta Persistence (`jakarta.persistence`) / JPA](./learn-java-jakarta-part-012.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 14 — Jakarta Transactions: Transaction Boundary, Rollback, XA, dan Consistency Engineering](./learn-java-jakarta-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-012.md">⬅️ Bagian 12 — Jakarta Persistence (`jakarta.persistence`) / JPA</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-014.md">Bagian 14 — Jakarta Transactions: Transaction Boundary, Rollback, XA, dan Consistency Engineering ➡️</a>
+</div>

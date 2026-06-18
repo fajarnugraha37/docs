@@ -1788,6 +1788,9 @@ It is the contract that tells Stream how to traverse, split, and optimize a sour
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/package-summary.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 007](./learn-java-collections-and-streams-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 009](./learn-java-collections-and-streams-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-007.md">⬅️ Java Collections and Streams — Part 007</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-009.md">Java Collections and Streams — Part 009 ➡️</a>
+</div>

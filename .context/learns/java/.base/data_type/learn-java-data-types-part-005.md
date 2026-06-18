@@ -2150,6 +2150,9 @@ Itulah level ketelitian yang dibutuhkan untuk production-grade text handling.
     https://unicode.org/reports/tr29/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 004](./learn-java-data-types-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 006](./learn-java-data-types-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-004.md">⬅️ Java Data Types — Part 004</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-006.md">Java Data Types — Part 006 ➡️</a>
+</div>

@@ -1441,6 +1441,9 @@ File berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — SAX Mental Model: Push Events, Stateless Parsing, Handler Contracts](./28-sax-mental-model-push-events-handler-contracts.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Secure XML Parsing with DOM/SAX: XXE, Billion Laughs, Expansion Limits, Hardening](./30-secure-xml-parsing-dom-sax-xxe-expansion-hardening.md)
+<div class="page-nav">
+<a href="./28-sax-mental-model-push-events-handler-contracts.md">⬅️ Part 28 — SAX Mental Model: Push Events, Stateless Parsing, Handler Contracts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./30-secure-xml-parsing-dom-sax-xxe-expansion-hardening.md">Part 30 — Secure XML Parsing with DOM/SAX: XXE, Billion Laughs, Expansion Limits, Hardening ➡️</a>
+</div>

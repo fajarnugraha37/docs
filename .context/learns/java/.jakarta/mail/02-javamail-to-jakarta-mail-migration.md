@@ -1747,6 +1747,9 @@ Di sana kita akan masuk ke object model Jakarta Mail secara lebih dalam:
 - anti-pattern yang sering membuat connection leak atau behavior tidak predictable.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — Email Protocol Stack: SMTP, MIME, POP3, IMAP](./01-email-protocol-stack-smtp-mime-pop3-imap.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — Core API Mental Model: `Session`, `Store`, `Folder`, `Transport`, `Message`](./03-core-api-session-transport-store-message.md)
+<div class="page-nav">
+<a href="./01-email-protocol-stack-smtp-mime-pop3-imap.md">⬅️ Part 1 — Email Protocol Stack: SMTP, MIME, POP3, IMAP</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./03-core-api-session-transport-store-message.md">Part 3 — Core API Mental Model: `Session`, `Store`, `Folder`, `Transport`, `Message` ➡️</a>
+</div>

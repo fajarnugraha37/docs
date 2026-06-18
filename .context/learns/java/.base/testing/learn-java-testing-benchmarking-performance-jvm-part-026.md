@@ -2430,6 +2430,9 @@ Profiling & Diagnostics II: async-profiler, Flame Graph, Allocation Profile, Wal
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: JVM Arguments & Configuration II: Production Profiles for Containers, Kubernetes, and Cloud](./learn-java-testing-benchmarking-performance-jvm-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Profiling & Diagnostics II: async-profiler, Flame Graph, Allocation Profile, Wall-Clock Profile](./learn-java-testing-benchmarking-performance-jvm-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-025.md">⬅️ JVM Arguments & Configuration II: Production Profiles for Containers, Kubernetes, and Cloud</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-027.md">Profiling & Diagnostics II: async-profiler, Flame Graph, Allocation Profile, Wall-Clock Profile ➡️</a>
+</div>

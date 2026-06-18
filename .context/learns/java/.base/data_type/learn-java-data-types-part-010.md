@@ -2358,6 +2358,9 @@ Itulah cara menjadikan `String` safe data type, bukan sumber bug production ters
     https://docs.oracle.com/javase/specs/jls/se25/html/jls-15.html#jls-15.18.1
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 009](./learn-java-data-types-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 011](./learn-java-data-types-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-009.md">⬅️ Java Data Types — Part 009</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-011.md">Java Data Types — Part 011 ➡️</a>
+</div>

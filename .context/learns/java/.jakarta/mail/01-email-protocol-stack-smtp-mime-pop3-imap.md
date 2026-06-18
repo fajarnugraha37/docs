@@ -1946,6 +1946,9 @@ Part 2 — JavaMail to Jakarta Mail: History, Namespace, Compatibility, and Migr
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Orientation: Email as a Distributed System](./00-orientation-email-as-distributed-system.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — JavaMail to Jakarta Mail: History, Namespace, Compatibility, and Migration Strategy](./02-javamail-to-jakarta-mail-migration.md)
+<div class="page-nav">
+<a href="./00-orientation-email-as-distributed-system.md">⬅️ Part 0 — Orientation: Email as a Distributed System</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./02-javamail-to-jakarta-mail-migration.md">Part 2 — JavaMail to Jakarta Mail: History, Namespace, Compatibility, and Migration Strategy ➡️</a>
+</div>

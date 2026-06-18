@@ -2694,6 +2694,9 @@ Engineer top-tier tidak hanya bisa generate client dari WSDL. Ia tahu WSDL-first
 Bagian berikutnya akan membahas **Jakarta SOAP with Attachments (`jakarta.xml.soap`) / SAAJ**: SOAP message object model, envelope/header/body/fault manipulation, attachments, MTOM boundary, low-level SOAP processing, security risks, and when to use SAAJ directly versus JAX-WS.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 31 — Jakarta XML Binding (`jakarta.xml.bind`) / JAXB: Object-XML Mapping, Schema, Marshalling, Security, dan Migration](./learn-java-jakarta-part-031.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 33 — Jakarta SOAP with Attachments (`jakarta.xml.soap`) / SAAJ: SOAP Message Object Model, Header, Body, Fault, Attachments, dan Low-Level SOAP Processing](./learn-java-jakarta-part-033.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-031.md">⬅️ Bagian 31 — Jakarta XML Binding (`jakarta.xml.bind`) / JAXB: Object-XML Mapping, Schema, Marshalling, Security, dan Migration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-033.md">Bagian 33 — Jakarta SOAP with Attachments (`jakarta.xml.soap`) / SAAJ: SOAP Message Object Model, Header, Body, Fault, Attachments, dan Low-Level SOAP Processing ➡️</a>
+</div>

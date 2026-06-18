@@ -2624,6 +2624,9 @@ Belum selesai. Lanjut ke:
 - Part 5 — MIME Message Construction: Text, HTML, Charset, Headers
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — Core API Mental Model: `Session`, `Store`, `Folder`, `Transport`, `Message`](./03-core-api-session-transport-store-message.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — MIME Message Construction: Text, HTML, Charset, Headers](./05-mime-message-text-html-headers-charset.md)
+<div class="page-nav">
+<a href="./03-core-api-session-transport-store-message.md">⬅️ Part 3 — Core API Mental Model: `Session`, `Store`, `Folder`, `Transport`, `Message`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./05-mime-message-text-html-headers-charset.md">Part 5 — MIME Message Construction: Text, HTML, Charset, Headers ➡️</a>
+</div>

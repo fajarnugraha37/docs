@@ -2647,6 +2647,9 @@ Part 4 — Java Runtime Layout: Filesystem, Process, User, Permissions, and OS C
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — Artifact Taxonomy: JAR, WAR, EAR, Thin JAR, Fat JAR, Layered JAR, Native Image](./learn-java-deployment-runtime-release-delivery-engineering-part-02-artifact-taxonomy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Java Runtime Layout: Filesystem, Process, User, Permissions, and OS Contracts](./learn-java-deployment-runtime-release-delivery-engineering-part-04-java-runtime-layout-filesystem-process-user-permissions-os.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-02-artifact-taxonomy.md">⬅️ Part 2 — Artifact Taxonomy: JAR, WAR, EAR, Thin JAR, Fat JAR, Layered JAR, Native Image</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-04-java-runtime-layout-filesystem-process-user-permissions-os.md">Part 4 — Java Runtime Layout: Filesystem, Process, User, Permissions, and OS Contracts ➡️</a>
+</div>

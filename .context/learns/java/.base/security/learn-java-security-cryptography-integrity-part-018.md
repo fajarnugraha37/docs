@@ -1889,6 +1889,9 @@ Referensi konseptual dan teknis yang relevan:
 10. Research and industry reports on XML Signature Wrapping attacks in SAML/SOAP systems.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Secure File, Archive, and Data Transfer Integrity](./learn-java-security-cryptography-integrity-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — JSON, JWT, JWS, JWE, JOSE, and Token Integrity](./learn-java-security-cryptography-integrity-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-017.md">⬅️ Part 17 — Secure File, Archive, and Data Transfer Integrity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-019.md">Part 19 — JSON, JWT, JWS, JWE, JOSE, and Token Integrity ➡️</a>
+</div>

@@ -2201,6 +2201,9 @@ Part 032 — Observability and Debugging of Dependency/Container Problems
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 030 — Container Concurrency, Managed Executors, and Context Propagation](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 032 — Observability and Debugging of Dependency/Container Problems](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-032.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-030.md">⬅️ Part 030 — Container Concurrency, Managed Executors, and Context Propagation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-032.md">Part 032 — Observability and Debugging of Dependency/Container Problems ➡️</a>
+</div>

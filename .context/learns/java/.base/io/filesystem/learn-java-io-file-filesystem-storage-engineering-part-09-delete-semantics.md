@@ -1948,6 +1948,9 @@ Part 10 akan memperdalam traversal sebagai primitive fundamental untuk filesyste
 - Inside Java — JDK 25 Windows `File.delete` behavior change note
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 08 — Copy and Move Semantics: Replace, Attributes, Links, Cross-Device Behavior](./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 10 — Directory Listing and Traversal: `list`, `walk`, `find`, `DirectoryStream`](./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md">⬅️ Part 08 — Copy and Move Semantics: Replace, Attributes, Links, Cross-Device Behavior</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md">Part 10 — Directory Listing and Traversal: `list`, `walk`, `find`, `DirectoryStream` ➡️</a>
+</div>

@@ -1605,6 +1605,9 @@ Bagian 049 — JAX-RS with MicroProfile: Config, Rest Client, Fault Tolerance, M
 Kita akan membahas integrasi Jakarta REST dengan MicroProfile: config-driven apps, typed REST client, fault tolerance annotations, telemetry/metrics, OpenAPI generation, JWT security, health checks, and production runtime patterns.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 047 — API Gateway, Reverse Proxy, Load Balancer, and JAX-RS Apps: Forwarded Headers, Base URI, TLS Termination, Path Rewriting, Auth Offload, Rate Limit, Request Size, Timeout, Buffering, Streaming/SSE, Observability, and Security Boundaries](./learn-jaxrs-advanced-part-047.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 049 — JAX-RS with MicroProfile: Config, Rest Client, Fault Tolerance, Telemetry/Metrics, OpenAPI, JWT, Health, and Production Runtime Patterns](./learn-jaxrs-advanced-part-049.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-047.md">⬅️ Bagian 047 — API Gateway, Reverse Proxy, Load Balancer, and JAX-RS Apps: Forwarded Headers, Base URI, TLS Termination, Path Rewriting, Auth Offload, Rate Limit, Request Size, Timeout, Buffering, Streaming/SSE, Observability, and Security Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-049.md">Bagian 049 — JAX-RS with MicroProfile: Config, Rest Client, Fault Tolerance, Telemetry/Metrics, OpenAPI, JWT, Health, and Production Runtime Patterns ➡️</a>
+</div>

@@ -1610,6 +1610,9 @@ It is poor when your workload is front/middle mutation, membership lookup, primi
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/SequencedCollection.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 015](./learn-java-collections-and-streams-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 017](./learn-java-collections-and-streams-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-015.md">⬅️ Java Collections and Streams — Part 015</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-017.md">Java Collections and Streams — Part 017 ➡️</a>
+</div>

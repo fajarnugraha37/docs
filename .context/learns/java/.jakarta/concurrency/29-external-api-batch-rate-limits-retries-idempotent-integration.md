@@ -1846,6 +1846,9 @@ Kita akan masuk lebih jauh ke:
 7. kapan Jakarta Batch cocok dan kapan Kubernetes Job/CronJob lebih tepat.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — File, CSV, XML, JSON, and Large Payload Batch Processing](./28-file-csv-xml-json-large-payload-batch-processing.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Clustered Jakarta Batch and Distributed Execution Concerns](./30-clustered-jakarta-batch-distributed-execution.md)
+<div class="page-nav">
+<a href="./28-file-csv-xml-json-large-payload-batch-processing.md">⬅️ Part 28 — File, CSV, XML, JSON, and Large Payload Batch Processing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./30-clustered-jakarta-batch-distributed-execution.md">Part 30 — Clustered Jakarta Batch and Distributed Execution Concerns ➡️</a>
+</div>

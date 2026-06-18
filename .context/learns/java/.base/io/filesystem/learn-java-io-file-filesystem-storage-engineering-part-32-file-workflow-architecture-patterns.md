@@ -1892,6 +1892,9 @@ Part 35 — Final Review: Top 1% Filesystem Engineering Checklist
 Status: seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Observability and Troubleshooting File Workloads](./learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 33 — Testing File and Filesystem Code](./learn-java-io-file-filesystem-storage-engineering-part-33-testing-file-filesystem-code.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads.md">⬅️ Part 31 — Observability and Troubleshooting File Workloads</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-33-testing-file-filesystem-code.md">Part 33 — Testing File and Filesystem Code ➡️</a>
+</div>

@@ -2470,6 +2470,9 @@ apa konsekuensi production-nya
 Dengan mental model ini, bagian berikutnya tentang **`jakarta.inject` dan Dependency Injection minimal** akan jauh lebih mudah dipahami.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 4 — Runtime / Container Model: Cara Jakarta EE Benar-Benar Menjalankan Aplikasi](./learn-java-jakarta-part-004.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 6 — `jakarta.inject`: Dependency Injection Minimal](./learn-java-jakarta-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-004.md">⬅️ Bagian 4 — Runtime / Container Model: Cara Jakarta EE Benar-Benar Menjalankan Aplikasi</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-006.md">Bagian 6 — `jakarta.inject`: Dependency Injection Minimal ➡️</a>
+</div>

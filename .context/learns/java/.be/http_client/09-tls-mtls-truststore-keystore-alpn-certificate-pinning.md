@@ -2041,6 +2041,9 @@ Part 9 — TLS, mTLS, Trust Store, Key Store, ALPN, Certificate Pinning
 Belum selesai. Masih lanjut ke Part 10.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — DNS, Proxy, Load Balancer, NAT, dan Network Topology Awareness](./08-dns-proxy-loadbalancer-nat-network-topology-awareness.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Authentication Client-Side: Basic, Bearer, OAuth2, API Key, HMAC, Token Refresh](./10-client-side-auth-basic-bearer-oauth2-apikey-hmac-token-refresh.md)
+<div class="page-nav">
+<a href="./08-dns-proxy-loadbalancer-nat-network-topology-awareness.md">⬅️ Part 8 — DNS, Proxy, Load Balancer, NAT, dan Network Topology Awareness</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./10-client-side-auth-basic-bearer-oauth2-apikey-hmac-token-refresh.md">Part 10 — Authentication Client-Side: Basic, Bearer, OAuth2, API Key, HMAC, Token Refresh ➡️</a>
+</div>

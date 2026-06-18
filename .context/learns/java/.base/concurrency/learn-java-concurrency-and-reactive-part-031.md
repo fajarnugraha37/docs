@@ -1543,6 +1543,9 @@ and imperative code is simpler.
     https://spring.io/reactive
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 030](./learn-java-concurrency-and-reactive-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 032](./learn-java-concurrency-and-reactive-part-032.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-030.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 030</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-032.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 032 ➡️</a>
+</div>

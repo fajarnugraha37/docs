@@ -2352,6 +2352,9 @@ Dalam sistem besar, clarity lebih penting daripada menghindari class tambahan. J
 - Spring Framework validation integration documentation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Container Element Constraints: Lists, Maps, Optional, Custom Containers](./learn-java-validation-jakarta-hibernate-validator-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Group Sequence and Dynamic Group Sequence: Ordered Validation and Short-Circuiting](./learn-java-validation-jakarta-hibernate-validator-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-006.md">⬅️ Container Element Constraints: Lists, Maps, Optional, Custom Containers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-008.md">Group Sequence and Dynamic Group Sequence: Ordered Validation and Short-Circuiting ➡️</a>
+</div>

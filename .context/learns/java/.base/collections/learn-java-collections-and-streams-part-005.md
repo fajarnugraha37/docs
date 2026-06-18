@@ -1880,6 +1880,9 @@ A queue is not just a collection. A queue is a load, order, and processing polic
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/SynchronousQueue.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 004](./learn-java-collections-and-streams-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 006](./learn-java-collections-and-streams-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-004.md">⬅️ Java Collections and Streams — Part 004</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-006.md">Java Collections and Streams — Part 006 ➡️</a>
+</div>

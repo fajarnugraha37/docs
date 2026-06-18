@@ -1943,6 +1943,9 @@ We will go deeper into how persistence failures are classified and handled:
 - production observability.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 027 — Performance Engineering for JPA/Hibernate](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — Error Handling, Exception Translation, and Failure Classification](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-027.md">⬅️ Part 027 — Performance Engineering for JPA/Hibernate</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-029.md">Part 029 — Error Handling, Exception Translation, and Failure Classification ➡️</a>
+</div>

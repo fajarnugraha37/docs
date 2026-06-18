@@ -1997,6 +1997,9 @@ File berikutnya:
 `09-record-runtime-contract-value-carrier-api-boundaries.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — `Boolean`, `Character`, Unicode Classification, and Primitive Edge Cases](./07-boolean-character-unicode-classification-primitive-edge-cases.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — `Record`: Runtime Contract, Value Carrier Semantics, and API Boundaries](./09-record-runtime-contract-value-carrier-api-boundaries.md)
+<div class="page-nav">
+<a href="./07-boolean-character-unicode-classification-primitive-edge-cases.md">⬅️ Part 7 — `Boolean`, `Character`, Unicode Classification, and Primitive Edge Cases</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./09-record-runtime-contract-value-carrier-api-boundaries.md">Part 9 — `Record`: Runtime Contract, Value Carrier Semantics, and API Boundaries ➡️</a>
+</div>

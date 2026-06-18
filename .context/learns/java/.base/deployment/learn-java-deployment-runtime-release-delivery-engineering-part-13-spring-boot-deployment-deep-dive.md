@@ -2571,6 +2571,9 @@ Part 14 — Kubernetes Deployment for Java Applications
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Deployment, Runtime, Release, and Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-12-application-server-servlet-container-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Kubernetes Deployment for Java Applications](./learn-java-deployment-runtime-release-delivery-engineering-part-14-kubernetes-deployment-for-java-applications.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-12-application-server-servlet-container-deployment.md">⬅️ Learn Java Deployment, Runtime, Release, and Delivery Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-14-kubernetes-deployment-for-java-applications.md">Part 14 — Kubernetes Deployment for Java Applications ➡️</a>
+</div>

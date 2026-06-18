@@ -2900,6 +2900,9 @@ Status seri: **belum selesai**.
 Part ini adalah **Part 4 dari 34**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — JSON-P Core Mental Model: Object Model, Reader/Writer, Builder, Provider, Immutability, dan Boundary Thinking](./learn-java-json-xml-soap-connectors-enterprise-integration-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — P Transformation & Mutation](./learn-java-json-xml-soap-connectors-enterprise-integration-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-003.md">⬅️ Part 3 — JSON-P Core Mental Model: Object Model, Reader/Writer, Builder, Provider, Immutability, dan Boundary Thinking</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-005.md">Part 005 — P Transformation & Mutation ➡️</a>
+</div>

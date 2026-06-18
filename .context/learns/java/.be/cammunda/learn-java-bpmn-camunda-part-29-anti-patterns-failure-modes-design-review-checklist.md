@@ -2504,6 +2504,9 @@ Berikutnya:
 Seri belum selesai. Part berikutnya adalah bagian terakhir dari roadmap 31 part.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Workflow Engine vs State Machine vs Rules Engine vs Temporal](./learn-java-bpmn-camunda-part-28-workflow-engine-vs-state-machine-rules-engine-temporal.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Capstone Architecture: End-to-End Regulatory Case Management with Java + Camunda](./learn-java-bpmn-camunda-part-30-capstone-end-to-end-regulatory-case-management-java-camunda.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-28-workflow-engine-vs-state-machine-rules-engine-temporal.md">⬅️ Part 28 — Workflow Engine vs State Machine vs Rules Engine vs Temporal</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-30-capstone-end-to-end-regulatory-case-management-java-camunda.md">Part 30 — Capstone Architecture: End-to-End Regulatory Case Management with Java + Camunda ➡️</a>
+</div>

@@ -1604,8 +1604,10 @@ Belum selesai. Berikutnya:
 
 **Part 27 — GC Observability and Troubleshooting Across Java 8–25**.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — Thread Dump Analysis: Deadlock, Blocking, Starvation, Pool Exhaustion](./25-thread-dump-analysis-deadlock-blocking-starvation-pool-exhaustion.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — GC Observability and Troubleshooting Across Java 8–25](./27-gc-observability-and-troubleshooting-across-java-8-25.md)
+<div class="page-nav">
+<a href="./25-thread-dump-analysis-deadlock-blocking-starvation-pool-exhaustion.md">⬅️ Part 25 — Thread Dump Analysis: Deadlock, Blocking, Starvation, Pool Exhaustion</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./27-gc-observability-and-troubleshooting-across-java-8-25.md">Part 27 — GC Observability and Troubleshooting Across Java 8–25 ➡️</a>
+</div>

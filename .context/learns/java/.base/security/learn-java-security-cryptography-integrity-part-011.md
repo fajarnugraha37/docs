@@ -2402,6 +2402,9 @@ Progress saat ini:
 Total rencana: **35 part** (`Part 0` sampai `Part 34`).
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Asymmetric Encryption and Key Agreement](./learn-java-security-cryptography-integrity-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java KeyStore, TrustStore, Certificates, and Private Key Custody](./learn-java-security-cryptography-integrity-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-010.md">⬅️ Part 10 — Asymmetric Encryption and Key Agreement</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-012.md">Java KeyStore, TrustStore, Certificates, and Private Key Custody ➡️</a>
+</div>

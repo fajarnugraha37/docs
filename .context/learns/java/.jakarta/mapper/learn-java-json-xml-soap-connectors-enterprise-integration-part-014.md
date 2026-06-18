@@ -2611,6 +2611,9 @@ Part 15 — XML Security: XXE, Entity Expansion, SSRF, XInclude, Schema Poisonin
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java JSON/XML/SOAP/Connectors Enterprise Integration — Part 13](./learn-java-json-xml-soap-connectors-enterprise-integration-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — XML Security](./learn-java-json-xml-soap-connectors-enterprise-integration-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-013.md">⬅️ Learn Java JSON/XML/SOAP/Connectors Enterprise Integration — Part 13</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-015.md">Part 15 — XML Security ➡️</a>
+</div>

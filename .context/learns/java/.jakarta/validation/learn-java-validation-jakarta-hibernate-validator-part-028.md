@@ -2380,6 +2380,9 @@ Bagian berikutnya:
 **Part 029 — Observability, Operations, and Governance of Validation Rules**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Migration Playbook: `javax.validation` ke `jakarta.validation`, Spring Boot 2→3, Hibernate Validator 6→9](./learn-java-validation-jakarta-hibernate-validator-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Observability, Operations, and Governance of Validation Rules](./learn-java-validation-jakarta-hibernate-validator-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-027.md">⬅️ Migration Playbook: `javax.validation` ke `jakarta.validation`, Spring Boot 2→3, Hibernate Validator 6→9</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-029.md">Observability, Operations, and Governance of Validation Rules ➡️</a>
+</div>

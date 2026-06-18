@@ -2199,6 +2199,9 @@ Referensi utama yang relevan untuk bagian ini:
 - RFC 8594 — Sunset HTTP Header Field untuk lifecycle deprecation/sunset.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape](./19-validation-strategy-bean-validation-request-contract-group-error-shape.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — API Versioning and Compatibility with Jersey](./20-api-versioning-and-compatibility-with-jersey.md)
+<div class="page-nav">
+<a href="./19-validation-strategy-bean-validation-request-contract-group-error-shape.md">⬅️ Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./20-api-versioning-and-compatibility-with-jersey.md">Part 20 — API Versioning and Compatibility with Jersey ➡️</a>
+</div>

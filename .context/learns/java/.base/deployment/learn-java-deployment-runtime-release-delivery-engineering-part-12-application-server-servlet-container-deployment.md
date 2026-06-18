@@ -3328,6 +3328,9 @@ Berikutnya:
 Status series: **belum selesai**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-11-classpath-modulepath-classloader-deployment-failure-modes.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-13-spring-boot-deployment-deep-dive.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-11-classpath-modulepath-classloader-deployment-failure-modes.md">⬅️ Learn Java Deployment Runtime Release Delivery Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-13-spring-boot-deployment-deep-dive.md">Learn Java Deployment Runtime Release Delivery Engineering ➡️</a>
+</div>

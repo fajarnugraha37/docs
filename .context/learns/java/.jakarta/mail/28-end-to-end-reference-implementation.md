@@ -2332,6 +2332,9 @@ Sisa:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Failure Modelling and Production Incident Playbook](./27-production-incident-playbook.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect](./29-top-one-percent-design-review.md)
+<div class="page-nav">
+<a href="./27-production-incident-playbook.md">⬅️ Part 27 — Failure Modelling and Production Incident Playbook</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./29-top-one-percent-design-review.md">Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect ➡️</a>
+</div>

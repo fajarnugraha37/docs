@@ -2103,6 +2103,9 @@ Part 06 — Jakarta Security API Core
 Seri belum selesai. Ini baru Part 05 dari 35.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 04 — Servlet Security Foundation Revisited for Authentication/Authorization](./learn-java-jakarta-security-authentication-authorization-identity-part-04-servlet-security-foundation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 06 — Jakarta Security API Core](./learn-java-jakarta-security-authentication-authorization-identity-part-06-jakarta-security-api-core.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-04-servlet-security-foundation.md">⬅️ Part 04 — Servlet Security Foundation Revisited for Authentication/Authorization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-06-jakarta-security-api-core.md">Part 06 — Jakarta Security API Core ➡️</a>
+</div>

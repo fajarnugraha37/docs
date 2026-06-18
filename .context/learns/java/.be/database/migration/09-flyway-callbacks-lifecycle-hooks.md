@@ -2632,6 +2632,9 @@ Berikutnya:
 - Part 10 — Flyway Baseline, Repair, Validate, Clean
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — Flyway Java-Based Migrations](./08-flyway-java-based-migrations.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Flyway Baseline, Repair, Validate, and Clean](./10-flyway-baseline-repair-validate-clean.md)
+<div class="page-nav">
+<a href="./08-flyway-java-based-migrations.md">⬅️ Part 8 — Flyway Java-Based Migrations</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./10-flyway-baseline-repair-validate-clean.md">Flyway Baseline, Repair, Validate, and Clean ➡️</a>
+</div>

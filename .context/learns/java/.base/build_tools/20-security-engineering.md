@@ -2474,6 +2474,9 @@ Dengan mental model ini, Maven dan Gradle bukan hanya build tools. Mereka menjad
 Seri belum selesai. Bagian berikutnya: **Part 21 — Enterprise Governance: Corporate Parent POM, Convention Plugin, Policy-as-Build**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Release Engineering: Semantic Versioning, Snapshot, Release, Tagging, Changelog, Publishing](./19-release-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Enterprise Governance: Corporate Parent POM, Convention Plugin, Policy-as-Build](./21-enterprise-governance.md)
+<div class="page-nav">
+<a href="./19-release-engineering.md">⬅️ Part 19 — Release Engineering: Semantic Versioning, Snapshot, Release, Tagging, Changelog, Publishing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./21-enterprise-governance.md">Part 21 — Enterprise Governance: Corporate Parent POM, Convention Plugin, Policy-as-Build ➡️</a>
+</div>

@@ -1854,6 +1854,9 @@ Security and Abuse Resistance: Validation Is Not Sanitization
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Advanced Domain Rule Modeling: Specification Pattern, Policy Objects, and Validators](./learn-java-validation-jakarta-hibernate-validator-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Security and Abuse Resistance: Validation Is Not Sanitization](./learn-java-validation-jakarta-hibernate-validator-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-023.md">⬅️ Advanced Domain Rule Modeling: Specification Pattern, Policy Objects, and Validators</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-025.md">Security and Abuse Resistance: Validation Is Not Sanitization ➡️</a>
+</div>

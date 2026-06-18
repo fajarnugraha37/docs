@@ -2212,6 +2212,9 @@ Seri belum selesai.
 - OMG BPMN and DMN specifications — standard process and decision modeling foundations.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java BPMN & Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-27-modeling-patterns-regulatory-case-management-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Anti-patterns, Failure Modes, and Design Review Checklist](./learn-java-bpmn-camunda-part-29-anti-patterns-failure-modes-design-review-checklist.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-27-modeling-patterns-regulatory-case-management-systems.md">⬅️ Learn Java BPMN & Camunda Process Orchestration Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-29-anti-patterns-failure-modes-design-review-checklist.md">Part 29 — Anti-patterns, Failure Modes, and Design Review Checklist ➡️</a>
+</div>

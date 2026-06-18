@@ -1927,6 +1927,9 @@ That is the difference between a demo WebSocket and a production WebSocket platf
 - MDN WebSocketStream documentation for stream/backpressure-oriented browser API discussion.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Streaming HTTP: Server-Sent Events, Long Polling, Chunked Streaming, and Backpressure](./019-streaming-http-server-sent-events-long-polling-chunked-streaming-backpressure.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 21 — gRPC Fundamentals: RPC Model, Protobuf Contract, Stub, Channel, Server, and Service Definition](./021-grpc-fundamentals-rpc-model-protobuf-contract-stub-channel-server-service-definition.md)
+<div class="page-nav">
+<a href="./019-streaming-http-server-sent-events-long-polling-chunked-streaming-backpressure.md">⬅️ Part 19 — Streaming HTTP: Server-Sent Events, Long Polling, Chunked Streaming, and Backpressure</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./021-grpc-fundamentals-rpc-model-protobuf-contract-stub-channel-server-service-definition.md">Part 21 — gRPC Fundamentals: RPC Model, Protobuf Contract, Stub, Channel, Server, and Service Definition ➡️</a>
+</div>

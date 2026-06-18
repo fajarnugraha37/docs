@@ -2393,6 +2393,9 @@ Part 6 — Entity Provider Pipeline: MessageBodyReader, MessageBodyWriter, and P
 Series belum selesai. Target akhir tetap Part 32 — Capstone.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — Request Matching Deep Dive: URI Matching, Method Selection, Media Negotiation](./04-request-matching-deep-dive-uri-method-media-negotiation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 6 — Entity Provider Pipeline: `MessageBodyReader`, `MessageBodyWriter`, and Provider Selection](./06-entity-provider-pipeline-messagebodyreader-messagebodywriter-provider-selection.md)
+<div class="page-nav">
+<a href="./04-request-matching-deep-dive-uri-method-media-negotiation.md">⬅️ Part 4 — Request Matching Deep Dive: URI Matching, Method Selection, Media Negotiation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./06-entity-provider-pipeline-messagebodyreader-messagebodywriter-provider-selection.md">Part 6 — Entity Provider Pipeline: `MessageBodyReader`, `MessageBodyWriter`, and Provider Selection ➡️</a>
+</div>

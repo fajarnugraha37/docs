@@ -2243,6 +2243,9 @@ HashMap, HashSet, LinkedHashMap, IdentityHashMap, WeakHashMap
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 005 — Stack, Queue, Deque, Ring Buffer](./learn-java-dsa-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — HashMap, HashSet, LinkedHashMap, IdentityHashMap, WeakHashMap](./learn-java-dsa-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-005.md">⬅️ Part 005 — Stack, Queue, Deque, Ring Buffer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-007.md">Part 007 — HashMap, HashSet, LinkedHashMap, IdentityHashMap, WeakHashMap ➡️</a>
+</div>

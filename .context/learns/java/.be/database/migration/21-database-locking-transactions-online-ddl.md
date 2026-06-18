@@ -1919,6 +1919,9 @@ Remaining:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Expand/Contract Pattern for Zero-Downtime Migration](./20-expand-contract-zero-downtime-migration.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Vendor-Specific Migration Engineering](./22-vendor-specific-migration-engineering.md)
+<div class="page-nav">
+<a href="./20-expand-contract-zero-downtime-migration.md">⬅️ Part 20 — Expand/Contract Pattern for Zero-Downtime Migration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./22-vendor-specific-migration-engineering.md">Part 22 — Vendor-Specific Migration Engineering ➡️</a>
+</div>

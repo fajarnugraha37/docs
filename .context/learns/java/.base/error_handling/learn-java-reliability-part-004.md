@@ -2524,6 +2524,9 @@ And start asking:
 - Google SRE Book — Handling Overload: https://sre.google/sre-book/handling-overload/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 003 — Exception Taxonomy for Enterprise Systems](./learn-java-reliability-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Designing Error Contracts for APIs](./learn-java-reliability-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-003.md">⬅️ Part 003 — Exception Taxonomy for Enterprise Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-005.md">Part 005 — Designing Error Contracts for APIs ➡️</a>
+</div>

@@ -1968,6 +1968,9 @@ Progress saat ini:
 - [ ] Part 34 — Capstone: Designing a Secure Java Regulatory Case Management Platform
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Password Storage, Password Verification, and Secret-Derived Keys](./learn-java-security-cryptography-integrity-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Message Authentication Code: HMAC, CMAC, and Integrity Tokens](./learn-java-security-cryptography-integrity-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-006.md">⬅️ Part 6 — Password Storage, Password Verification, and Secret-Derived Keys</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-008.md">Part 8 — Message Authentication Code: HMAC, CMAC, and Integrity Tokens ➡️</a>
+</div>

@@ -2622,6 +2622,9 @@ Top-tier engineer memperlakukan API sebagai kontrak jangka panjang. Mereka tidak
 - RFC 7807 / RFC 9457 — Problem Details for HTTP APIs: https://www.rfc-editor.org/rfc/rfc9457
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — API Versioning and Compatibility with Jersey](./20-api-versioning-and-compatibility-with-jersey (1).md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 21 — Hypermedia, Links, URI Building, and REST Maturity Pragmatism](./21-hypermedia-links-uri-building-rest-maturity-pragmatism.md)
+<div class="page-nav">
+<a href="./20-api-versioning-and-compatibility-with-jersey (1).md">⬅️ Part 20 — API Versioning and Compatibility with Jersey</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./21-hypermedia-links-uri-building-rest-maturity-pragmatism.md">Part 21 — Hypermedia, Links, URI Building, and REST Maturity Pragmatism ➡️</a>
+</div>

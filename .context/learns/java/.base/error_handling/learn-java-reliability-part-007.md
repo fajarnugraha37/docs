@@ -2730,6 +2730,9 @@ Part 008 — Graceful Shutdown Fundamentals
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 006 — Exception Translation Layers](./learn-java-reliability-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 008 — Graceful Shutdown Fundamentals](./learn-java-reliability-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-006.md">⬅️ Part 006 — Exception Translation Layers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-008.md">Part 008 — Graceful Shutdown Fundamentals ➡️</a>
+</div>

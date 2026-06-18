@@ -1715,6 +1715,9 @@ Use TreeMap when ordered navigation is the question.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/ConcurrentSkipListMap.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 016](./learn-java-collections-and-streams-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 018](./learn-java-collections-and-streams-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-016.md">⬅️ Java Collections and Streams — Part 016</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-018.md">Java Collections and Streams — Part 018 ➡️</a>
+</div>

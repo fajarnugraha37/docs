@@ -2543,6 +2543,9 @@ Part 18 - berikutnya
 Total rencana: **34 part**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Flyway vs Liquibase: Decision Framework](./16-flyway-vs-liquibase-decision-framework.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Idempotent and Deterministic Seed Design](./18-idempotent-deterministic-seed-design.md)
+<div class="page-nav">
+<a href="./16-flyway-vs-liquibase-decision-framework.md">⬅️ Part 16 — Flyway vs Liquibase: Decision Framework</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./18-idempotent-deterministic-seed-design.md">Idempotent and Deterministic Seed Design ➡️</a>
+</div>

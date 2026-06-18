@@ -2116,6 +2116,9 @@ Seri learn-java-io-network-http-grpc-protocol-engineering selesai.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — Architecture Patterns: API Client SDK, Gateway Adapter, Anti-Corruption Layer, Protocol Bridge, and Sidecar](./034-architecture-patterns-api-client-sdk-gateway-adapter-anti-corruption-layer-protocol-bridge-sidecar.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Why `java.lang`, DOM, and SAX Still Matter in Modern Java](../../lang_package/00-orientation-java-lang-dom-sax-core-runtime-platform-contracts.md)
+<div class="page-nav">
+<a href="./034-architecture-patterns-api-client-sdk-gateway-adapter-anti-corruption-layer-protocol-bridge-sidecar.md">⬅️ Part 34 — Architecture Patterns: API Client SDK, Gateway Adapter, Anti-Corruption Layer, Protocol Bridge, and Sidecar</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<span></span>
+</div>

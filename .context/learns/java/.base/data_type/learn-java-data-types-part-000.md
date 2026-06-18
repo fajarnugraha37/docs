@@ -2610,6 +2610,9 @@ Engineer top-tier menggunakan type bukan hanya untuk membuat code compile, tetap
    https://docs.oracle.com/en/java/javase/25/docs/specs/man/index.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 034](../concurrency/learn-java-concurrency-and-reactive-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 001](./learn-java-data-types-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-001.md">Java Data Types — Part 001 ➡️</a>
+</div>

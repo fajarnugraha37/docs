@@ -1369,6 +1369,9 @@ Did measurement prove speedup?
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 036](./learn-java-collections-and-streams-part-036.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 038](./learn-java-collections-and-streams-part-038.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-036.md">⬅️ Java Collections and Streams — Part 036</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-038.md">Java Collections and Streams — Part 038 ➡️</a>
+</div>

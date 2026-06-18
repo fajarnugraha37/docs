@@ -2448,6 +2448,9 @@ Next: Part 16 — TLS, mTLS, Certificates, Trust Stores, Key Stores, ALPN, and J
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — Retry, Idempotency, Backoff, Jitter, Hedging, and Duplicate Suppression](./014-retry-idempotency-backoff-jitter-hedging-duplicate-suppression.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — TLS, mTLS, Certificates, Trust Stores, Key Stores, ALPN, and Java Security Runtime](./016-tls-mtls-certificates-truststores-keystores-alpn-java-security-runtime.md)
+<div class="page-nav">
+<a href="./014-retry-idempotency-backoff-jitter-hedging-duplicate-suppression.md">⬅️ Part 14 — Retry, Idempotency, Backoff, Jitter, Hedging, and Duplicate Suppression</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./016-tls-mtls-certificates-truststores-keystores-alpn-java-security-runtime.md">Part 16 — TLS, mTLS, Certificates, Trust Stores, Key Stores, ALPN, and Java Security Runtime ➡️</a>
+</div>

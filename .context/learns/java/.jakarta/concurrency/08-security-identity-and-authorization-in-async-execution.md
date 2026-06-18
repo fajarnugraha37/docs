@@ -1716,6 +1716,9 @@ Berikutnya:
 **Part 9 — CDI, Interceptors, Events, and Async Boundaries**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Transactions Across Asynchronous Boundaries](./07-transactions-across-asynchronous-boundaries.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — CDI, Interceptors, Events, and Async Boundaries](./09-cdi-interceptors-events-and-async-boundaries.md)
+<div class="page-nav">
+<a href="./07-transactions-across-asynchronous-boundaries.md">⬅️ Part 7 — Transactions Across Asynchronous Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./09-cdi-interceptors-events-and-async-boundaries.md">Part 9 — CDI, Interceptors, Events, and Async Boundaries ➡️</a>
+</div>

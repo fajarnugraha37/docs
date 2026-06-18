@@ -2417,6 +2417,9 @@ Bagian berikutnya:
 > **Part 20 — Configuration, Secret Rotation, Certificate Rotation, and Truststore Deployment**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — Database-Aware Deployment and Schema Migration](./learn-java-deployment-runtime-release-delivery-engineering-part-18-database-aware-deployment-schema-migration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Configuration, Secret Rotation, Certificate Rotation, and Truststore Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-18-database-aware-deployment-schema-migration.md">⬅️ Part 18 — Database-Aware Deployment and Schema Migration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md">Part 20 — Configuration, Secret Rotation, Certificate Rotation, and Truststore Deployment ➡️</a>
+</div>

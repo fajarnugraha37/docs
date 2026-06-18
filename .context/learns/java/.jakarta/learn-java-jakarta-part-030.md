@@ -2303,6 +2303,9 @@ Engineer top-tier tidak hanya tahu cara memakai framework. Ia juga tahu bagaiman
 Bagian berikutnya akan membahas **Jakarta XML Binding (`jakarta.xml.bind`) / JAXB**: object-XML mapping, schema binding, marshalling/unmarshalling, adapters, validation, namespaces, security, performance, and migration from `javax.xml.bind` to `jakarta.xml.bind`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 29 — Jakarta Standard Tag Library / Jakarta Tags: Core, Formatting, Functions, XML, SQL, Custom Tags, dan Migration](./learn-java-jakarta-part-029.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 31 — Jakarta XML Binding (`jakarta.xml.bind`) / JAXB: Object-XML Mapping, Schema, Marshalling, Security, dan Migration](./learn-java-jakarta-part-031.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-029.md">⬅️ Bagian 29 — Jakarta Standard Tag Library / Jakarta Tags: Core, Formatting, Functions, XML, SQL, Custom Tags, dan Migration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-031.md">Bagian 31 — Jakarta XML Binding (`jakarta.xml.bind`) / JAXB: Object-XML Mapping, Schema, Marshalling, Security, dan Migration ➡️</a>
+</div>

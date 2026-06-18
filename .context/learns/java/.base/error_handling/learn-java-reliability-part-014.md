@@ -2122,6 +2122,9 @@ Inilah cara berpikir transaction safety yang matang.
 Part berikutnya: **Part 015 — Idempotency as Core Reliability Primitive**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 013 — Background Workers, Schedulers, Queues, and Message Consumers](./learn-java-reliability-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — Idempotency as Core Reliability Primitive](./learn-java-reliability-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-013.md">⬅️ Part 013 — Background Workers, Schedulers, Queues, and Message Consumers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-015.md">Part 015 — Idempotency as Core Reliability Primitive ➡️</a>
+</div>

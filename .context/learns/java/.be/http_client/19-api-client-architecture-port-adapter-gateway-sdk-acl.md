@@ -2656,6 +2656,9 @@ File: 20-error-modelling-status-transport-protocol-domain-failure.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — Spring HTTP Client Layer: RestTemplate, WebClient, RestClient](./18-spring-http-client-layer-resttemplate-webclient-restclient.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Error Modelling: Status Code, Transport Failure, Protocol Failure, Domain Failure](./20-error-modelling-status-transport-protocol-domain-failure.md)
+<div class="page-nav">
+<a href="./18-spring-http-client-layer-resttemplate-webclient-restclient.md">⬅️ Part 18 — Spring HTTP Client Layer: RestTemplate, WebClient, RestClient</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./20-error-modelling-status-transport-protocol-domain-failure.md">Part 20 — Error Modelling: Status Code, Transport Failure, Protocol Failure, Domain Failure ➡️</a>
+</div>

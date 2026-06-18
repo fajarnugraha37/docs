@@ -2352,6 +2352,9 @@ Part berikutnya: Part 14 — Retry, Idempotency, Backoff, Jitter, Hedging, and D
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — JDK `java.net.http.HttpClient`: Architecture, Usage, and Production Patterns](./012-jdk-java-net-http-httpclient-architecture-usage-production-patterns.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 14 — Retry, Idempotency, Backoff, Jitter, Hedging, and Duplicate Suppression](./014-retry-idempotency-backoff-jitter-hedging-duplicate-suppression.md)
+<div class="page-nav">
+<a href="./012-jdk-java-net-http-httpclient-architecture-usage-production-patterns.md">⬅️ Part 12 — JDK `java.net.http.HttpClient`: Architecture, Usage, and Production Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./014-retry-idempotency-backoff-jitter-hedging-duplicate-suppression.md">Part 14 — Retry, Idempotency, Backoff, Jitter, Hedging, and Duplicate Suppression ➡️</a>
+</div>

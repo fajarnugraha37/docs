@@ -2492,6 +2492,9 @@ Seri belum selesai. Berikutnya:
 `22-schema-generation-validation-migration-ddl-discipline.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Merge, Detach, DTO Mapping, and API Boundary Safety](./20-merge-detach-dto-mapping-api-boundary-safety.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Schema Generation, Validation, Migration, and DDL Discipline](./22-schema-generation-validation-migration-ddl-discipline.md)
+<div class="page-nav">
+<a href="./20-merge-detach-dto-mapping-api-boundary-safety.md">⬅️ Part 20 — Merge, Detach, DTO Mapping, and API Boundary Safety</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./22-schema-generation-validation-migration-ddl-discipline.md">Part 22 — Schema Generation, Validation, Migration, and DDL Discipline ➡️</a>
+</div>

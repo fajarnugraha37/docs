@@ -1810,6 +1810,9 @@ Itulah perbedaan antara “menggunakan Camunda” dan “mendesain process orche
 - Camunda 8 Release Notes 8.8 and 8.9.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Camunda 7 Deep Dive: Embedded Engine, Job Executor, Transactions, and Spring Boot](./learn-java-bpmn-camunda-part-17-camunda-7-embedded-engine-job-executor-transactions-spring-boot.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Spring Boot + Camunda 8 Process Application Architecture](./learn-java-bpmn-camunda-part-19-spring-boot-camunda-8-process-application-architecture.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-17-camunda-7-embedded-engine-job-executor-transactions-spring-boot.md">⬅️ Part 17 — Camunda 7 Deep Dive: Embedded Engine, Job Executor, Transactions, and Spring Boot</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-19-spring-boot-camunda-8-process-application-architecture.md">Part 19 — Spring Boot + Camunda 8 Process Application Architecture ➡️</a>
+</div>

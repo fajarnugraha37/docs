@@ -2405,6 +2405,9 @@ Series belum selesai.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — `jlink`, `jdeps`, `jpackage`, and Custom Runtime Images](./learn-java-deployment-runtime-release-delivery-engineering-part-10-jlink-jdeps-jpackage-custom-runtime-images.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Deployment, Runtime, Release, and Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-12-application-server-servlet-container-deployment.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-10-jlink-jdeps-jpackage-custom-runtime-images.md">⬅️ Part 10 — `jlink`, `jdeps`, `jpackage`, and Custom Runtime Images</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-12-application-server-servlet-container-deployment.md">Learn Java Deployment, Runtime, Release, and Delivery Engineering ➡️</a>
+</div>

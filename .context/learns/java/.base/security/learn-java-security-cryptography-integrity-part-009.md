@@ -2129,6 +2129,9 @@ Part 10 — Asymmetric Encryption and Key Agreement
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — Message Authentication Code: HMAC, CMAC, and Integrity Tokens](./learn-java-security-cryptography-integrity-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Asymmetric Encryption and Key Agreement](./learn-java-security-cryptography-integrity-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-008.md">⬅️ Part 8 — Message Authentication Code: HMAC, CMAC, and Integrity Tokens</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-010.md">Part 10 — Asymmetric Encryption and Key Agreement ➡️</a>
+</div>

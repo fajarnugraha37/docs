@@ -2094,6 +2094,9 @@ Part berikutnya: Part 28 — Observability for Networked Java Systems: Logs, Met
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Reactive, Async, Virtual Threads, and Blocking I/O: Choosing the Right Concurrency Model](./026-reactive-async-virtual-threads-blocking-io-choosing-right-concurrency-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Observability for Networked Java Systems: Logs, Metrics, Traces, Correlation, and Wire Debugging](./028-observability-for-networked-java-systems-logs-metrics-traces-correlation-wire-debugging.md)
+<div class="page-nav">
+<a href="./026-reactive-async-virtual-threads-blocking-io-choosing-right-concurrency-model.md">⬅️ Part 26 — Reactive, Async, Virtual Threads, and Blocking I/O: Choosing the Right Concurrency Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./028-observability-for-networked-java-systems-logs-metrics-traces-correlation-wire-debugging.md">Part 28 — Observability for Networked Java Systems: Logs, Metrics, Traces, Correlation, and Wire Debugging ➡️</a>
+</div>

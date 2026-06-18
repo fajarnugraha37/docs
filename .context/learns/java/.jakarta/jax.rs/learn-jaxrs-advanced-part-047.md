@@ -1877,6 +1877,9 @@ Bagian 048 — Advanced HTTP Client and Service-to-Service Communication
 Kita akan membahas service-to-service HTTP secara mendalam: client lifecycle, connection pools, DNS, TLS/mTLS, auth token propagation, timeout budget, retries, circuit breaker, request signing, idempotency, schema compatibility, and safe downstream consumption.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 046 — Multi-Tenancy and Data Authorization in JAX-RS: Tenant Context Propagation, Tenant-Aware Resource Design, Object-Level Authorization, Row-Level Security, Repository Safeguards, DTO Redaction, Cross-Tenant Leakage Prevention, Testing, and Observability](./learn-jaxrs-advanced-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 048 — Advanced HTTP Client and Service-to-Service Communication: Client Lifecycle, Connection Pools, DNS, TLS/mTLS, Auth Token Propagation, Timeout Budget, Retry, Circuit Breaker, Request Signing, Idempotency, Schema Compatibility, and Safe Downstream Consumption](./learn-jaxrs-advanced-part-048.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-046.md">⬅️ Bagian 046 — Multi-Tenancy and Data Authorization in JAX-RS: Tenant Context Propagation, Tenant-Aware Resource Design, Object-Level Authorization, Row-Level Security, Repository Safeguards, DTO Redaction, Cross-Tenant Leakage Prevention, Testing, and Observability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-048.md">Bagian 048 — Advanced HTTP Client and Service-to-Service Communication: Client Lifecycle, Connection Pools, DNS, TLS/mTLS, Auth Token Propagation, Timeout Budget, Retry, Circuit Breaker, Request Signing, Idempotency, Schema Compatibility, and Safe Downstream Consumption ➡️</a>
+</div>

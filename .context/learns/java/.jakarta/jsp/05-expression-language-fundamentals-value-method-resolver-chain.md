@@ -2845,6 +2845,9 @@ Fokus berikutnya:
 9. desain expression surface yang aman untuk enterprise platform.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — Request, Session, Application Scope: View Data Flow and State Boundaries](./04-request-session-application-scope-view-data-flow.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Advanced Expression Language: Custom Functions, Custom Resolvers, Security, and Performance](./06-advanced-el-custom-functions-resolvers-security-performance.md)
+<div class="page-nav">
+<a href="./04-request-session-application-scope-view-data-flow.md">⬅️ Part 4 — Request, Session, Application Scope: View Data Flow and State Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./06-advanced-el-custom-functions-resolvers-security-performance.md">Part 6 — Advanced Expression Language: Custom Functions, Custom Resolvers, Security, and Performance ➡️</a>
+</div>

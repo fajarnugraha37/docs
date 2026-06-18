@@ -2846,6 +2846,9 @@ Key takeaways:
 Seri belum selesai. Lanjut ke Part 26: **Data Integrity in Distributed Java Systems**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — Secrets Management in Java Applications](./learn-java-security-cryptography-integrity-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Data Integrity in Distributed Java Systems](./learn-java-security-cryptography-integrity-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-024.md">⬅️ Part 24 — Secrets Management in Java Applications</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-026.md">Data Integrity in Distributed Java Systems ➡️</a>
+</div>

@@ -2470,6 +2470,9 @@ Kita akan membahas bagaimana Maven dan Gradle mengendalikan `javac`, bagaimana a
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — Repository Engineering: Maven Central, Nexus, Artifactory, Proxy, Mirror, Credential, Offline Build](./08-repository-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Compiler Engineering: `javac`, Annotation Processing, Incremental Compilation, Generated Sources](./10-compiler-engineering.md)
+<div class="page-nav">
+<a href="./08-repository-engineering.md">⬅️ Part 8 — Repository Engineering: Maven Central, Nexus, Artifactory, Proxy, Mirror, Credential, Offline Build</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./10-compiler-engineering.md">Part 10 — Compiler Engineering: `javac`, Annotation Processing, Incremental Compilation, Generated Sources ➡️</a>
+</div>

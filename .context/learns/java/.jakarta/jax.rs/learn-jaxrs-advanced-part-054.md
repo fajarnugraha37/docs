@@ -1758,6 +1758,9 @@ Production excellence is disciplined feedback from tests, telemetry, incidents, 
 That is the real mastery of JAX-RS.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 053 — Refactoring Legacy JAX-RS API: Strangler Pattern, Endpoint Inventory, Compatibility Preservation, Error Contract Migration, javax→jakarta, DTO Extraction, Security Hardening, Test Harness, OpenAPI Recovery, and Incremental Rollout](./learn-jaxrs-advanced-part-053.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bonus Appendix 055 — JAX-RS Production Review Playbook: Maturity Rubric, Architecture Review Checklist, Design Interview Drills, Failure Scenario Matrix, Security Review Prompts, Performance Review Prompts, and Decision Records](./learn-jaxrs-advanced-part-055.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-053.md">⬅️ Bagian 053 — Refactoring Legacy JAX-RS API: Strangler Pattern, Endpoint Inventory, Compatibility Preservation, Error Contract Migration, javax→jakarta, DTO Extraction, Security Hardening, Test Harness, OpenAPI Recovery, and Incremental Rollout</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-055.md">Bonus Appendix 055 — JAX-RS Production Review Playbook: Maturity Rubric, Architecture Review Checklist, Design Interview Drills, Failure Scenario Matrix, Security Review Prompts, Performance Review Prompts, and Decision Records ➡️</a>
+</div>

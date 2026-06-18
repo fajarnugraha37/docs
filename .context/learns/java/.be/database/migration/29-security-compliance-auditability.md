@@ -2270,6 +2270,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Multi-Tenant Database Migration](./28-multitenant-database-migration.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 30 — Observability and Operational Runbooks](./30-observability-operational-runbooks.md)
+<div class="page-nav">
+<a href="./28-multitenant-database-migration.md">⬅️ Part 28 — Multi-Tenant Database Migration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./30-observability-operational-runbooks.md">Part 30 — Observability and Operational Runbooks ➡️</a>
+</div>

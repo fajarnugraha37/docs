@@ -2885,6 +2885,9 @@ Referensi yang relevan untuk bagian ini:
 5. Literatur algoritma klasik untuk BFS/DFS, adjacency list, adjacency matrix, connected component, dan traversal graph.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 012 — Heap, PriorityQueue, Top-K, Scheduling](./learn-java-dsa-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — Graph II: Shortest Path, Topological Sort, Dependency Resolution](./learn-java-dsa-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-012.md">⬅️ Part 012 — Heap, PriorityQueue, Top-K, Scheduling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-014.md">Part 014 — Graph II: Shortest Path, Topological Sort, Dependency Resolution ➡️</a>
+</div>

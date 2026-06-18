@@ -2519,6 +2519,9 @@ Part 13 — XML Parsing Models: DOM, SAX, StAX, XPath, XSLT
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 011 — JSON Security & Robustness](./learn-java-json-xml-soap-connectors-enterprise-integration-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java JSON/XML/SOAP/Connectors Enterprise Integration — Part 13](./learn-java-json-xml-soap-connectors-enterprise-integration-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-011.md">⬅️ Part 011 — JSON Security & Robustness</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-013.md">Learn Java JSON/XML/SOAP/Connectors Enterprise Integration — Part 13 ➡️</a>
+</div>

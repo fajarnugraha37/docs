@@ -1597,6 +1597,9 @@ Part 016 — Multipart Upload, File Download, and Large Payload Handling
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 014 — Async Servlet: Non-Blocking Request Lifecycle](./learn-java-servlet-websocket-web-container-runtime-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 016 — Multipart Upload, File Download, and Large Payload Handling](./learn-java-servlet-websocket-web-container-runtime-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-014.md">⬅️ Part 014 — Async Servlet: Non-Blocking Request Lifecycle</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-016.md">Part 016 — Multipart Upload, File Download, and Large Payload Handling ➡️</a>
+</div>

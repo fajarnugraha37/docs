@@ -1496,6 +1496,9 @@ Use it to express data transformation, not to hide complex mutable control flow.
     https://dev.java/learn/api/streams/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 023](./learn-java-collections-and-streams-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 025](./learn-java-collections-and-streams-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-023.md">⬅️ Java Collections and Streams — Part 023</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-025.md">Java Collections and Streams — Part 025 ➡️</a>
+</div>

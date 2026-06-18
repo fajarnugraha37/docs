@@ -2441,6 +2441,9 @@ Progress saat ini:
 Seri belum selesai. Masih lanjut ke Part 7.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — `StringBuilder`, `StringBuffer`, `CharSequence`, and Text Construction Contracts](./05-charsequence-stringbuilder-stringbuffer-text-construction.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — `Boolean`, `Character`, Unicode Classification, and Primitive Edge Cases](./07-boolean-character-unicode-classification-primitive-edge-cases.md)
+<div class="page-nav">
+<a href="./05-charsequence-stringbuilder-stringbuffer-text-construction.md">⬅️ Part 5 — `StringBuilder`, `StringBuffer`, `CharSequence`, and Text Construction Contracts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./07-boolean-character-unicode-classification-primitive-edge-cases.md">Part 7 — `Boolean`, `Character`, Unicode Classification, and Primitive Edge Cases ➡️</a>
+</div>

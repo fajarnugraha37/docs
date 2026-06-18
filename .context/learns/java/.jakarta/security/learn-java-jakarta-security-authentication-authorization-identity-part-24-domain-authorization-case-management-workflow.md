@@ -2483,6 +2483,9 @@ apply rate limit
 Kalau boundary ini salah, domain authorization bisa menerima identity palsu atau context yang salah.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Multi-Tenancy, Organization Boundary, and Cross-Entity Authorization](./learn-java-jakarta-security-authentication-authorization-identity-part-23-multitenancy-organization-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — API Gateway, Reverse Proxy, and Container Boundary Security](./learn-java-jakarta-security-authentication-authorization-identity-part-25-api-gateway-reverse-proxy-container-boundary.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-23-multitenancy-organization-boundary.md">⬅️ Part 23 — Multi-Tenancy, Organization Boundary, and Cross-Entity Authorization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-25-api-gateway-reverse-proxy-container-boundary.md">Part 25 — API Gateway, Reverse Proxy, and Container Boundary Security ➡️</a>
+</div>

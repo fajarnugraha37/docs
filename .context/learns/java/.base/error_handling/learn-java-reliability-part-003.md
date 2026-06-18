@@ -2739,6 +2739,9 @@ Haruskah alert?
 Itulah inti dari error handling philosophy.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 002 — Java Exception Semantics Deep Dive](./learn-java-reliability-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Error Handling Philosophy: Fail Fast, Fail Safe, Fail Closed, Fail Open](./learn-java-reliability-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-002.md">⬅️ Part 002 — Java Exception Semantics Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-004.md">Part 004 — Error Handling Philosophy: Fail Fast, Fail Safe, Fail Closed, Fail Open ➡️</a>
+</div>

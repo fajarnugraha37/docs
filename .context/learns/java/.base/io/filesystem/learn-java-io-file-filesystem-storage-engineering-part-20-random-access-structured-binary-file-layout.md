@@ -2574,6 +2574,9 @@ Kita akan membahas:
 - Java SE Documentation — `CRC32`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Memory-Mapped Files in File Workflows](./learn-java-io-file-filesystem-storage-engineering-part-19-memory-mapped-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 21 — Append-Only Files, WAL, Journaling, and Recovery Design](./learn-java-io-file-filesystem-storage-engineering-part-21-append-only-wal-journaling-recovery-design.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-19-memory-mapped-files.md">⬅️ Part 19 — Memory-Mapped Files in File Workflows</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-21-append-only-wal-journaling-recovery-design.md">Part 21 — Append-Only Files, WAL, Journaling, and Recovery Design ➡️</a>
+</div>

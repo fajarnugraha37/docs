@@ -2182,6 +2182,9 @@ Part berikutnya:
 Bagian berikutnya akan membahas hal yang sering menjadi penyebab nyata migration incident: locking, transaction boundary, metadata lock, online DDL, concurrent index, statement timeout, lock timeout, dan bagaimana setiap DBMS memperlakukan DDL secara berbeda.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Data Migration and Backfill Engineering](./19-data-migration-backfill-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Database Locking, Transactions, and Online DDL](./21-database-locking-transactions-online-ddl.md)
+<div class="page-nav">
+<a href="./19-data-migration-backfill-engineering.md">⬅️ Data Migration and Backfill Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./21-database-locking-transactions-online-ddl.md">Database Locking, Transactions, and Online DDL ➡️</a>
+</div>

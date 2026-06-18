@@ -2859,6 +2859,9 @@ Berikutnya:
 > **Part 27 — Testing Jersey Applications: Unit, In-Memory, Container, Contract, and Failure Tests**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — Deployment Models: Servlet Container, Grizzly, Embedded, Jakarta EE Server, Spring Boot](./25-deployment-models-servlet-container-grizzly-embedded-jakarta-ee-server-spring-boot.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 27 — Testing Jersey Applications: Unit, In-Memory, Container, Contract, and Failure Tests](./27-testing-jersey-applications-unit-inmemory-container-contract-failure-tests.md)
+<div class="page-nav">
+<a href="./25-deployment-models-servlet-container-grizzly-embedded-jakarta-ee-server-spring-boot.md">⬅️ Part 25 — Deployment Models: Servlet Container, Grizzly, Embedded, Jakarta EE Server, Spring Boot</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./27-testing-jersey-applications-unit-inmemory-container-contract-failure-tests.md">Part 27 — Testing Jersey Applications: Unit, In-Memory, Container, Contract, and Failure Tests ➡️</a>
+</div>

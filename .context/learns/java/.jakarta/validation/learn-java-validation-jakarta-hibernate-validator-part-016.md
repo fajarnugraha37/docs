@@ -1454,6 +1454,9 @@ Bagian berikutnya:
 **Part 017 — Hibernate Validator Extensions: Beyond the Specification**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 015 — Programmatic Constraint Mapping and Runtime Metadata](./learn-java-validation-jakarta-hibernate-validator-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Hibernate Validator Extensions: Beyond the Specification](./learn-java-validation-jakarta-hibernate-validator-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-015.md">⬅️ Part 015 — Programmatic Constraint Mapping and Runtime Metadata</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-017.md">Hibernate Validator Extensions: Beyond the Specification ➡️</a>
+</div>

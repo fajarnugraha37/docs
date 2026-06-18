@@ -1653,6 +1653,9 @@ Generated client yang baik tetap bisa gagal jika konfigurasi environment, secret
 - Spring Framework — REST Clients and HTTP Interface Client Documentation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Security Hardening for HTTP Clients](./26-security-hardening-for-http-clients.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Client Configuration Management: Environment, Tenant, Endpoint, Secret, Feature Flag](./28-client-configuration-management-environment-tenant-endpoint-secret-featureflag.md)
+<div class="page-nav">
+<a href="./26-security-hardening-for-http-clients.md">⬅️ Part 26 — Security Hardening for HTTP Clients</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-client-configuration-management-environment-tenant-endpoint-secret-featureflag.md">Part 28 — Client Configuration Management: Environment, Tenant, Endpoint, Secret, Feature Flag ➡️</a>
+</div>

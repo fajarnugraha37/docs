@@ -2426,6 +2426,9 @@ Untuk menjadi engineer yang kuat di Java, jangan hanya menulis method yang “ja
 - Java API design principles around records, sealed classes, and explicit result modeling
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Functional Interfaces and Higher-Order API Design](./learn-java-oop-functional-reflection-codegen-modules-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Reflection Deep Dive I: Class Metadata, Members, Access, and Type Inspection](./learn-java-oop-functional-reflection-codegen-modules-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-016.md">⬅️ Functional Interfaces and Higher-Order API Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-018.md">Reflection Deep Dive I: Class Metadata, Members, Access, and Type Inspection ➡️</a>
+</div>

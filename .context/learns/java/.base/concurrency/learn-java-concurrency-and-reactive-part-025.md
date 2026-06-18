@@ -1747,6 +1747,9 @@ and measured database behavior.
     https://docs.spring.io/spring-boot/reference/data/index.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 024](./learn-java-concurrency-and-reactive-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 026](./learn-java-concurrency-and-reactive-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-024.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 024</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-026.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 026 ➡️</a>
+</div>

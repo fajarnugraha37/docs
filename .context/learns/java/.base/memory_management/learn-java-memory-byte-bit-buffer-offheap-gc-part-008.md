@@ -1825,6 +1825,9 @@ Arrays, Strings, Compact Strings, Charsets, and Memory Footprint
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Object Lifetime Engineering: Young, Middle-Lived, Long-Lived Objects](./learn-java-memory-byte-bit-buffer-offheap-gc-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Arrays, Strings, Compact Strings, Charsets, and Memory Footprint](./learn-java-memory-byte-bit-buffer-offheap-gc-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-007.md">⬅️ Object Lifetime Engineering: Young, Middle-Lived, Long-Lived Objects</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-009.md">Arrays, Strings, Compact Strings, Charsets, and Memory Footprint ➡️</a>
+</div>

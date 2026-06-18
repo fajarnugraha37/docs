@@ -2891,6 +2891,9 @@ Apakah memory usage terbukti?
 Dengan pemahaman ini, bagian berikutnya tentang **Jakarta JSON Binding / JSON-B** akan lebih jelas: JSON-B adalah layer binding Java object, sedangkan JSON-P adalah layer struktur dan streaming JSON.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 9 — Jakarta RESTful Web Services (`jakarta.ws.rs`) Production-Grade](./learn-java-jakarta-part-009.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 11 — Jakarta JSON Binding (`jakarta.json.bind` / JSON-B)](./learn-java-jakarta-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-009.md">⬅️ Bagian 9 — Jakarta RESTful Web Services (`jakarta.ws.rs`) Production-Grade</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-011.md">Bagian 11 — Jakarta JSON Binding (`jakarta.json.bind` / JSON-B) ➡️</a>
+</div>

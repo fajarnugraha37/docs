@@ -1850,6 +1850,9 @@ design equality, hashing, and ordering first.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/Stream.html#distinct()
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 008](./learn-java-collections-and-streams-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 010](./learn-java-collections-and-streams-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-008.md">⬅️ Java Collections and Streams — Part 008</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-010.md">Java Collections and Streams — Part 010 ➡️</a>
+</div>

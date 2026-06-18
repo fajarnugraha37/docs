@@ -2195,6 +2195,9 @@ Part 01 — Path Semantics Deep Dive: Name, Root, Absolute, Relative, Normalize,
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 030 — Top 1% Reliability Thinking: Heuristics, Trade-offs, and Anti-Patterns](../../error_handling/learn-java-reliability-part-030.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 01 — Path Semantics Deep Dive: Name, Root, Absolute, Relative, Normalize, Resolve](./learn-java-io-file-filesystem-storage-engineering-part-01-path-semantics.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-01-path-semantics.md">Part 01 — Path Semantics Deep Dive: Name, Root, Absolute, Relative, Normalize, Resolve ➡️</a>
+</div>

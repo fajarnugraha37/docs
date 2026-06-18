@@ -2207,6 +2207,9 @@ Apakah second-level cache aman untuk mapper yang sering bulk update?
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — Pagination, Sorting, Search Query, and Count Strategy](./15-pagination-sorting-search-query-and-count-strategy.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 17 — Caching: First-Level Cache, Second-Level Cache, Invalidation](./17-caching-first-level-second-level-cache-invalidation.md)
+<div class="page-nav">
+<a href="./15-pagination-sorting-search-query-and-count-strategy.md">⬅️ Part 15 — Pagination, Sorting, Search Query, and Count Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./17-caching-first-level-second-level-cache-invalidation.md">Part 17 — Caching: First-Level Cache, Second-Level Cache, Invalidation ➡️</a>
+</div>

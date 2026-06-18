@@ -1884,6 +1884,9 @@ Fokus berikutnya:
 Status seri setelah bagian ini: **belum selesai**. Kita sudah menyelesaikan **Part 023 dari 030**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 022 — Bit Manipulation, `BitSet`, Bloom Filter](./learn-java-dsa-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Data Structure and Algorithm — Part 024](./learn-java-dsa-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-022.md">⬅️ Part 022 — Bit Manipulation, `BitSet`, Bloom Filter</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-024.md">Learn Java Data Structure and Algorithm — Part 024 ➡️</a>
+</div>

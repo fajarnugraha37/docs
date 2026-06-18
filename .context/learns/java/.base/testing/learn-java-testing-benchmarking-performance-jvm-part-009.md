@@ -2828,6 +2828,9 @@ Part 010 — Testing HTTP API, REST Resource, Serialization, Validation, dan Com
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Testing Error Handling, Exception Semantics, Retry, Timeout, dan Idempotency](./learn-java-testing-benchmarking-performance-jvm-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Testing HTTP API, REST Resource, Serialization, Validation, dan Compatibility](./learn-java-testing-benchmarking-performance-jvm-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-008.md">⬅️ Testing Error Handling, Exception Semantics, Retry, Timeout, dan Idempotency</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-010.md">Testing HTTP API, REST Resource, Serialization, Validation, dan Compatibility ➡️</a>
+</div>

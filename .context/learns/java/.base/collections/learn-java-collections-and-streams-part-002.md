@@ -2037,6 +2037,9 @@ Do not use List just because you need “many values”.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/doc-files/coll-overview.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 001](./learn-java-collections-and-streams-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 003](./learn-java-collections-and-streams-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-001.md">⬅️ Java Collections and Streams — Part 001</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-003.md">Java Collections and Streams — Part 003 ➡️</a>
+</div>

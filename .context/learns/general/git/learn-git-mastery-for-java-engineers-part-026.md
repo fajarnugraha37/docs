@@ -2305,6 +2305,9 @@ Security: Secret Leakage, Signed Commits, dan Supply Chain
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 025 — Monorepo, Polyrepo, dan Repository Architecture](./learn-git-mastery-for-java-engineers-part-025.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 027 — Security: Secret Leakage, Signed Commits, dan Supply Chain](./learn-git-mastery-for-java-engineers-part-027.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Monorepo, Polyrepo, dan Repository Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-027.md">Part 027 — Security: Secret Leakage, Signed Commits, dan Supply Chain ➡️</a>
+</div>

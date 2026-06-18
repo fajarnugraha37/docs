@@ -3346,6 +3346,9 @@ Top-tier Java engineer memilih collection bukan karena familiar, tetapi karena c
    https://openjdk.org/jeps/431
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 006 — Functional Programming di Java](./learn-java-part-006.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 008 — Error Handling, Exceptions, dan Reliability Engineering](./learn-java-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-part-006.md">⬅️ Learn Java Part 006 — Functional Programming di Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-008.md">Learn Java Part 008 — Error Handling, Exceptions, dan Reliability Engineering ➡️</a>
+</div>

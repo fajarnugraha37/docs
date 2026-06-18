@@ -1690,6 +1690,9 @@ It does not automatically give you safe workflows.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/SynchronousQueue.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 018](./learn-java-collections-and-streams-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 020](./learn-java-collections-and-streams-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-018.md">⬅️ Java Collections and Streams — Part 018</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-020.md">Java Collections and Streams — Part 020 ➡️</a>
+</div>

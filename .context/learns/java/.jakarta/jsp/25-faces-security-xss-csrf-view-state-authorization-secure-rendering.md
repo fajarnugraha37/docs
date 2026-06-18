@@ -1711,6 +1711,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — Custom Faces Components, Renderers, Converters, Validators, and Extensions](./24-custom-faces-components-renderers-converters-validators-extensions.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Faces Performance and Scalability: Lifecycle Cost, State Size, Component Trees](./26-faces-performance-and-scalability-lifecycle-cost-state-size-component-trees.md)
+<div class="page-nav">
+<a href="./24-custom-faces-components-renderers-converters-validators-extensions.md">⬅️ Part 24 — Custom Faces Components, Renderers, Converters, Validators, and Extensions</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./26-faces-performance-and-scalability-lifecycle-cost-state-size-component-trees.md">Part 26 — Faces Performance and Scalability: Lifecycle Cost, State Size, Component Trees ➡️</a>
+</div>

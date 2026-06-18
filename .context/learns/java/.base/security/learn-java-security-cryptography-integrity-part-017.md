@@ -421,6 +421,9 @@ case-123\decision.pdf
 file
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Secure Serialization, Deserialization, and Object Integrity](./learn-java-security-cryptography-integrity-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — XML Security, XXE, XML Signature, XML Encryption](./learn-java-security-cryptography-integrity-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-016.md">⬅️ Part 16 — Secure Serialization, Deserialization, and Object Integrity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-018.md">Part 18 — XML Security, XXE, XML Signature, XML Encryption ➡️</a>
+</div>

@@ -2625,6 +2625,9 @@ The next part moves from read-side listing/query mechanics into write-side throu
 - batch insert/update/upsert patterns.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — Database Vendor Awareness: Oracle, PostgreSQL, MySQL, SQL Server](./14-database-vendor-awareness-oracle-postgresql-mysql-sqlserver.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — Batch Operations: Batch Executor, JDBC Batch, Bulk Insert, Bulk Update](./16-batch-operations-batch-executor-jdbc-batch-bulk-insert-update.md)
+<div class="page-nav">
+<a href="./14-database-vendor-awareness-oracle-postgresql-mysql-sqlserver.md">⬅️ Part 14 — Database Vendor Awareness: Oracle, PostgreSQL, MySQL, SQL Server</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./16-batch-operations-batch-executor-jdbc-batch-bulk-insert-update.md">Part 16 — Batch Operations: Batch Executor, JDBC Batch, Bulk Insert, Bulk Update ➡️</a>
+</div>

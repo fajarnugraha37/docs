@@ -2712,6 +2712,9 @@ Remaining: Part 20 sampai Part 34
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — XML Security, XXE, XML Signature, XML Encryption](./learn-java-security-cryptography-integrity-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: OAuth2/OIDC Security for Java Systems Without Repeating Jakarta/JAX-RS](./learn-java-security-cryptography-integrity-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-018.md">⬅️ Part 18 — XML Security, XXE, XML Signature, XML Encryption</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-020.md">OAuth2/OIDC Security for Java Systems Without Repeating Jakarta/JAX-RS ➡️</a>
+</div>

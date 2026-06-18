@@ -2133,6 +2133,9 @@ Bagian 046 — Multi-Tenancy and Data Authorization in JAX-RS
 Kita akan membahas tenant context propagation, tenant-aware resource design, data authorization, row-level security, repository safeguards, DTO redaction, cross-tenant leakage prevention, testing, and observability.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 044 — Long-Running Operations and Async API Design: 202 Accepted, Operation Resource, Polling, Webhook, SSE Progress, Cancellation, Retry, Idempotency, Timeout, Result Resources, Failure Recovery, and Production Job Orchestration](./learn-jaxrs-advanced-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 046 — Multi-Tenancy and Data Authorization in JAX-RS: Tenant Context Propagation, Tenant-Aware Resource Design, Object-Level Authorization, Row-Level Security, Repository Safeguards, DTO Redaction, Cross-Tenant Leakage Prevention, Testing, and Observability](./learn-jaxrs-advanced-part-046.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-044.md">⬅️ Bagian 044 — Long-Running Operations and Async API Design: 202 Accepted, Operation Resource, Polling, Webhook, SSE Progress, Cancellation, Retry, Idempotency, Timeout, Result Resources, Failure Recovery, and Production Job Orchestration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-046.md">Bagian 046 — Multi-Tenancy and Data Authorization in JAX-RS: Tenant Context Propagation, Tenant-Aware Resource Design, Object-Level Authorization, Row-Level Security, Repository Safeguards, DTO Redaction, Cross-Tenant Leakage Prevention, Testing, and Observability ➡️</a>
+</div>

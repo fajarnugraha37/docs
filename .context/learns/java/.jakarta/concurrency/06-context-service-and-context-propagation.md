@@ -1624,6 +1624,9 @@ Bagian berikutnya:
 - Part 7 — Transactions Across Asynchronous Boundaries
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — ManagedThreadFactory and Thread Creation Without Losing Container Semantics](./05-managed-thread-factory-and-thread-ownership.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Transactions Across Asynchronous Boundaries](./07-transactions-across-asynchronous-boundaries.md)
+<div class="page-nav">
+<a href="./05-managed-thread-factory-and-thread-ownership.md">⬅️ Part 5 — ManagedThreadFactory and Thread Creation Without Losing Container Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./07-transactions-across-asynchronous-boundaries.md">Part 7 — Transactions Across Asynchronous Boundaries ➡️</a>
+</div>

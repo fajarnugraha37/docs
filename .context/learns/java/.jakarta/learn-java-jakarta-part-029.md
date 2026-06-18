@@ -2953,6 +2953,9 @@ Engineer top-tier tahu bahwa `c:forEach` bukan sekadar loop. Ia tahu TLD, URI mi
 Bagian berikutnya akan membahas **Jakarta Debugging Support for Other Languages (`jakarta.debugging`)**: Source Map support, debugging non-Java languages/templates generated into Jakarta artifacts, runtime mapping, and why it matters for tooling/observability.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 28 — Jakarta Pages / JSP (`jakarta.servlet.jsp`): Translation to Servlet, Tag Libraries, EL, JSTL, dan Modern Relevance](./learn-java-jakarta-part-028.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 30 — Jakarta Debugging Support for Other Languages: SMAP, SourceDebugExtension, Generated Code, dan Tooling-Oriented Debuggability](./learn-java-jakarta-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-028.md">⬅️ Bagian 28 — Jakarta Pages / JSP (`jakarta.servlet.jsp`): Translation to Servlet, Tag Libraries, EL, JSTL, dan Modern Relevance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-030.md">Bagian 30 — Jakarta Debugging Support for Other Languages: SMAP, SourceDebugExtension, Generated Code, dan Tooling-Oriented Debuggability ➡️</a>
+</div>

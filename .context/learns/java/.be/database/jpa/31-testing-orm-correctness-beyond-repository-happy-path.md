@@ -1986,6 +1986,9 @@ That is the difference between repository happy path testing and ORM correctness
 - EclipseLink Performance Profiler — https://eclipse.dev/eclipselink/documentation/2.7/solutions/performance002.htm
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Multi-Tenancy, Security, Filters, Row-Level Isolation, and Data Leakage Prevention](./30-multi-tenancy-security-filters-row-level-isolation-data-leakage.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 32 — Migration Engineering: Javax to Jakarta, Hibernate 5 to 6/7, EclipseLink 2 to 4/5](./32-migration-engineering-javax-jakarta-hibernate-eclipselink.md)
+<div class="page-nav">
+<a href="./30-multi-tenancy-security-filters-row-level-isolation-data-leakage.md">⬅️ Part 30 — Multi-Tenancy, Security, Filters, Row-Level Isolation, and Data Leakage Prevention</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./32-migration-engineering-javax-jakarta-hibernate-eclipselink.md">Part 32 — Migration Engineering: Javax to Jakarta, Hibernate 5 to 6/7, EclipseLink 2 to 4/5 ➡️</a>
+</div>

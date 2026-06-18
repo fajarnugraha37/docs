@@ -1905,6 +1905,9 @@ Part berikutnya:
 Fokus berikutnya adalah architecture patterns: bagaimana JSP/Faces ditempatkan dalam modern enterprise systems, termasuk MVC, view model, form object, wizard flow, authorization-aware navigation, audit trail integration, hybrid REST/SPA/server-side UI, dan decision framework memilih JSP/Faces vs SPA.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Library Ecosystem: Mojarra, MyFaces, OmniFaces, PrimeFaces, dan Konteks Component Library Jakarta Faces](./27-library-ecosystem-mojarra-myfaces-omnifaces-primefaces.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Architecture Patterns: JSP/Faces in Modern Enterprise Systems](./29-architecture-patterns-jsp-faces-modern-enterprise-systems.md)
+<div class="page-nav">
+<a href="./27-library-ecosystem-mojarra-myfaces-omnifaces-primefaces.md">⬅️ Part 27 — Library Ecosystem: Mojarra, MyFaces, OmniFaces, PrimeFaces, dan Konteks Component Library Jakarta Faces</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./29-architecture-patterns-jsp-faces-modern-enterprise-systems.md">Part 29 — Architecture Patterns: JSP/Faces in Modern Enterprise Systems ➡️</a>
+</div>

@@ -1952,6 +1952,9 @@ Itulah kekuatan sealed types dalam Java modern.
    https://docs.oracle.com/javase/specs/jls/se25/html/jls-14.html#jls-14.11
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 012](./learn-java-data-types-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 014](./learn-java-data-types-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-012.md">⬅️ Java Data Types — Part 012</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-014.md">Java Data Types — Part 014 ➡️</a>
+</div>

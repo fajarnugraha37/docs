@@ -1480,6 +1480,9 @@ messages duplicate, and failures occur?”
     https://junit.org/junit5/docs/current/user-guide/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 028](./learn-java-concurrency-and-reactive-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 030](./learn-java-concurrency-and-reactive-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-028.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 028</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-030.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 030 ➡️</a>
+</div>

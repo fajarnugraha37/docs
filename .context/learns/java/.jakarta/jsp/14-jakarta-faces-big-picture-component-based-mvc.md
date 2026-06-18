@@ -2063,6 +2063,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Testing JSP and Tag Libraries](./13-testing-jsp-and-tag-libraries.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Facelets and XHTML View Authoring: Templates, Composition, and Components](./15-facelets-xhtml-view-authoring-templates-composition-components.md)
+<div class="page-nav">
+<a href="./13-testing-jsp-and-tag-libraries.md">⬅️ Part 13 — Testing JSP and Tag Libraries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./15-facelets-xhtml-view-authoring-templates-composition-components.md">Part 15 — Facelets and XHTML View Authoring: Templates, Composition, and Components ➡️</a>
+</div>

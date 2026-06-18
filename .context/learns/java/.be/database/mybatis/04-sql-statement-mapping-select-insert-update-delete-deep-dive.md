@@ -2077,6 +2077,9 @@ If you can answer those clearly, you are no longer thinking of MyBatis as CRUD. 
 - MyBatis Dynamic SQL Documentation — Insert Statements: https://mybatis.org/mybatis-dynamic-sql/docs/insert.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — Mapper Design: Interface, XML, Annotation, and Naming Discipline](./03-mapper-design-interface-xml-annotation-and-naming-discipline.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 5 — Parameter Binding: `#{}`, `${}`, TypeHandler, and SQL Injection Boundary](./05-parameter-binding-placeholder-typehandler-and-sql-injection-boundary.md)
+<div class="page-nav">
+<a href="./03-mapper-design-interface-xml-annotation-and-naming-discipline.md">⬅️ Part 3 — Mapper Design: Interface, XML, Annotation, and Naming Discipline</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./05-parameter-binding-placeholder-typehandler-and-sql-injection-boundary.md">Part 5 — Parameter Binding: `#{}`, `${}`, TypeHandler, and SQL Injection Boundary ➡️</a>
+</div>

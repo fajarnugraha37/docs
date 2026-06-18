@@ -2356,6 +2356,9 @@ Referensi utama untuk pendalaman:
 7. IBM OSGi guidance — package export/import, package versions, and multiple package versions at runtime.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules](./03-class-loading-per-bundle-classloaders-visibility-rules.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Resolver Engineering: Constraint Solving, Wiring, Uses Constraints, and Failure Analysis](./05-resolver-engineering-constraint-solving-wiring-uses-constraints-failure-analysis.md)
+<div class="page-nav">
+<a href="./03-class-loading-per-bundle-classloaders-visibility-rules.md">⬅️ Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./05-resolver-engineering-constraint-solving-wiring-uses-constraints-failure-analysis.md">Part 5 — Resolver Engineering: Constraint Solving, Wiring, Uses Constraints, and Failure Analysis ➡️</a>
+</div>

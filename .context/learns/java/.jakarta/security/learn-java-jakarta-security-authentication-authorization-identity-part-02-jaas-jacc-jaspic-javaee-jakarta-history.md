@@ -2041,6 +2041,9 @@ Part 03 — Container Security Architecture
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 01 — Identity, Principal, Subject, Caller, Group, Role, Permission](./learn-java-jakarta-security-authentication-authorization-identity-part-01-identity-principal-subject-role-permission.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Jakarta Security Authentication Authorization Identity](./learn-java-jakarta-security-authentication-authorization-identity-part-03-container-security-architecture.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-01-identity-principal-subject-role-permission.md">⬅️ Part 01 — Identity, Principal, Subject, Caller, Group, Role, Permission</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-03-container-security-architecture.md">Learn Java Jakarta Security Authentication Authorization Identity ➡️</a>
+</div>

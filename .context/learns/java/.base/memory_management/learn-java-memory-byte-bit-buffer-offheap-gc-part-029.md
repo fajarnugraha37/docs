@@ -2246,6 +2246,9 @@ Final Integration: Production Playbook, Case Studies, and Decision Matrix
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Memory Tuning in Containers and Kubernetes](./learn-java-memory-byte-bit-buffer-offheap-gc-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Final Integration: Production Playbook, Case Studies, and Decision Matrix](./learn-java-memory-byte-bit-buffer-offheap-gc-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-028.md">⬅️ Memory Tuning in Containers and Kubernetes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-030.md">Part 030 — Final Integration: Production Playbook, Case Studies, and Decision Matrix ➡️</a>
+</div>

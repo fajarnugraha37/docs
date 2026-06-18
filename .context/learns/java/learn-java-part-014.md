@@ -3325,6 +3325,9 @@ Engineer Java yang kuat tidak menebak. Ia mengumpulkan bukti, membuat hipotesis,
 Itulah perbedaan antara “operator yang restart service” dan “engineer yang memahami sistem”.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 013 — Memory Management dan Garbage Collection](./learn-java-part-013.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 015 — Security, Cryptography, dan Integrity di Java hingga Java 25](./learn-java-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-part-013.md">⬅️ Learn Java Part 013 — Memory Management dan Garbage Collection</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-015.md">Learn Java Part 015 — Security, Cryptography, dan Integrity di Java hingga Java 25 ➡️</a>
+</div>

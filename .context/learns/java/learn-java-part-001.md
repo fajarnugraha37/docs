@@ -4093,6 +4093,9 @@ Referensi berikut dipakai sebagai dasar penyusunan materi bagian ini. Untuk menj
     https://adoptium.net/temurin/releases
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 000 — Orientasi dan Mental Model Java hingga Java 25](./learn-java-part-000.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 002 — Fondasi Bahasa Java: Dari Syntax ke Semantics](./learn-java-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-part-000.md">⬅️ Learn Java Part 000 — Orientasi dan Mental Model Java hingga Java 25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-002.md">Learn Java Part 002 — Fondasi Bahasa Java: Dari Syntax ke Semantics ➡️</a>
+</div>

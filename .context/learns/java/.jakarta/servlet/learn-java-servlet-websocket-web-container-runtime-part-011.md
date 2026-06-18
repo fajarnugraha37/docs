@@ -2588,6 +2588,9 @@ Kita akan membahas `HttpSession`, `JSESSIONID`, session tracking, timeout, inval
 Seri belum selesai. Ini adalah Part 011 dari 031.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 010 — Observing Web Application Lifecycle](./learn-java-servlet-websocket-web-container-runtime-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 012 — Session Management: `HttpSession` Deep Dive](./learn-java-servlet-websocket-web-container-runtime-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-010.md">⬅️ Part 010 — Observing Web Application Lifecycle</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-012.md">Part 012 — Session Management: `HttpSession` Deep Dive ➡️</a>
+</div>

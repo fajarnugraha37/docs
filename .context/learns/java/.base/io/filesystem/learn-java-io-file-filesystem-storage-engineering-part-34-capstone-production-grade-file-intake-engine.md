@@ -1918,6 +1918,9 @@ Part 35 — Final Review: Top 1% Filesystem Engineering Checklist
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 33 — Testing File and Filesystem Code](./learn-java-io-file-filesystem-storage-engineering-part-33-testing-file-filesystem-code.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 35 — Final Review: Top 1% Filesystem Engineering Checklist](./learn-java-io-file-filesystem-storage-engineering-part-35-final-review-top-1-percent-filesystem-engineering-checklist.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-33-testing-file-filesystem-code.md">⬅️ Part 33 — Testing File and Filesystem Code</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-35-final-review-top-1-percent-filesystem-engineering-checklist.md">Part 35 — Final Review: Top 1% Filesystem Engineering Checklist ➡️</a>
+</div>

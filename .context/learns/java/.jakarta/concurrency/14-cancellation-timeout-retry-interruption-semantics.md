@@ -2251,6 +2251,9 @@ Bagian berikutnya:
 File: `15-observability-for-managed-async-workloads.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Concurrency Control: Capacity, Backpressure, Bulkheads, and Fairness](./13-concurrency-control-capacity-backpressure-bulkheads.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Observability for Managed Async Workloads](./15-observability-for-managed-async-workloads.md)
+<div class="page-nav">
+<a href="./13-concurrency-control-capacity-backpressure-bulkheads.md">⬅️ Part 13 — Concurrency Control: Capacity, Backpressure, Bulkheads, and Fairness</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./15-observability-for-managed-async-workloads.md">Part 15 — Observability for Managed Async Workloads ➡️</a>
+</div>

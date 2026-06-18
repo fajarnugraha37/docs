@@ -1893,6 +1893,9 @@ Part 32 - belum
 Seri belum selesai. Masih ada 29 part setelah ini.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — `Object`: Identity, Equality, Hashing, Monitor, Lifecycle](./02-object-identity-equality-hashing-monitor-lifecycle.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — `String`: Semantics, Immutability, Interning, Unicode, Performance](./04-string-semantics-immutability-interning-unicode-performance.md)
+<div class="page-nav">
+<a href="./02-object-identity-equality-hashing-monitor-lifecycle.md">⬅️ Part 2 — `Object`: Identity, Equality, Hashing, Monitor, Lifecycle</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./04-string-semantics-immutability-interning-unicode-performance.md">Part 4 — `String`: Semantics, Immutability, Interning, Unicode, Performance ➡️</a>
+</div>

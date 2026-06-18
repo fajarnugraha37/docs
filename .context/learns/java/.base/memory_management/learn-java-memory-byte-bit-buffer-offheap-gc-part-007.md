@@ -2111,6 +2111,9 @@ Java References Deep Dive: Strong, Soft, Weak, Phantom, Cleaner
 Di sana kita akan membedah bagaimana jenis reference memengaruhi reachability, kapan object boleh dikoleksi, bagaimana reference queue bekerja, kenapa finalizer bermasalah, dan bagaimana Cleaner/PhantomReference dipakai untuk lifecycle resource yang lebih aman.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Allocation Mechanics: TLAB, Fast Path, Slow Path, Escape Analysis](./learn-java-memory-byte-bit-buffer-offheap-gc-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java References Deep Dive: Strong, Soft, Weak, Phantom, Cleaner](./learn-java-memory-byte-bit-buffer-offheap-gc-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-006.md">⬅️ Allocation Mechanics: TLAB, Fast Path, Slow Path, Escape Analysis</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-008.md">Java References Deep Dive: Strong, Soft, Weak, Phantom, Cleaner ➡️</a>
+</div>

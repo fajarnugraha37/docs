@@ -2609,6 +2609,9 @@ Pada bagian berikutnya kita akan masuk ke topik yang lebih berisiko: **data migr
 **Bagian berikutnya:** `19-data-migration-backfill-engineering.md`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Seeding Strategy: Reference Data, Master Data, and Bootstrap Data](./17-seeding-reference-master-bootstrap-data.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Data Migration and Backfill Engineering](./19-data-migration-backfill-engineering.md)
+<div class="page-nav">
+<a href="./17-seeding-reference-master-bootstrap-data.md">⬅️ Part 17 — Seeding Strategy: Reference Data, Master Data, and Bootstrap Data</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./19-data-migration-backfill-engineering.md">Data Migration and Backfill Engineering ➡️</a>
+</div>

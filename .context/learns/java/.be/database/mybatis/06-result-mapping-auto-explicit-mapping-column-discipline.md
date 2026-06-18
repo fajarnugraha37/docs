@@ -2771,6 +2771,9 @@ object graph explosion
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Parameter Binding: `#{}`, `${}`, TypeHandler, and SQL Injection Boundary](./05-parameter-binding-placeholder-typehandler-and-sql-injection-boundary.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — Advanced Result Mapping: Constructor, Record, Immutable DTO, Nested Object](./07-advanced-result-mapping-constructor-record-immutable-dto-nested-object.md)
+<div class="page-nav">
+<a href="./05-parameter-binding-placeholder-typehandler-and-sql-injection-boundary.md">⬅️ Part 5 — Parameter Binding: `#{}`, `${}`, TypeHandler, and SQL Injection Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./07-advanced-result-mapping-constructor-record-immutable-dto-nested-object.md">Part 7 — Advanced Result Mapping: Constructor, Record, Immutable DTO, Nested Object ➡️</a>
+</div>

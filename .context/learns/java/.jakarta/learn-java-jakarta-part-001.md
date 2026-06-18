@@ -2901,6 +2901,9 @@ Engineer yang kuat tidak hanya bisa membuat compiler hijau. Ia bisa memastikan:
 Itulah mental model yang akan kita pakai untuk seluruh materi Jakarta berikutnya.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 0 — Jakarta Package: Big Picture, Sejarah, dan Mental Model](./learn-java-jakarta-part-000.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 2 — Jakarta EE Platform, Web Profile, dan Core Profile](./learn-java-jakarta-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-000.md">⬅️ Bagian 0 — Jakarta Package: Big Picture, Sejarah, dan Mental Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-002.md">Bagian 2 — Jakarta EE Platform, Web Profile, dan Core Profile ➡️</a>
+</div>

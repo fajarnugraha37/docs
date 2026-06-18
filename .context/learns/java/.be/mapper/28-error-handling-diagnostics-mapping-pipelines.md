@@ -2238,6 +2238,9 @@ Jika sistem bisa mengklasifikasi, menjelaskan, mengamankan, mengukur, dan merepl
 - Berikutnya: **Part 29 — Testing Strategy: Unit, Golden Payload, Property-Based, Contract Tests**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Mapping Validation Boundary: Bean Validation, Invariants, and Normalization](./27-mapping-validation-boundary-bean-validation-invariants-normalization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Testing Strategy: Unit, Golden Payload, Property-Based, Contract Tests](./29-testing-strategy-unit-golden-payload-property-based-contract-tests.md)
+<div class="page-nav">
+<a href="./27-mapping-validation-boundary-bean-validation-invariants-normalization.md">⬅️ Part 27 — Mapping Validation Boundary: Bean Validation, Invariants, and Normalization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./29-testing-strategy-unit-golden-payload-property-based-contract-tests.md">Part 29 — Testing Strategy: Unit, Golden Payload, Property-Based, Contract Tests ➡️</a>
+</div>

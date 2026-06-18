@@ -2795,6 +2795,9 @@ learn-java-sql-jdbc-hikaricp-part-006.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 004 — Statement, PreparedStatement, CallableStatement: Execution Model](./learn-java-sql-jdbc-hikaricp-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: JDBC Type System: SQL Types, Java Types, and Conversion Traps](./learn-java-sql-jdbc-hikaricp-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-004.md">⬅️ Part 004 — Statement, PreparedStatement, CallableStatement: Execution Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-006.md">JDBC Type System: SQL Types, Java Types, and Conversion Traps ➡️</a>
+</div>

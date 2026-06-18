@@ -1696,6 +1696,9 @@ Di sana kita akan membahas deployment ketika satu release melibatkan banyak serv
 - Kubernetes Documentation — production cluster preparation and workload/environment management.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — Deployment Security Hardening](./learn-java-deployment-runtime-release-delivery-engineering-part-25-deployment-security-hardening.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Multi-Service and Distributed Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-27-multi-service-distributed-java-deployment.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-25-deployment-security-hardening.md">⬅️ Part 25 — Deployment Security Hardening</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-27-multi-service-distributed-java-deployment.md">Part 27 — Multi-Service and Distributed Java Deployment ➡️</a>
+</div>

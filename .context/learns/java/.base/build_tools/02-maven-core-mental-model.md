@@ -3080,6 +3080,9 @@ Bagian berikutnya akan masuk ke Gradle core mental model. Ini penting karena Gra
 Seri belum selesai. Lanjut ke Part 3.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — Java Version Strategy: Java 8–25, Source/Target/Release, Toolchains, dan Compatibility Boundary](./01-java-version-strategy-java-8-to-25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — Gradle Core Mental Model: Task Graph, Configuration Phase, Execution Phase, Provider API](./03-gradle-core-mental-model.md)
+<div class="page-nav">
+<a href="./01-java-version-strategy-java-8-to-25.md">⬅️ Part 1 — Java Version Strategy: Java 8–25, Source/Target/Release, Toolchains, dan Compatibility Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./03-gradle-core-mental-model.md">Part 3 — Gradle Core Mental Model: Task Graph, Configuration Phase, Execution Phase, Provider API ➡️</a>
+</div>

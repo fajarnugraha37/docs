@@ -2360,6 +2360,9 @@ Part 10 — Jakarta Authentication / JASPIC Deep Dive
 Seri belum selesai. Ini baru Part 09 dari 35.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 08 — IdentityStore Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-08-identitystore-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Jakarta Authentication / JASPIC Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-10-jakarta-authentication-jaspic-deep-dive.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-08-identitystore-deep-dive.md">⬅️ Part 08 — IdentityStore Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-10-jakarta-authentication-jaspic-deep-dive.md">Part 10 — Jakarta Authentication / JASPIC Deep Dive ➡️</a>
+</div>

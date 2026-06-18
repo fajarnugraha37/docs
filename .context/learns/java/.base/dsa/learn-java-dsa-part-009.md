@@ -2410,6 +2410,9 @@ Part 010 — Trees I: Tree Fundamentals, Traversal, Recursion
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 008 — Ordering, Sorting, Comparator, Comparable](./learn-java-dsa-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 010 — Trees I: Tree Fundamentals, Traversal, Recursion](./learn-java-dsa-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-008.md">⬅️ Part 008 — Ordering, Sorting, Comparator, Comparable</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-010.md">Part 010 — Trees I: Tree Fundamentals, Traversal, Recursion ➡️</a>
+</div>

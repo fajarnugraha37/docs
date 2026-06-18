@@ -2027,6 +2027,9 @@ There we will focus on how to actually use declarative authorization constructs:
 # End of Part 11
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Jakarta Authentication / JASPIC Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-10-jakarta-authentication-jaspic-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Declarative Authorization: URL, Method, Class, Role](./learn-java-jakarta-security-authentication-authorization-identity-part-12-declarative-authorization.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-10-jakarta-authentication-jaspic-deep-dive.md">⬅️ Part 10 — Jakarta Authentication / JASPIC Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-12-declarative-authorization.md">Part 12 — Declarative Authorization: URL, Method, Class, Role ➡️</a>
+</div>

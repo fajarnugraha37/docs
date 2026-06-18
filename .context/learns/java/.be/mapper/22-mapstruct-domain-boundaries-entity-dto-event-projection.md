@@ -2304,6 +2304,9 @@ Part berikutnya:
 Fokus berikutnya adalah memahami Lombok sebagai annotation processing/AST transformation tool, termasuk dampaknya terhadap compiler, IDE, generated members, debugging, build reproducibility, Java version coupling, dan kapan Lombok menjadi productivity tool vs architectural debt.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — MapStruct Advanced: Qualifiers, Context, Lifecycle Hooks, Object Factory](./21-mapstruct-advanced-qualifiers-context-lifecycle-hooks-object-factory.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Lombok Mental Model: Annotation Processing, Bytecode Shape, IDE Coupling](./23-lombok-mental-model-annotation-processing-bytecode-shape-ide-coupling.md)
+<div class="page-nav">
+<a href="./21-mapstruct-advanced-qualifiers-context-lifecycle-hooks-object-factory.md">⬅️ Part 21 — MapStruct Advanced: Qualifiers, Context, Lifecycle Hooks, Object Factory</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./23-lombok-mental-model-annotation-processing-bytecode-shape-ide-coupling.md">Part 23 — Lombok Mental Model: Annotation Processing, Bytecode Shape, IDE Coupling ➡️</a>
+</div>

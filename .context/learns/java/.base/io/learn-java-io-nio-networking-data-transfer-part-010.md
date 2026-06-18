@@ -1603,6 +1603,9 @@ learn-java-io-nio-networking-data-transfer-part-011.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 009 — FileChannel: Random Access, Transfer, Locking, Force, dan Zero-Copy](./learn-java-io-nio-networking-data-transfer-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — NIO.2 File API: `Path`, `Files`, `FileSystem`, dan Modern File Operations](./learn-java-io-nio-networking-data-transfer-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-009.md">⬅️ Part 009 — FileChannel: Random Access, Transfer, Locking, Force, dan Zero-Copy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-011.md">Part 011 — NIO.2 File API: `Path`, `Files`, `FileSystem`, dan Modern File Operations ➡️</a>
+</div>

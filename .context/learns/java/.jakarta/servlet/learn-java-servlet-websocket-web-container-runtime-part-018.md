@@ -2005,6 +2005,9 @@ Part berikutnya:
 - Part 019 — Web Application Classloading, Deployment, and Redeployment
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 017 — Error Handling and Failure Semantics in Servlet Apps](./learn-java-servlet-websocket-web-container-runtime-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — Web Application Classloading, Deployment, and Redeployment](./learn-java-servlet-websocket-web-container-runtime-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-017.md">⬅️ Part 017 — Error Handling and Failure Semantics in Servlet Apps</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-019.md">Part 019 — Web Application Classloading, Deployment, and Redeployment ➡️</a>
+</div>

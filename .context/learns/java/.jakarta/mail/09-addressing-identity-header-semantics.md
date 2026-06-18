@@ -2480,6 +2480,9 @@ Kita akan masuk ke failure taxonomy Jakarta Mail/SMTP:
 - domain-level error model.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — HTML Email Engineering: Templates, CSS, Images, and Client Compatibility](./08-html-email-template-client-compatibility.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Error Model: `MessagingException`, `SendFailedException`, `SMTPAddressFailedException`](./10-error-model-exception-failure-classification.md)
+<div class="page-nav">
+<a href="./08-html-email-template-client-compatibility.md">⬅️ Part 8 — HTML Email Engineering: Templates, CSS, Images, and Client Compatibility</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./10-error-model-exception-failure-classification.md">Part 10 — Error Model: `MessagingException`, `SendFailedException`, `SMTPAddressFailedException` ➡️</a>
+</div>

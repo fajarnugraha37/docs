@@ -2359,6 +2359,9 @@ That part will explain what the container actually does during bootstrap, scanni
 Seri belum selesai. Ini adalah Part 003 dari total rencana 035 part.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 002 — API, SPI, Implementation, Provider: The Hidden Layering of Java Enterprise](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Runtime / Container Model: Who Owns Your Object?](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002.md">⬅️ Part 002 — API, SPI, Implementation, Provider: The Hidden Layering of Java Enterprise</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-004.md">Part 004 — Runtime / Container Model: Who Owns Your Object? ➡️</a>
+</div>

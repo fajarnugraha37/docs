@@ -2141,6 +2141,9 @@ Performance-aware data type design adalah seni memilih representation yang cukup
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/time/format/DateTimeFormatter.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 022](./learn-java-data-types-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 024](./learn-java-data-types-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-022.md">⬅️ Java Data Types — Part 022</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-024.md">Java Data Types — Part 024 ➡️</a>
+</div>

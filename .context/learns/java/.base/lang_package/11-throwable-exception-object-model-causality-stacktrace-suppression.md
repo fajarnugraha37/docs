@@ -1927,6 +1927,9 @@ Progress:
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Sealed Types Runtime View: `Class`, Permitted Subclasses, and Exhaustiveness](./10-sealed-types-runtime-view-permitted-subclasses-exhaustiveness.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — `Exception`, `RuntimeException`, `Error`: Failure Taxonomy for Serious Systems](./12-exception-runtimeexception-error-failure-taxonomy.md)
+<div class="page-nav">
+<a href="./10-sealed-types-runtime-view-permitted-subclasses-exhaustiveness.md">⬅️ Part 10 — Sealed Types Runtime View: `Class`, Permitted Subclasses, and Exhaustiveness</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-exception-runtimeexception-error-failure-taxonomy.md">Part 12 — `Exception`, `RuntimeException`, `Error`: Failure Taxonomy for Serious Systems ➡️</a>
+</div>

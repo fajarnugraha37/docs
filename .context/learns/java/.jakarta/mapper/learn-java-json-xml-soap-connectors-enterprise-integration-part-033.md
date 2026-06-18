@@ -1626,6 +1626,9 @@ Part ini menyelesaikan fondasi JCA reliability. Bagian berikutnya adalah bagian 
 - Vendor documentation for specific resource adapter behavior, because recovery, pooling, and credential mapping can be implementation-specific.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 032 — JCA Inbound/Outbound Architecture](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Integration Architecture Capstone](./learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md">⬅️ Part 032 — JCA Inbound/Outbound Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md">Part 34 — Integration Architecture Capstone ➡️</a>
+</div>

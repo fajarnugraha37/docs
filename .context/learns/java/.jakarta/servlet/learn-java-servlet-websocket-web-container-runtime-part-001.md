@@ -2192,6 +2192,9 @@ Jika bagian ini diringkas menjadi satu prinsip:
 **Berikutnya:** Part 002 — HTTP Fundamentals for Servlet Engineers.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 000 — Mental Model Server-Side Java Web Runtime](./learn-java-servlet-websocket-web-container-runtime-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — HTTP Fundamentals for Servlet Engineers](./learn-java-servlet-websocket-web-container-runtime-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-000.md">⬅️ Part 000 — Mental Model Server-Side Java Web Runtime</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-002.md">Part 002 — HTTP Fundamentals for Servlet Engineers ➡️</a>
+</div>

@@ -3229,6 +3229,9 @@ Engineer top-tier menggunakan Jakarta Validation untuk membuat API dan object co
 Bagian berikutnya akan membahas **Jakarta Security (`jakarta.security.enterprise`)**: authentication, identity store, security context, role mapping, authorization boundary, integration dengan Jakarta REST/CDI, dan bagaimana membedakan framework security dari domain authorization.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 14 — Jakarta Transactions: Transaction Boundary, Rollback, XA, dan Consistency Engineering](./learn-java-jakarta-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 16 — Jakarta Servlet (`jakarta.servlet`): Fondasi Web Container](./learn-java-jakarta-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-014.md">⬅️ Bagian 14 — Jakarta Transactions: Transaction Boundary, Rollback, XA, dan Consistency Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-016.md">Bagian 16 — Jakarta Servlet (`jakarta.servlet`): Fondasi Web Container ➡️</a>
+</div>

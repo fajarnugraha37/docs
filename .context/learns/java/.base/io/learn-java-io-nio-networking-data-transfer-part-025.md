@@ -2086,6 +2086,9 @@ at-least-once attempt
 Jika kamu menguasai pola ini, kamu tidak hanya bisa mengirim file. Kamu bisa mendesain data transfer subsystem yang tetap benar ketika network buruk, service restart, chunk duplicate, file corrupt, ack hilang, disk penuh, dan operator perlu membuktikan apa yang terjadi.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 024 — TLS, Certificates, TrustStore, KeyStore, dan Secure Data Transfer](./learn-java-io-nio-networking-data-transfer-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — Large File Processing: Memory Safety, Streaming Pipeline, Pagination, Split, Merge, dan External Sort](./learn-java-io-nio-networking-data-transfer-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-024.md">⬅️ Part 024 — TLS, Certificates, TrustStore, KeyStore, dan Secure Data Transfer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-026.md">Part 026 — Large File Processing: Memory Safety, Streaming Pipeline, Pagination, Split, Merge, dan External Sort ➡️</a>
+</div>

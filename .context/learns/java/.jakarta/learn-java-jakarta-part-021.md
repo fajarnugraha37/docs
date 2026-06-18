@@ -2991,6 +2991,9 @@ Engineer top-tier tidak hanya membuat job berjalan. Ia mendesain batch agar aman
 Bagian berikutnya akan membahas **Jakarta Concurrency (`jakarta.enterprise.concurrent`)**: managed executor, managed scheduled executor, context propagation, async tasks, thread ownership, virtual threads, cancellation, timeout, and production concurrency design.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 20 — Jakarta Mail (`jakarta.mail`): SMTP, MIME, Attachment, dan Production Email Pipeline](./learn-java-jakarta-part-020.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 22 — Jakarta Concurrency (`jakarta.enterprise.concurrent`): Managed Threads, Async Task, Context Propagation, dan Resource Safety](./learn-java-jakarta-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-020.md">⬅️ Bagian 20 — Jakarta Mail (`jakarta.mail`): SMTP, MIME, Attachment, dan Production Email Pipeline</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-022.md">Bagian 22 — Jakarta Concurrency (`jakarta.enterprise.concurrent`): Managed Threads, Async Task, Context Propagation, dan Resource Safety ➡️</a>
+</div>

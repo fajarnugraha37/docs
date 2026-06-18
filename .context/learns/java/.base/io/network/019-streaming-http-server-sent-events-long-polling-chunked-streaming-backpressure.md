@@ -2139,6 +2139,9 @@ Part berikutnya: Part 20 — WebSocket Revisited as a Network Protocol
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — REST Over HTTP: Contract Design, Evolution, Compatibility, and Error Model](./018-rest-over-http-contract-design-evolution-compatibility-error-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — WebSocket Revisited as a Network Protocol](./020-websocket-revisited-as-a-network-protocol.md)
+<div class="page-nav">
+<a href="./018-rest-over-http-contract-design-evolution-compatibility-error-model.md">⬅️ Part 18 — REST Over HTTP: Contract Design, Evolution, Compatibility, and Error Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./020-websocket-revisited-as-a-network-protocol.md">Part 20 — WebSocket Revisited as a Network Protocol ➡️</a>
+</div>

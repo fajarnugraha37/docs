@@ -2219,6 +2219,9 @@ Seri **belum selesai**. Bagian berikutnya adalah:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: MyBatis Core Runtime Architecture: `SqlSession`, `Executor`, `Configuration`](./01-mybatis-core-runtime-architecture-sqlsession-executor-configuration.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 3 — Mapper Design: Interface, XML, Annotation, and Naming Discipline](./03-mapper-design-interface-xml-annotation-and-naming-discipline.md)
+<div class="page-nav">
+<a href="./01-mybatis-core-runtime-architecture-sqlsession-executor-configuration.md">⬅️ MyBatis Core Runtime Architecture: `SqlSession`, `Executor`, `Configuration`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./03-mapper-design-interface-xml-annotation-and-naming-discipline.md">Part 3 — Mapper Design: Interface, XML, Annotation, and Naming Discipline ➡️</a>
+</div>

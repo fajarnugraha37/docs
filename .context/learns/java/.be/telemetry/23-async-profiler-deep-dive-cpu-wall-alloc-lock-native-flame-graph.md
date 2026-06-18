@@ -1714,8 +1714,10 @@ Berikutnya:
 Part 24 — JVM Troubleshooting Toolkit: jcmd, jstack, jmap, jstat, jhsdb, jinfo
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Profiling Mental Model: CPU Time, Wall Time, Allocation, Lock, IO](./22-profiling-mental-model-cpu-time-wall-time-allocation-lock-io.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — JVM Troubleshooting Toolkit: `jcmd`, `jstack`, `jmap`, `jstat`, `jhsdb`, `jinfo`](./24-jvm-troubleshooting-toolkit-jcmd-jstack-jmap-jstat-jhsdb-jinfo.md)
+<div class="page-nav">
+<a href="./22-profiling-mental-model-cpu-time-wall-time-allocation-lock-io.md">⬅️ Part 22 — Profiling Mental Model: CPU Time, Wall Time, Allocation, Lock, IO</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./24-jvm-troubleshooting-toolkit-jcmd-jstack-jmap-jstat-jhsdb-jinfo.md">Part 24 — JVM Troubleshooting Toolkit: `jcmd`, `jstack`, `jmap`, `jstat`, `jhsdb`, `jinfo` ➡️</a>
+</div>

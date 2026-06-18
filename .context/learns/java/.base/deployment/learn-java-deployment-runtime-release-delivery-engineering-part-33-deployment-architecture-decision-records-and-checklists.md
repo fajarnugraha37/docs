@@ -2291,6 +2291,9 @@ This is how deployment knowledge becomes durable team capability.
 - NIST Secure Software Development Framework SP 800-218: https://csrc.nist.gov/pubs/sp/800/218/final
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Enterprise Governance: Change Request, Auditability, Approval, Compliance](./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Designing a Production-Grade Java Deployment Platform](./learn-java-deployment-runtime-release-delivery-engineering-part-34-capstone-designing-java-deployment-platform.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md">⬅️ Part 32 — Enterprise Governance: Change Request, Auditability, Approval, Compliance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-34-capstone-designing-java-deployment-platform.md">Part 34 — Designing a Production-Grade Java Deployment Platform ➡️</a>
+</div>

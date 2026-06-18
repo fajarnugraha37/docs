@@ -1805,6 +1805,9 @@ cancellation, observability, and explicit context.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/CompletableFuture.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 014](./learn-java-concurrency-and-reactive-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 016](./learn-java-concurrency-and-reactive-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-014.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 014</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-016.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 016 ➡️</a>
+</div>

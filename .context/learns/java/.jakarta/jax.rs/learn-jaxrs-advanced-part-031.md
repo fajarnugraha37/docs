@@ -2118,6 +2118,9 @@ Bagian 032 — Transactions, Persistence, and REST Boundary
 Kita akan membahas bagaimana REST boundary berinteraksi dengan database transaction, JPA entity, DTO mapping, lazy loading, optimistic locking, outbox, pagination query, streaming/export, and service-layer consistency.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 030 — Client Resilience: Timeout, Retry, Circuit Breaker, Bulkhead, Rate Limit, Idempotency, Deadline Budget, Fallback, and Production-Grade Outbound HTTP Policy](./learn-jaxrs-advanced-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 032 — Transactions, Persistence, and REST Boundary: JPA Entity vs DTO, Service-Layer Transaction, Lazy Loading, Optimistic Locking, Outbox, Pagination Query, Streaming/Export, and Consistency Patterns](./learn-jaxrs-advanced-part-032.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-030.md">⬅️ Bagian 030 — Client Resilience: Timeout, Retry, Circuit Breaker, Bulkhead, Rate Limit, Idempotency, Deadline Budget, Fallback, and Production-Grade Outbound HTTP Policy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-032.md">Bagian 032 — Transactions, Persistence, and REST Boundary: JPA Entity vs DTO, Service-Layer Transaction, Lazy Loading, Optimistic Locking, Outbox, Pagination Query, Streaming/Export, and Consistency Patterns ➡️</a>
+</div>

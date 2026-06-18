@@ -2786,6 +2786,9 @@ Engineer top-tier bisa melakukan dua hal sekaligus:
 Bagian berikutnya akan membahas **Jakarta Connectors (`jakarta.resource`)**: resource adapter, connection management, transaction enlistment, message inflow, inbound/outbound integration, XA, and how application servers integrate with external enterprise information systems.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 22 — Jakarta Concurrency (`jakarta.enterprise.concurrent`): Managed Threads, Async Task, Context Propagation, dan Resource Safety](./learn-java-jakarta-part-022.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 24 — Jakarta Connectors (`jakarta.resource`): Resource Adapter, EIS Integration, Connection Management, XA, dan Message Inflow](./learn-java-jakarta-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-022.md">⬅️ Bagian 22 — Jakarta Concurrency (`jakarta.enterprise.concurrent`): Managed Threads, Async Task, Context Propagation, dan Resource Safety</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-024.md">Bagian 24 — Jakarta Connectors (`jakarta.resource`): Resource Adapter, EIS Integration, Connection Management, XA, dan Message Inflow ➡️</a>
+</div>

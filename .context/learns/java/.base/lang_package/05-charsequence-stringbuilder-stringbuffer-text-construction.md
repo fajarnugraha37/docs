@@ -1800,6 +1800,9 @@ Part 6  berikutnya — Primitive Wrappers, Boxing, Caches, Numeric Semantics
 Seri belum selesai. Masih ada banyak bagian penting sampai Part 32.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — `String`: Semantics, Immutability, Interning, Unicode, Performance](./04-string-semantics-immutability-interning-unicode-performance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Primitive Wrappers, Boxing, Caches, Numeric Semantics](./06-primitive-wrappers-boxing-caches-numeric-semantics.md)
+<div class="page-nav">
+<a href="./04-string-semantics-immutability-interning-unicode-performance.md">⬅️ Part 4 — `String`: Semantics, Immutability, Interning, Unicode, Performance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./06-primitive-wrappers-boxing-caches-numeric-semantics.md">Part 6 — Primitive Wrappers, Boxing, Caches, Numeric Semantics ➡️</a>
+</div>

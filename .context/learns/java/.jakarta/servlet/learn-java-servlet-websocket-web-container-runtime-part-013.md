@@ -1695,6 +1695,9 @@ Pemahaman cookie/header tetap relevan di async karena response commit, redirect,
 - MDN HTTP Cookies Guide: https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 012 — Session Management: `HttpSession` Deep Dive](./learn-java-servlet-websocket-web-container-runtime-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — Async Servlet: Non-Blocking Request Lifecycle](./learn-java-servlet-websocket-web-container-runtime-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-012.md">⬅️ Part 012 — Session Management: `HttpSession` Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-014.md">Part 014 — Async Servlet: Non-Blocking Request Lifecycle ➡️</a>
+</div>

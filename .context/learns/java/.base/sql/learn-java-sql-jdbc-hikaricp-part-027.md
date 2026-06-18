@@ -2487,6 +2487,9 @@ Referensi utama yang relevan untuk bagian ini:
 7. PostgreSQL, MySQL, Oracle, SQL Server documentation untuk SQLState/vendor-specific lock timeout, isolation, dan temporal behavior.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 026 — Security and Integrity at JDBC Boundary](./learn-java-sql-jdbc-hikaricp-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java SQL, JDBC, and HikariCP — Part 028](./learn-java-sql-jdbc-hikaricp-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-026.md">⬅️ Part 026 — Security and Integrity at JDBC Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-028.md">Learn Java SQL, JDBC, and HikariCP — Part 028 ➡️</a>
+</div>

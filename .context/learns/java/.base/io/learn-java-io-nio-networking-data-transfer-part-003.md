@@ -2283,6 +2283,9 @@ Part 004 — Binary I/O: Primitive Data, Endianness, Framing, dan Format Stabil
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 002 — Classic `java.io`: Stream Hierarchy, Decorator Pattern, dan Resource Lifecycle](./learn-java-io-nio-networking-data-transfer-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Binary I/O: Primitive Data, Endianness, Framing, dan Format Stabil](./learn-java-io-nio-networking-data-transfer-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-002.md">⬅️ Part 002 — Classic `java.io`: Stream Hierarchy, Decorator Pattern, dan Resource Lifecycle</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-004.md">Part 004 — Binary I/O: Primitive Data, Endianness, Framing, dan Format Stabil ➡️</a>
+</div>

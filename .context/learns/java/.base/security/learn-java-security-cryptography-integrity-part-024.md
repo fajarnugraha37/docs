@@ -2172,6 +2172,9 @@ Part 25 — Secure Logging, Audit Trail Integrity, Evidence, and Non-Repudiation
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Secure Coding in Java: Dangerous APIs, Footguns, and Review Heuristics](./learn-java-security-cryptography-integrity-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Secure Logging, Audit Trail Integrity, Evidence, and Non-Repudiation](./learn-java-security-cryptography-integrity-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-023.md">⬅️ Part 23 — Secure Coding in Java: Dangerous APIs, Footguns, and Review Heuristics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-025.md">Part 25 — Secure Logging, Audit Trail Integrity, Evidence, and Non-Repudiation ➡️</a>
+</div>

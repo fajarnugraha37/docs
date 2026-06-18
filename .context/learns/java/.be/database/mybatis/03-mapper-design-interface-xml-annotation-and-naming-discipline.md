@@ -3050,6 +3050,9 @@ Bagian berikutnya:
 Status seri: **belum selesai**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — Java 8 to 25 MyBatis Version Strategy and Compatibility](./02-java-8-to-25-mybatis-version-strategy-and-compatibility.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 4 — SQL Statement Mapping: SELECT, INSERT, UPDATE, DELETE Deep Dive](./04-sql-statement-mapping-select-insert-update-delete-deep-dive.md)
+<div class="page-nav">
+<a href="./02-java-8-to-25-mybatis-version-strategy-and-compatibility.md">⬅️ Part 2 — Java 8 to 25 MyBatis Version Strategy and Compatibility</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./04-sql-statement-mapping-select-insert-update-delete-deep-dive.md">Part 4 — SQL Statement Mapping: SELECT, INSERT, UPDATE, DELETE Deep Dive ➡️</a>
+</div>

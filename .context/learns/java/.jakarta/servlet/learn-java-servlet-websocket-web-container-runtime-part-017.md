@@ -2269,6 +2269,9 @@ Part 018 — Threading Model: Classic Servlet, Platform Threads, Virtual Threads
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 016 — Multipart Upload, File Download, and Large Payload Handling](./learn-java-servlet-websocket-web-container-runtime-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Threading Model: Classic Servlet, Platform Threads, Virtual Threads](./learn-java-servlet-websocket-web-container-runtime-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-016.md">⬅️ Part 016 — Multipart Upload, File Download, and Large Payload Handling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-018.md">Part 018 — Threading Model: Classic Servlet, Platform Threads, Virtual Threads ➡️</a>
+</div>

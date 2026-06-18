@@ -1749,6 +1749,9 @@ Berikutnya:
 - Part 022 — EJB Transactions, Timers, Async, and Security Boundaries
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 020 — Enterprise Beans / EJB Mental Model: Why It Exists and What Still Matters](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 022 — EJB Transactions, Timers, Async, and Security Boundaries](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-020.md">⬅️ Part 020 — Enterprise Beans / EJB Mental Model: Why It Exists and What Still Matters</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-022.md">Part 022 — EJB Transactions, Timers, Async, and Security Boundaries ➡️</a>
+</div>

@@ -2134,6 +2134,9 @@ Part 005 — Character I/O: Reader, Writer, Line Processing, Large Text File, da
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 003 — Buffering Deep Dive: Kenapa Buffer Ada, Bagaimana Memilih Ukuran, dan Apa Efeknya ke Performance](./learn-java-io-nio-networking-data-transfer-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Character I/O: Reader, Writer, Line Processing, Large Text File, dan Text Pipeline](./learn-java-io-nio-networking-data-transfer-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-003.md">⬅️ Part 003 — Buffering Deep Dive: Kenapa Buffer Ada, Bagaimana Memilih Ukuran, dan Apa Efeknya ke Performance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-005.md">Part 005 — Character I/O: Reader, Writer, Line Processing, Large Text File, dan Text Pipeline ➡️</a>
+</div>

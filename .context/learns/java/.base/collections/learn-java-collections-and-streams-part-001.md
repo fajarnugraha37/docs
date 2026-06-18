@@ -2258,6 +2258,9 @@ Those must be designed, documented, tested, and often wrapped in domain types.
     https://docs.oracle.com/en/java/javase/21/core/creating-sequenced-collections-sets-and-maps.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 000](./learn-java-collections-and-streams-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 002](./learn-java-collections-and-streams-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-000.md">⬅️ Java Collections and Streams — Part 000</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-002.md">Java Collections and Streams — Part 002 ➡️</a>
+</div>

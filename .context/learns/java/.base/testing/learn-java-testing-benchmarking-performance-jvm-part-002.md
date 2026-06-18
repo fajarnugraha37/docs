@@ -2856,6 +2856,9 @@ Topik: Test Design: Arrange-Act-Assert, Given-When-Then, dan Behavioral Clarity
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Test Taxonomy dan Test Strategy untuk Sistem Enterprise Java](./learn-java-testing-benchmarking-performance-jvm-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Test Design: Arrange-Act-Assert, Given-When-Then, dan Behavioral Clarity](./learn-java-testing-benchmarking-performance-jvm-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-001.md">⬅️ Test Taxonomy dan Test Strategy untuk Sistem Enterprise Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-003.md">Test Design: Arrange-Act-Assert, Given-When-Then, dan Behavioral Clarity ➡️</a>
+</div>

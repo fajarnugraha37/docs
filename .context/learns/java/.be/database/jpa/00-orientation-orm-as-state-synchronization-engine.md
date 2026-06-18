@@ -2277,6 +2277,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Capstone Architecture: End-to-End Regulatory Case Management with Java + Camunda](../../cammunda/learn-java-bpmn-camunda-part-30-capstone-end-to-end-regulatory-case-management-java-camunda.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 1 — JPA Specification vs Provider Reality](./01-jpa-specification-vs-provider-reality.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./01-jpa-specification-vs-provider-reality.md">Part 1 — JPA Specification vs Provider Reality ➡️</a>
+</div>

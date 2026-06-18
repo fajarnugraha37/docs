@@ -1996,6 +1996,9 @@ That is the difference between using Maven/Gradle and engineering a build platfo
 - OWASP Dependency-Check: https://owasp.org/www-project-dependency-check/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Monorepo, Polyrepo, and Enterprise Build Topologies](./32-monorepo-polyrepo-enterprise-build-topologies.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Top 1% Build Engineer Playbook](./34-top-1-percent-build-engineer-playbook.md)
+<div class="page-nav">
+<a href="./32-monorepo-polyrepo-enterprise-build-topologies.md">⬅️ Part 32 — Monorepo, Polyrepo, and Enterprise Build Topologies</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./34-top-1-percent-build-engineer-playbook.md">Part 34 — Top 1% Build Engineer Playbook ➡️</a>
+</div>

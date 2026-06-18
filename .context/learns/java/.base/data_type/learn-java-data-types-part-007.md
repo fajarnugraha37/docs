@@ -2674,6 +2674,9 @@ Correct equality design prevents a large class of subtle production bugs.
     https://openjdk.org/jeps/395
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 006](./learn-java-data-types-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 008](./learn-java-data-types-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-006.md">⬅️ Java Data Types — Part 006</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-008.md">Java Data Types — Part 008 ➡️</a>
+</div>

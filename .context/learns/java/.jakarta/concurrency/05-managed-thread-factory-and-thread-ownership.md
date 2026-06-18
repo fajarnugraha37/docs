@@ -1638,6 +1638,9 @@ File: 06-context-service-and-context-propagation.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — ManagedScheduledExecutorService and Time-Based Workloads](./04-managed-scheduled-executor-service-time-based-workloads.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — ContextService and Context Propagation](./06-context-service-and-context-propagation.md)
+<div class="page-nav">
+<a href="./04-managed-scheduled-executor-service-time-based-workloads.md">⬅️ Part 4 — ManagedScheduledExecutorService and Time-Based Workloads</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./06-context-service-and-context-propagation.md">Part 6 — ContextService and Context Propagation ➡️</a>
+</div>

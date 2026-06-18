@@ -2480,6 +2480,9 @@ Engineer senior tidak melihat array sebagai sekadar “list sederhana”, tetapi
     https://docs.oracle.com/javase/specs/jls/se25/html/jls-4.html#jls-4.12.2
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 008](./learn-java-data-types-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 010](./learn-java-data-types-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-008.md">⬅️ Java Data Types — Part 008</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-010.md">Java Data Types — Part 010 ➡️</a>
+</div>

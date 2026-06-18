@@ -3377,6 +3377,9 @@ Bagian 007 — Advanced Parameter Conversion: ParamConverter, ParamConverterProv
 Kita akan membedah custom conversion jauh lebih detail: provider priority, error taxonomy, date/time parsing, enum alias, typed IDs, generic handling, collection caveats, runtime differences, and production-grade converter design.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 005 — Path Template, Regex, Matrix Param, and URI Design: Canonical Resource Identity, Reserved Literals, Nested Resources, Versioning, dan Gateway-Aware URI](./learn-jaxrs-advanced-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 007 — Advanced Parameter Conversion: `ParamConverter`, `ParamConverterProvider`, `valueOf`, Constructor, `fromString`, `@Lazy`, Error Taxonomy, dan Typed Boundary Design](./learn-jaxrs-advanced-part-007.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-005.md">⬅️ Bagian 005 — Path Template, Regex, Matrix Param, and URI Design: Canonical Resource Identity, Reserved Literals, Nested Resources, Versioning, dan Gateway-Aware URI</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-007.md">Bagian 007 — Advanced Parameter Conversion: `ParamConverter`, `ParamConverterProvider`, `valueOf`, Constructor, `fromString`, `@Lazy`, Error Taxonomy, dan Typed Boundary Design ➡️</a>
+</div>

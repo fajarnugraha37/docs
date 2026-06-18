@@ -2047,6 +2047,9 @@ File    - 28-file-csv-xml-json-large-payload-batch-processing.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — JobOperator, Job Repository, and Runtime Control Plane](./26-joboperator-job-repository-runtime-control-plane.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — File, CSV, XML, JSON, and Large Payload Batch Processing](./28-file-csv-xml-json-large-payload-batch-processing.md)
+<div class="page-nav">
+<a href="./26-joboperator-job-repository-runtime-control-plane.md">⬅️ Part 26 — JobOperator, Job Repository, and Runtime Control Plane</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-file-csv-xml-json-large-payload-batch-processing.md">Part 28 — File, CSV, XML, JSON, and Large Payload Batch Processing ➡️</a>
+</div>

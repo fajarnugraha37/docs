@@ -2510,6 +2510,9 @@ Jika sebuah mapping penting untuk API, event, audit, payment, regulatory decisio
 - JSON Schema/OpenAPI tooling documentation — schema validation dan contract tests.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Error Handling and Diagnostics in Mapping Pipelines](./28-error-handling-diagnostics-mapping-pipelines.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Performance and Memory Engineering for Mapping Layers](./30-performance-memory-engineering-mapping-layers.md)
+<div class="page-nav">
+<a href="./28-error-handling-diagnostics-mapping-pipelines.md">⬅️ Part 28 — Error Handling and Diagnostics in Mapping Pipelines</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./30-performance-memory-engineering-mapping-layers.md">Part 30 — Performance and Memory Engineering for Mapping Layers ➡️</a>
+</div>

@@ -1688,6 +1688,9 @@ and how will the type/API prevent invalid states?”
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Objects.html#requireNonNull(T)
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 046](./learn-java-collections-and-streams-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 048](./learn-java-collections-and-streams-part-048.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-046.md">⬅️ Java Collections and Streams — Part 046</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-048.md">Java Collections and Streams — Part 048 ➡️</a>
+</div>

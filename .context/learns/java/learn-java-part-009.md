@@ -4125,6 +4125,9 @@ Apa bukti correctness-nya?
 Itulah perbedaan antara engineer yang hanya bisa memakai API concurrency dan engineer yang bisa mendesain sistem concurrent yang benar, observable, dan tahan production failure.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 008 — Error Handling, Exceptions, dan Reliability Engineering](./learn-java-part-008.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java — Part 010](./learn-java-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-part-008.md">⬅️ Learn Java Part 008 — Error Handling, Exceptions, dan Reliability Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-010.md">Learn Java — Part 010 ➡️</a>
+</div>

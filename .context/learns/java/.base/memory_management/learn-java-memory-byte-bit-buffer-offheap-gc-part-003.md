@@ -2212,6 +2212,9 @@ Referensi utama yang relevan untuk bagian ini:
 6. Java SE documentation dan HotSpot serviceability tools untuk observability object/class histogram.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Primitive Memory Semantics: Dari `boolean` sampai `double`](./learn-java-memory-byte-bit-buffer-offheap-gc-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: References, Pointers, OOPs, CompressedOops, dan Object Graph](./learn-java-memory-byte-bit-buffer-offheap-gc-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-002.md">⬅️ Java Primitive Memory Semantics: Dari `boolean` sampai `double`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-004.md">References, Pointers, OOPs, CompressedOops, dan Object Graph ➡️</a>
+</div>

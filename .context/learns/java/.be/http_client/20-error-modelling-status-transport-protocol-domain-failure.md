@@ -2643,6 +2643,9 @@ File: 21-observability-logging-metrics-tracing-correlation-redaction.md
 Part 21 akan membahas bagaimana semua classification dan lifecycle HTTP client diterjemahkan menjadi logging, metrics, tracing, redaction, dan operational visibility yang benar.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — API Client Architecture: Port, Adapter, Gateway, SDK, Anti-Corruption Layer](./19-api-client-architecture-port-adapter-gateway-sdk-acl.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Observability: Logging, Metrics, Tracing, Correlation, Redaction](./21-observability-logging-metrics-tracing-correlation-redaction.md)
+<div class="page-nav">
+<a href="./19-api-client-architecture-port-adapter-gateway-sdk-acl.md">⬅️ Part 19 — API Client Architecture: Port, Adapter, Gateway, SDK, Anti-Corruption Layer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./21-observability-logging-metrics-tracing-correlation-redaction.md">Part 21 — Observability: Logging, Metrics, Tracing, Correlation, Redaction ➡️</a>
+</div>

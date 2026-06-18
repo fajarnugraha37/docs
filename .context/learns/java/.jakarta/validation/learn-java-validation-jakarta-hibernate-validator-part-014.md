@@ -3312,6 +3312,9 @@ part-015: Programmatic Constraint Mapping and Runtime Metadata
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Message Interpolation: i18n, EL, Security, and Error Message Governance](./learn-java-validation-jakarta-hibernate-validator-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — Programmatic Constraint Mapping and Runtime Metadata](./learn-java-validation-jakarta-hibernate-validator-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-013.md">⬅️ Message Interpolation: i18n, EL, Security, and Error Message Governance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-015.md">Part 015 — Programmatic Constraint Mapping and Runtime Metadata ➡️</a>
+</div>

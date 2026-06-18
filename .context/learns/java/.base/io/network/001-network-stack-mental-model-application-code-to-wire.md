@@ -1970,6 +1970,9 @@ Kita akan masuk lebih rendah ke TCP sebagai fondasi transport:
 - OpenTelemetry Documentation — context propagation and Java zero-code instrumentation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Orientation: From Java I/O Developer to Network Systems Engineer](./000-orientation-from-java-io-developer-to-network-systems-engineer.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 2 — TCP for Java Engineers: Connections, Streams, Buffers, and Failure Semantics](./002-tcp-for-java-engineers-connections-streams-buffers-failures.md)
+<div class="page-nav">
+<a href="./000-orientation-from-java-io-developer-to-network-systems-engineer.md">⬅️ Part 0 — Orientation: From Java I/O Developer to Network Systems Engineer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./002-tcp-for-java-engineers-connections-streams-buffers-failures.md">Part 2 — TCP for Java Engineers: Connections, Streams, Buffers, and Failure Semantics ➡️</a>
+</div>

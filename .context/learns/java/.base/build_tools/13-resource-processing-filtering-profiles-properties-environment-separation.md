@@ -2368,6 +2368,9 @@ Part 14 — Plugin System Deep Dive: Maven Plugin Anatomy dan Gradle Plugin Anat
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — Packaging Engineering: JAR, Fat JAR, Thin JAR, WAR, EAR, Modular JAR, Native Image](./12-packaging-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Plugin System Deep Dive: Maven Plugin Anatomy dan Gradle Plugin Anatomy](./14-plugin-system-deep-dive.md)
+<div class="page-nav">
+<a href="./12-packaging-engineering.md">⬅️ Part 12 — Packaging Engineering: JAR, Fat JAR, Thin JAR, WAR, EAR, Modular JAR, Native Image</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./14-plugin-system-deep-dive.md">Part 14 — Plugin System Deep Dive: Maven Plugin Anatomy dan Gradle Plugin Anatomy ➡️</a>
+</div>

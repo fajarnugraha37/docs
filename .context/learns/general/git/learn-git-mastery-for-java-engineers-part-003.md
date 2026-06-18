@@ -2641,6 +2641,9 @@ Lifecycle Perubahan: Dari Edit File sampai Commit Berkualitas
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 002 — Repository, Working Tree, Index, dan Object Database](./learn-git-mastery-for-java-engineers-part-002.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 004 — Lifecycle Perubahan: Dari Edit File sampai Commit Berkualitas](./learn-git-mastery-for-java-engineers-part-004.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Repository, Working Tree, Index, dan Object Database</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-004.md">Part 004 — Lifecycle Perubahan: Dari Edit File sampai Commit Berkualitas ➡️</a>
+</div>

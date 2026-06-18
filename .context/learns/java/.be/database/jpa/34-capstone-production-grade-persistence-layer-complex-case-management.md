@@ -2433,6 +2433,9 @@ The series is now complete.
 - EclipseLink release documentation — official source for Jakarta Persistence 3.2 / Jakarta EE 11 modernization context.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 33 — Production Failure Playbook: Symptoms, Root Causes, and Fix Patterns](./33-production-failure-playbook-symptoms-root-causes-fix-patterns.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Database Change as Engineering Discipline](../migration/00-orientation-database-change-engineering.md)
+<div class="page-nav">
+<a href="./33-production-failure-playbook-symptoms-root-causes-fix-patterns.md">⬅️ Part 33 — Production Failure Playbook: Symptoms, Root Causes, and Fix Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<span></span>
+</div>

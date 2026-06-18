@@ -2189,6 +2189,9 @@ Bit Manipulation Patterns for Real Systems
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java References Deep Dive: Strong, Soft, Weak, Phantom, Cleaner](./learn-java-memory-byte-bit-buffer-offheap-gc-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 010 — Bit Manipulation Patterns for Real Systems](./learn-java-memory-byte-bit-buffer-offheap-gc-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-008.md">⬅️ Java References Deep Dive: Strong, Soft, Weak, Phantom, Cleaner</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-010.md">Part 010 — Bit Manipulation Patterns for Real Systems ➡️</a>
+</div>

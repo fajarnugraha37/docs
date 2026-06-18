@@ -2503,6 +2503,9 @@ Pada part berikutnya kita akan masuk ke polymorphism lanjutan: overloading, over
 **Part berikutnya:** `learn-java-oop-functional-reflection-codegen-modules-part-012.md` — Advanced Polymorphism: Overloading, Overriding, Dispatch, and Pattern Matching.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Nested, Inner, Local, and Anonymous Classes](./learn-java-oop-functional-reflection-codegen-modules-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Advanced Polymorphism: Overloading, Overriding, Dispatch, and Pattern Matching](./learn-java-oop-functional-reflection-codegen-modules-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-010.md">⬅️ Nested, Inner, Local, and Anonymous Classes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-012.md">Advanced Polymorphism: Overloading, Overriding, Dispatch, and Pattern Matching ➡️</a>
+</div>

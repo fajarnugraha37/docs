@@ -2258,6 +2258,9 @@ Progress saat ini:
 Part berikutnya: **Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KMS, HSM**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — Digital Signature: RSA, ECDSA, EdDSA, Signing Semantics](./learn-java-security-cryptography-integrity-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KMS, HSM](./learn-java-security-cryptography-integrity-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-009.md">⬅️ Part 9 — Digital Signature: RSA, ECDSA, EdDSA, Signing Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-011.md">Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KMS, HSM ➡️</a>
+</div>

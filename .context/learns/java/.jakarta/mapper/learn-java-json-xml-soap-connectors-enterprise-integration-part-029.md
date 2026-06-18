@@ -1916,6 +1916,9 @@ Kita belum selesai.
 - Target akhir seri: **Part 34**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — * Interoperability Field Guide](./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Legacy SOAP Modernization Patterns](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md">⬅️ Part 28 — * Interoperability Field Guide</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md">Part 30 — Legacy SOAP Modernization Patterns ➡️</a>
+</div>

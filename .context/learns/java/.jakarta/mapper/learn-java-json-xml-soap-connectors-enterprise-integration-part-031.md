@@ -1977,6 +1977,9 @@ Bagian berikutnya:
 > Fokus: outbound resource adapter, inbound message endpoint, activation spec, work manager, lifecycle, classloading, deployment descriptor, dan desain implementasi adapter yang lebih konkret.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Legacy SOAP Modernization Patterns](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 032 — JCA Inbound/Outbound Architecture](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md">⬅️ Part 30 — Legacy SOAP Modernization Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md">Part 032 — JCA Inbound/Outbound Architecture ➡️</a>
+</div>

@@ -2737,6 +2737,9 @@ Engineer top-tier tidak hanya bisa mengirim email. Ia tahu apa yang terjadi jika
 Bagian berikutnya akan membahas **Jakarta Batch (`jakarta.batch`)**: job, step, chunk, batchlet, checkpoint, restartability, partitioning, retry/skip, batch transaction boundary, and production batch processing.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 19 — Jakarta Messaging (`jakarta.jms`): Queue, Topic, Reliability, dan Event-Driven Boundary](./learn-java-jakarta-part-019.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 21 — Jakarta Batch (`jakarta.batch`): Job, Step, Chunk, Checkpoint, Restartability, dan Production Batch Processing](./learn-java-jakarta-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-019.md">⬅️ Bagian 19 — Jakarta Messaging (`jakarta.jms`): Queue, Topic, Reliability, dan Event-Driven Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-021.md">Bagian 21 — Jakarta Batch (`jakarta.batch`): Job, Step, Chunk, Checkpoint, Restartability, dan Production Batch Processing ➡️</a>
+</div>

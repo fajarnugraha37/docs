@@ -2442,6 +2442,9 @@ Itulah perbedaan antara migration sebagai script dan migration sebagai engineeri
 Part berikutnya: `28-multitenant-database-migration.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: CI/CD Pipeline for Database Migration](./26-cicd-pipeline-database-migration.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Multi-Tenant Database Migration](./28-multitenant-database-migration.md)
+<div class="page-nav">
+<a href="./26-cicd-pipeline-database-migration.md">⬅️ CI/CD Pipeline for Database Migration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./28-multitenant-database-migration.md">Part 28 — Multi-Tenant Database Migration ➡️</a>
+</div>

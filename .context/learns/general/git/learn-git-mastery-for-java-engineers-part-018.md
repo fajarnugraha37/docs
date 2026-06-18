@@ -2363,6 +2363,9 @@ Bisect: Debugging Regresi dengan Git
 Kita akan belajar menggunakan Git bukan hanya sebagai version control, tetapi sebagai mesin binary search untuk menemukan commit penyebab bug.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 017 — Recovery: Reflog, Lost Commit, dan Disaster Handling](./learn-git-mastery-for-java-engineers-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 019 — Bisect: Debugging Regresi dengan Git](./learn-git-mastery-for-java-engineers-part-019.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Recovery: Reflog, Lost Commit, dan Disaster Handling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-019.md">Part 019 — Bisect: Debugging Regresi dengan Git ➡️</a>
+</div>

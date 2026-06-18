@@ -1658,6 +1658,9 @@ but make capacity limits explicit.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/ThreadLocal.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 012](./learn-java-concurrency-and-reactive-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 014](./learn-java-concurrency-and-reactive-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-012.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 012</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-014.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 014 ➡️</a>
+</div>

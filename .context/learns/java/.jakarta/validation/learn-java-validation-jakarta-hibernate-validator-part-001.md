@@ -2387,6 +2387,9 @@ Bagian berikutnya:
 - Part 002 — Core API Mental Model: `ValidatorFactory`, `Validator`, `ConstraintViolation`, Metadata
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Validation as Contract, Boundary Defense, and Domain Integrity](./learn-java-validation-jakarta-hibernate-validator-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Core API Mental Model: `ValidatorFactory`, `Validator`, `ConstraintViolation`, and Metadata](./learn-java-validation-jakarta-hibernate-validator-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-000.md">⬅️ Validation as Contract, Boundary Defense, and Domain Integrity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-002.md">Core API Mental Model: `ValidatorFactory`, `Validator`, `ConstraintViolation`, and Metadata ➡️</a>
+</div>

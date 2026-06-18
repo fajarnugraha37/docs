@@ -2754,6 +2754,9 @@ Bagian 028 — JAX-RS Client API: Mental Model and Core Usage
 Kita akan membahas client-side JAX-RS secara mendalam: `Client`, `WebTarget`, `Invocation.Builder`, request/response lifecycle, entity handling, timeouts, headers, cookies, providers, and safe resource management.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 026 — Streaming Responses: `StreamingOutput`, Chunking, Large Download, File Streaming, Range Requests, Backpressure, Error After Commit, Compression, Checksums, and Production-Safe Download APIs](./learn-jaxrs-advanced-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 028 — JAX-RS Client API: Mental Model and Core Usage: `Client`, `ClientBuilder`, `WebTarget`, `Invocation.Builder`, `Entity`, `Response`, Headers, Cookies, Timeouts, Providers, and Safe Resource Management](./learn-jaxrs-advanced-part-028.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-026.md">⬅️ Bagian 026 — Streaming Responses: `StreamingOutput`, Chunking, Large Download, File Streaming, Range Requests, Backpressure, Error After Commit, Compression, Checksums, and Production-Safe Download APIs</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-028.md">Bagian 028 — JAX-RS Client API: Mental Model and Core Usage: `Client`, `ClientBuilder`, `WebTarget`, `Invocation.Builder`, `Entity`, `Response`, Headers, Cookies, Timeouts, Providers, and Safe Resource Management ➡️</a>
+</div>

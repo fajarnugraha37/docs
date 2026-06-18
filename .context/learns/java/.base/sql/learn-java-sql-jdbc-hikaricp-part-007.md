@@ -1825,6 +1825,9 @@ Part berikutnya: Part 008 — Isolation Levels, Locking, and Observable Anomalie
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: JDBC Type System: SQL Types, Java Types, and Conversion Traps](./learn-java-sql-jdbc-hikaricp-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Isolation Levels, Locking, and Observable Anomalies](./learn-java-sql-jdbc-hikaricp-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-006.md">⬅️ JDBC Type System: SQL Types, Java Types, and Conversion Traps</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-008.md">Isolation Levels, Locking, and Observable Anomalies ➡️</a>
+</div>

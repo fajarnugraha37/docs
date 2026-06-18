@@ -3301,6 +3301,9 @@ Bagian 004 — Request Matching Algorithm Deep Dive
 Kita akan membedah bagaimana runtime memilih resource method ketika ada banyak `@Path`, regex, method, media type, subresource, dan ambiguity.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 002 — Anatomy of JAX-RS Application: `Application`, Base Path, Deployment, Runtime](./learn-jaxrs-advanced-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 004 — Request Matching Algorithm Deep Dive: Path Template, Specificity, Subresource, Media Type, dan Debugging 404/405/406/415](./learn-jaxrs-advanced-part-004.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-002.md">⬅️ Bagian 002 — Anatomy of JAX-RS Application: `Application`, Base Path, Deployment, Runtime</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-004.md">Bagian 004 — Request Matching Algorithm Deep Dive: Path Template, Specificity, Subresource, Media Type, dan Debugging 404/405/406/415 ➡️</a>
+</div>

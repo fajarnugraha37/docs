@@ -2203,6 +2203,9 @@ Di sana fokusnya bergeser dari boundary input ke **cache correctness**:
 - production rules.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Concurrency Control: Optimistic Locking, Pessimistic Locking, and Lost Updates](./19-concurrency-control-optimistic-pessimistic-locking-lost-updates.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 21 — Second-Level Cache, Query Cache, Natural ID Cache, and Cache Correctness](./21-second-level-cache-query-cache-natural-id-cache-correctness.md)
+<div class="page-nav">
+<a href="./19-concurrency-control-optimistic-pessimistic-locking-lost-updates.md">⬅️ Part 19 — Concurrency Control: Optimistic Locking, Pessimistic Locking, and Lost Updates</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./21-second-level-cache-query-cache-natural-id-cache-correctness.md">Part 21 — Second-Level Cache, Query Cache, Natural ID Cache, and Cache Correctness ➡️</a>
+</div>

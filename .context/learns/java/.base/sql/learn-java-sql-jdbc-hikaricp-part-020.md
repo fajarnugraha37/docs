@@ -2614,6 +2614,9 @@ File: learn-java-sql-jdbc-hikaricp-part-021.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 019 — HikariCP Architecture and Design Philosophy](./learn-java-sql-jdbc-hikaricp-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Pool Sizing: From Guesswork to Capacity Model](./learn-java-sql-jdbc-hikaricp-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-019.md">⬅️ Part 019 — HikariCP Architecture and Design Philosophy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-021.md">Pool Sizing: From Guesswork to Capacity Model ➡️</a>
+</div>

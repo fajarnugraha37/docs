@@ -1937,6 +1937,9 @@ Yang harus dibawa ke part berikutnya:
 Part berikutnya akan masuk ke **Performance Engineering**: build time, configuration cache, daemon, parallelism, incrementality, build cache, profiling, dan cara berpikir seperti engineer yang mampu memangkas build enterprise dari puluhan menit menjadi beberapa menit tanpa mengorbankan correctness.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — Maven Advanced Plugin Engineering: Custom Mojo, Parameter Injection, Lifecycle Binding](./15-maven-advanced-plugin-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Performance Engineering: Build Time, Configuration Cache, Daemon, Parallelism, Incrementality](./17-performance-engineering.md)
+<div class="page-nav">
+<a href="./15-maven-advanced-plugin-engineering.md">⬅️ Part 15 — Maven Advanced Plugin Engineering: Custom Mojo, Parameter Injection, Lifecycle Binding</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./17-performance-engineering.md">Part 17 — Performance Engineering: Build Time, Configuration Cache, Daemon, Parallelism, Incrementality ➡️</a>
+</div>

@@ -3309,6 +3309,9 @@ Bagian 008 — Context Injection: @Context, UriInfo, HttpHeaders, Request, Secur
 Kita akan membedah request/runtime context injection, conditional requests, headers negotiation, security principal, provider lookup, subresource instantiation, and how to use context without leaking HTTP details deep into the domain.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 006 — Parameter Injection: `@PathParam`, `@QueryParam`, `@HeaderParam`, `@CookieParam`, `@MatrixParam`, `@DefaultValue`, `@BeanParam`](./learn-jaxrs-advanced-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 008 — Context Injection: `@Context`, `UriInfo`, `HttpHeaders`, `Request`, `SecurityContext`, `Providers`, `ResourceContext`, dan Runtime Metadata Boundary](./learn-jaxrs-advanced-part-008.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-006.md">⬅️ Bagian 006 — Parameter Injection: `@PathParam`, `@QueryParam`, `@HeaderParam`, `@CookieParam`, `@MatrixParam`, `@DefaultValue`, `@BeanParam`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-008.md">Bagian 008 — Context Injection: `@Context`, `UriInfo`, `HttpHeaders`, `Request`, `SecurityContext`, `Providers`, `ResourceContext`, dan Runtime Metadata Boundary ➡️</a>
+</div>

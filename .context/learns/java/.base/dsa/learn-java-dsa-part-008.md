@@ -2648,6 +2648,9 @@ Part 009 — Binary Search, Sorted Data, Navigable Structures
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 007 — HashMap, HashSet, LinkedHashMap, IdentityHashMap, WeakHashMap](./learn-java-dsa-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java DSA — Part 009: Binary Search, Sorted Data, Navigable Structures](./learn-java-dsa-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-007.md">⬅️ Part 007 — HashMap, HashSet, LinkedHashMap, IdentityHashMap, WeakHashMap</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-009.md">Learn Java DSA — Part 009: Binary Search, Sorted Data, Navigable Structures ➡️</a>
+</div>

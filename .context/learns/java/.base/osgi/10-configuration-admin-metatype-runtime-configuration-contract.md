@@ -3488,6 +3488,9 @@ Configuration becomes much safer when build tooling generates and validates the 
 - Bndtools Declarative Services and Metatype documentation: https://bndtools.org/doc/217-ds.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — Advanced Declarative Services Patterns: Dynamic Topologies Without Chaos](./09-advanced-declarative-services-patterns-dynamic-topologies-without-chaos.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — bnd and Bndtools: Build Intelligence for OSGi Engineering](./11-bnd-bndtools-build-intelligence-osgi-engineering.md)
+<div class="page-nav">
+<a href="./09-advanced-declarative-services-patterns-dynamic-topologies-without-chaos.md">⬅️ Part 9 — Advanced Declarative Services Patterns: Dynamic Topologies Without Chaos</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./11-bnd-bndtools-build-intelligence-osgi-engineering.md">Part 11 — bnd and Bndtools: Build Intelligence for OSGi Engineering ➡️</a>
+</div>

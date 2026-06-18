@@ -2095,6 +2095,9 @@ serialization trap
 Part 17 memberi fondasi cache. Part 18 akan menunjukkan bagaimana cache sering muncul sebagai “obat sementara” untuk N+1, padahal solusi yang benar sering kali adalah desain fetch strategy dan object graph boundary yang lebih eksplisit.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Batch Operations: Batch Executor, JDBC Batch, Bulk Insert, Bulk Update](./16-batch-operations-batch-executor-jdbc-batch-bulk-insert-update.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 18 — Lazy Loading, Nested Select, N+1, and Object Graph Control](./18-lazy-loading-nested-select-n-plus-one-object-graph-control.md)
+<div class="page-nav">
+<a href="./16-batch-operations-batch-executor-jdbc-batch-bulk-insert-update.md">⬅️ Part 16 — Batch Operations: Batch Executor, JDBC Batch, Bulk Insert, Bulk Update</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./18-lazy-loading-nested-select-n-plus-one-object-graph-control.md">Part 18 — Lazy Loading, Nested Select, N+1, and Object Graph Control ➡️</a>
+</div>

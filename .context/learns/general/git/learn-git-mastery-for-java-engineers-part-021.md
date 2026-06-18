@@ -2952,6 +2952,9 @@ Line Endings, Whitespace, Encoding, dan Cross-Platform Issues
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 020 — Blame, Pickaxe, dan Forensic Code Archaeology](./learn-git-mastery-for-java-engineers-part-020.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 022 — Line Endings, Whitespace, Encoding, dan Cross-Platform Issues](./learn-git-mastery-for-java-engineers-part-022.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Blame, Pickaxe, dan Forensic Code Archaeology</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-022.md">Part 022 — Line Endings, Whitespace, Encoding, dan Cross-Platform Issues ➡️</a>
+</div>

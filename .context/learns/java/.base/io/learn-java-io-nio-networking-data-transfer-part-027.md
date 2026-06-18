@@ -1877,6 +1877,9 @@ Cetak setiap 5 detik.
 - Java platform documentation for NIO channels, buffers, and file APIs.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 026 — Large File Processing: Memory Safety, Streaming Pipeline, Pagination, Split, Merge, dan External Sort](./learn-java-io-nio-networking-data-transfer-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 028 — Concurrency and I/O: Thread-per-Connection, Virtual Thread, Async I/O, Locking, dan Backpressure](./learn-java-io-nio-networking-data-transfer-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-026.md">⬅️ Part 026 — Large File Processing: Memory Safety, Streaming Pipeline, Pagination, Split, Merge, dan External Sort</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-028.md">Part 028 — Concurrency and I/O: Thread-per-Connection, Virtual Thread, Async I/O, Locking, dan Backpressure ➡️</a>
+</div>

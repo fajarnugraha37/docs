@@ -1698,8 +1698,10 @@ Progress saat ini:
 - [ ] Part 34 — Building a Production-Grade Java Observability Starter Kit
 - [ ] Part 35 — Capstone: Diagnose a Complex Java Production Incident End-to-End
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — SLF4J Deep Dive: Parameterized, Fluent, Marker, Key-Value Logging](./04-slf4j-deep-dive-parameterized-fluent-marker-key-value-logging.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Logback Deep Dive II: AsyncAppender, MDC, Sifting, Filtering, JSON](./06-logback-deep-dive-asyncappender-mdc-sifting-filtering-json.md)
+<div class="page-nav">
+<a href="./04-slf4j-deep-dive-parameterized-fluent-marker-key-value-logging.md">⬅️ Part 4 — SLF4J Deep Dive: Parameterized, Fluent, Marker, Key-Value Logging</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./06-logback-deep-dive-asyncappender-mdc-sifting-filtering-json.md">Part 6 — Logback Deep Dive II: AsyncAppender, MDC, Sifting, Filtering, JSON ➡️</a>
+</div>

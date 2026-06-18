@@ -1899,8 +1899,10 @@ Berikutnya:
 Part 21 — JFR Deep Dive II: Custom Events, Production Recording, JMC Analysis
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Exception Logging and Error Taxonomy](./19-exception-logging-and-error-taxonomy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — JFR Deep Dive II: Custom Events, Production Recording, JMC Analysis](./21-jfr-deep-dive-custom-events-production-recording-jmc-analysis.md)
+<div class="page-nav">
+<a href="./19-exception-logging-and-error-taxonomy.md">⬅️ Part 19 — Exception Logging and Error Taxonomy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./21-jfr-deep-dive-custom-events-production-recording-jmc-analysis.md">Part 21 — JFR Deep Dive II: Custom Events, Production Recording, JMC Analysis ➡️</a>
+</div>

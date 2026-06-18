@@ -2020,6 +2020,9 @@ Engineer top-tier tidak hanya mengganti annotation. Ia memahami perubahan compon
 Bagian berikutnya akan membahas **Jakarta Config / Configuration-related model** bila relevan terhadap stack Jakarta modern, lalu dilanjutkan ke bagian synthesis tentang **Jakarta EE application architecture, migration strategy, runtime selection, and production readiness**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 36 — Jakarta Management (`javax.management.j2ee`): MEJB, JSR-77 Management Model, Managed Objects, JMX Bridge, dan Observability Legacy](./learn-java-jakarta-part-036.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 38 — Jakarta EE Configuration, Runtime Selection, dan Production Architecture Strategy](./learn-java-jakarta-part-038.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-036.md">⬅️ Bagian 36 — Jakarta Management (`javax.management.j2ee`): MEJB, JSR-77 Management Model, Managed Objects, JMX Bridge, dan Observability Legacy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-038.md">Bagian 38 — Jakarta EE Configuration, Runtime Selection, dan Production Architecture Strategy ➡️</a>
+</div>

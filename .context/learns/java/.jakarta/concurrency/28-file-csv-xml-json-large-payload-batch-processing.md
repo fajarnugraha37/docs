@@ -2032,6 +2032,9 @@ Part ini menutup pembahasan file/payload batch dari sudut pandang production eng
 Part berikutnya akan membahas external API batch: ketika item batch bukan hanya dibaca dari file/database, tetapi juga harus memanggil sistem eksternal dengan rate limit, token, retry, idempotency key, outbox, circuit breaker, dan SLA-aware processing.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Batch Listeners and Cross-Cutting Behavior](./27-batch-listeners-cross-cutting-behavior.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — External API Batch: Rate Limits, Retries, and Idempotent Integration](./29-external-api-batch-rate-limits-retries-idempotent-integration.md)
+<div class="page-nav">
+<a href="./27-batch-listeners-cross-cutting-behavior.md">⬅️ Part 27 — Batch Listeners and Cross-Cutting Behavior</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./29-external-api-batch-rate-limits-retries-idempotent-integration.md">Part 29 — External API Batch: Rate Limits, Retries, and Idempotent Integration ➡️</a>
+</div>

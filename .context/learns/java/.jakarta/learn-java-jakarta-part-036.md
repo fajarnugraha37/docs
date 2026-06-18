@@ -2097,6 +2097,9 @@ Engineer top-tier tahu bahwa observability modern tidak cukup hanya “server ru
 Bagian berikutnya akan membahas **Jakarta Managed Beans (`jakarta.annotation.ManagedBean` legacy / Managed Beans spec)**: historical managed bean model, why CDI replaced it, Jakarta EE 11 removal/deprecation context, migration to CDI, lifecycle annotations, injection differences, and how to reason about old code that still uses Managed Beans concepts.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 35 — Jakarta Deployment (`javax.enterprise.deploy` / `jakarta.enterprise.deploy-api`): Deployment SPI, Tooling Contract, TargetModuleID, ProgressObject, dan Relevansi Modern](./learn-java-jakarta-part-035.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 37 — Jakarta Managed Beans / Legacy Managed Beans: `@ManagedBean`, Container-Managed POJO, Faces Managed Bean, dan Migrasi ke CDI](./learn-java-jakarta-part-037.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-035.md">⬅️ Bagian 35 — Jakarta Deployment (`javax.enterprise.deploy` / `jakarta.enterprise.deploy-api`): Deployment SPI, Tooling Contract, TargetModuleID, ProgressObject, dan Relevansi Modern</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-037.md">Bagian 37 — Jakarta Managed Beans / Legacy Managed Beans: `@ManagedBean`, Container-Managed POJO, Faces Managed Bean, dan Migrasi ke CDI ➡️</a>
+</div>

@@ -2295,6 +2295,9 @@ Bagian 024 — Asynchronous JAX-RS Server: AsyncResponse, Timeouts, Cancellation
 Kita akan membahas server-side async secara mendalam: `@Suspended AsyncResponse`, timeout, cancellation, executor model, backpressure, request lifecycle, error handling, and production-safe async APIs.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 022 — Conditional Requests, ETag, Last-Modified, Optimistic Concurrency: Validators, `If-Match`, `If-None-Match`, `If-Modified-Since`, `If-Unmodified-Since`, `304`, `412`, `428`, Cache Revalidation, dan Lost Update Prevention](./learn-jaxrs-advanced-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 024 — Asynchronous JAX-RS Server: `AsyncResponse`, `@Suspended`, `CompletionStage`, Timeouts, Cancellation, Lifecycle Callbacks, Executor Model, Backpressure, and Production-Safe Async APIs](./learn-jaxrs-advanced-part-024.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-022.md">⬅️ Bagian 022 — Conditional Requests, ETag, Last-Modified, Optimistic Concurrency: Validators, `If-Match`, `If-None-Match`, `If-Modified-Since`, `If-Unmodified-Since`, `304`, `412`, `428`, Cache Revalidation, dan Lost Update Prevention</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-024.md">Bagian 024 — Asynchronous JAX-RS Server: `AsyncResponse`, `@Suspended`, `CompletionStage`, Timeouts, Cancellation, Lifecycle Callbacks, Executor Model, Backpressure, and Production-Safe Async APIs ➡️</a>
+</div>

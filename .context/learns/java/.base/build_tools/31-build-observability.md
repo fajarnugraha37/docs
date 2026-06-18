@@ -1875,6 +1875,9 @@ Berikutnya:
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Advanced Maven: Reactor, Effective Model, Resolver, Enforcer, Extensions](./30-advanced-maven-reactor-effective-model-resolver-enforcer-extensions.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Monorepo, Polyrepo, and Enterprise Build Topologies](./32-monorepo-polyrepo-enterprise-build-topologies.md)
+<div class="page-nav">
+<a href="./30-advanced-maven-reactor-effective-model-resolver-enforcer-extensions.md">⬅️ Part 30 — Advanced Maven: Reactor, Effective Model, Resolver, Enforcer, Extensions</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./32-monorepo-polyrepo-enterprise-build-topologies.md">Part 32 — Monorepo, Polyrepo, and Enterprise Build Topologies ➡️</a>
+</div>

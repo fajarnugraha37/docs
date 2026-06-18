@@ -1765,6 +1765,9 @@ and value size, do not use it.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/ExecutorService.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 011](./learn-java-concurrency-and-reactive-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 013](./learn-java-concurrency-and-reactive-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-011.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 011</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-013.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 013 ➡️</a>
+</div>

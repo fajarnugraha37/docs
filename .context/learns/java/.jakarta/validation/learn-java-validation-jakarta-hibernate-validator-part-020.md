@@ -2589,6 +2589,9 @@ Bagian berikutnya:
 - Part 021 — Validation in Event-Driven and Async Systems
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Validation in REST APIs: JAX-RS, Spring MVC, Error Mapping, and Problem Details](./learn-java-validation-jakarta-hibernate-validator-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Validation in Event-Driven and Async Systems](./learn-java-validation-jakarta-hibernate-validator-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-019.md">⬅️ Validation in REST APIs: JAX-RS, Spring MVC, Error Mapping, and Problem Details</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-021.md">Validation in Event-Driven and Async Systems ➡️</a>
+</div>

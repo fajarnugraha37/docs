@@ -2382,6 +2382,9 @@ Part berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Liquibase Changelog Design](./13-liquibase-changelog-design.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — Liquibase Rollback Engineering](./15-liquibase-rollback-engineering.md)
+<div class="page-nav">
+<a href="./13-liquibase-changelog-design.md">⬅️ Part 13 — Liquibase Changelog Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./15-liquibase-rollback-engineering.md">Part 15 — Liquibase Rollback Engineering ➡️</a>
+</div>

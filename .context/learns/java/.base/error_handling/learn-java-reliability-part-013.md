@@ -1839,6 +1839,9 @@ Part 014 — Transaction Safety During Failure and Shutdown
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 012 — Request Draining and In-Flight Work Management](./learn-java-reliability-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — Transaction Safety During Failure and Shutdown](./learn-java-reliability-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-012.md">⬅️ Part 012 — Request Draining and In-Flight Work Management</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-014.md">Part 014 — Transaction Safety During Failure and Shutdown ➡️</a>
+</div>

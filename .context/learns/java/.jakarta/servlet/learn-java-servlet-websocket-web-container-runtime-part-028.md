@@ -2198,6 +2198,9 @@ Part berikutnya akan naik satu layer keluar dari container: **reverse proxy, loa
 - RFC 9110 — HTTP Semantics — https://www.rfc-editor.org/rfc/rfc9110.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 027 — JSP, Jakarta Pages, Expression Language, JSTL: Legacy but Still Important](./learn-java-servlet-websocket-web-container-runtime-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — Reverse Proxy, Load Balancer, Kubernetes, and Cloud Runtime](./learn-java-servlet-websocket-web-container-runtime-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-027.md">⬅️ Part 027 — JSP, Jakarta Pages, Expression Language, JSTL: Legacy but Still Important</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-029.md">Part 029 — Reverse Proxy, Load Balancer, Kubernetes, and Cloud Runtime ➡️</a>
+</div>

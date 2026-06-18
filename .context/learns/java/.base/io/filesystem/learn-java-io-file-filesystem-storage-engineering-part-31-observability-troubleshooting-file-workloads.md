@@ -2221,6 +2221,9 @@ Kita akan naik dari observability ke architecture pattern:
 - backpressure dan capacity control.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Performance Engineering: Syscalls, Page Cache, Buffering, Batching, and Directory Scale](./learn-java-io-file-filesystem-storage-engineering-part-30-performance-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Learn Java IO File Filesystem Storage Engineering — Part 32](./learn-java-io-file-filesystem-storage-engineering-part-32-file-workflow-architecture-patterns.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-30-performance-engineering.md">⬅️ Part 30 — Performance Engineering: Syscalls, Page Cache, Buffering, Batching, and Directory Scale</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-32-file-workflow-architecture-patterns.md">Learn Java IO File Filesystem Storage Engineering — Part 32 ➡️</a>
+</div>

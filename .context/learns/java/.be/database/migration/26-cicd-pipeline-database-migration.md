@@ -2184,6 +2184,9 @@ Seri belum selesai. Berikutnya:
 **Part 27 — Multi-Service, Multi-Module, and Shared Database Migrations**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — Migration in Jakarta EE, Plain Java, and Non-Spring Systems](./25-migration-in-jakarta-ee-plain-java-non-spring.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 27 — Multi-Service, Multi-Module, and Shared Database Migrations](./27-multiservice-multimodule-shared-database-migrations.md)
+<div class="page-nav">
+<a href="./25-migration-in-jakarta-ee-plain-java-non-spring.md">⬅️ Part 25 — Migration in Jakarta EE, Plain Java, and Non-Spring Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./27-multiservice-multimodule-shared-database-migrations.md">Part 27 — Multi-Service, Multi-Module, and Shared Database Migrations ➡️</a>
+</div>

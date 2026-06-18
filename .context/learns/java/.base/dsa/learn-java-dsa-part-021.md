@@ -1887,6 +1887,9 @@ Part 022 — Bit Manipulation, BitSet, Bloom Filter
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 020 — Greedy Algorithms and Exchange Argument](./learn-java-dsa-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 022 — Bit Manipulation, `BitSet`, Bloom Filter](./learn-java-dsa-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-020.md">⬅️ Part 020 — Greedy Algorithms and Exchange Argument</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-022.md">Part 022 — Bit Manipulation, `BitSet`, Bloom Filter ➡️</a>
+</div>

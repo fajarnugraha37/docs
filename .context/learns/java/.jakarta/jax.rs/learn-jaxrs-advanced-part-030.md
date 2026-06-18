@@ -2366,6 +2366,9 @@ Bagian 031 — CDI Integration and Resource/Provider Injection
 Kita akan membahas CDI integration secara mendalam: injection ke resource/provider, scope, proxy, lifecycle, request context, provider singleton caveats, `@Context` vs CDI injection, testing, and production patterns.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 029 — Advanced Client API: Filters, Interceptors, Features, Async, Reactive Invoker, SSE Client, Resilience Hooks, and Production Instrumentation](./learn-jaxrs-advanced-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 031 — CDI Integration and Resource/Provider Injection: Resource Lifecycle, Provider Lifecycle, `@Inject`, `@Context`, Scopes, Proxies, Request Context, Thread Safety, Testing, and Production Patterns](./learn-jaxrs-advanced-part-031.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-029.md">⬅️ Bagian 029 — Advanced Client API: Filters, Interceptors, Features, Async, Reactive Invoker, SSE Client, Resilience Hooks, and Production Instrumentation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-031.md">Bagian 031 — CDI Integration and Resource/Provider Injection: Resource Lifecycle, Provider Lifecycle, `@Inject`, `@Context`, Scopes, Proxies, Request Context, Thread Safety, Testing, and Production Patterns ➡️</a>
+</div>

@@ -2825,6 +2825,9 @@ Part berikutnya: Part 8 — HTTP/1.1 Deep Dive: Connections, Pipelining, Chunkin
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Serialization on the Wire: JSON, XML, Protobuf, Avro, CBOR, and Java Object Serialization Risks](./006-serialization-on-the-wire-json-xml-protobuf-avro-cbor-java-object-serialization-risks.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 8 — HTTP/1.1 Deep Dive: Connections, Pipelining, Chunking, Keep-Alive, and Head-of-Line Blocking](./008-http11-deep-dive-connections-pipelining-chunking-keepalive-head-of-line-blocking.md)
+<div class="page-nav">
+<a href="./006-serialization-on-the-wire-json-xml-protobuf-avro-cbor-java-object-serialization-risks.md">⬅️ Part 6 — Serialization on the Wire: JSON, XML, Protobuf, Avro, CBOR, and Java Object Serialization Risks</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./008-http11-deep-dive-connections-pipelining-chunking-keepalive-head-of-line-blocking.md">Part 8 — HTTP/1.1 Deep Dive: Connections, Pipelining, Chunking, Keep-Alive, and Head-of-Line Blocking ➡️</a>
+</div>

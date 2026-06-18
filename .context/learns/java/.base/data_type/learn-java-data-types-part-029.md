@@ -1849,6 +1849,9 @@ Reflection is a sharp tool: essential for frameworks, dangerous as a shortcut fo
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/reflect/Type.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 028](./learn-java-data-types-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 030](./learn-java-data-types-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-028.md">⬅️ Java Data Types — Part 028</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-030.md">Java Data Types — Part 030 ➡️</a>
+</div>

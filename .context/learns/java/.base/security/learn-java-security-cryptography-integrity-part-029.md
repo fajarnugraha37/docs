@@ -2381,6 +2381,9 @@ Part 34 - Capstone: Designing a Secure Java Regulatory Case Management Platform
 Status seri: **belum selesai**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Signed JARs, JAR Integrity, Classloading, and Runtime Trust](./learn-java-security-cryptography-integrity-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Runtime Hardening: JVM, Container, OS, Network](./learn-java-security-cryptography-integrity-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-028.md">⬅️ Part 28 — Signed JARs, JAR Integrity, Classloading, and Runtime Trust</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-030.md">Part 30 — Runtime Hardening: JVM, Container, OS, Network ➡️</a>
+</div>

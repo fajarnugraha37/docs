@@ -1965,6 +1965,9 @@ File: 34-final-synthesis-decision-framework-checklist-top-engineering-heuristics
 Part 34 will close the series by turning the entire 35-part journey into a unified decision framework, design review checklist, operational checklist, and mental model summary.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Case Study: Building a Production-Grade Third-Party API Client](./32-case-study-production-grade-third-party-api-client.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Final Synthesis: Decision Framework, Checklist, and Top 1% Engineering Heuristics](./34-final-synthesis-decision-framework-checklist-top-engineering-heuristics.md)
+<div class="page-nav">
+<a href="./32-case-study-production-grade-third-party-api-client.md">⬅️ Part 32 — Case Study: Building a Production-Grade Third-Party API Client</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./34-final-synthesis-decision-framework-checklist-top-engineering-heuristics.md">Part 34 — Final Synthesis: Decision Framework, Checklist, and Top 1% Engineering Heuristics ➡️</a>
+</div>

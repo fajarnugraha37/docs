@@ -2265,6 +2265,9 @@ Prinsip paling penting:
 Dengan mental model ini, bagian berikutnya—dependency management API/implementation/runtime/BOM—akan jauh lebih masuk akal.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 1 — Namespace Migration: `javax.*` ke `jakarta.*`](./learn-java-jakarta-part-001.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 3 — Dependency Management: API, Implementation, Runtime, dan BOM](./learn-java-jakarta-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-001.md">⬅️ Bagian 1 — Namespace Migration: `javax.*` ke `jakarta.*`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-003.md">Bagian 3 — Dependency Management: API, Implementation, Runtime, dan BOM ➡️</a>
+</div>

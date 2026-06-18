@@ -2881,6 +2881,9 @@ Part 0 dari 35
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 030 — Final Integration: Production Playbook, Case Studies, and Decision Matrix](../memory_management/learn-java-memory-byte-bit-buffer-offheap-gc-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — OSGi Core Architecture: Framework Layers and Runtime Invariants](./01-osgi-core-architecture-framework-layers-runtime-invariants.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./01-osgi-core-architecture-framework-layers-runtime-invariants.md">Part 1 — OSGi Core Architecture: Framework Layers and Runtime Invariants ➡️</a>
+</div>

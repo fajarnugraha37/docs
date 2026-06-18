@@ -1951,6 +1951,9 @@ Masih tersisa Part 026, 027, 028, dan 029.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Metrics, Logs, Traces, and Database Correlation](./learn-java-sql-jdbc-hikaricp-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — Security and Integrity at JDBC Boundary](./learn-java-sql-jdbc-hikaricp-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-024.md">⬅️ Metrics, Logs, Traces, and Database Correlation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-026.md">Part 026 — Security and Integrity at JDBC Boundary ➡️</a>
+</div>

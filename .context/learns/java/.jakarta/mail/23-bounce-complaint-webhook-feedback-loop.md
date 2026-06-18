@@ -2261,6 +2261,9 @@ Kita akan naik satu level dari delivery feedback ke domain design:
 - audit defensibility.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Provider Integration Patterns: SMTP Relay vs API-Based Email Provider](./22-provider-integration-smtp-vs-api.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Template Architecture and Domain Notification Design](./24-template-architecture-domain-notification.md)
+<div class="page-nav">
+<a href="./22-provider-integration-smtp-vs-api.md">⬅️ Part 22 — Provider Integration Patterns: SMTP Relay vs API-Based Email Provider</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./24-template-architecture-domain-notification.md">Part 24 — Template Architecture and Domain Notification Design ➡️</a>
+</div>

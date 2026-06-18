@@ -1315,6 +1315,9 @@ Di part ini kita mempelajari:
 Part berikutnya akan membahas **Provisioning and Deployment: Repositories, Features, p2, Karaf, Containers, and Rollback**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — Observability and Troubleshooting: Wiring Graphs, Service Graphs, Memory Leaks, Startup Failures](./25-observability-troubleshooting-wiring-service-graphs-memory-leaks-startup-failures.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Provisioning and Deployment: Repositories, Features, p2, Karaf, Containers, and Rollback](./27-provisioning-deployment-repositories-features-p2-karaf-containers-rollback.md)
+<div class="page-nav">
+<a href="./25-observability-troubleshooting-wiring-service-graphs-memory-leaks-startup-failures.md">⬅️ Part 25 — Observability and Troubleshooting: Wiring Graphs, Service Graphs, Memory Leaks, Startup Failures</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./27-provisioning-deployment-repositories-features-p2-karaf-containers-rollback.md">Part 27 — Provisioning and Deployment: Repositories, Features, p2, Karaf, Containers, and Rollback ➡️</a>
+</div>

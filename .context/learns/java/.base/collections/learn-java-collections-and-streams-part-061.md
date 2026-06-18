@@ -1584,6 +1584,9 @@ mutability, concurrency, persistence behavior, security, tests, and metrics.
     https://openjdk.org/projects/code-tools/jcstress/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 060](./learn-java-collections-and-streams-part-060.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 062](./learn-java-collections-and-streams-part-062.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-060.md">⬅️ Java Collections and Streams — Part 060</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-062.md">Java Collections and Streams — Part 062 ➡️</a>
+</div>

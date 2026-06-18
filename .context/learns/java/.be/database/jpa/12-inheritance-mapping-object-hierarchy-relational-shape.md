@@ -2921,6 +2921,9 @@ The next topic moves from entity inheritance to value modeling:
 - domain invariants inside values.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — Cascades, Orphan Removal, Lifecycle Propagation, and Aggregate Boundaries](./11-cascades-orphan-removal-lifecycle-aggregate-boundaries.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — Embeddables, Value Objects, Attribute Converters, and Type Systems](./13-embeddables-value-objects-converters-type-systems.md)
+<div class="page-nav">
+<a href="./11-cascades-orphan-removal-lifecycle-aggregate-boundaries.md">⬅️ Part 11 — Cascades, Orphan Removal, Lifecycle Propagation, and Aggregate Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./13-embeddables-value-objects-converters-type-systems.md">Part 13 — Embeddables, Value Objects, Attribute Converters, and Type Systems ➡️</a>
+</div>

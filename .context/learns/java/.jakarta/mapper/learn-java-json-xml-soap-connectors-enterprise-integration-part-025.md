@@ -2181,6 +2181,9 @@ Status seri: **belum selesai**.
 Part ini adalah **Part 25 dari 34**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — WS / Jakarta XML Web Services Server Side](./learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — SOAP Faults, Errors & Resilience](./learn-java-json-xml-soap-connectors-enterprise-integration-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md">⬅️ Part 24 — WS / Jakarta XML Web Services Server Side</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-026.md">Part 26 — SOAP Faults, Errors & Resilience ➡️</a>
+</div>

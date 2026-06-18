@@ -2106,6 +2106,9 @@ Next part: 32-building-production-grade-osgi-case-study-runtime-from-scratch.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Anti-Patterns and Failure Modes: The Things That Make OSGi Projects Fail](./30-anti-patterns-failure-modes-things-that-make-osgi-projects-fail.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Building a Production-Grade OSGi Case Study Runtime from Scratch](./32-building-production-grade-osgi-case-study-runtime-from-scratch.md)
+<div class="page-nav">
+<a href="./30-anti-patterns-failure-modes-things-that-make-osgi-projects-fail.md">⬅️ Part 30 — Anti-Patterns and Failure Modes: The Things That Make OSGi Projects Fail</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./32-building-production-grade-osgi-case-study-runtime-from-scratch.md">Part 32 — Building a Production-Grade OSGi Case Study Runtime from Scratch ➡️</a>
+</div>

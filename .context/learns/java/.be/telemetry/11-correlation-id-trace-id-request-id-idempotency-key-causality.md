@@ -2536,9 +2536,10 @@ Kita akan masuk ke OpenTelemetry secara sistematis:
 - SDK vs API,
 - auto vs manual instrumentation.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Context Propagation: MDC, ThreadLocal, Virtual Threads, Scoped Values](./10-context-propagation-mdc-threadlocal-virtual-threads-scoped-values.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — OpenTelemetry Mental Model: Signals, Resource, Scope, Context](./12-opentelemetry-mental-model-signals-resource-scope-context.md)
+<div class="page-nav">
+<a href="./10-context-propagation-mdc-threadlocal-virtual-threads-scoped-values.md">⬅️ Part 10 — Context Propagation: MDC, ThreadLocal, Virtual Threads, Scoped Values</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-opentelemetry-mental-model-signals-resource-scope-context.md">Part 12 — OpenTelemetry Mental Model: Signals, Resource, Scope, Context ➡️</a>
+</div>

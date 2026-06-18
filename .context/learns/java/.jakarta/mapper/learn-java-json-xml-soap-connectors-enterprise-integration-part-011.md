@@ -2802,6 +2802,9 @@ Bagian ini adalah **Part 11 dari 34**.
 Bagian berikutnya: **Part 12 — XML Fundamentals for Java Engineers**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — B for Enterprise DTO Design](./learn-java-json-xml-soap-connectors-enterprise-integration-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — XML Fundamentals for Java Engineers](./learn-java-json-xml-soap-connectors-enterprise-integration-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-010.md">⬅️ Part 10 — B for Enterprise DTO Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-012.md">Part 12 — XML Fundamentals for Java Engineers ➡️</a>
+</div>

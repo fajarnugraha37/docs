@@ -2120,6 +2120,9 @@ Bagian 041 — Performance Engineering JAX-RS
 Kita akan membahas performance secara mendalam: request pipeline cost, JSON serialization, filters/providers overhead, connection/thread pools, async vs blocking, streaming, multipart, database/outbound dependency latency, benchmarking, profiling, GC/memory, and capacity planning.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 039 — Legacy JAX-RS 2.1 Features: Async, SSE, Reactive Client, Java EE 8 Maintenance, `javax.ws.rs`, Compatibility Behavior, and Modernization to Jakarta REST 4.0](./learn-jaxrs-advanced-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 041 — Performance Engineering JAX-RS: Request Pipeline Cost, JSON Serialization, Filters/Providers Overhead, Thread and Connection Pools, Blocking vs Async, Streaming, Multipart, Database/Downstream Latency, Benchmarking, Profiling, GC/Memory, and Capacity Planning](./learn-jaxrs-advanced-part-041.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-039.md">⬅️ Bagian 039 — Legacy JAX-RS 2.1 Features: Async, SSE, Reactive Client, Java EE 8 Maintenance, `javax.ws.rs`, Compatibility Behavior, and Modernization to Jakarta REST 4.0</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-041.md">Bagian 041 — Performance Engineering JAX-RS: Request Pipeline Cost, JSON Serialization, Filters/Providers Overhead, Thread and Connection Pools, Blocking vs Async, Streaming, Multipart, Database/Downstream Latency, Benchmarking, Profiling, GC/Memory, and Capacity Planning ➡️</a>
+</div>

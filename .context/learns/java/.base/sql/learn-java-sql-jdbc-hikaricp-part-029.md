@@ -1491,6 +1491,9 @@ Seri learn-java-sql-jdbc-hikaricp selesai.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java SQL, JDBC, and HikariCP — Part 028](./learn-java-sql-jdbc-hikaricp-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Testing, Benchmarking, Performance Engineering, dan JVM sebagai Satu Sistem](../testing/learn-java-testing-benchmarking-performance-jvm-part-000.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-028.md">⬅️ Learn Java SQL, JDBC, and HikariCP — Part 028</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

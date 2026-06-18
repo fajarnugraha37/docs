@@ -1592,6 +1592,9 @@ Part 29 — SOAP Security in Practice
 Bagian berikutnya akan masuk lebih dalam ke praktik security SOAP: TLS vs message security, XML Signature, XML Encryption, timestamp/replay protection, canonicalization, keystore/truststore, certificate rollover, dan cara membuat konfigurasi security yang operasional.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — SOAP Attachments & MTOM/SAAJ](./learn-java-json-xml-soap-connectors-enterprise-integration-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — SOAP Security in Practice](./learn-java-json-xml-soap-connectors-enterprise-integration-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-027.md">⬅️ Part 27 — SOAP Attachments & MTOM/SAAJ</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-029.md">Part 29 — SOAP Security in Practice ➡️</a>
+</div>

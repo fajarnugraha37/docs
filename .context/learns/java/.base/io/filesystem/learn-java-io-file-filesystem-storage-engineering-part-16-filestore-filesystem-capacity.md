@@ -2325,6 +2325,9 @@ Pastikan:
 - Kubernetes Documentation — Node-pressure Eviction
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — Permissions Model: POSIX, Windows ACL, Containers, and Runtime Identity](./learn-java-io-file-filesystem-storage-engineering-part-15-permissions-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 17 — WatchService: Filesystem Events Are Hints, Not Truth](./learn-java-io-file-filesystem-storage-engineering-part-17-watchservice.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-15-permissions-model.md">⬅️ Part 15 — Permissions Model: POSIX, Windows ACL, Containers, and Runtime Identity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-17-watchservice.md">Part 17 — WatchService: Filesystem Events Are Hints, Not Truth ➡️</a>
+</div>

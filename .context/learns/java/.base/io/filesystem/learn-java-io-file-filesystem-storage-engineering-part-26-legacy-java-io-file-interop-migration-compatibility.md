@@ -2327,6 +2327,9 @@ Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS
 Di sana kita akan membahas kenapa filesystem behavior berbeda antar OS: case sensitivity, reserved names, path length, invalid characters, newline, hidden file model, symlink privilege, delete/rename behavior, dan Unicode normalization.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — Custom `FileSystemProvider` and Pluggable Filesystem Mental Model](./learn-java-io-file-filesystem-storage-engineering-part-25-custom-filesystemprovider-pluggable-filesystem.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS](./learn-java-io-file-filesystem-storage-engineering-part-27-cross-platform-filesystem-behavior.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-25-custom-filesystemprovider-pluggable-filesystem.md">⬅️ Part 25 — Custom `FileSystemProvider` and Pluggable Filesystem Mental Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-27-cross-platform-filesystem-behavior.md">Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS ➡️</a>
+</div>

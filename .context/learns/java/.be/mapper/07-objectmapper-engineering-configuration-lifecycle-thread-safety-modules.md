@@ -2608,6 +2608,9 @@ Part 8 — Jackson Serialization: Shape Control, Inclusion, Naming, Formatting
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Jackson Mental Model: Streaming, Tree Model, Data Binding](./06-jackson-mental-model-streaming-tree-model-data-binding.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Jackson Serialization: Shape Control, Inclusion, Naming, Formatting](./08-jackson-serialization-shape-control-inclusion-naming-formatting.md)
+<div class="page-nav">
+<a href="./06-jackson-mental-model-streaming-tree-model-data-binding.md">⬅️ Part 6 — Jackson Mental Model: Streaming, Tree Model, Data Binding</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./08-jackson-serialization-shape-control-inclusion-naming-formatting.md">Part 8 — Jackson Serialization: Shape Control, Inclusion, Naming, Formatting ➡️</a>
+</div>

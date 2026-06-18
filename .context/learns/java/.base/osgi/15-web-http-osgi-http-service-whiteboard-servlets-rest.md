@@ -2621,6 +2621,9 @@ Kita akan membahas persistence di OSGi:
 - dan failure mode persistence di runtime modular.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — Apache Karaf: OSGi Distribution, Features, Provisioning, and Operations](./14-apache-karaf-osgi-distribution-features-provisioning-operations.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Persistence in OSGi: JDBC, JPA, Transactions, Hibernate, EclipseLink](./16-persistence-osgi-jdbc-jpa-transactions-hibernate-eclipselink.md)
+<div class="page-nav">
+<a href="./14-apache-karaf-osgi-distribution-features-provisioning-operations.md">⬅️ Part 14 — Apache Karaf: OSGi Distribution, Features, Provisioning, and Operations</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./16-persistence-osgi-jdbc-jpa-transactions-hibernate-eclipselink.md">Part 16 — Persistence in OSGi: JDBC, JPA, Transactions, Hibernate, EclipseLink ➡️</a>
+</div>

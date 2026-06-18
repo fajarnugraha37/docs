@@ -2917,6 +2917,9 @@ Jika harus diringkas menjadi satu kalimat:
 > Java top-tier engineering adalah disiplin membuat keputusan teknis yang benar, terukur, dapat dijelaskan, dapat dioperasikan, dan dapat diwariskan ke engineer berikutnya.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 23 — Migration: Java 8 → 11 → 17 → 21 → 25](./learn-java-part-023.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 25 — Production Case Studies dan Reference Architecture Playbook](./learn-java-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-part-023.md">⬅️ Bagian 23 — Migration: Java 8 → 11 → 17 → 21 → 25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-025.md">Bagian 25 — Production Case Studies dan Reference Architecture Playbook ➡️</a>
+</div>

@@ -2308,6 +2308,9 @@ File: learn-java-sql-jdbc-hikaricp-part-001.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Designing a Secure Java Regulatory Case Management Platform](../security/learn-java-security-cryptography-integrity-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Anatomy of `java.sql` and `javax.sql`](./learn-java-sql-jdbc-hikaricp-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-001.md">Part 001 — Anatomy of `java.sql` and `javax.sql` ➡️</a>
+</div>

@@ -1815,6 +1815,9 @@ Bagian 053 — Refactoring Legacy JAX-RS API
 Kita akan membahas cara refactor API JAX-RS legacy: strangler pattern, endpoint inventory, compatibility preservation, error contract migration, javax→jakarta, DTO extraction, security hardening, test harness, OpenAPI recovery, and incremental rollout.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 051 — JAX-RS Runtime Internals and Extension Points: Bootstrap, Application Model, Resource Scanning, Request Matching, Provider Registry, Injection, Filters/Interceptors Pipeline, Entity Provider Selection, Exception Mapper Resolution, Async Internals, and Extension Design](./learn-jaxrs-advanced-part-051.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 053 — Refactoring Legacy JAX-RS API: Strangler Pattern, Endpoint Inventory, Compatibility Preservation, Error Contract Migration, javax→jakarta, DTO Extraction, Security Hardening, Test Harness, OpenAPI Recovery, and Incremental Rollout](./learn-jaxrs-advanced-part-053.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-051.md">⬅️ Bagian 051 — JAX-RS Runtime Internals and Extension Points: Bootstrap, Application Model, Resource Scanning, Request Matching, Provider Registry, Injection, Filters/Interceptors Pipeline, Entity Provider Selection, Exception Mapper Resolution, Async Internals, and Extension Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-053.md">Bagian 053 — Refactoring Legacy JAX-RS API: Strangler Pattern, Endpoint Inventory, Compatibility Preservation, Error Contract Migration, javax→jakarta, DTO Extraction, Security Hardening, Test Harness, OpenAPI Recovery, and Incremental Rollout ➡️</a>
+</div>

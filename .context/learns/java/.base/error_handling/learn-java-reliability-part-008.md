@@ -1738,6 +1738,9 @@ Part 009 — JVM Shutdown Mechanics
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 007 — Validation, Preconditions, Invariants, and Illegal States](./learn-java-reliability-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 009 — JVM Shutdown Mechanics](./learn-java-reliability-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-007.md">⬅️ Part 007 — Validation, Preconditions, Invariants, and Illegal States</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-009.md">Part 009 — JVM Shutdown Mechanics ➡️</a>
+</div>

@@ -1114,6 +1114,9 @@ Use this appendix as a review muscle.
 Every API review should leave the system safer, clearer, more testable, and more operable.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 054 — Capstone: Top 1% JAX-RS Reference Architecture — Resource Design, Domain Model, API Gateway, Security, Tenancy, Persistence, Outbox/Events, Clients, Resilience, Observability, Testing, CI/CD, Deployment, and Operational Excellence](./learn-jaxrs-advanced-part-054.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Mental Model Server-Side UI di Java](../jsp/00-orientation-server-side-ui-mental-model.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-054.md">⬅️ Bagian 054 — Capstone: Top 1% JAX-RS Reference Architecture — Resource Design, Domain Model, API Gateway, Security, Tenancy, Persistence, Outbox/Events, Clients, Resilience, Observability, Testing, CI/CD, Deployment, and Operational Excellence</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

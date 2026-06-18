@@ -1906,6 +1906,9 @@ This is the final part of the series.
 **Series completed.**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — End-to-End Reference Implementation: Java 8 Legacy and Java 21/25 Modern](./28-end-to-end-reference-implementation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation & Mental Model: JSON, XML, SOAP, dan Jakarta Connectors untuk Java 8–25](../mapper/learn-java-json-xml-soap-connectors-enterprise-integration-part-000.md)
+<div class="page-nav">
+<a href="./28-end-to-end-reference-implementation.md">⬅️ Part 28 — End-to-End Reference Implementation: Java 8 Legacy and Java 21/25 Modern</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

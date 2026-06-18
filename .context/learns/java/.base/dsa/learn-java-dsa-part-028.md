@@ -2766,6 +2766,9 @@ DSA Anti-Patterns and Failure Modes in Java Systems
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java DSA — Part 027](./learn-java-dsa-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — DSA Anti-Patterns and Failure Modes in Java Systems](./learn-java-dsa-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-027.md">⬅️ Learn Java DSA — Part 027</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-029.md">Part 029 — DSA Anti-Patterns and Failure Modes in Java Systems ➡️</a>
+</div>

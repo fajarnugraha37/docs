@@ -2191,6 +2191,9 @@ Part 026 — Testing Failure and Shutdown Behavior
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 024 — Incident-Oriented Error Handling](./learn-java-reliability-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — Testing Failure and Shutdown Behavior](./learn-java-reliability-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-024.md">⬅️ Part 024 — Incident-Oriented Error Handling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-026.md">Part 026 — Testing Failure and Shutdown Behavior ➡️</a>
+</div>

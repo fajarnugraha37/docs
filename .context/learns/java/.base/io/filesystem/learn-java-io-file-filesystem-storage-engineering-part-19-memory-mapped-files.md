@@ -1829,6 +1829,9 @@ Di Part 20 kita akan membahas bagaimana mendesain file binary yang bisa diakses 
 - OpenJDK issue JDK-4724038 — discussion around explicit unmap need: https://bugs.openjdk.org/browse/JDK-4724038
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — File Locking: Advisory, Mandatory, Local, Network, and Cross-Process Coordination](./learn-java-io-file-filesystem-storage-engineering-part-18-file-locking.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Random Access and Structured Binary File Layout](./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-18-file-locking.md">⬅️ Part 18 — File Locking: Advisory, Mandatory, Local, Network, and Cross-Process Coordination</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md">Part 20 — Random Access and Structured Binary File Layout ➡️</a>
+</div>

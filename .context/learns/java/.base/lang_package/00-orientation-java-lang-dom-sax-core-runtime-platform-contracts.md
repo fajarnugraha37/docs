@@ -1660,6 +1660,9 @@ Part berikutnya:
 File: `01-java-lang-as-platform-root-contract.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 35 — Capstone: Building a Production-Grade Java Network Client and Service Platform](../io/network/035-capstone-production-grade-java-network-client-and-service-platform.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — `java.lang` as the Root Contract of the Java Platform](./01-java-lang-as-platform-root-contract.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./01-java-lang-as-platform-root-contract.md">Part 1 — `java.lang` as the Root Contract of the Java Platform ➡️</a>
+</div>

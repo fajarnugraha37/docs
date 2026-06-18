@@ -1758,6 +1758,9 @@ It is an algorithm + memory layout + allocation pattern + CPU behavior + semanti
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/PriorityQueue.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 013](./learn-java-collections-and-streams-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 015](./learn-java-collections-and-streams-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-013.md">⬅️ Java Collections and Streams — Part 013</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-015.md">Java Collections and Streams — Part 015 ➡️</a>
+</div>

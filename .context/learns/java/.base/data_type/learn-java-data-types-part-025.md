@@ -2389,6 +2389,9 @@ Database mapping yang baik membuat domain model tetap benar bahkan ketika data h
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/UUID.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 024](./learn-java-data-types-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 026](./learn-java-data-types-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-024.md">⬅️ Java Data Types — Part 024</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-026.md">Java Data Types — Part 026 ➡️</a>
+</div>

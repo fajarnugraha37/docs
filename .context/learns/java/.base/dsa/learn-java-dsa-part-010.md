@@ -2225,6 +2225,9 @@ learn-java-dsa-part-011 — Trees II: BST, Balanced Tree, Segment Tree, Fenwick 
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java DSA — Part 009: Binary Search, Sorted Data, Navigable Structures](./learn-java-dsa-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — Trees II: BST, Balanced Tree, Segment Tree, Fenwick Tree](./learn-java-dsa-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-009.md">⬅️ Learn Java DSA — Part 009: Binary Search, Sorted Data, Navigable Structures</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-011.md">Part 011 — Trees II: BST, Balanced Tree, Segment Tree, Fenwick Tree ➡️</a>
+</div>

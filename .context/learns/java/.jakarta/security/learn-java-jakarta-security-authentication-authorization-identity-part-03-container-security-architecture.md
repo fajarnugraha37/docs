@@ -2143,6 +2143,9 @@ Part 04 — Servlet Security Foundation Revisited for Authentication/Authorizati
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 02 — Historical Layer: JAAS, JACC, JASPIC, Java EE Security, Jakarta Security](./learn-java-jakarta-security-authentication-authorization-identity-part-02-jaas-jacc-jaspic-javaee-jakarta-history.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 04 — Servlet Security Foundation Revisited for Authentication/Authorization](./learn-java-jakarta-security-authentication-authorization-identity-part-04-servlet-security-foundation.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-02-jaas-jacc-jaspic-javaee-jakarta-history.md">⬅️ Part 02 — Historical Layer: JAAS, JACC, JASPIC, Java EE Security, Jakarta Security</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-04-servlet-security-foundation.md">Part 04 — Servlet Security Foundation Revisited for Authentication/Authorization ➡️</a>
+</div>

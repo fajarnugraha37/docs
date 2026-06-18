@@ -2983,6 +2983,9 @@ Encapsulation Beyond private: Invariants, State Ownership, and API Surface
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 002 — Class Anatomy: Fields, Methods, Constructors, Initializers, Class Loading Semantics](./learn-java-oop-functional-reflection-codegen-modules-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Encapsulation Beyond `private`: Invariants, State Ownership, and API Surface](./learn-java-oop-functional-reflection-codegen-modules-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-002.md">⬅️ Part 002 — Class Anatomy: Fields, Methods, Constructors, Initializers, Class Loading Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-004.md">Encapsulation Beyond `private`: Invariants, State Ownership, and API Surface ➡️</a>
+</div>

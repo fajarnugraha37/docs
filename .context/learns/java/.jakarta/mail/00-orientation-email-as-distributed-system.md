@@ -2336,6 +2336,9 @@ Progress saat ini:
 10. Jakarta Activation API documentation — https://jakartaee.github.io/jaf-api/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 40 — Jakarta EE Production Readiness & Top 1% Engineering Playbook: Reliability, Security, Observability, Performance, Cost, Governance, dan Long-Term Maintainability](../learn-java-jakarta-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Email Protocol Stack: SMTP, MIME, POP3, IMAP](./01-email-protocol-stack-smtp-mime-pop3-imap.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./01-email-protocol-stack-smtp-mime-pop3-imap.md">Part 1 — Email Protocol Stack: SMTP, MIME, POP3, IMAP ➡️</a>
+</div>

@@ -1670,6 +1670,9 @@ and never let context outlive its scope.
     https://docs.oracle.com/en/java/javase/25/docs/api/preview-list.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 016](./learn-java-concurrency-and-reactive-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 018](./learn-java-concurrency-and-reactive-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-016.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 016</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-018.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 018 ➡️</a>
+</div>

@@ -2362,6 +2362,9 @@ Kita akan membahas:
 6. Fenwick tree / Binary Indexed Tree literature: structure for efficient prefix sum and point update.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 010 — Trees I: Tree Fundamentals, Traversal, Recursion](./learn-java-dsa-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 012 — Heap, PriorityQueue, Top-K, Scheduling](./learn-java-dsa-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-010.md">⬅️ Part 010 — Trees I: Tree Fundamentals, Traversal, Recursion</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-012.md">Part 012 — Heap, PriorityQueue, Top-K, Scheduling ➡️</a>
+</div>

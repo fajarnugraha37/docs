@@ -2601,6 +2601,9 @@ Byte, Character, Encoding, Charset, dan Boundary yang Sering Menjadi Sumber Bug
     <https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/nio/charset/StandardCharsets.html>
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 35 — Final Review: Top 1% Filesystem Engineering Checklist](./filesystem/learn-java-io-file-filesystem-storage-engineering-part-35-final-review-top-1-percent-filesystem-engineering-checklist.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Byte, Character, Encoding, Charset, dan Boundary yang Sering Menjadi Sumber Bug](./learn-java-io-nio-networking-data-transfer-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-001.md">Part 001 — Byte, Character, Encoding, Charset, dan Boundary yang Sering Menjadi Sumber Bug ➡️</a>
+</div>

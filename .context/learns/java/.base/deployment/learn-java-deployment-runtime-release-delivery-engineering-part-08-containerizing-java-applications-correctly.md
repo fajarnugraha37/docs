@@ -2778,6 +2778,9 @@ Selesai: Part 8 dari 35.
 Belum selesai. Masih lanjut ke Part 9.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Packaging for Linux Servers: Bare Metal, VM, systemd, and Traditional Ops](./learn-java-deployment-runtime-release-delivery-engineering-part-07-packaging-for-linux-servers-bare-metal.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Dockerfile Patterns for Java 8–25](./learn-java-deployment-runtime-release-delivery-engineering-part-09-dockerfile-patterns-for-java-8-to-25.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-07-packaging-for-linux-servers-bare-metal.md">⬅️ Part 7 — Packaging for Linux Servers: Bare Metal, VM, systemd, and Traditional Ops</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-09-dockerfile-patterns-for-java-8-to-25.md">Part 9 — Dockerfile Patterns for Java 8–25 ➡️</a>
+</div>

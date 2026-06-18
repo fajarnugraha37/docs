@@ -1651,6 +1651,9 @@ Berikutnya:
 - Part 16 — JAXB / Jakarta XML Binding Core
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — XML Schema / XSD Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — JAXB / Jakarta XML Binding Core](./learn-java-json-xml-soap-connectors-enterprise-integration-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-014.md">⬅️ Part 14 — XML Schema / XSD Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-016.md">Part 16 — JAXB / Jakarta XML Binding Core ➡️</a>
+</div>

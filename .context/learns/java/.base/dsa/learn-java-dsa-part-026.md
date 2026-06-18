@@ -2285,6 +2285,9 @@ Dengan kata lain, Part 026 adalah jembatan dari struktur data umum menuju desain
    <https://openjdk.org/projects/code-tools/jol/>
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 025 — Concurrent Data Structures in Java, Without Repeating Concurrency Basics](./learn-java-dsa-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java DSA — Part 027](./learn-java-dsa-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-025.md">⬅️ Part 025 — Concurrent Data Structures in Java, Without Repeating Concurrency Basics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-027.md">Learn Java DSA — Part 027 ➡️</a>
+</div>

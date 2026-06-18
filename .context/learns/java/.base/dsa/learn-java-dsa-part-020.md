@@ -1735,6 +1735,9 @@ learn-java-dsa-part-021 — Sliding Window, Two Pointers, Prefix Sum, Difference
 Di sana kita akan masuk ke pola linear-time yang sangat penting untuk data stream, rate limiting, rolling metrics, time window, dan range query sederhana.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java DSA — Part 019: Dynamic Programming II — Classic Patterns and Engineering Use](./learn-java-dsa-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — Sliding Window, Two Pointers, Prefix Sum, Difference Array](./learn-java-dsa-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-019.md">⬅️ Learn Java DSA — Part 019: Dynamic Programming II — Classic Patterns and Engineering Use</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-021.md">Part 021 — Sliding Window, Two Pointers, Prefix Sum, Difference Array ➡️</a>
+</div>

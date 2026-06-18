@@ -1940,6 +1940,9 @@ If you cannot answer, the code is not concurrency-safe.
     https://www.cs.umd.edu/~pugh/java/memoryModel/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 006](./learn-java-concurrency-and-reactive-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 008](./learn-java-concurrency-and-reactive-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-006.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 006</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-008.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 008 ➡️</a>
+</div>

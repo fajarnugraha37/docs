@@ -2414,6 +2414,9 @@ migration
 Dengan mental model ini, bagian berikutnya—namespace migration dari `javax.*` ke `jakarta.*`—akan jauh lebih mudah, karena kamu sudah tahu bahwa perubahan package adalah perubahan ecosystem boundary, bukan sekadar refactor import.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Capstone: Build and Review an Enterprise Case Management UI](./jsp/30-capstone-enterprise-case-management-ui.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 1 — Namespace Migration: `javax.*` ke `jakarta.*`](./learn-java-jakarta-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-001.md">Bagian 1 — Namespace Migration: `javax.*` ke `jakarta.*` ➡️</a>
+</div>

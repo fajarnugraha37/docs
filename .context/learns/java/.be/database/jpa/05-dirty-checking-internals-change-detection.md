@@ -2119,6 +2119,9 @@ Once you internalize that, Hibernate/EclipseLink behavior becomes much less myst
 Seri belum selesai. Part berikutnya: `06-flush-semantics-action-queue-sql-ordering.md`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — Persistence Context, Unit of Work, and First-Level Cache](./04-persistence-context-unit-of-work-first-level-cache.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 6 — Flush Semantics: Action Queue and SQL Ordering](./06-flush-semantics-action-queue-sql-ordering.md)
+<div class="page-nav">
+<a href="./04-persistence-context-unit-of-work-first-level-cache.md">⬅️ Part 4 — Persistence Context, Unit of Work, and First-Level Cache</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./06-flush-semantics-action-queue-sql-ordering.md">Part 6 — Flush Semantics: Action Queue and SQL Ordering ➡️</a>
+</div>

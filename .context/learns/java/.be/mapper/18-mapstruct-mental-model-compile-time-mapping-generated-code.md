@@ -2462,6 +2462,9 @@ Part 18 membangun mental model MapStruct sebagai compile-time generated mapper. 
 Part 19 akan lebih praktikal, tetapi tetap dengan reasoning dan failure model.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — XML Edge Cases: Namespace, XSD, SOAP-ish Payloads, Canonicalization](./17-xml-edge-cases-namespace-xsd-soapish-payloads-canonicalization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — MapStruct Core: Field Mapping, Nested Mapping, Collection Mapping](./19-mapstruct-core-field-nested-collection-mapping.md)
+<div class="page-nav">
+<a href="./17-xml-edge-cases-namespace-xsd-soapish-payloads-canonicalization.md">⬅️ Part 17 — XML Edge Cases: Namespace, XSD, SOAP-ish Payloads, Canonicalization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./19-mapstruct-core-field-nested-collection-mapping.md">Part 19 — MapStruct Core: Field Mapping, Nested Mapping, Collection Mapping ➡️</a>
+</div>

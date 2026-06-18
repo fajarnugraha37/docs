@@ -2479,6 +2479,9 @@ There we go deeper into:
 Transaction boundary defines the arena. Concurrency control defines what happens when multiple actors enter the arena at the same time.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Bulk Operations, Batching, Stateless Sessions, and High-Volume Data Mutation](./17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 19 — Concurrency Control: Optimistic Locking, Pessimistic Locking, and Lost Updates](./19-concurrency-control-optimistic-pessimistic-locking-lost-updates.md)
+<div class="page-nav">
+<a href="./17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md">⬅️ Part 17 — Bulk Operations, Batching, Stateless Sessions, and High-Volume Data Mutation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./19-concurrency-control-optimistic-pessimistic-locking-lost-updates.md">Part 19 — Concurrency Control: Optimistic Locking, Pessimistic Locking, and Lost Updates ➡️</a>
+</div>

@@ -1705,6 +1705,9 @@ concurrency, lifecycle, security visibility, and observability.
     https://openjdk.org/projects/code-tools/jcstress/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 059](./learn-java-collections-and-streams-part-059.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 061](./learn-java-collections-and-streams-part-061.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-059.md">⬅️ Java Collections and Streams — Part 059</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-061.md">Java Collections and Streams — Part 061 ➡️</a>
+</div>

@@ -3258,6 +3258,9 @@ Belum selesai. Berikutnya:
 **Part 25 — Deployment Security Hardening**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — CI/CD Pipeline for Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-23-cicd-pipeline-for-java-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Deployment Security Hardening](./learn-java-deployment-runtime-release-delivery-engineering-part-25-deployment-security-hardening.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-23-cicd-pipeline-for-java-deployment.md">⬅️ Part 23 — CI/CD Pipeline for Java Deployment</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-25-deployment-security-hardening.md">Part 25 — Deployment Security Hardening ➡️</a>
+</div>

@@ -2628,6 +2628,9 @@ Part 34 — Capstone: Build a Production-Grade File Intake Engine
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java IO File Filesystem Storage Engineering — Part 32](./learn-java-io-file-filesystem-storage-engineering-part-32-file-workflow-architecture-patterns.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 34 — Build a Production-Grade File Intake Engine](./learn-java-io-file-filesystem-storage-engineering-part-34-capstone-production-grade-file-intake-engine.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-32-file-workflow-architecture-patterns.md">⬅️ Learn Java IO File Filesystem Storage Engineering — Part 32</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-34-capstone-production-grade-file-intake-engine.md">Part 34 — Build a Production-Grade File Intake Engine ➡️</a>
+</div>

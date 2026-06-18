@@ -1935,6 +1935,9 @@ Ambil satu email notification di sistem nyata. Buat checklist:
 - Microsoft email dark mode/accessibility guidance: readability and contrast remain important in light and dark modes.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Attachment Handling and Jakarta Activation](./07-attachment-handling-jakarta-activation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Mail Addressing, Identity, and Header Semantics](./09-addressing-identity-header-semantics.md)
+<div class="page-nav">
+<a href="./07-attachment-handling-jakarta-activation.md">⬅️ Part 7 — Attachment Handling and Jakarta Activation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./09-addressing-identity-header-semantics.md">Part 9 — Mail Addressing, Identity, and Header Semantics ➡️</a>
+</div>

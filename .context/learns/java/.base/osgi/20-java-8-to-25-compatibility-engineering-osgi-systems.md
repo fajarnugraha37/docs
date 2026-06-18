@@ -1979,6 +1979,9 @@ Old systems often survive because the environment is permissive. Modern systems 
 In the next part, we move from Java runtime compatibility into broader enterprise integration: CDI, Blueprint, Spring, Aries, CXF, and legacy enterprise stacks inside OSGi.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: JPMS and OSGi: Java Module System Interop from Java 9 to 25](./19-jpms-osgi-java-module-system-interop-java-9-to-25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Enterprise Integration in OSGi: CDI, Blueprint, Spring, Aries, CXF, and Legacy Stacks](./21-enterprise-integration-osgi-cdi-blueprint-spring-aries-cxf-legacy-stacks.md)
+<div class="page-nav">
+<a href="./19-jpms-osgi-java-module-system-interop-java-9-to-25.md">⬅️ JPMS and OSGi: Java Module System Interop from Java 9 to 25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./21-enterprise-integration-osgi-cdi-blueprint-spring-aries-cxf-legacy-stacks.md">Part 21 — Enterprise Integration in OSGi: CDI, Blueprint, Spring, Aries, CXF, and Legacy Stacks ➡️</a>
+</div>

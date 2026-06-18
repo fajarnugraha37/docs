@@ -2386,6 +2386,9 @@ Progress saat ini:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Faces Managed Beans, CDI, Scopes, and Dependency Boundaries](./16-faces-managed-beans-cdi-scopes-dependency-boundaries.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — Faces Components: Input, Output, Command, Data, Message, and Metadata](./18-faces-components-input-output-command-data-message-metadata.md)
+<div class="page-nav">
+<a href="./16-faces-managed-beans-cdi-scopes-dependency-boundaries.md">⬅️ Part 16 — Faces Managed Beans, CDI, Scopes, and Dependency Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./18-faces-components-input-output-command-data-message-metadata.md">Part 18 — Faces Components: Input, Output, Command, Data, Message, and Metadata ➡️</a>
+</div>

@@ -3068,6 +3068,9 @@ Status:
 Seri belum selesai. Lanjut ke Part 9: **Build Reproducibility: Deterministic Artifact, Timestamp, Lockfile, Checksum, Build Environment**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Dependency Version Management: BOM, Platforms, Constraints, Catalogs, Locking](./07-dependency-version-management.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Build Reproducibility: Deterministic Artifact, Timestamp, Lockfile, Checksum, Build Environment](./09-build-reproducibility.md)
+<div class="page-nav">
+<a href="./07-dependency-version-management.md">⬅️ Part 7 — Dependency Version Management: BOM, Platforms, Constraints, Catalogs, Locking</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./09-build-reproducibility.md">Part 9 — Build Reproducibility: Deterministic Artifact, Timestamp, Lockfile, Checksum, Build Environment ➡️</a>
+</div>

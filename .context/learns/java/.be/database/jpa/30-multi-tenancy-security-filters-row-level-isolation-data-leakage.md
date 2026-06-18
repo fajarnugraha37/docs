@@ -2802,6 +2802,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Domain Modeling with ORM: Aggregates, Invariants, State Machines, and Regulatory Workflows](./29-domain-modeling-with-orm-aggregates-invariants-state-machines-regulatory-workflows.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Testing ORM Correctness: Beyond Repository Happy Path](./31-testing-orm-correctness-beyond-repository-happy-path.md)
+<div class="page-nav">
+<a href="./29-domain-modeling-with-orm-aggregates-invariants-state-machines-regulatory-workflows.md">⬅️ Part 29 — Domain Modeling with ORM: Aggregates, Invariants, State Machines, and Regulatory Workflows</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./31-testing-orm-correctness-beyond-repository-happy-path.md">Part 31 — Testing ORM Correctness: Beyond Repository Happy Path ➡️</a>
+</div>

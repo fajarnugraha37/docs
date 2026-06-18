@@ -2196,6 +2196,9 @@ Progress saat ini:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — Liquibase Preconditions, Contexts, and Labels](./14-liquibase-preconditions-contexts-labels.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — Flyway vs Liquibase: Decision Framework](./16-flyway-vs-liquibase-decision-framework.md)
+<div class="page-nav">
+<a href="./14-liquibase-preconditions-contexts-labels.md">⬅️ Part 14 — Liquibase Preconditions, Contexts, and Labels</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./16-flyway-vs-liquibase-decision-framework.md">Part 16 — Flyway vs Liquibase: Decision Framework ➡️</a>
+</div>

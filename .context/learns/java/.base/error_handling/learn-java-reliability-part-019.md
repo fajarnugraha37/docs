@@ -2479,6 +2479,9 @@ Part 020 — Reliability Patterns for External Integrations
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 018 — Circuit Breaker, Bulkhead, Rate Limiter, and Time Limiter](./learn-java-reliability-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — Reliability Patterns for External Integrations](./learn-java-reliability-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-018.md">⬅️ Part 018 — Circuit Breaker, Bulkhead, Rate Limiter, and Time Limiter</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-020.md">Part 020 — Reliability Patterns for External Integrations ➡️</a>
+</div>

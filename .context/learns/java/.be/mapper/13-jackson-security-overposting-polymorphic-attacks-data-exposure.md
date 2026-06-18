@@ -1945,6 +1945,9 @@ and what information may leave the system.
 - Spring Security Advisory CVE-2017-4995: https://spring.io/security/cve-2017-4995
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — Jackson for Enterprise API Contracts: Strictness, Compatibility, Evolution](./12-jackson-enterprise-api-contracts-strictness-compatibility-evolution.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Jackson Performance: Allocation, Streaming, Large Payloads, Hot Paths](./14-jackson-performance-allocation-streaming-large-payloads-hot-paths.md)
+<div class="page-nav">
+<a href="./12-jackson-enterprise-api-contracts-strictness-compatibility-evolution.md">⬅️ Part 12 — Jackson for Enterprise API Contracts: Strictness, Compatibility, Evolution</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./14-jackson-performance-allocation-streaming-large-payloads-hot-paths.md">Part 14 — Jackson Performance: Allocation, Streaming, Large Payloads, Hot Paths ➡️</a>
+</div>

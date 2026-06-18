@@ -2582,6 +2582,9 @@ Berikutnya:
 13. Part 12 — Message Correlation and Event-driven Process Design
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Human Workflow: User Task, Assignment, Forms, SLA, and Authorization](./learn-java-bpmn-camunda-part-10-human-workflow-user-task-assignment-forms-sla-authorization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Message Correlation and Event-driven Process Design](./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-10-human-workflow-user-task-assignment-forms-sla-authorization.md">⬅️ Part 10 — Human Workflow: User Task, Assignment, Forms, SLA, and Authorization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md">Part 12 — Message Correlation and Event-driven Process Design ➡️</a>
+</div>

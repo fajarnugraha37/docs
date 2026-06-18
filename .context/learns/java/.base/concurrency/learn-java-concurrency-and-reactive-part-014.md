@@ -1452,6 +1452,9 @@ and when external capacity is explicitly governed.
     https://docs.oracle.com/en/java/javase/25/core/java-core-libraries-developer-guide.pdf
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 013](./learn-java-concurrency-and-reactive-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 015](./learn-java-concurrency-and-reactive-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-013.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 013</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-015.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 015 ➡️</a>
+</div>

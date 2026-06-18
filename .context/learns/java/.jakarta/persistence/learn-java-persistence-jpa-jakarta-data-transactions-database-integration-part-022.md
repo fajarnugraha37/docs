@@ -2802,6 +2802,9 @@ Part 023 — Repository Patterns: DAO, Repository, Spring Data JPA, Jakarta Data
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 021 — Auditing, Temporal Data, Soft Delete, and Historical Correctness](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — Repository Patterns: DAO, Repository, Spring Data JPA, Jakarta Data](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-021.md">⬅️ Part 021 — Auditing, Temporal Data, Soft Delete, and Historical Correctness</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-023.md">Part 023 — Repository Patterns: DAO, Repository, Spring Data JPA, Jakarta Data ➡️</a>
+</div>

@@ -2196,6 +2196,9 @@ Daftar lengkap:
 - Part 030 — Capstone: Designing a Modular, Reflective, Generated-Code Friendly Java Library
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: API Evolution, Binary Compatibility, Semantic Versioning, and Library Design](./learn-java-oop-functional-reflection-codegen-modules-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Security Mental Model for Senior Java Engineers](../security/learn-java-security-cryptography-integrity-part-000.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-029.md">⬅️ API Evolution, Binary Compatibility, Semantic Versioning, and Library Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

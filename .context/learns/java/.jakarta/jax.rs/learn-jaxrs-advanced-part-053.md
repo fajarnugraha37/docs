@@ -1603,6 +1603,9 @@ Bagian 054 — Capstone: Top 1% JAX-RS Reference Architecture
 Kita akan menutup seri dengan reference architecture komprehensif: resource design, domain model, API gateway, security, tenancy, persistence, outbox/events, clients, resilience, observability, testing, CI/CD, deployment, and operational excellence.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 052 — Building a Production-Grade JAX-RS API from Scratch: Package Structure, Resource Design, DTOs, Validation, Error Contract, Security, Persistence, Client Integration, Observability, OpenAPI, Tests, Deployment, and Operational Checklist](./learn-jaxrs-advanced-part-052.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 054 — Capstone: Top 1% JAX-RS Reference Architecture — Resource Design, Domain Model, API Gateway, Security, Tenancy, Persistence, Outbox/Events, Clients, Resilience, Observability, Testing, CI/CD, Deployment, and Operational Excellence](./learn-jaxrs-advanced-part-054.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-052.md">⬅️ Bagian 052 — Building a Production-Grade JAX-RS API from Scratch: Package Structure, Resource Design, DTOs, Validation, Error Contract, Security, Persistence, Client Integration, Observability, OpenAPI, Tests, Deployment, and Operational Checklist</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-054.md">Bagian 054 — Capstone: Top 1% JAX-RS Reference Architecture — Resource Design, Domain Model, API Gateway, Security, Tenancy, Persistence, Outbox/Events, Clients, Resilience, Observability, Testing, CI/CD, Deployment, and Operational Excellence ➡️</a>
+</div>

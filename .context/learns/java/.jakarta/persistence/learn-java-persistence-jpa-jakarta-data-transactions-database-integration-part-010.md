@@ -3232,6 +3232,9 @@ Part 011 — Transaction Boundary Design in Real Applications
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 009 — Projection, DTO, Read Model, and Reporting Queries](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — Transaction Boundary Design in Real Applications](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-009.md">⬅️ Part 009 — Projection, DTO, Read Model, and Reporting Queries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-011.md">Part 011 — Transaction Boundary Design in Real Applications ➡️</a>
+</div>

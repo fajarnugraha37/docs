@@ -2569,6 +2569,9 @@ Part 34 — Capstone: Designing a Secure Java Regulatory Case Management Platfor
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Incident Response for Java Security Failures](./learn-java-security-cryptography-integrity-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Designing a Secure Java Regulatory Case Management Platform](./learn-java-security-cryptography-integrity-part-034.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-032.md">⬅️ Part 32 — Incident Response for Java Security Failures</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-034.md">Designing a Secure Java Regulatory Case Management Platform ➡️</a>
+</div>

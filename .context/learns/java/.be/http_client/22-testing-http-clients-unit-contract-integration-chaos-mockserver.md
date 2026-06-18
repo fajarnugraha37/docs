@@ -2075,6 +2075,9 @@ Test:
 Part ini membangun dasar testing HTTP client production-grade. Part berikutnya akan masuk ke **JSON/XML Mapping for HTTP Client Boundary**, dengan fokus pada DTO boundary, unknown fields, enum evolution, date/time, BigDecimal, null semantics, error body format, streaming parser, dan compatibility.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Observability: Logging, Metrics, Tracing, Correlation, Redaction](./21-observability-logging-metrics-tracing-correlation-redaction.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — JSON/XML Mapping for HTTP Client Boundary](./23-json-xml-mapping-at-http-client-boundary.md)
+<div class="page-nav">
+<a href="./21-observability-logging-metrics-tracing-correlation-redaction.md">⬅️ Part 21 — Observability: Logging, Metrics, Tracing, Correlation, Redaction</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./23-json-xml-mapping-at-http-client-boundary.md">Part 23 — JSON/XML Mapping for HTTP Client Boundary ➡️</a>
+</div>

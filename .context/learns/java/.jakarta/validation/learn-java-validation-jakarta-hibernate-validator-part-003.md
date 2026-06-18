@@ -2010,6 +2010,9 @@ Part berikutnya:
 - Part 004 — Nullability Strategy: `@NotNull`, Optional, Defaults, and Domain Absence
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Core API Mental Model: `ValidatorFactory`, `Validator`, `ConstraintViolation`, and Metadata](./learn-java-validation-jakarta-hibernate-validator-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Nullability Strategy: `@NotNull`, Optional, Defaults, and Domain Absence](./learn-java-validation-jakarta-hibernate-validator-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-002.md">⬅️ Core API Mental Model: `ValidatorFactory`, `Validator`, `ConstraintViolation`, and Metadata</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-004.md">Nullability Strategy: `@NotNull`, Optional, Defaults, and Domain Absence ➡️</a>
+</div>

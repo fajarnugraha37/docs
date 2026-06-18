@@ -3133,6 +3133,9 @@ Seri **belum selesai**. Masih ada part berikutnya:
 - ... sampai Part 34 — Integration Architecture Capstone
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — JAXB Code-First Workflow: Java → XSD, Contract Drift Risk, Schema Generation, and Compatibility Testing](./learn-java-json-xml-soap-connectors-enterprise-integration-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — JAXB Runtime, Performance & Migration](./learn-java-json-xml-soap-connectors-enterprise-integration-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-019.md">⬅️ Part 19 — JAXB Code-First Workflow: Java → XSD, Contract Drift Risk, Schema Generation, and Compatibility Testing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-021.md">Part 21 — JAXB Runtime, Performance & Migration ➡️</a>
+</div>

@@ -1916,6 +1916,9 @@ Primary references used throughout this final synthesis and the wider series:
 - Jakarta EE Platform 12 Under Development: https://jakarta.ee/specifications/platform/12/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — End-to-End Case Study: Regulatory Case Management Workload Orchestration](./34-end-to-end-case-study-regulatory-case-management-workload-orchestration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 000 — Enterprise Runtime Mental Model](../dependency/learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-000.md)
+<div class="page-nav">
+<a href="./34-end-to-end-case-study-regulatory-case-management-workload-orchestration.md">⬅️ Part 34 — End-to-End Case Study: Regulatory Case Management Workload Orchestration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

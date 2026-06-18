@@ -2570,6 +2570,9 @@ Jika Part 3 fokus pada **bagaimana class terlihat**, Part 4 fokus pada **bagaima
 - bnd / Bndtools Documentation: https://bnd.bndtools.org/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — Bundle Anatomy: Manifest, Headers, Metadata, and Build-Time Contracts](./02-bundle-anatomy-manifest-headers-metadata-build-time-contracts.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Dependency Model: Import-Package, Export-Package, Require-Bundle, Capabilities](./04-dependency-model-import-export-require-bundle-capabilities.md)
+<div class="page-nav">
+<a href="./02-bundle-anatomy-manifest-headers-metadata-build-time-contracts.md">⬅️ Part 2 — Bundle Anatomy: Manifest, Headers, Metadata, and Build-Time Contracts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./04-dependency-model-import-export-require-bundle-capabilities.md">Part 4 — Dependency Model: Import-Package, Export-Package, Require-Bundle, Capabilities ➡️</a>
+</div>

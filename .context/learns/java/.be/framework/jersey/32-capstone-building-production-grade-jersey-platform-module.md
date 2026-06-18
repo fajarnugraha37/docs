@@ -1916,6 +1916,9 @@ explicit bootstrap
 That is the end-state of this series.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Architecture Patterns: Jersey as API Boundary in Enterprise Systems](./31-architecture-patterns-jersey-as-api-boundary-enterprise-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: HTTP Client sebagai Production Subsystem, Bukan Utility](../../http_client/00-orientation-http-client-as-production-subsystem.md)
+<div class="page-nav">
+<a href="./31-architecture-patterns-jersey-as-api-boundary-enterprise-systems.md">⬅️ Part 31 — Architecture Patterns: Jersey as API Boundary in Enterprise Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<span></span>
+</div>

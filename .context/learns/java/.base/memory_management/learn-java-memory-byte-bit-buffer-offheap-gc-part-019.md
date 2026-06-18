@@ -1859,6 +1859,9 @@ Karena:
 - Oracle legacy HotSpot GC tuning documentation for young generation, survivor spaces, and tenuring concepts.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact](./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Serial, Parallel, CMS: Legacy Collectors You Still Need to Understand](./learn-java-memory-byte-bit-buffer-offheap-gc-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md">⬅️ Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-020.md">Serial, Parallel, CMS: Legacy Collectors You Still Need to Understand ➡️</a>
+</div>

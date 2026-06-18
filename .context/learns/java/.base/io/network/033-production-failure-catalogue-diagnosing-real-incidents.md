@@ -3223,6 +3223,9 @@ Part 34 — Architecture Patterns: API Client SDK, Gateway Adapter, Anti-Corrupt
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Testing Networked Java Systems: Unit, Contract, Integration, Chaos, Fault Injection, and Replay](./032-testing-networked-java-systems-unit-contract-integration-chaos-fault-injection-replay.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 34 — Architecture Patterns: API Client SDK, Gateway Adapter, Anti-Corruption Layer, Protocol Bridge, and Sidecar](./034-architecture-patterns-api-client-sdk-gateway-adapter-anti-corruption-layer-protocol-bridge-sidecar.md)
+<div class="page-nav">
+<a href="./032-testing-networked-java-systems-unit-contract-integration-chaos-fault-injection-replay.md">⬅️ Part 32 — Testing Networked Java Systems: Unit, Contract, Integration, Chaos, Fault Injection, and Replay</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./034-architecture-patterns-api-client-sdk-gateway-adapter-anti-corruption-layer-protocol-bridge-sidecar.md">Part 34 — Architecture Patterns: API Client SDK, Gateway Adapter, Anti-Corruption Layer, Protocol Bridge, and Sidecar ➡️</a>
+</div>

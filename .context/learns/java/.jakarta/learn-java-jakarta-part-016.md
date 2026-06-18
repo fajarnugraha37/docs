@@ -3078,6 +3078,9 @@ Engineer top-tier tidak hanya tahu endpoint bisa dibuat dengan annotation. Ia ta
 Bagian berikutnya akan membahas **Jakarta Security (`jakarta.security.enterprise`)**: identity store, authentication mechanism, security context, roles, authorization, integration dengan Servlet/JAX-RS/CDI, dan cara membangun security boundary yang benar.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 15 — Jakarta Validation (`jakarta.validation`): Contract Validation, Constraints, Groups, dan Integration Boundary](./learn-java-jakarta-part-015.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 17 — Jakarta Security (`jakarta.security.enterprise`): Authentication, Identity Store, dan Security Boundary](./learn-java-jakarta-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-015.md">⬅️ Bagian 15 — Jakarta Validation (`jakarta.validation`): Contract Validation, Constraints, Groups, dan Integration Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-017.md">Bagian 17 — Jakarta Security (`jakarta.security.enterprise`): Authentication, Identity Store, dan Security Boundary ➡️</a>
+</div>

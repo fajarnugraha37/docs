@@ -2193,6 +2193,9 @@ This is `part-030`, the capstone and planned final part of the series `learn-jav
 Status: **seri selesai / mencapai bagian terakhir**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Observability, Operations, and Governance of Validation Rules](./learn-java-validation-jakarta-hibernate-validator-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Part 000 — Orientasi dan Mental Model Java hingga Java 25](../../learn-java-part-000.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-029.md">⬅️ Observability, Operations, and Governance of Validation Rules</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

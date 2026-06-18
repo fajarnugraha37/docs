@@ -3056,6 +3056,9 @@ Prinsip utama:
 Bagian berikutnya akan membahas **Jakarta Data**, yaitu repository abstraction standard di Jakarta EE 11 yang berada di atas persistence/data access layer dan perlu dipahami relasinya dengan JPA, repository pattern, dan Spring Data-style programming.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 11 — Jakarta JSON Binding (`jakarta.json.bind` / JSON-B)](./learn-java-jakarta-part-011.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 13 — Jakarta Data: Repository Abstraction Standar](./learn-java-jakarta-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-011.md">⬅️ Bagian 11 — Jakarta JSON Binding (`jakarta.json.bind` / JSON-B)</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-013.md">Bagian 13 — Jakarta Data: Repository Abstraction Standar ➡️</a>
+</div>

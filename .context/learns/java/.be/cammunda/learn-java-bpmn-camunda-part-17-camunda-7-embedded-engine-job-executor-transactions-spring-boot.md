@@ -2934,6 +2934,9 @@ If you remember only a few rules:
 10. Do not migrate to Camunda 8 as if it were dependency upgrade.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java BPMN, Camunda, and Process Orchestration Engineering](./learn-java-bpmn-camunda-part-16-saga-long-running-transaction-engineering-with-bpmn.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java BPMN + Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-18-camunda-8-zeebe-workers-operate-tasklist-optimize-identity.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-16-saga-long-running-transaction-engineering-with-bpmn.md">⬅️ Learn Java BPMN, Camunda, and Process Orchestration Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-18-camunda-8-zeebe-workers-operate-tasklist-optimize-identity.md">Learn Java BPMN + Camunda Process Orchestration Engineering ➡️</a>
+</div>

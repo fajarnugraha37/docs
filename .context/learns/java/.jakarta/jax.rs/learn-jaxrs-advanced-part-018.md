@@ -2894,6 +2894,9 @@ Bagian 019 — CORS, CSRF, Cookies, Browser Security, and REST APIs
 Kita akan membahas browser-facing REST security secara mendalam: CORS protocol, preflight, credentials, cookies, SameSite, CSRF patterns, token storage, XSS interaction, security headers, and gateway/browser behavior.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 017 — Name Binding, `DynamicFeature`, Priorities, Provider Lifecycle, Registration Strategy, CDI Integration, dan Production Extension Architecture](./learn-jaxrs-advanced-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 019 — CORS, CSRF, Cookies, Browser Security, and REST APIs: Preflight, Credentialed Requests, SameSite, Token Storage, XSS Interaction, Security Headers, dan JAX-RS Implementation](./learn-jaxrs-advanced-part-019.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-017.md">⬅️ Bagian 017 — Name Binding, `DynamicFeature`, Priorities, Provider Lifecycle, Registration Strategy, CDI Integration, dan Production Extension Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-019.md">Bagian 019 — CORS, CSRF, Cookies, Browser Security, and REST APIs: Preflight, Credentialed Requests, SameSite, Token Storage, XSS Interaction, Security Headers, dan JAX-RS Implementation ➡️</a>
+</div>

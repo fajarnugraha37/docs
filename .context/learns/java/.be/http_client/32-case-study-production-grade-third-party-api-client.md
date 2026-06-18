@@ -1796,6 +1796,9 @@ Itulah perbedaan antara HTTP client utility dan integration subsystem.
 - OWASP guidance for outbound request security, secret leakage prevention, and SSRF defense.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Advanced Patterns: Fan-Out Aggregator, Token Single-Flight, Client-Side Cache, Idempotent Command](./31-advanced-patterns-fanout-token-singleflight-cache-idempotent-command.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — Case Study: Internal Microservice Client at Scale](./33-case-study-internal-microservice-client-at-scale.md)
+<div class="page-nav">
+<a href="./31-advanced-patterns-fanout-token-singleflight-cache-idempotent-command.md">⬅️ Part 31 — Advanced Patterns: Fan-Out Aggregator, Token Single-Flight, Client-Side Cache, Idempotent Command</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./33-case-study-internal-microservice-client-at-scale.md">Part 33 — Case Study: Internal Microservice Client at Scale ➡️</a>
+</div>

@@ -2248,6 +2248,9 @@ Performance Engineering for Java Code: Allocation, Collections, Strings, IO, Ser
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Profiling & Diagnostics I: JDK Tools, Thread Dump, Heap Dump, JFR, JMC](./learn-java-testing-benchmarking-performance-jvm-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 028 — Performance Engineering for Java Code: Allocation, Collections, Strings, IO, Serialization](./learn-java-testing-benchmarking-performance-jvm-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-026.md">⬅️ Profiling & Diagnostics I: JDK Tools, Thread Dump, Heap Dump, JFR, JMC</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-028.md">Part 028 — Performance Engineering for Java Code: Allocation, Collections, Strings, IO, Serialization ➡️</a>
+</div>

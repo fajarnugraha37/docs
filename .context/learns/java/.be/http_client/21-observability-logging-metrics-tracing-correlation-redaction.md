@@ -2436,6 +2436,9 @@ Kita akan membahas bagaimana membuktikan client behavior:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Error Modelling: Status Code, Transport Failure, Protocol Failure, Domain Failure](./20-error-modelling-status-transport-protocol-domain-failure.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Testing HTTP Clients: Unit, Contract, Integration, Chaos, Mock Server](./22-testing-http-clients-unit-contract-integration-chaos-mockserver.md)
+<div class="page-nav">
+<a href="./20-error-modelling-status-transport-protocol-domain-failure.md">⬅️ Part 20 — Error Modelling: Status Code, Transport Failure, Protocol Failure, Domain Failure</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./22-testing-http-clients-unit-contract-integration-chaos-mockserver.md">Part 22 — Testing HTTP Clients: Unit, Contract, Integration, Chaos, Mock Server ➡️</a>
+</div>

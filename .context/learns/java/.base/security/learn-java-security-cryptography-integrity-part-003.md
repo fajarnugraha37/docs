@@ -1812,6 +1812,9 @@ Progress:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — Threat Modeling for Java Systems](./learn-java-security-cryptography-integrity-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Randomness, Entropy, Nonce, Salt, IV, Token](./learn-java-security-cryptography-integrity-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-002.md">⬅️ Part 2 — Threat Modeling for Java Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-004.md">Part 4 — Randomness, Entropy, Nonce, Salt, IV, Token ➡️</a>
+</div>

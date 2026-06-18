@@ -2775,6 +2775,9 @@ Part 28 menempatkan file/filesystem Java dalam runtime modern. Kesimpulan besarn
 Bagian berikutnya akan masuk ke **Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS](./learn-java-io-file-filesystem-storage-engineering-part-27-cross-platform-filesystem-behavior.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary](./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-27-cross-platform-filesystem-behavior.md">⬅️ Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md">Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary ➡️</a>
+</div>

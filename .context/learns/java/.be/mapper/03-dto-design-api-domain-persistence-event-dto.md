@@ -2509,6 +2509,9 @@ Jika manual mapping-nya saja tidak bisa dirancang dengan aman, framework hanya a
 Seri belum mencapai bagian terakhir.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — Transformation Taxonomy: Copy, Convert, Normalize, Enrich, Redact, Project](./02-transformation-taxonomy-copy-convert-normalize-enrich-redact-project.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Manual Mapping: The Baseline Every Senior Engineer Must Master](./04-manual-mapping-baseline-every-senior-engineer-must-master.md)
+<div class="page-nav">
+<a href="./02-transformation-taxonomy-copy-convert-normalize-enrich-redact-project.md">⬅️ Part 2 — Transformation Taxonomy: Copy, Convert, Normalize, Enrich, Redact, Project</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./04-manual-mapping-baseline-every-senior-engineer-must-master.md">Part 4 — Manual Mapping: The Baseline Every Senior Engineer Must Master ➡️</a>
+</div>

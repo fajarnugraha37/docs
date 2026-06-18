@@ -2231,6 +2231,9 @@ Part 032 — Capstone: Designing a Production-Grade Persistence Layer for a Comp
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 030 — Testing Persistence Correctly](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 032 — Capstone: Designing a Production-Grade Persistence Layer for a Complex Case Management System](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-032.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-030.md">⬅️ Part 030 — Testing Persistence Correctly</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-032.md">Part 032 — Capstone: Designing a Production-Grade Persistence Layer for a Complex Case Management System ➡️</a>
+</div>

@@ -2094,6 +2094,9 @@ Seri belum selesai. Part berikutnya adalah:
 > Part 13 — Jersey Client Deep Dive: Invocation Pipeline, Connectors, Providers, and Configuration
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — Jersey Injection Model: HK2, Binder, Factories, Scopes, and Lifecycle](./11-jersey-injection-model-hk2-binder-factories-scopes-lifecycle.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — Jersey Client Deep Dive: Invocation Pipeline, Connectors, Providers, and Configuration](./13-jersey-client-deep-dive-invocation-pipeline-connectors-providers-configuration.md)
+<div class="page-nav">
+<a href="./11-jersey-injection-model-hk2-binder-factories-scopes-lifecycle.md">⬅️ Part 11 — Jersey Injection Model: HK2, Binder, Factories, Scopes, and Lifecycle</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./13-jersey-client-deep-dive-invocation-pipeline-connectors-providers-configuration.md">Part 13 — Jersey Client Deep Dive: Invocation Pipeline, Connectors, Providers, and Configuration ➡️</a>
+</div>

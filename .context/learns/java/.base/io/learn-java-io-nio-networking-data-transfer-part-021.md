@@ -2245,6 +2245,9 @@ UDP, Datagram, Multicast, dan Kapan Tidak Boleh Memakai TCP
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 020 — Networking II: TCP Framing, Protocol Design, Partial Read/Write, dan Backpressure](./learn-java-io-nio-networking-data-transfer-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 022 — UDP, Datagram, Multicast, dan Kapan Tidak Boleh Memakai TCP](./learn-java-io-nio-networking-data-transfer-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-020.md">⬅️ Part 020 — Networking II: TCP Framing, Protocol Design, Partial Read/Write, dan Backpressure</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-022.md">Part 022 — UDP, Datagram, Multicast, dan Kapan Tidak Boleh Memakai TCP ➡️</a>
+</div>

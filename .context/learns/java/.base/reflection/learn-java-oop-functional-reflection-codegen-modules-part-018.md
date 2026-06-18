@@ -2719,6 +2719,9 @@ Di sana kita akan membahas:
 - OpenJDK JEP 409, Sealed Classes.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Optional, Nullability, Result Modeling, and Error Channels](./learn-java-oop-functional-reflection-codegen-modules-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Reflection Deep Dive II: Dynamic Invocation, Proxies, Framework Mechanics](./learn-java-oop-functional-reflection-codegen-modules-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-017.md">⬅️ Optional, Nullability, Result Modeling, and Error Channels</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-019.md">Reflection Deep Dive II: Dynamic Invocation, Proxies, Framework Mechanics ➡️</a>
+</div>

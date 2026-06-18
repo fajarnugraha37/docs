@@ -1940,6 +1940,9 @@ Di sana fokusnya bukan lagi packet datagram, tetapi data transfer berbasis HTTP:
 - checksum verification
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 021 — NIO Networking: `SocketChannel`, `ServerSocketChannel`, `Selector`, dan Event Loop](./learn-java-io-nio-networking-data-transfer-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — HTTP Data Transfer: Java HTTP Client, Streaming Body, Timeout, Redirect, Proxy, dan TLS](./learn-java-io-nio-networking-data-transfer-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-021.md">⬅️ Part 021 — NIO Networking: `SocketChannel`, `ServerSocketChannel`, `Selector`, dan Event Loop</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-023.md">Part 023 — HTTP Data Transfer: Java HTTP Client, Streaming Body, Timeout, Redirect, Proxy, dan TLS ➡️</a>
+</div>

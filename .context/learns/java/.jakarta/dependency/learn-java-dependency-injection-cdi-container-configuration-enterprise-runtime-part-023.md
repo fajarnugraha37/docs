@@ -2316,6 +2316,9 @@ Belum selesai. Lanjut ke:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 022 — EJB Transactions, Timers, Async, and Security Boundaries](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 024 — Naming, JNDI, Environment Entries, and Externalized Resources](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-022.md">⬅️ Part 022 — EJB Transactions, Timers, Async, and Security Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-024.md">Part 024 — Naming, JNDI, Environment Entries, and Externalized Resources ➡️</a>
+</div>

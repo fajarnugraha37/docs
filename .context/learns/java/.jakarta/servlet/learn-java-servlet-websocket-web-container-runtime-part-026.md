@@ -1968,6 +1968,9 @@ Di part berikutnya, kita akan melihat JSP/Jakarta Pages bukan sebagai “templat
 - Nginx documentation and common production guidance for proxy buffering and streaming response behavior
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 025 — WebSocket Security Boundary](./learn-java-servlet-websocket-web-container-runtime-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — JSP, Jakarta Pages, Expression Language, JSTL: Legacy but Still Important](./learn-java-servlet-websocket-web-container-runtime-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-025.md">⬅️ Part 025 — WebSocket Security Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-027.md">Part 027 — JSP, Jakarta Pages, Expression Language, JSTL: Legacy but Still Important ➡️</a>
+</div>

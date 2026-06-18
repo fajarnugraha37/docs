@@ -1719,6 +1719,9 @@ Bagian ini membahas migrasi build dan Java baseline sebagai engineering discipli
 - OpenJDK JEP index: https://openjdk.org/jeps/0
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Dependency Conflict Case Studies: Logging, Jackson, Netty, Guava, Jakarta/Javax Split](./26-dependency-conflict-case-studies.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Troubleshooting Build Failures: Systematic Debugging Framework](./28-troubleshooting-build-failures.md)
+<div class="page-nav">
+<a href="./26-dependency-conflict-case-studies.md">⬅️ Part 26 — Dependency Conflict Case Studies: Logging, Jackson, Netty, Guava, Jakarta/Javax Split</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-troubleshooting-build-failures.md">Part 28 — Troubleshooting Build Failures: Systematic Debugging Framework ➡️</a>
+</div>

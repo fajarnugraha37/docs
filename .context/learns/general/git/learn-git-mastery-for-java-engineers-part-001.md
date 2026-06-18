@@ -2017,6 +2017,9 @@ Bagian terakhir yang direncanakan: Part 032 — Capstone: Mendesain Git Workflow
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 000 — Peta Belajar Git Mastery untuk Java Software Engineers](./learn-git-mastery-for-java-engineers-part-000.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 002 — Repository, Working Tree, Index, dan Object Database](./learn-git-mastery-for-java-engineers-part-002.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Peta Belajar Git Mastery untuk Java Software Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-002.md">Part 002 — Repository, Working Tree, Index, dan Object Database ➡️</a>
+</div>

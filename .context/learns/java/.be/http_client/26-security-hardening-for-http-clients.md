@@ -2181,6 +2181,9 @@ Jawabannya bukan satu library atau satu annotation. Jawabannya adalah desain cli
 - Spring Framework REST Clients documentation
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — Virtual Threads, CompletableFuture, Reactive, dan Structured Concurrency](./25-virtual-threads-completablefuture-reactive-structured-concurrency.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Generated Clients: OpenAPI, Codegen, SDK Governance](./27-generated-clients-openapi-codegen-sdk-governance.md)
+<div class="page-nav">
+<a href="./25-virtual-threads-completablefuture-reactive-structured-concurrency.md">⬅️ Part 25 — Virtual Threads, CompletableFuture, Reactive, dan Structured Concurrency</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./27-generated-clients-openapi-codegen-sdk-governance.md">Part 27 — Generated Clients: OpenAPI, Codegen, SDK Governance ➡️</a>
+</div>

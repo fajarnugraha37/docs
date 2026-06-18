@@ -1745,6 +1745,9 @@ File berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — `FunctionalInterface`, Lambda Runtime Support, `invokedynamic`, and `java.lang.invoke` Boundary](./22-functionalinterface-lambda-runtime-support-invokedynamic-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — DOM Mental Model: Document as Mutable Tree, Node Identity, Ownership](./24-dom-mental-model-document-node-tree-ownership.md)
+<div class="page-nav">
+<a href="./22-functionalinterface-lambda-runtime-support-invokedynamic-boundary.md">⬅️ Part 22 — `FunctionalInterface`, Lambda Runtime Support, `invokedynamic`, and `java.lang.invoke` Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./24-dom-mental-model-document-node-tree-ownership.md">Part 24 — DOM Mental Model: Document as Mutable Tree, Node Identity, Ownership ➡️</a>
+</div>

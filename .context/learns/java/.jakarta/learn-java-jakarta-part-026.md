@@ -3107,6 +3107,9 @@ Engineer top-tier tidak hanya tahu `h:inputText`. Ia tahu kapan model value di-u
 Bagian berikutnya akan membahas **Jakarta Expression Language (`jakarta.el`)**: expression evaluation, value/method expressions, coercion, resolvers, security, integration with Faces/CDI/JSP, and how EL works under the hood.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 25 — Jakarta WebSocket (`jakarta.websocket`): Full-Duplex Communication, Session, Backpressure, dan Real-Time Reliability](./learn-java-jakarta-part-025.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 27 — Jakarta Expression Language (`jakarta.el`): Expression Evaluation, Resolver Chain, Coercion, Method Expression, dan Security](./learn-java-jakarta-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-025.md">⬅️ Bagian 25 — Jakarta WebSocket (`jakarta.websocket`): Full-Duplex Communication, Session, Backpressure, dan Real-Time Reliability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-027.md">Bagian 27 — Jakarta Expression Language (`jakarta.el`): Expression Evaluation, Resolver Chain, Coercion, Method Expression, dan Security ➡️</a>
+</div>

@@ -2372,6 +2372,9 @@ Part 23 akan memperdalam feedback loop setelah provider menerima email:
 - state transition dari `ACCEPTED_BY_PROVIDER` ke `DELIVERED`, `BOUNCED`, `COMPLAINED`, atau `SUPPRESSED`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Performance and Resource Management](./21-performance-resource-management.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Bounce, Complaint, Webhook, and Delivery Feedback Loop](./23-bounce-complaint-webhook-feedback-loop.md)
+<div class="page-nav">
+<a href="./21-performance-resource-management.md">⬅️ Part 21 — Performance and Resource Management</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./23-bounce-complaint-webhook-feedback-loop.md">Part 23 — Bounce, Complaint, Webhook, and Delivery Feedback Loop ➡️</a>
+</div>

@@ -2006,6 +2006,9 @@ Part berikutnya: Part 29 — Performance Engineering: Latency, Throughput, Tail 
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Backpressure, Rate Limiting, Bulkhead, Circuit Breaker, and Adaptive Protection](./027-backpressure-rate-limiting-bulkhead-circuit-breaker-adaptive-protection.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Performance Engineering: Latency, Throughput, Tail Latency, Allocation, GC, and Kernel Effects](./029-performance-engineering-latency-throughput-tail-latency-allocation-gc-kernel-effects.md)
+<div class="page-nav">
+<a href="./027-backpressure-rate-limiting-bulkhead-circuit-breaker-adaptive-protection.md">⬅️ Part 27 — Backpressure, Rate Limiting, Bulkhead, Circuit Breaker, and Adaptive Protection</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./029-performance-engineering-latency-throughput-tail-latency-allocation-gc-kernel-effects.md">Part 29 — Performance Engineering: Latency, Throughput, Tail Latency, Allocation, GC, and Kernel Effects ➡️</a>
+</div>

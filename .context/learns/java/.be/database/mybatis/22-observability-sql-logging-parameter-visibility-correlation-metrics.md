@@ -1937,6 +1937,9 @@ Jika Part 21 mengajarkan cara membuat query cepat, Part 22 mengajarkan cara meng
 - OpenTelemetry Java Agent: https://opentelemetry.io/docs/zero-code/java/agent/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — SQL Performance Engineering: Execution Plan, Index, Bind Variable](./21-sql-performance-engineering-execution-plan-index-bind-variable.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 23 — Testing MyBatis: Unit, Slice, Integration, Testcontainers](./23-testing-mybatis-unit-slice-integration-testcontainers.md)
+<div class="page-nav">
+<a href="./21-sql-performance-engineering-execution-plan-index-bind-variable.md">⬅️ Part 21 — SQL Performance Engineering: Execution Plan, Index, Bind Variable</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./23-testing-mybatis-unit-slice-integration-testcontainers.md">Part 23 — Testing MyBatis: Unit, Slice, Integration, Testcontainers ➡️</a>
+</div>

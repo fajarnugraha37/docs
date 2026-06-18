@@ -2337,6 +2337,9 @@ Di part berikutnya kita akan masuk ke **WS-* Interoperability Field Guide**: WS-
 Status seri: belum selesai. Part ini adalah Part 27 dari 34.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — SOAP Faults, Errors & Resilience](./learn-java-json-xml-soap-connectors-enterprise-integration-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — * Interoperability Field Guide](./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-026.md">⬅️ Part 26 — SOAP Faults, Errors & Resilience</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md">Part 28 — * Interoperability Field Guide ➡️</a>
+</div>

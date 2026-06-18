@@ -2279,6 +2279,9 @@ Bagian 029 — Advanced Client API: Filters, Interceptors, Features, Async, SSE 
 Kita akan membahas client-side extension dan advanced invocation: `ClientRequestFilter`, `ClientResponseFilter`, `ReaderInterceptor`, `WriterInterceptor`, `Feature`, async invoker, reactive invoker, SSE client, resilience hooks, and production instrumentation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 027 — Multipart and File Upload: `multipart/form-data`, `EntityPart`, Streaming Upload, Size Limits, Malware Scanning, Content-Type Validation, Object Storage, Transactional Metadata, and Secure File Handling](./learn-jaxrs-advanced-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 029 — Advanced Client API: Filters, Interceptors, Features, Async, Reactive Invoker, SSE Client, Resilience Hooks, and Production Instrumentation](./learn-jaxrs-advanced-part-029.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-027.md">⬅️ Bagian 027 — Multipart and File Upload: `multipart/form-data`, `EntityPart`, Streaming Upload, Size Limits, Malware Scanning, Content-Type Validation, Object Storage, Transactional Metadata, and Secure File Handling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-029.md">Bagian 029 — Advanced Client API: Filters, Interceptors, Features, Async, Reactive Invoker, SSE Client, Resilience Hooks, and Production Instrumentation ➡️</a>
+</div>

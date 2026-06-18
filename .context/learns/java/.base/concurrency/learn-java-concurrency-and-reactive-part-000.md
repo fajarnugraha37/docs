@@ -2268,6 +2268,9 @@ how cancellation works, and how we will observe saturation?
     https://projectreactor.io/docs/core/release/reference/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 062](../collections/learn-java-collections-and-streams-part-062.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 001](./learn-java-concurrency-and-reactive-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-001.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 001 ➡️</a>
+</div>

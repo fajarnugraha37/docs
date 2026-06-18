@@ -2359,6 +2359,9 @@ Berikutnya: Part 7 — JSON-B Core Model
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 005 — P Transformation & Mutation](./learn-java-json-xml-soap-connectors-enterprise-integration-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — JSON-B Core Model](./learn-java-json-xml-soap-connectors-enterprise-integration-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-005.md">⬅️ Part 005 — P Transformation & Mutation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-007.md">Part 7 — JSON-B Core Model ➡️</a>
+</div>

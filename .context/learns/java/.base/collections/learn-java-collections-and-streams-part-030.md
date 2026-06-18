@@ -1786,6 +1786,9 @@ Before using or writing one, define result type, mutability, ordering, duplicate
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/stream/Collectors.java
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 029](./learn-java-collections-and-streams-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 031](./learn-java-collections-and-streams-part-031.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-029.md">⬅️ Java Collections and Streams — Part 029</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-031.md">Java Collections and Streams — Part 031 ➡️</a>
+</div>

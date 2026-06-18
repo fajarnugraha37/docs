@@ -2726,6 +2726,9 @@ Part 24 - Migration and Schema Evolution: Flyway, Liquibase, Backward Compatibil
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Observability: SQL Logging, Parameter Visibility, Correlation ID, Metrics](./22-observability-sql-logging-parameter-visibility-correlation-metrics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — Migration and Schema Evolution: Flyway, Liquibase, Backward Compatibility](./24-migration-schema-evolution-flyway-liquibase-backward-compatibility.md)
+<div class="page-nav">
+<a href="./22-observability-sql-logging-parameter-visibility-correlation-metrics.md">⬅️ Part 22 — Observability: SQL Logging, Parameter Visibility, Correlation ID, Metrics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./24-migration-schema-evolution-flyway-liquibase-backward-compatibility.md">Part 24 — Migration and Schema Evolution: Flyway, Liquibase, Backward Compatibility ➡️</a>
+</div>

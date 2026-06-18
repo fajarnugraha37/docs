@@ -1855,6 +1855,9 @@ That is the mindset this entire series is designed to build.
 Seri `learn-java-jakarta-pages-el-tags-faces-server-side-ui` **selesai di bagian ini**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Architecture Patterns: JSP/Faces in Modern Enterprise Systems](./29-architecture-patterns-jsp-faces-modern-enterprise-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 0 — Jakarta Package: Big Picture, Sejarah, dan Mental Model](../learn-java-jakarta-part-000.md)
+<div class="page-nav">
+<a href="./29-architecture-patterns-jsp-faces-modern-enterprise-systems.md">⬅️ Part 29 — Architecture Patterns: JSP/Faces in Modern Enterprise Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

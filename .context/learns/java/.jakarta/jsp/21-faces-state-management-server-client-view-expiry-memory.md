@@ -1464,6 +1464,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Navigation, Actions, Events, and Application Flow in Faces](./20-navigation-actions-events-application-flow-in-faces.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Ajax and Partial Rendering in Jakarta Faces](./22-ajax-and-partial-rendering-in-faces.md)
+<div class="page-nav">
+<a href="./20-navigation-actions-events-application-flow-in-faces.md">⬅️ Part 20 — Navigation, Actions, Events, and Application Flow in Faces</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./22-ajax-and-partial-rendering-in-faces.md">Part 22 — Ajax and Partial Rendering in Jakarta Faces ➡️</a>
+</div>

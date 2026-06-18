@@ -2050,6 +2050,9 @@ Part 014 — Pessimistic Locking, Deadlocks, and High-Contention Workloads
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 012 — Isolation Levels and Concurrency Anomalies](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — Pessimistic Locking, Deadlocks, and High-Contention Workloads](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-012.md">⬅️ Part 012 — Isolation Levels and Concurrency Anomalies</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-014.md">Part 014 — Pessimistic Locking, Deadlocks, and High-Contention Workloads ➡️</a>
+</div>

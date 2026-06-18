@@ -2145,6 +2145,9 @@ Bagian 039 — Legacy JAX-RS 2.1 Features: Async, SSE, Reactive Client
 Kita akan membahas fitur era JAX-RS 2.1 yang masih penting untuk maintenance legacy system: async server, SSE, reactive client, compatibility behavior, migration to Jakarta REST 4.0, and how to modernize without breaking old clients.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 037 — Implementation Deep Dive: Jersey, RESTEasy, Apache CXF, Open Liberty, Quarkus REST, Provider Discovery, CDI Integration, Client Connector, Multipart, SSE, Async, Testing Tools, Performance Knobs, and Migration Strategy](./learn-jaxrs-advanced-part-037.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 039 — Legacy JAX-RS 2.1 Features: Async, SSE, Reactive Client, Java EE 8 Maintenance, `javax.ws.rs`, Compatibility Behavior, and Modernization to Jakarta REST 4.0](./learn-jaxrs-advanced-part-039.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-037.md">⬅️ Bagian 037 — Implementation Deep Dive: Jersey, RESTEasy, Apache CXF, Open Liberty, Quarkus REST, Provider Discovery, CDI Integration, Client Connector, Multipart, SSE, Async, Testing Tools, Performance Knobs, and Migration Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-039.md">Bagian 039 — Legacy JAX-RS 2.1 Features: Async, SSE, Reactive Client, Java EE 8 Maintenance, `javax.ws.rs`, Compatibility Behavior, and Modernization to Jakarta REST 4.0 ➡️</a>
+</div>

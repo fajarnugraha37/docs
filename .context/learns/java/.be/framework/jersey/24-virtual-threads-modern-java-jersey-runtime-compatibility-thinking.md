@@ -1689,6 +1689,9 @@ Part 25 — Deployment Models: Servlet Container, Grizzly, Embedded, Jakarta EE 
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Performance Model: Threading, Allocation, Serialization, IO, and Provider Cost](./23-performance-model-threading-allocation-serialization-io-provider-cost.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 25 — Deployment Models: Servlet Container, Grizzly, Embedded, Jakarta EE Server, Spring Boot](./25-deployment-models-servlet-container-grizzly-embedded-jakarta-ee-server-spring-boot.md)
+<div class="page-nav">
+<a href="./23-performance-model-threading-allocation-serialization-io-provider-cost.md">⬅️ Part 23 — Performance Model: Threading, Allocation, Serialization, IO, and Provider Cost</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./25-deployment-models-servlet-container-grizzly-embedded-jakarta-ee-server-spring-boot.md">Part 25 — Deployment Models: Servlet Container, Grizzly, Embedded, Jakarta EE Server, Spring Boot ➡️</a>
+</div>

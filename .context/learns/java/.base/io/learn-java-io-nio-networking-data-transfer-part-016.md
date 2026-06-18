@@ -2292,6 +2292,9 @@ Topik utama Part 017:
 - migrasi dari Java serialization ke format aman.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 015 — WatchService: File Change Detection, Event Coalescing, dan Reliability Limit](./learn-java-io-nio-networking-data-transfer-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Serialization II: Versioning, Compatibility, Security, dan Kenapa Deserialization Berbahaya](./learn-java-io-nio-networking-data-transfer-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-015.md">⬅️ Part 015 — WatchService: File Change Detection, Event Coalescing, dan Reliability Limit</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-017.md">Part 017 — Serialization II: Versioning, Compatibility, Security, dan Kenapa Deserialization Berbahaya ➡️</a>
+</div>

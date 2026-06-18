@@ -1945,6 +1945,9 @@ Java 25: Scoped Values final, Structured Concurrency preview, modern concurrency
 - gRPC Guides: Deadlines, Cancellation, Flow Control, Retry, Keepalive
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — Netty for Java Network Engineers: Event Loop, Channel Pipeline, ByteBuf, and Zero-Copy](./025-netty-for-java-network-engineers-event-loop-channel-pipeline-bytebuf-zero-copy.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 27 — Backpressure, Rate Limiting, Bulkhead, Circuit Breaker, and Adaptive Protection](./027-backpressure-rate-limiting-bulkhead-circuit-breaker-adaptive-protection.md)
+<div class="page-nav">
+<a href="./025-netty-for-java-network-engineers-event-loop-channel-pipeline-bytebuf-zero-copy.md">⬅️ Part 25 — Netty for Java Network Engineers: Event Loop, Channel Pipeline, ByteBuf, and Zero-Copy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./027-backpressure-rate-limiting-bulkhead-circuit-breaker-adaptive-protection.md">Part 27 — Backpressure, Rate Limiting, Bulkhead, Circuit Breaker, and Adaptive Protection ➡️</a>
+</div>

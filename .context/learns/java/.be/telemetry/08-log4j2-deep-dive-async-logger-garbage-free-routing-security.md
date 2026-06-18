@@ -2350,8 +2350,10 @@ Berikutnya:
 Part 9 — Structured Logging: From Human Text to Machine-Queryable Events
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Log4j2 Deep Dive I: Architecture, Configuration, Appenders, Layouts](./07-log4j2-deep-dive-architecture-configuration-appenders-layouts.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Structured Logging: From Human Text to Machine-Queryable Events](./09-structured-logging-from-human-text-to-machine-queryable-events.md)
+<div class="page-nav">
+<a href="./07-log4j2-deep-dive-architecture-configuration-appenders-layouts.md">⬅️ Part 7 — Log4j2 Deep Dive I: Architecture, Configuration, Appenders, Layouts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./09-structured-logging-from-human-text-to-machine-queryable-events.md">Part 9 — Structured Logging: From Human Text to Machine-Queryable Events ➡️</a>
+</div>

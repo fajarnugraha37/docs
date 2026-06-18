@@ -2073,6 +2073,9 @@ Bagian 042 — Production Security Hardening for JAX-RS APIs
 Kita akan membahas hardening production API: authentication, authorization, JWT/OIDC, token validation, CORS/CSRF, input limits, headers, rate limit, request smuggling, SSRF, deserialization safety, file upload security, audit, and security testing.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 040 — Production Observability for JAX-RS: Logs, Metrics, Traces, Correlation ID, OpenTelemetry, MicroProfile Telemetry, HTTP Semantic Conventions, RED/USE, SLOs, Dashboards, and Incident Debugging](./learn-jaxrs-advanced-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 042 — Production Security Hardening for JAX-RS APIs: Authentication, Authorization, JWT/OIDC, CORS/CSRF, Input Limits, Security Headers, Rate Limit, Request Smuggling, SSRF, Deserialization Safety, File Upload Security, Audit, and Security Testing](./learn-jaxrs-advanced-part-042.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-040.md">⬅️ Bagian 040 — Production Observability for JAX-RS: Logs, Metrics, Traces, Correlation ID, OpenTelemetry, MicroProfile Telemetry, HTTP Semantic Conventions, RED/USE, SLOs, Dashboards, and Incident Debugging</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-042.md">Bagian 042 — Production Security Hardening for JAX-RS APIs: Authentication, Authorization, JWT/OIDC, CORS/CSRF, Input Limits, Security Headers, Rate Limit, Request Smuggling, SSRF, Deserialization Safety, File Upload Security, Audit, and Security Testing ➡️</a>
+</div>

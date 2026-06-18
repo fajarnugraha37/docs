@@ -2068,6 +2068,9 @@ and with failure signals that engineers trust.
 - Awaitility documentation: https://www.awaitility.org/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Concurrency Testing: Race, Visibility, Atomicity, Deadlock, dan jcstress](./learn-java-testing-benchmarking-performance-jvm-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 016 — Benchmarking Fundamentals: Latency, Throughput, Percentile, Warmup, dan Noise](./learn-java-testing-benchmarking-performance-jvm-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-014.md">⬅️ Concurrency Testing: Race, Visibility, Atomicity, Deadlock, dan jcstress</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-016.md">Part 016 — Benchmarking Fundamentals: Latency, Throughput, Percentile, Warmup, dan Noise ➡️</a>
+</div>

@@ -2106,6 +2106,9 @@ If that ownership model is wrong, ORM will faithfully automate the wrong thing.
 - EclipseLink Concepts — UnitOfWork, private ownership, shared cache, descriptors.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Collection Mapping: Bags, Lists, Sets, Maps, Ordering, and Hidden Costs](./10-collection-mapping-bags-lists-sets-maps-ordering-hidden-costs.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Inheritance Mapping: Object Hierarchy vs Relational Shape](./12-inheritance-mapping-object-hierarchy-relational-shape.md)
+<div class="page-nav">
+<a href="./10-collection-mapping-bags-lists-sets-maps-ordering-hidden-costs.md">⬅️ Part 10 — Collection Mapping: Bags, Lists, Sets, Maps, Ordering, and Hidden Costs</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./12-inheritance-mapping-object-hierarchy-relational-shape.md">Part 12 — Inheritance Mapping: Object Hierarchy vs Relational Shape ➡️</a>
+</div>

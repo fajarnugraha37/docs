@@ -2457,6 +2457,9 @@ Topik:
 Ini sangat penting untuk CRUD enterprise, case management, regulatory system, approval workflow, dan semua sistem yang punya data lifecycle panjang.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — MapStruct Mental Model: Compile-Time Mapping and Generated Code](./18-mapstruct-mental-model-compile-time-mapping-generated-code.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — MapStruct Update Mapping: Patch, Merge, Partial Update, Null Strategy](./20-mapstruct-update-mapping-patch-merge-partial-update-null-strategy.md)
+<div class="page-nav">
+<a href="./18-mapstruct-mental-model-compile-time-mapping-generated-code.md">⬅️ Part 18 — MapStruct Mental Model: Compile-Time Mapping and Generated Code</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./20-mapstruct-update-mapping-patch-merge-partial-update-null-strategy.md">Part 20 — MapStruct Update Mapping: Patch, Merge, Partial Update, Null Strategy ➡️</a>
+</div>

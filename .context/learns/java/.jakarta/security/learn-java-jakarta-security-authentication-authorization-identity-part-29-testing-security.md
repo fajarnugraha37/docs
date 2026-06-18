@@ -2398,6 +2398,9 @@ Fokusnya:
 - security regression checklist setelah migration.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Auditing, Accountability, Non-Repudiation, and Forensic Readiness](./learn-java-jakarta-security-authentication-authorization-identity-part-28-auditing-accountability-non-repudiation-forensics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Migration Guide: Java EE `javax` Security to Jakarta `jakarta` Security](./learn-java-jakarta-security-authentication-authorization-identity-part-30-migration-javax-to-jakarta-security.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-28-auditing-accountability-non-repudiation-forensics.md">⬅️ Part 28 — Auditing, Accountability, Non-Repudiation, and Forensic Readiness</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-30-migration-javax-to-jakarta-security.md">Part 30 — Migration Guide: Java EE `javax` Security to Jakarta `jakarta` Security ➡️</a>
+</div>

@@ -1879,6 +1879,9 @@ Part berikutnya:
 Topik berikutnya adalah **Apache Karaf**: OSGi distribution/container, features, repositories, shell, deploy folder, Config Admin integration, custom distribution, production operations, security, logging, hot deployment, rollback, dan kapan Karaf lebih tepat daripada Felix/Equinox.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — Apache Felix Runtime: Lightweight Framework, Gogo Shell, SCR, FileInstall](./12-apache-felix-runtime-lightweight-framework-gogo-scr-fileinstall.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Apache Karaf: OSGi Distribution, Features, Provisioning, and Operations](./14-apache-karaf-osgi-distribution-features-provisioning-operations.md)
+<div class="page-nav">
+<a href="./12-apache-felix-runtime-lightweight-framework-gogo-scr-fileinstall.md">⬅️ Part 12 — Apache Felix Runtime: Lightweight Framework, Gogo Shell, SCR, FileInstall</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./14-apache-karaf-osgi-distribution-features-provisioning-operations.md">Part 14 — Apache Karaf: OSGi Distribution, Features, Provisioning, and Operations ➡️</a>
+</div>

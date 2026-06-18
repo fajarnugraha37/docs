@@ -2137,8 +2137,10 @@ Berikutnya:
 
 **Part 34 — Building a Production-Grade Java Observability Starter Kit**.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Observability in Containers and Kubernetes](./32-observability-in-containers-and-kubernetes.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Building a Production-Grade Java Observability Starter Kit](./34-building-production-grade-java-observability-starter-kit.md)
+<div class="page-nav">
+<a href="./32-observability-in-containers-and-kubernetes.md">⬅️ Part 32 — Observability in Containers and Kubernetes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./34-building-production-grade-java-observability-starter-kit.md">Part 34 — Building a Production-Grade Java Observability Starter Kit ➡️</a>
+</div>

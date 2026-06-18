@@ -3838,6 +3838,9 @@ Buat counter non-thread-safe dan counter atomic. Bandingkan behavior dengan stre
 14. Java SE 25 API Documentation — https://docs.oracle.com/en/java/javase/25/docs/api/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 016 — Modules, Packaging, dan Runtime Images](./learn-java-part-016.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Part 018 — Enterprise Java dan Backend Engineering](./learn-java-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-part-016.md">⬅️ Learn Java Part 016 — Modules, Packaging, dan Runtime Images</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-018.md">Part 018 — Enterprise Java dan Backend Engineering ➡️</a>
+</div>

@@ -1372,6 +1372,9 @@ If it is just a view over in-memory data, do not add resource-management noise.
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/nio/file/Files.java
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 039](./learn-java-collections-and-streams-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 041](./learn-java-collections-and-streams-part-041.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-039.md">⬅️ Java Collections and Streams — Part 039</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-041.md">Java Collections and Streams — Part 041 ➡️</a>
+</div>

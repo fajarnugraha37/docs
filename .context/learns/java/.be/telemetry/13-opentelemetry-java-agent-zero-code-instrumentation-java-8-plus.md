@@ -2308,8 +2308,10 @@ Belum selesai. Berikutnya:
 
 **Part 14 — Manual Tracing: Span Design, Boundaries, Attributes, Events, Errors**.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — OpenTelemetry Mental Model: Signals, Resource, Scope, Context](./12-opentelemetry-mental-model-signals-resource-scope-context.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Manual Tracing: Span Design, Boundaries, Attributes, Events, Errors](./14-manual-tracing-span-design-boundaries-attributes-events-errors.md)
+<div class="page-nav">
+<a href="./12-opentelemetry-mental-model-signals-resource-scope-context.md">⬅️ Part 12 — OpenTelemetry Mental Model: Signals, Resource, Scope, Context</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./14-manual-tracing-span-design-boundaries-attributes-events-errors.md">Part 14 — Manual Tracing: Span Design, Boundaries, Attributes, Events, Errors ➡️</a>
+</div>

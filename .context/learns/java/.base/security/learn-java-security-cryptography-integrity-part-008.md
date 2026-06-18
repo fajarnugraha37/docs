@@ -2102,6 +2102,9 @@ Part 34 - Capstone: Designing a Secure Java Regulatory Case Management Platform
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Symmetric Encryption in Java: AES, Modes, Padding, AEAD](./learn-java-security-cryptography-integrity-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Digital Signature: RSA, ECDSA, EdDSA, Signing Semantics](./learn-java-security-cryptography-integrity-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-007.md">⬅️ Part 7 — Symmetric Encryption in Java: AES, Modes, Padding, AEAD</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-009.md">Part 9 — Digital Signature: RSA, ECDSA, EdDSA, Signing Semantics ➡️</a>
+</div>

@@ -2617,6 +2617,9 @@ Part berikutnya: Part 002 — JDBC Driver Architecture: Dari Interface Java ke P
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 000 — Orientation: Mental Model JDBC sebagai Boundary antara Java dan Database](./learn-java-sql-jdbc-hikaricp-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — JDBC Driver Architecture: Dari Interface Java ke Protocol Database](./learn-java-sql-jdbc-hikaricp-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-000.md">⬅️ Part 000 — Orientation: Mental Model JDBC sebagai Boundary antara Java dan Database</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-002.md">Part 002 — JDBC Driver Architecture: Dari Interface Java ke Protocol Database ➡️</a>
+</div>

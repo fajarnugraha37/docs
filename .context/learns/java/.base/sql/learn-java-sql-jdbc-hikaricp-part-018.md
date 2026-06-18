@@ -2401,6 +2401,9 @@ Fokus berikutnya:
 11. implikasi desain HikariCP untuk production tuning.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 017 — Performance Model of JDBC Calls](./learn-java-sql-jdbc-hikaricp-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — HikariCP Architecture and Design Philosophy](./learn-java-sql-jdbc-hikaricp-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-017.md">⬅️ Part 017 — Performance Model of JDBC Calls</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-019.md">Part 019 — HikariCP Architecture and Design Philosophy ➡️</a>
+</div>

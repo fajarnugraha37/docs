@@ -2342,6 +2342,9 @@ Part berikutnya akan membahas bagaimana mendesain workflow system yang tidak han
 - performance anti-patterns
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Security, Identity, Authorization, and Data Protection](./learn-java-bpmn-camunda-part-23-security-identity-authorization-data-protection.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java BPMN Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-25-performance-scaling-capacity-planning-cost-engineering.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-23-security-identity-authorization-data-protection.md">⬅️ Part 23 — Security, Identity, Authorization, and Data Protection</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-25-performance-scaling-capacity-planning-cost-engineering.md">Learn Java BPMN Camunda Process Orchestration Engineering ➡️</a>
+</div>

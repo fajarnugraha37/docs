@@ -2850,6 +2850,9 @@ Part 32 — target akhir / capstone
 Seri **belum selesai**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — CDI, Spring, and Jersey Integration: Choosing the Composition Model](./12-cdi-spring-and-jersey-integration-choosing-composition-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 14 — Resilient Outbound Calls: Timeout, Retry, Circuit Breaker, Bulkhead, Idempotency](./14-resilient-outbound-calls-timeout-retry-circuit-breaker-bulkhead-idempotency.md)
+<div class="page-nav">
+<a href="./12-cdi-spring-and-jersey-integration-choosing-composition-model.md">⬅️ Part 12 — CDI, Spring, and Jersey Integration: Choosing the Composition Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./14-resilient-outbound-calls-timeout-retry-circuit-breaker-bulkhead-idempotency.md">Part 14 — Resilient Outbound Calls: Timeout, Retry, Circuit Breaker, Bulkhead, Idempotency ➡️</a>
+</div>

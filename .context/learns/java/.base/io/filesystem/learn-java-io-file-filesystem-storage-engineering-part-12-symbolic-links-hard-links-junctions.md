@@ -1819,6 +1819,9 @@ Belum selesai. Berikutnya:
 - Part 13 — Path Traversal Security: User Input, Uploads, Archives, and Sandboxes
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — FileVisitor and Tree Algorithms: Robust Recursive Operations](./learn-java-io-file-filesystem-storage-engineering-part-11-filevisitor-tree-algorithms.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — Path Traversal Security: User Input, Uploads, Archives, and Sandboxes](./learn-java-io-file-filesystem-storage-engineering-part-13-path-traversal-security.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-11-filevisitor-tree-algorithms.md">⬅️ Part 11 — FileVisitor and Tree Algorithms: Robust Recursive Operations</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-13-path-traversal-security.md">Part 13 — Path Traversal Security: User Input, Uploads, Archives, and Sandboxes ➡️</a>
+</div>

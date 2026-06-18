@@ -3478,6 +3478,9 @@ Referensi utama yang digunakan untuk menyusun materi ini:
     https://www.rabbitmq.com/docs
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 017 — Testing di Java](./learn-java-part-017.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 19 — Java di Cloud, Container, dan Kubernetes](./learn-java-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-part-017.md">⬅️ Learn Java Part 017 — Testing di Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-019.md">Bagian 19 — Java di Cloud, Container, dan Kubernetes ➡️</a>
+</div>

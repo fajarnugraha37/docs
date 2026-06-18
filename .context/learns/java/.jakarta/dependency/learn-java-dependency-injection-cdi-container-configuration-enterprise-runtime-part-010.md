@@ -1989,6 +1989,9 @@ Part 011 — CDI Proxies, Normal Scopes, and Method Dispatch
 - Jakarta EE Platform / CDI runtime model for managed contextual objects.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 009 — Bean Discovery and Archive Model](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — CDI Proxies, Normal Scopes, and Method Dispatch](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009.md">⬅️ Part 009 — Bean Discovery and Archive Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-011.md">Part 011 — CDI Proxies, Normal Scopes, and Method Dispatch ➡️</a>
+</div>

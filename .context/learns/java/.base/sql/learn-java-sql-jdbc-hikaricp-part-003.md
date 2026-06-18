@@ -1597,6 +1597,9 @@ learn-java-sql-jdbc-hikaricp-part-004.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 002 — JDBC Driver Architecture: Dari Interface Java ke Protocol Database](./learn-java-sql-jdbc-hikaricp-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Statement, PreparedStatement, CallableStatement: Execution Model](./learn-java-sql-jdbc-hikaricp-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-002.md">⬅️ Part 002 — JDBC Driver Architecture: Dari Interface Java ke Protocol Database</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-004.md">Part 004 — Statement, PreparedStatement, CallableStatement: Execution Model ➡️</a>
+</div>

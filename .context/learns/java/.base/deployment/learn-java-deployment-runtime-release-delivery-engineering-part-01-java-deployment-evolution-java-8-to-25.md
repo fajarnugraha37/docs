@@ -2106,6 +2106,9 @@ There we will dissect deployment artifacts as operational objects, not just buil
 Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Deployment Mental Model: From Source Code to Running Production System](./learn-java-deployment-runtime-release-delivery-engineering-part-00-deployment-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Artifact Taxonomy: JAR, WAR, EAR, Thin JAR, Fat JAR, Layered JAR, Native Image](./learn-java-deployment-runtime-release-delivery-engineering-part-02-artifact-taxonomy.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-00-deployment-mental-model.md">⬅️ Part 0 — Deployment Mental Model: From Source Code to Running Production System</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-02-artifact-taxonomy.md">Part 2 — Artifact Taxonomy: JAR, WAR, EAR, Thin JAR, Fat JAR, Layered JAR, Native Image ➡️</a>
+</div>

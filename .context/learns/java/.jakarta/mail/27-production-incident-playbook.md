@@ -2379,6 +2379,9 @@ Part berikutnya akan menyatukan seluruh seri menjadi implementation blueprint:
 - production hardening checklist.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Advanced MIME and Internationalization](./26-advanced-mime-internationalization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — End-to-End Reference Implementation: Java 8 Legacy and Java 21/25 Modern](./28-end-to-end-reference-implementation.md)
+<div class="page-nav">
+<a href="./26-advanced-mime-internationalization.md">⬅️ Part 26 — Advanced MIME and Internationalization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-end-to-end-reference-implementation.md">Part 28 — End-to-End Reference Implementation: Java 8 Legacy and Java 21/25 Modern ➡️</a>
+</div>

@@ -2601,6 +2601,9 @@ Di Part 008, kita akan naik dari vocabulary minimal Jakarta Inject menuju model 
 - Spring Framework JSR-330 standard annotations reference: https://docs.spring.io/spring-framework/reference/core/beans/standard-annotations.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 006 — Dependency Injection Fundamentals: Inversion of Control Done Correctly](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 008 — CDI Core Mental Model: Bean, Type, Qualifier, Scope, Context](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-006.md">⬅️ Part 006 — Dependency Injection Fundamentals: Inversion of Control Done Correctly</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-008.md">Part 008 — CDI Core Mental Model: Bean, Type, Qualifier, Scope, Context ➡️</a>
+</div>

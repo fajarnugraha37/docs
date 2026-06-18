@@ -2238,6 +2238,9 @@ Part 09 — Credentials and Password Handling in Jakarta Applications
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 07 — SecurityContext Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-07-securitycontext-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 09 — Credentials and Password Handling in Jakarta Applications](./learn-java-jakarta-security-authentication-authorization-identity-part-09-credentials-password-handling.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-07-securitycontext-deep-dive.md">⬅️ Part 07 — SecurityContext Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-09-credentials-password-handling.md">Part 09 — Credentials and Password Handling in Jakarta Applications ➡️</a>
+</div>

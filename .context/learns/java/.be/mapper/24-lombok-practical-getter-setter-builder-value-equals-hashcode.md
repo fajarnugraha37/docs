@@ -2469,6 +2469,9 @@ Leverage makes correct design faster and bad design more dangerous.
 A top-level engineer uses Lombok to reduce accidental noise while keeping semantic decisions explicit.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Lombok Mental Model: Annotation Processing, Bytecode Shape, IDE Coupling](./23-lombok-mental-model-annotation-processing-bytecode-shape-ide-coupling.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Lombok with Jackson and MapStruct: Builders, Records, Immutability](./25-lombok-with-jackson-mapstruct-builders-records-immutability.md)
+<div class="page-nav">
+<a href="./23-lombok-mental-model-annotation-processing-bytecode-shape-ide-coupling.md">⬅️ Part 23 — Lombok Mental Model: Annotation Processing, Bytecode Shape, IDE Coupling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-lombok-with-jackson-mapstruct-builders-records-immutability.md">Part 25 — Lombok with Jackson and MapStruct: Builders, Records, Immutability ➡️</a>
+</div>

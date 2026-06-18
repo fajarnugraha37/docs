@@ -1903,6 +1903,9 @@ Part berikutnya akan masuk ke **Part 023 — WebSocket Session, Concurrency, and
 - Jetty 12.1 WebSocket Server documentation: https://jetty.org/docs/jetty/12.1/programming-guide/server/websocket.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 021 — WebSocket Protocol Fundamentals](./learn-java-servlet-websocket-web-container-runtime-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — WebSocket Session, Concurrency, and State Management](./learn-java-servlet-websocket-web-container-runtime-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-021.md">⬅️ Part 021 — WebSocket Protocol Fundamentals</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-023.md">Part 023 — WebSocket Session, Concurrency, and State Management ➡️</a>
+</div>

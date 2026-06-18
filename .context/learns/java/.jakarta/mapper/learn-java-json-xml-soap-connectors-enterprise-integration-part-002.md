@@ -2612,6 +2612,9 @@ Status seri: **belum selesai**.
 Part ini adalah **Part 2 dari 34**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — Data Format as Contract: JSON, XML, XSD, WSDL, and Integration Compatibility](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — JSON-P Core Mental Model: Object Model, Reader/Writer, Builder, Provider, Immutability, dan Boundary Thinking](./learn-java-json-xml-soap-connectors-enterprise-integration-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md">⬅️ Part 1 — Data Format as Contract: JSON, XML, XSD, WSDL, and Integration Compatibility</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-003.md">Part 3 — JSON-P Core Mental Model: Object Model, Reader/Writer, Builder, Provider, Immutability, dan Boundary Thinking ➡️</a>
+</div>

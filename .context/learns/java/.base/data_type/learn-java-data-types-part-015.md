@@ -2792,6 +2792,9 @@ Jika generics membantu compiler menjaga invariant, gunakan. Jika generics membua
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/Class.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 014](./learn-java-data-types-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 016](./learn-java-data-types-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-014.md">⬅️ Java Data Types — Part 014</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-016.md">Java Data Types — Part 016 ➡️</a>
+</div>

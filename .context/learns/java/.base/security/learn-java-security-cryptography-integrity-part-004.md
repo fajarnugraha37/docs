@@ -1716,6 +1716,9 @@ Progress saat ini:
 - [ ] Part 34 — Capstone: Designing a Secure Java Regulatory Case Management Platform
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — Cryptography Mental Model: What Crypto Can and Cannot Guarantee](./learn-java-security-cryptography-integrity-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Hashing, Digest, Fingerprint, Checksum, and Integrity Boundaries](./learn-java-security-cryptography-integrity-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-003.md">⬅️ Part 3 — Cryptography Mental Model: What Crypto Can and Cannot Guarantee</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-005.md">Hashing, Digest, Fingerprint, Checksum, and Integrity Boundaries ➡️</a>
+</div>

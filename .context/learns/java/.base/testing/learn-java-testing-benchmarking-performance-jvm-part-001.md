@@ -2286,6 +2286,9 @@ Part 002 berikutnya — JUnit Evolution: JUnit 4, JUnit 5, JUnit 6, dan Kompatib
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Testing, Benchmarking, Performance Engineering, dan JVM sebagai Satu Sistem](./learn-java-testing-benchmarking-performance-jvm-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: JUnit Evolution: JUnit 4, JUnit 5, JUnit 6, dan Kompatibilitas Java 8–25](./learn-java-testing-benchmarking-performance-jvm-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-000.md">⬅️ Testing, Benchmarking, Performance Engineering, dan JVM sebagai Satu Sistem</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-002.md">JUnit Evolution: JUnit 4, JUnit 5, JUnit 6, dan Kompatibilitas Java 8–25 ➡️</a>
+</div>

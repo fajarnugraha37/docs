@@ -5175,6 +5175,9 @@ Nested, Inner, Local, and Anonymous Classes
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Records Deep Dive: Value-Carrying Types, Canonical Constructor, and API Design](./learn-java-oop-functional-reflection-codegen-modules-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Nested, Inner, Local, and Anonymous Classes](./learn-java-oop-functional-reflection-codegen-modules-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-008.md">⬅️ Records Deep Dive: Value-Carrying Types, Canonical Constructor, and API Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-010.md">Nested, Inner, Local, and Anonymous Classes ➡️</a>
+</div>

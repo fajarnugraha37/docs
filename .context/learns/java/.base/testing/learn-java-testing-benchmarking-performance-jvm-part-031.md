@@ -1940,6 +1940,9 @@ Total: 32 part.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Performance Regression Pipeline: CI Benchmark, Baseline, Threshold, and Release Gate](./learn-java-testing-benchmarking-performance-jvm-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Dari CRUD Engineer ke Process Orchestration Engineer](../../.be/cammunda/learn-java-bpmn-camunda-part-00-orientation.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-030.md">⬅️ Performance Regression Pipeline: CI Benchmark, Baseline, Threshold, and Release Gate</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

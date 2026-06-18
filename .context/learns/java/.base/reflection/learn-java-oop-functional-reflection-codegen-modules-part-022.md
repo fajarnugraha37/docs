@@ -2715,6 +2715,9 @@ Berikutnya:
 - **Part 023 — Code Generation Strategy: Source Generation, Runtime Generation, Bytecode Generation**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 021 — Annotation Design: Metadata, Retention, Targets, Repeatable, Inheritance](./learn-java-oop-functional-reflection-codegen-modules-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Code Generation Strategy: Source Generation, Runtime Generation, Bytecode Generation](./learn-java-oop-functional-reflection-codegen-modules-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-021.md">⬅️ Part 021 — Annotation Design: Metadata, Retention, Targets, Repeatable, Inheritance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-023.md">Code Generation Strategy: Source Generation, Runtime Generation, Bytecode Generation ➡️</a>
+</div>

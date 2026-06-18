@@ -2326,6 +2326,9 @@ Part 004 — Linked Structures: LinkedList, Node Chain, Pointer Chasing
 Fokus berikutnya: membongkar linked list secara realistis: node chain, pointer chasing, memory overhead, iterator mutation, kapan linked structure benar-benar masuk akal, dan kenapa `LinkedList` sering disalahgunakan.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 002 — Java Object, Array, Reference, Equality, Hashing](./learn-java-dsa-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Linked Structures: LinkedList, Node Chain, Pointer Chasing](./learn-java-dsa-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-002.md">⬅️ Part 002 — Java Object, Array, Reference, Equality, Hashing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-004.md">Part 004 — Linked Structures: LinkedList, Node Chain, Pointer Chasing ➡️</a>
+</div>

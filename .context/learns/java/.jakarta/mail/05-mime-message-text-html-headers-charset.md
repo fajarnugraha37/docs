@@ -1946,6 +1946,9 @@ Progress seri:
 Seri belum selesai. Bagian berikutnya adalah **Part 6 — Multipart Email: Alternative, Mixed, Related, Nested Structure**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — SMTP Sending: Properties, Transport, Timeout, TLS, Auth](./04-smtp-sending-timeout-tls-auth.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Multipart Email: Alternative, Mixed, Related, Nested Structure](./06-multipart-email-alternative-mixed-related.md)
+<div class="page-nav">
+<a href="./04-smtp-sending-timeout-tls-auth.md">⬅️ Part 4 — SMTP Sending: Properties, Transport, Timeout, TLS, Auth</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./06-multipart-email-alternative-mixed-related.md">Part 6 — Multipart Email: Alternative, Mixed, Related, Nested Structure ➡️</a>
+</div>

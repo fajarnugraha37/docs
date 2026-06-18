@@ -2448,6 +2448,9 @@ Berikutnya:
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Production Operations: Incidents, Repair, Migration, and Runbook Engineering](./learn-java-bpmn-camunda-part-22-production-ops-incidents-repair-migration-runbook-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java BPMN Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-24-integration-patterns-external-systems-connectors.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-22-production-ops-incidents-repair-migration-runbook-engineering.md">⬅️ Part 22 — Production Operations: Incidents, Repair, Migration, and Runbook Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-24-integration-patterns-external-systems-connectors.md">Learn Java BPMN Camunda Process Orchestration Engineering ➡️</a>
+</div>

@@ -2244,6 +2244,9 @@ Di sana kita akan membahas bagaimana migration masuk ke CI/CD secara production-
 - rollback/roll-forward pipeline.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — Migration in Spring Boot Applications](./24-migration-in-spring-boot-applications.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: CI/CD Pipeline for Database Migration](./26-cicd-pipeline-database-migration.md)
+<div class="page-nav">
+<a href="./24-migration-in-spring-boot-applications.md">⬅️ Part 24 — Migration in Spring Boot Applications</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./26-cicd-pipeline-database-migration.md">CI/CD Pipeline for Database Migration ➡️</a>
+</div>

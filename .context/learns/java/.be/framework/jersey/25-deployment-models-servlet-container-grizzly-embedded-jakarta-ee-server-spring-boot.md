@@ -1930,6 +1930,9 @@ Part 26 — Configuration Engineering: Properties, Environments, Features, and R
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — Virtual Threads, Modern Java, and Jersey Runtime Compatibility Thinking](./24-virtual-threads-modern-java-jersey-runtime-compatibility-thinking.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 26 — Configuration Engineering: Properties, Environments, Features, and Runtime Flags](./26-configuration-engineering-properties-environments-features-runtime-flags.md)
+<div class="page-nav">
+<a href="./24-virtual-threads-modern-java-jersey-runtime-compatibility-thinking.md">⬅️ Part 24 — Virtual Threads, Modern Java, and Jersey Runtime Compatibility Thinking</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./26-configuration-engineering-properties-environments-features-runtime-flags.md">Part 26 — Configuration Engineering: Properties, Environments, Features, and Runtime Flags ➡️</a>
+</div>

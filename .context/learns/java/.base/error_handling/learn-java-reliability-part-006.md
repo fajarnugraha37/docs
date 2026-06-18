@@ -2519,6 +2519,9 @@ Part 007 — Validation, Preconditions, Invariants, and Illegal States
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 005 — Designing Error Contracts for APIs](./learn-java-reliability-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — Validation, Preconditions, Invariants, and Illegal States](./learn-java-reliability-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-005.md">⬅️ Part 005 — Designing Error Contracts for APIs</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-007.md">Part 007 — Validation, Preconditions, Invariants, and Illegal States ➡️</a>
+</div>

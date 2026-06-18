@@ -1953,6 +1953,9 @@ Apa final ownership response-nya?
 - Apache Tomcat Servlet 6.1 API documentation for implementation-facing API reference.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 007 — Servlet Mapping, URL Pattern, and Dispatch Resolution](./learn-java-servlet-websocket-web-container-runtime-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 009 — Filters: Cross-Cutting Boundary Before Frameworks](./learn-java-servlet-websocket-web-container-runtime-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-007.md">⬅️ Part 007 — Servlet Mapping, URL Pattern, and Dispatch Resolution</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-009.md">Part 009 — Filters: Cross-Cutting Boundary Before Frameworks ➡️</a>
+</div>

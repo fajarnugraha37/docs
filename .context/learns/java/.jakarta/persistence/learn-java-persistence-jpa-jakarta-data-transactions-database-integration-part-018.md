@@ -2365,6 +2365,9 @@ Part 019 — Caching: First-Level Cache, Second-Level Cache, Query Cache, Extern
 Setelah memahami invariant dan constraint, caching perlu dipelajari dengan hati-hati karena cache dapat mempercepat read path tetapi juga dapat memperkenalkan stale data, consistency illusion, invalidation bugs, dan authorization leakage.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 017 — Schema Generation, Migration, and Database Contract](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — Caching: First-Level Cache, Second-Level Cache, Query Cache, External Cache](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-017.md">⬅️ Part 017 — Schema Generation, Migration, and Database Contract</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-019.md">Part 019 — Caching: First-Level Cache, Second-Level Cache, Query Cache, External Cache ➡️</a>
+</div>

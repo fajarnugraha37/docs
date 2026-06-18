@@ -1757,8 +1757,10 @@ Part berikutnya akan naik dari service-level implementation ke organizational/pl
 
 **Part 33 — Observability Governance: Standards, Cost, Cardinality, Retention, Ownership**
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Production Incident Playbooks for Java Systems](./31-production-incident-playbooks-for-java-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — Observability Governance: Standards, Cost, Cardinality, Retention, Ownership](./33-observability-governance-standards-cost-cardinality-retention-ownership.md)
+<div class="page-nav">
+<a href="./31-production-incident-playbooks-for-java-systems.md">⬅️ Part 31 — Production Incident Playbooks for Java Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./33-observability-governance-standards-cost-cardinality-retention-ownership.md">Part 33 — Observability Governance: Standards, Cost, Cardinality, Retention, Ownership ➡️</a>
+</div>

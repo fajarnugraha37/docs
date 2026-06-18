@@ -2290,6 +2290,9 @@ Primitive itu powerful, tetapi terlalu sering dipakai untuk konsep domain yang s
     https://openjdk.org/jeps/507
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 000](./learn-java-data-types-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 002](./learn-java-data-types-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-000.md">⬅️ Java Data Types — Part 000</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-002.md">Java Data Types — Part 002 ➡️</a>
+</div>

@@ -2507,6 +2507,9 @@ Part 9 - JSON-B Customization & Provider Internals
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — JSON-B Core Model](./learn-java-json-xml-soap-connectors-enterprise-integration-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — JSON-B Customization & Provider Internals](./learn-java-json-xml-soap-connectors-enterprise-integration-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-007.md">⬅️ Part 7 — JSON-B Core Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-009.md">Part 9 — JSON-B Customization & Provider Internals ➡️</a>
+</div>

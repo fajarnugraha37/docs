@@ -2862,6 +2862,9 @@ Seri belum selesai. Part berikutnya adalah:
 > **Part 12 — CDI, Spring, and Jersey Integration: Choosing the Composition Model**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Filters and Interceptors: Request/Response Pipeline Control](./10-filters-and-interceptors-request-response-pipeline-control.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — CDI, Spring, and Jersey Integration: Choosing the Composition Model](./12-cdi-spring-and-jersey-integration-choosing-composition-model.md)
+<div class="page-nav">
+<a href="./10-filters-and-interceptors-request-response-pipeline-control.md">⬅️ Part 10 — Filters and Interceptors: Request/Response Pipeline Control</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./12-cdi-spring-and-jersey-integration-choosing-composition-model.md">Part 12 — CDI, Spring, and Jersey Integration: Choosing the Composition Model ➡️</a>
+</div>

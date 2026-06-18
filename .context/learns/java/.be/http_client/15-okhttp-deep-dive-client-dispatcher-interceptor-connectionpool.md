@@ -1929,6 +1929,9 @@ Kita sudah membahas:
 Part berikutnya akan membahas **Retrofit Deep Dive**: bagaimana membangun type-safe API client di atas OkHttp tanpa kehilangan kontrol atas error model, retry, observability, DTO boundary, dan production policy.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — JDK `HttpClient` Deep Dive: `java.net.http` sebagai Native HTTP Client Modern Java](./14-jdk-httpclient-deep-dive-java-net-http.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Retrofit Deep Dive: Type-Safe API Client di Atas OkHttp](./16-retrofit-deep-dive-type-safe-api-client-over-okhttp.md)
+<div class="page-nav">
+<a href="./14-jdk-httpclient-deep-dive-java-net-http.md">⬅️ Part 14 — JDK `HttpClient` Deep Dive: `java.net.http` sebagai Native HTTP Client Modern Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./16-retrofit-deep-dive-type-safe-api-client-over-okhttp.md">Part 16 — Retrofit Deep Dive: Type-Safe API Client di Atas OkHttp ➡️</a>
+</div>

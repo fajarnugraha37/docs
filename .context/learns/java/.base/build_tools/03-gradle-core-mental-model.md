@@ -2625,6 +2625,9 @@ Jika Maven mengajarkan disiplin melalui convention, Gradle menuntut engineer men
 Seri belum selesai. Bagian berikutnya adalah **Part 4 — Maven vs Gradle: Bukan Mana yang Lebih Bagus, Tapi Mana yang Cocok untuk Constraint Tertentu**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — Maven Core Mental Model: POM, Lifecycle, Phase, Goal, Plugin, Reactor](./02-maven-core-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Maven vs Gradle: Bukan Mana yang Lebih Bagus, Tapi Mana yang Cocok untuk Constraint Tertentu](./04-maven-vs-gradle-decision-framework.md)
+<div class="page-nav">
+<a href="./02-maven-core-mental-model.md">⬅️ Part 2 — Maven Core Mental Model: POM, Lifecycle, Phase, Goal, Plugin, Reactor</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./04-maven-vs-gradle-decision-framework.md">Part 4 — Maven vs Gradle: Bukan Mana yang Lebih Bagus, Tapi Mana yang Cocok untuk Constraint Tertentu ➡️</a>
+</div>

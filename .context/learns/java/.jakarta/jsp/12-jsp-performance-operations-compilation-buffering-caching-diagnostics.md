@@ -2080,6 +2080,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — JSP Security: XSS, CSRF, Output Encoding, Session, and Headers](./11-jsp-security-xss-csrf-output-encoding-session-headers.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Testing JSP and Tag Libraries](./13-testing-jsp-and-tag-libraries.md)
+<div class="page-nav">
+<a href="./11-jsp-security-xss-csrf-output-encoding-session-headers.md">⬅️ Part 11 — JSP Security: XSS, CSRF, Output Encoding, Session, and Headers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./13-testing-jsp-and-tag-libraries.md">Part 13 — Testing JSP and Tag Libraries ➡️</a>
+</div>

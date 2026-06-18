@@ -2247,6 +2247,9 @@ If the application compiles but the authorization matrix is not proven, the migr
 - OWASP authorization, authentication, CSRF, CORS, logging, and security testing guidance.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Testing Security: Unit, Integration, Container, Attack Simulation](./learn-java-jakarta-security-authentication-authorization-identity-part-29-testing-security.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Interoperability with Spring Security, Keycloak, MicroProfile JWT, and Modern IdPs](./learn-java-jakarta-security-authentication-authorization-identity-part-31-interoperability-spring-security-keycloak.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-29-testing-security.md">⬅️ Part 29 — Testing Security: Unit, Integration, Container, Attack Simulation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-31-interoperability-spring-security-keycloak.md">Part 31 — Interoperability with Spring Security, Keycloak, MicroProfile JWT, and Modern IdPs ➡️</a>
+</div>

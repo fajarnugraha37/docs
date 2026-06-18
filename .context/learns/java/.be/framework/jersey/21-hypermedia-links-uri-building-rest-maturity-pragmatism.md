@@ -2399,6 +2399,9 @@ Seri belum selesai. Berikutnya:
 > Part 22 — Observability in Jersey: Logs, Metrics, Traces, Correlation, and Profiling
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — API Versioning and Compatibility with Jersey](./20-api-versioning-and-compatibility-with-jersey.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Observability in Jersey: Logs, Metrics, Traces, Correlation, and Profiling](./22-observability-in-jersey-logs-metrics-traces-correlation-profiling.md)
+<div class="page-nav">
+<a href="./20-api-versioning-and-compatibility-with-jersey.md">⬅️ Part 20 — API Versioning and Compatibility with Jersey</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./22-observability-in-jersey-logs-metrics-traces-correlation-profiling.md">Part 22 — Observability in Jersey: Logs, Metrics, Traces, Correlation, and Profiling ➡️</a>
+</div>

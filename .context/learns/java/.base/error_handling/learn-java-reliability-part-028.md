@@ -2025,6 +2025,9 @@ Part 029 — Case Study: Designing a Reliable Java Service End-to-End
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 027 — Chaos Engineering and Failure Drills](./learn-java-reliability-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — Case Study: Designing a Reliable Java Service End-to-End](./learn-java-reliability-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-027.md">⬅️ Part 027 — Chaos Engineering and Failure Drills</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-029.md">Part 029 — Case Study: Designing a Reliable Java Service End-to-End ➡️</a>
+</div>

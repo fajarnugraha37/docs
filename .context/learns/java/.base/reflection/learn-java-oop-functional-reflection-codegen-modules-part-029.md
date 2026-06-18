@@ -3039,6 +3039,9 @@ Setelah menyelesaikan part ini, Anda seharusnya mampu:
 - memperlakukan public API sebagai aset arsitektur jangka panjang.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Maven/Gradle Dependency Governance for Serious Java Systems](./learn-java-oop-functional-reflection-codegen-modules-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Capstone: Designing a Modular, Reflective, Generated-Code Friendly Java Library](./learn-java-oop-functional-reflection-codegen-modules-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-028.md">⬅️ Maven/Gradle Dependency Governance for Serious Java Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-030.md">Part 030 — Capstone: Designing a Modular, Reflective, Generated-Code Friendly Java Library ➡️</a>
+</div>

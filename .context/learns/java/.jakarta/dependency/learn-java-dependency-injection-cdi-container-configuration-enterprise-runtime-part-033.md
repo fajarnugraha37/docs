@@ -2364,6 +2364,9 @@ Part 034 — Migration and Modernization Playbook
 Di sana kita akan menyusun playbook modernisasi dari legacy Java EE/Jakarta EE runtime menuju arsitektur yang lebih maintainable: `javax` ke `jakarta`, EJB ke CDI bila tepat, JNDI ke config/resource abstraction, EAR/WAR modernization, Java 8 menuju 17/21/25, testing migration, rollback strategy, dan strangler pattern.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 032 — Observability and Debugging of Dependency/Container Problems](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 034 — Migration and Modernization Playbook](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-034.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-032.md">⬅️ Part 032 — Observability and Debugging of Dependency/Container Problems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-034.md">Part 034 — Migration and Modernization Playbook ➡️</a>
+</div>

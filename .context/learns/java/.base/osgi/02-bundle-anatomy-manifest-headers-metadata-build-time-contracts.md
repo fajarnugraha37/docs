@@ -3220,6 +3220,9 @@ We will examine:
 - Equinox Execution Environment Descriptions: https://equinox.eclipseprojects.io/launcher/execution_environment_descriptions.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — OSGi Core Architecture: Framework Layers and Runtime Invariants](./01-osgi-core-architecture-framework-layers-runtime-invariants.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules](./03-class-loading-per-bundle-classloaders-visibility-rules.md)
+<div class="page-nav">
+<a href="./01-osgi-core-architecture-framework-layers-runtime-invariants.md">⬅️ Part 1 — OSGi Core Architecture: Framework Layers and Runtime Invariants</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./03-class-loading-per-bundle-classloaders-visibility-rules.md">Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules ➡️</a>
+</div>

@@ -1760,6 +1760,9 @@ Referensi ini digunakan sebagai konteks versi dan arah ekosistem, bukan sebagai 
 Seri **belum selesai**. Ini adalah **Part 0 dari 35**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — Final Synthesis: Decision Framework, Checklist, and Top 1% Engineering Heuristics](../http_client/34-final-synthesis-decision-framework-checklist-top-engineering-heuristics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability](./01-java-object-model-for-mapping-beans-records-pojos-immutability.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./01-java-object-model-for-mapping-beans-records-pojos-immutability.md">Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability ➡️</a>
+</div>

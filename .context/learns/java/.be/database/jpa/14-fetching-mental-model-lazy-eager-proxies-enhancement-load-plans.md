@@ -1766,6 +1766,9 @@ Part berikutnya akan membahas N+1, cartesian explosion, dan fetch plan engineeri
 - EclipseLink 4.0 Solutions and JPA Extensions documentation — weaving and advanced provider capabilities.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Embeddables, Value Objects, Attribute Converters, and Type Systems](./13-embeddables-value-objects-converters-type-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — N+1, Cartesian Explosion, and Fetch Plan Engineering](./15-n-plus-one-cartesian-explosion-fetch-plan-engineering.md)
+<div class="page-nav">
+<a href="./13-embeddables-value-objects-converters-type-systems.md">⬅️ Part 13 — Embeddables, Value Objects, Attribute Converters, and Type Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./15-n-plus-one-cartesian-explosion-fetch-plan-engineering.md">Part 15 — N+1, Cartesian Explosion, and Fetch Plan Engineering ➡️</a>
+</div>

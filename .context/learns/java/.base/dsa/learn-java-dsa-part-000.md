@@ -1908,6 +1908,9 @@ Referensi ini tidak dimaksudkan sebagai bacaan wajib sebelum lanjut, tetapi menj
    https://openjdk.org/projects/code-tools/jol/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 35 — Final Mastery Review: Top 1% Java Deployment Engineer Mindset](../deployment/learn-java-deployment-runtime-release-delivery-engineering-part-35-final-mastery-review.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Complexity Analysis yang Realistis di Java](./learn-java-dsa-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-001.md">Part 001 — Complexity Analysis yang Realistis di Java ➡️</a>
+</div>

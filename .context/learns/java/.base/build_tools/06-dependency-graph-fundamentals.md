@@ -2803,6 +2803,9 @@ Di sana kita akan membahas bagaimana mengendalikan versi dependency secara siste
 - Java Platform Documentation — classpath, module path, runtime linkage, dan class file compatibility.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Project Layout Engineering: Single Module, Multi-Module, Composite Build, Parent, BOM, Platform](./05-project-layout-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Dependency Version Management: BOM, Platforms, Constraints, Catalogs, Locking](./07-dependency-version-management.md)
+<div class="page-nav">
+<a href="./05-project-layout-engineering.md">⬅️ Part 5 — Project Layout Engineering: Single Module, Multi-Module, Composite Build, Parent, BOM, Platform</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./07-dependency-version-management.md">Part 7 — Dependency Version Management: BOM, Platforms, Constraints, Catalogs, Locking ➡️</a>
+</div>

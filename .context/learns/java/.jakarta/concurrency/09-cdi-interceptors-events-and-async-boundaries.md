@@ -1989,6 +1989,9 @@ Di Part 10, kita akan membahas bagaimana memakai `CompletableFuture`, `Completio
 - Jakarta EE Tutorial — Interceptors dan CDI advanced examples untuk pemahaman programming model container.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — Security, Identity, and Authorization in Async Execution](./08-security-identity-and-authorization-in-async-execution.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — CompletableFuture in Jakarta EE Without Breaking the Container](./10-completablefuture-in-jakarta-ee.md)
+<div class="page-nav">
+<a href="./08-security-identity-and-authorization-in-async-execution.md">⬅️ Part 8 — Security, Identity, and Authorization in Async Execution</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./10-completablefuture-in-jakarta-ee.md">Part 10 — CompletableFuture in Jakarta EE Without Breaking the Container ➡️</a>
+</div>

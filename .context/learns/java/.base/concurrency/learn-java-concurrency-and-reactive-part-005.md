@@ -1899,6 +1899,9 @@ what happens when full, and how we know it is saturated.
     https://openjdk.org/jeps/444
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 004](./learn-java-concurrency-and-reactive-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 006](./learn-java-concurrency-and-reactive-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-004.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 004</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-006.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 006 ➡️</a>
+</div>

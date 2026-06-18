@@ -2053,6 +2053,9 @@ Part 23 — Jakarta/Spring/Enterprise Java Build Integration
 Di sana kita akan membahas bagaimana Maven/Gradle mengintegrasikan Spring Boot, Jakarta EE, WAR, provided scope, JPA metamodel, OpenAPI, Keycloak SPI packaging, Flyway/Liquibase, jOOQ, dan enterprise runtime tanpa mengotori module boundary yang sudah dirancang di Part 22.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Enterprise Governance: Corporate Parent POM, Convention Plugin, Policy-as-Build](./21-enterprise-governance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Jakarta/Spring/Enterprise Java Build Integration](./23-jakarta-spring-enterprise-java-build-integration.md)
+<div class="page-nav">
+<a href="./21-enterprise-governance.md">⬅️ Part 21 — Enterprise Governance: Corporate Parent POM, Convention Plugin, Policy-as-Build</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./23-jakarta-spring-enterprise-java-build-integration.md">Part 23 — Jakarta/Spring/Enterprise Java Build Integration ➡️</a>
+</div>

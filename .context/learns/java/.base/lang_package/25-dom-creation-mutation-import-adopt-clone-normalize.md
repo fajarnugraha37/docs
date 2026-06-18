@@ -1684,6 +1684,9 @@ Topik berikutnya akan membahas cara membaca DOM tree secara robust:
 - DOM Level 3 Core Specification
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — DOM Mental Model: Document as Mutable Tree, Node Identity, Ownership](./24-dom-mental-model-document-node-tree-ownership.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — DOM Querying: Traversal, Namespaces, NodeList, Element APIs](./26-dom-querying-traversal-namespaces-nodelist-element-apis.md)
+<div class="page-nav">
+<a href="./24-dom-mental-model-document-node-tree-ownership.md">⬅️ Part 24 — DOM Mental Model: Document as Mutable Tree, Node Identity, Ownership</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./26-dom-querying-traversal-namespaces-nodelist-element-apis.md">Part 26 — DOM Querying: Traversal, Namespaces, NodeList, Element APIs ➡️</a>
+</div>

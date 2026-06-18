@@ -2829,6 +2829,9 @@ Part 005 — Mapping Fundamentals Done Correctly
 Kita akan membahas bagaimana field Java dipetakan ke column database, termasuk `@Entity`, `@Table`, `@Column`, enum, Java Time, LOB, converter, default value, generated column, dan contract antara entity mapping dengan schema database.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 003 — Entity Identity: Object Identity, Database Identity, Business Identity](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Mapping Fundamentals Done Correctly](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-003.md">⬅️ Part 003 — Entity Identity: Object Identity, Database Identity, Business Identity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-005.md">Part 005 — Mapping Fundamentals Done Correctly ➡️</a>
+</div>

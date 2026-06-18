@@ -1879,6 +1879,9 @@ Part berikutnya:
 > **Part 14 — XML Schema / XSD Deep Dive: simple/complex types, sequence/choice/all, namespace qualification, substitution groups, extension/restriction, schema evolution.**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — XML Fundamentals for Java Engineers](./learn-java-json-xml-soap-connectors-enterprise-integration-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — XML Schema / XSD Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-012.md">⬅️ Part 12 — XML Fundamentals for Java Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-014.md">Part 14 — XML Schema / XSD Deep Dive ➡️</a>
+</div>

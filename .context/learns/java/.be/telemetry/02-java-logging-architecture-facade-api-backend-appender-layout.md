@@ -2741,8 +2741,10 @@ Fokus Part 3:
 - Java SE API: `java.util.logging.Logger` — https://docs.oracle.com/javase/8/docs/api/java/util/logging/Logger.html
 - Java SE API: `System.Logger` — https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/System.Logger.html
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — Mental Model: Runtime Evidence, Not Just Logging](./01-runtime-evidence-not-just-logging.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — Log Semantics: What Should Be Logged and Why](./03-log-semantics-what-should-be-logged-and-why.md)
+<div class="page-nav">
+<a href="./01-runtime-evidence-not-just-logging.md">⬅️ Part 1 — Mental Model: Runtime Evidence, Not Just Logging</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./03-log-semantics-what-should-be-logged-and-why.md">Part 3 — Log Semantics: What Should Be Logged and Why ➡️</a>
+</div>

@@ -2413,6 +2413,9 @@ Topik:
 **Dependency Injection in Validators: CDI, Spring, Jakarta EE, and Testability**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Constraint Composition: Reusable Higher-Level Constraints](./learn-java-validation-jakarta-hibernate-validator-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Dependency Injection in Validators: CDI, Spring, Jakarta EE, and Testability](./learn-java-validation-jakarta-hibernate-validator-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-016.md">⬅️ Constraint Composition: Reusable Higher-Level Constraints</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-018.md">Dependency Injection in Validators: CDI, Spring, Jakarta EE, and Testability ➡️</a>
+</div>

@@ -1949,6 +1949,9 @@ and every access to guarded mutable state under the same lock.
    https://openjdk.org/jeps/491
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 008](./learn-java-concurrency-and-reactive-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 010](./learn-java-concurrency-and-reactive-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-008.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 008</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-010.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 010 ➡️</a>
+</div>

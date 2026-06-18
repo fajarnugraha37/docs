@@ -2070,6 +2070,9 @@ immutable snapshots for read-mostly shared state.
     https://openjdk.org/projects/code-tools/jcstress/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 007](./learn-java-concurrency-and-reactive-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 009](./learn-java-concurrency-and-reactive-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-007.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 007</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-009.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 009 ➡️</a>
+</div>

@@ -3157,6 +3157,9 @@ Bagian 013 — Error Handling Architecture: Exceptions, Mappers, Problem Details
 Kita akan membahas arsitektur error handling lengkap: checked vs unchecked exception, `WebApplicationException`, `ExceptionMapper`, mapper specificity, RFC 9457 Problem Details, validation errors, conversion errors, domain errors, observability, and enterprise error taxonomy.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 011 — Content Negotiation Deep Dive: `@Consumes`, `@Produces`, `MediaType`, `Variant`, `Accept`, `Content-Type`, `q/qs`, `Vary`, dan Debugging `406/415`](./learn-jaxrs-advanced-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 013 — Error Handling Architecture: Exceptions, `ExceptionMapper`, `WebApplicationException`, RFC 9457 Problem Details, Error Taxonomy, dan Production Error Contract](./learn-jaxrs-advanced-part-013.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-011.md">⬅️ Bagian 011 — Content Negotiation Deep Dive: `@Consumes`, `@Produces`, `MediaType`, `Variant`, `Accept`, `Content-Type`, `q/qs`, `Vary`, dan Debugging `406/415`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-013.md">Bagian 013 — Error Handling Architecture: Exceptions, `ExceptionMapper`, `WebApplicationException`, RFC 9457 Problem Details, Error Taxonomy, dan Production Error Contract ➡️</a>
+</div>

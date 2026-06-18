@@ -1570,6 +1570,9 @@ Part 016 — Timeouts, Deadlines, and Cancellation
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 014 — Transaction Safety During Failure and Shutdown](./learn-java-reliability-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 016 — Timeouts, Deadlines, and Cancellation](./learn-java-reliability-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-014.md">⬅️ Part 014 — Transaction Safety During Failure and Shutdown</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-016.md">Part 016 — Timeouts, Deadlines, and Cancellation ➡️</a>
+</div>

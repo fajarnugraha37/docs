@@ -2279,8 +2279,10 @@ Part berikutnya akan masuk ke **Heap Dump and Memory Troubleshooting: Leak, Rete
 - Oracle Java SE 8 Troubleshooting Guide — `jcmd` utility and thread diagnostics.
 - async-profiler project documentation — CPU/wall/allocation/lock profiling correlation.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — JVM Troubleshooting Toolkit: `jcmd`, `jstack`, `jmap`, `jstat`, `jhsdb`, `jinfo`](./24-jvm-troubleshooting-toolkit-jcmd-jstack-jmap-jstat-jhsdb-jinfo.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Heap Dump and Memory Troubleshooting: Leak, Retention, Allocation, Native Memory](./26-heap-dump-and-memory-troubleshooting-leak-retention-allocation-native-memory.md)
+<div class="page-nav">
+<a href="./24-jvm-troubleshooting-toolkit-jcmd-jstack-jmap-jstat-jhsdb-jinfo.md">⬅️ Part 24 — JVM Troubleshooting Toolkit: `jcmd`, `jstack`, `jmap`, `jstat`, `jhsdb`, `jinfo`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./26-heap-dump-and-memory-troubleshooting-leak-retention-allocation-native-memory.md">Part 26 — Heap Dump and Memory Troubleshooting: Leak, Retention, Allocation, Native Memory ➡️</a>
+</div>

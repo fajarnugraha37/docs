@@ -2267,6 +2267,9 @@ Mental model paling penting:
 - OpenJDK Java 9–25 migration materials — JPMS, strong encapsulation, Security Manager deprecation/removal, runtime compatibility.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Architecture Patterns: Modular Monolith, Dynamic Kernel, Product Lines, and Runtime Composition](./29-architecture-patterns-modular-monolith-dynamic-kernel-product-lines-runtime-composition.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Migration Playbooks: Legacy Classpath App to OSGi, OSGi to Modern Java, and Hybrid Systems](./31-migration-playbooks-legacy-classpath-app-to-osgi-osgi-to-modern-java-hybrid-systems.md)
+<div class="page-nav">
+<a href="./29-architecture-patterns-modular-monolith-dynamic-kernel-product-lines-runtime-composition.md">⬅️ Part 29 — Architecture Patterns: Modular Monolith, Dynamic Kernel, Product Lines, and Runtime Composition</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./31-migration-playbooks-legacy-classpath-app-to-osgi-osgi-to-modern-java-hybrid-systems.md">Part 31 — Migration Playbooks: Legacy Classpath App to OSGi, OSGi to Modern Java, and Hybrid Systems ➡️</a>
+</div>

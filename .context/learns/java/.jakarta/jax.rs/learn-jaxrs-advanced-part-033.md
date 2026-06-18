@@ -2032,6 +2032,9 @@ Bagian 034 — OpenAPI and Documentation Strategy
 Kita akan membahas OpenAPI sebagai contract artifact: schema design, examples, error docs, generated docs, versioned specs, governance, CI validation, codegen implications, and docs-as-product.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 032 — Transactions, Persistence, and REST Boundary: JPA Entity vs DTO, Service-Layer Transaction, Lazy Loading, Optimistic Locking, Outbox, Pagination Query, Streaming/Export, and Consistency Patterns](./learn-jaxrs-advanced-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 034 — OpenAPI and Documentation Strategy: Contract Artifact, Code-First vs Spec-First, MicroProfile OpenAPI, Schema Design, Examples, Error Docs, Versioned Specs, Governance, CI Validation, Codegen, and Docs-as-Product](./learn-jaxrs-advanced-part-034.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-032.md">⬅️ Bagian 032 — Transactions, Persistence, and REST Boundary: JPA Entity vs DTO, Service-Layer Transaction, Lazy Loading, Optimistic Locking, Outbox, Pagination Query, Streaming/Export, and Consistency Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-034.md">Bagian 034 — OpenAPI and Documentation Strategy: Contract Artifact, Code-First vs Spec-First, MicroProfile OpenAPI, Schema Design, Examples, Error Docs, Versioned Specs, Governance, CI Validation, Codegen, and Docs-as-Product ➡️</a>
+</div>

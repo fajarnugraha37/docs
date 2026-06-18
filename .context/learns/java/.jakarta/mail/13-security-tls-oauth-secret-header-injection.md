@@ -2065,6 +2065,9 @@ Itu mencakup SPF, DKIM, DMARC, alignment, reputation, hard bounce, soft bounce, 
 - Jakarta Activation specification: relevant for attachment/data handling security because mail content often crosses MIME/data source boundaries.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — Bulk, Batch, and Rate-Limited Sending](./12-bulk-batch-rate-limited-sending.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Deliverability Fundamentals: SPF, DKIM, DMARC, Reputation, Bounce](./14-deliverability-spf-dkim-dmarc-bounce.md)
+<div class="page-nav">
+<a href="./12-bulk-batch-rate-limited-sending.md">⬅️ Part 12 — Bulk, Batch, and Rate-Limited Sending</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./14-deliverability-spf-dkim-dmarc-bounce.md">Part 14 — Deliverability Fundamentals: SPF, DKIM, DMARC, Reputation, Bounce ➡️</a>
+</div>

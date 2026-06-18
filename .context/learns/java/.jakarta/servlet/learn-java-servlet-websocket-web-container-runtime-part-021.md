@@ -2213,6 +2213,9 @@ Kita akan masuk ke API Java/Jakarta:
 - MDN WebSocket API documentation, especially close event/code and protocol usage.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 020 — Packaging Models: WAR, Embedded Container, Executable JAR, Native-ish Deployments](./learn-java-servlet-websocket-web-container-runtime-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 022 — Jakarta WebSocket Server Endpoint Model](./learn-java-servlet-websocket-web-container-runtime-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-020.md">⬅️ Part 020 — Packaging Models: WAR, Embedded Container, Executable JAR, Native-ish Deployments</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-022.md">Part 022 — Jakarta WebSocket Server Endpoint Model ➡️</a>
+</div>

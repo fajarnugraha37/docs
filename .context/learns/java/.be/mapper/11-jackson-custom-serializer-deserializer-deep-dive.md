@@ -3242,6 +3242,9 @@ Bagian berikutnya akan membahas **Jackson for Enterprise API Contracts: Strictne
 - Berikutnya: `12-jackson-enterprise-api-contracts-strictness-compatibility-evolution.md`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Jackson Advanced Type Handling: Generic, Polymorphism, Sealed Classes](./10-jackson-advanced-type-handling-generic-polymorphism-sealed-classes.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Jackson for Enterprise API Contracts: Strictness, Compatibility, Evolution](./12-jackson-enterprise-api-contracts-strictness-compatibility-evolution.md)
+<div class="page-nav">
+<a href="./10-jackson-advanced-type-handling-generic-polymorphism-sealed-classes.md">⬅️ Part 10 — Jackson Advanced Type Handling: Generic, Polymorphism, Sealed Classes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-jackson-enterprise-api-contracts-strictness-compatibility-evolution.md">Part 12 — Jackson for Enterprise API Contracts: Strictness, Compatibility, Evolution ➡️</a>
+</div>

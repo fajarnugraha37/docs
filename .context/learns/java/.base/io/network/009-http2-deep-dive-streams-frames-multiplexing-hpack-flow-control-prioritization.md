@@ -2386,6 +2386,9 @@ There we will examine why QUIC exists, what changes when HTTP runs over UDP + QU
 - OpenTelemetry documentation for distributed tracing concepts and Java instrumentation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — HTTP/1.1 Deep Dive: Connections, Pipelining, Chunking, Keep-Alive, and Head-of-Line Blocking](./008-http11-deep-dive-connections-pipelining-chunking-keepalive-head-of-line-blocking.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 10 — HTTP/3 and QUIC for Java Engineers: What Changes, What Does Not](./010-http3-quic-for-java-engineers-what-changes-what-does-not.md)
+<div class="page-nav">
+<a href="./008-http11-deep-dive-connections-pipelining-chunking-keepalive-head-of-line-blocking.md">⬅️ Part 8 — HTTP/1.1 Deep Dive: Connections, Pipelining, Chunking, Keep-Alive, and Head-of-Line Blocking</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./010-http3-quic-for-java-engineers-what-changes-what-does-not.md">Part 10 — HTTP/3 and QUIC for Java Engineers: What Changes, What Does Not ➡️</a>
+</div>

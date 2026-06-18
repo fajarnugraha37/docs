@@ -3012,6 +3012,9 @@ Part 029 — Conditional Beans and Runtime Selection Patterns
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 027 — Profiles: Environment-Specific Behavior Without Code Forking](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — Conditional Beans and Runtime Selection Patterns](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-027.md">⬅️ Part 027 — Profiles: Environment-Specific Behavior Without Code Forking</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-029.md">Part 029 — Conditional Beans and Runtime Selection Patterns ➡️</a>
+</div>

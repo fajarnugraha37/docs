@@ -2227,9 +2227,10 @@ Part 7 — Log4j2 Deep Dive I: Architecture, Configuration, Appenders, Layouts
 
 Di sana kita akan membedah Log4j2 sebagai backend logging yang berbeda secara arsitektural dari Logback, terutama pada konfigurasi, plugin system, layout, appender model, dan ecosystem integration. Setelah itu Part 8 akan masuk ke AsyncLogger, Disruptor, garbage-free logging, routing, dan security.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Logback Deep Dive I: Architecture, Configuration, Appenders, Encoders](./05-logback-deep-dive-architecture-configuration-appenders-encoders.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Log4j2 Deep Dive I: Architecture, Configuration, Appenders, Layouts](./07-log4j2-deep-dive-architecture-configuration-appenders-layouts.md)
+<div class="page-nav">
+<a href="./05-logback-deep-dive-architecture-configuration-appenders-encoders.md">⬅️ Part 5 — Logback Deep Dive I: Architecture, Configuration, Appenders, Encoders</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./07-log4j2-deep-dive-architecture-configuration-appenders-layouts.md">Part 7 — Log4j2 Deep Dive I: Architecture, Configuration, Appenders, Layouts ➡️</a>
+</div>

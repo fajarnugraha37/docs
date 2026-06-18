@@ -2608,6 +2608,9 @@ Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: CPU Cache, Cache Lines, False Sharing, and Memory Locality](./learn-java-memory-byte-bit-buffer-offheap-gc-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact](./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-016.md">⬅️ CPU Cache, Cache Lines, False Sharing, and Memory Locality</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md">Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact ➡️</a>
+</div>

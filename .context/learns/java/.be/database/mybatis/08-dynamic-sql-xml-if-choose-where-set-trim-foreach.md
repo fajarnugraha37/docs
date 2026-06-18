@@ -2319,6 +2319,9 @@ Di sana kita akan membahas **MyBatis Dynamic SQL library**, yaitu pendekatan pro
 - trade-off readability vs type-safety.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Advanced Result Mapping: Constructor, Record, Immutable DTO, Nested Object](./07-advanced-result-mapping-constructor-record-immutable-dto-nested-object.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: MyBatis Dynamic SQL Library: Type-Safe Query Generation](./09-mybatis-dynamic-sql-library-type-safe-query-generation.md)
+<div class="page-nav">
+<a href="./07-advanced-result-mapping-constructor-record-immutable-dto-nested-object.md">⬅️ Part 7 — Advanced Result Mapping: Constructor, Record, Immutable DTO, Nested Object</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./09-mybatis-dynamic-sql-library-type-safe-query-generation.md">MyBatis Dynamic SQL Library: Type-Safe Query Generation ➡️</a>
+</div>

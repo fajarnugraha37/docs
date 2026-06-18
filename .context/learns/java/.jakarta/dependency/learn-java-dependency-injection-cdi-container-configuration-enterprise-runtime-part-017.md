@@ -2719,6 +2719,9 @@ Belum selesai. Bagian berikutnya:
 - Part 018 — Lifecycle Callbacks: Construction, Initialization, Destruction
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 016 — Decorators: Semantic Wrapping of Business Interfaces](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Lifecycle Callbacks: Construction, Initialization, Destruction](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md">⬅️ Part 016 — Decorators: Semantic Wrapping of Business Interfaces</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-018.md">Part 018 — Lifecycle Callbacks: Construction, Initialization, Destruction ➡️</a>
+</div>

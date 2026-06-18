@@ -2165,6 +2165,9 @@ File: 05-managed-thread-factory-and-thread-ownership.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — ManagedExecutorService Deep Dive](./03-managed-executor-service-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — ManagedThreadFactory and Thread Creation Without Losing Container Semantics](./05-managed-thread-factory-and-thread-ownership.md)
+<div class="page-nav">
+<a href="./03-managed-executor-service-deep-dive.md">⬅️ Part 3 — ManagedExecutorService Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./05-managed-thread-factory-and-thread-ownership.md">Part 5 — ManagedThreadFactory and Thread Creation Without Losing Container Semantics ➡️</a>
+</div>

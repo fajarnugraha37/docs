@@ -1585,6 +1585,9 @@ Part 22 — Provider Integration Patterns: SMTP Relay vs API-Based Email Provide
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Observability: Logs, Metrics, Tracing, Audit](./20-observability-logs-metrics-tracing-audit.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Provider Integration Patterns: SMTP Relay vs API-Based Email Provider](./22-provider-integration-smtp-vs-api.md)
+<div class="page-nav">
+<a href="./20-observability-logs-metrics-tracing-audit.md">⬅️ Part 20 — Observability: Logs, Metrics, Tracing, Audit</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./22-provider-integration-smtp-vs-api.md">Part 22 — Provider Integration Patterns: SMTP Relay vs API-Based Email Provider ➡️</a>
+</div>

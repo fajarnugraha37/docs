@@ -3300,6 +3300,9 @@ Remaining:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Secure Build, CI/CD, and Release Integrity for Java](./learn-java-security-cryptography-integrity-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Security Testing: Unit, Property, Fuzzing, SAST, DAST, IAST](./learn-java-security-cryptography-integrity-part-031.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-029.md">⬅️ Part 29 — Secure Build, CI/CD, and Release Integrity for Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-031.md">Security Testing: Unit, Property, Fuzzing, SAST, DAST, IAST ➡️</a>
+</div>

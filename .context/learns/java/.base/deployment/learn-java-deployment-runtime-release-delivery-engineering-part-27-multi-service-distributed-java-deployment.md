@@ -3099,6 +3099,9 @@ Part 28 — Legacy Java Deployment: Java 8, App Servers, Monoliths, and Migratio
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Multi-Environment Deployment: DEV, SIT, UAT, Staging, Production, DR](./learn-java-deployment-runtime-release-delivery-engineering-part-26-multi-environment-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Legacy Java Deployment: Java 8, App Servers, Monoliths, and Migration Constraints](./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration-constraints.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-26-multi-environment-deployment.md">⬅️ Part 26 — Multi-Environment Deployment: DEV, SIT, UAT, Staging, Production, DR</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration-constraints.md">Part 28 — Legacy Java Deployment: Java 8, App Servers, Monoliths, and Migration Constraints ➡️</a>
+</div>

@@ -2702,9 +2702,10 @@ Kita akan masuk ke praktik production rollout:
 12. Rollout strategy di Kubernetes.
 13. Failure modes dan troubleshooting.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — Correlation ID, Trace ID, Request ID, Idempotency Key, Causality](./11-correlation-id-trace-id-request-id-idempotency-key-causality.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — OpenTelemetry Java Agent: Zero-Code Instrumentation for Java 8+](./13-opentelemetry-java-agent-zero-code-instrumentation-java-8-plus.md)
+<div class="page-nav">
+<a href="./11-correlation-id-trace-id-request-id-idempotency-key-causality.md">⬅️ Part 11 — Correlation ID, Trace ID, Request ID, Idempotency Key, Causality</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./13-opentelemetry-java-agent-zero-code-instrumentation-java-8-plus.md">Part 13 — OpenTelemetry Java Agent: Zero-Code Instrumentation for Java 8+ ➡️</a>
+</div>

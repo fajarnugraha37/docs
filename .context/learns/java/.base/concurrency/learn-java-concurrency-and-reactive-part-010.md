@@ -1940,6 +1940,9 @@ dynamic phases, or two-party exchange.
     https://openjdk.org/jeps/491
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 009](./learn-java-concurrency-and-reactive-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 011](./learn-java-concurrency-and-reactive-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-009.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 009</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-011.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 011 ➡️</a>
+</div>

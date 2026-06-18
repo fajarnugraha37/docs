@@ -1367,6 +1367,9 @@ which operations must be atomic, and what iteration semantics are acceptable.
     https://openjdk.org/projects/code-tools/jcstress/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 052](./learn-java-collections-and-streams-part-052.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 054](./learn-java-collections-and-streams-part-054.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-052.md">⬅️ Java Collections and Streams — Part 052</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-054.md">Java Collections and Streams — Part 054 ➡️</a>
+</div>

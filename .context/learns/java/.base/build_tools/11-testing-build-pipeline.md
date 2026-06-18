@@ -3011,6 +3011,9 @@ Jika jawaban untuk pertanyaan-pertanyaan itu jelas, testing pipeline berubah dar
 - PIT Mutation Testing Documentation
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Compiler Engineering: `javac`, Annotation Processing, Incremental Compilation, Generated Sources](./10-compiler-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Packaging Engineering: JAR, Fat JAR, Thin JAR, WAR, EAR, Modular JAR, Native Image](./12-packaging-engineering.md)
+<div class="page-nav">
+<a href="./10-compiler-engineering.md">⬅️ Part 10 — Compiler Engineering: `javac`, Annotation Processing, Incremental Compilation, Generated Sources</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-packaging-engineering.md">Part 12 — Packaging Engineering: JAR, Fat JAR, Thin JAR, WAR, EAR, Modular JAR, Native Image ➡️</a>
+</div>

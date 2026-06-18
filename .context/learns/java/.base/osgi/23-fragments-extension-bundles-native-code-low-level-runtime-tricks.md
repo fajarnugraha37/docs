@@ -1769,6 +1769,9 @@ Part 24 - Testing OSGi Systems: Unit, Bundle, Resolver, Integration, and Runtime
 Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Extender Pattern Internals: How OSGi Frameworks Add Runtime Semantics](./22-extender-pattern-internals-runtime-semantics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Testing OSGi Systems: Unit, Bundle, Resolver, Integration, and Runtime Tests](./24-testing-osgi-systems-unit-bundle-resolver-integration-runtime-tests.md)
+<div class="page-nav">
+<a href="./22-extender-pattern-internals-runtime-semantics.md">⬅️ Part 22 — Extender Pattern Internals: How OSGi Frameworks Add Runtime Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./24-testing-osgi-systems-unit-bundle-resolver-integration-runtime-tests.md">Part 24 — Testing OSGi Systems: Unit, Bundle, Resolver, Integration, and Runtime Tests ➡️</a>
+</div>

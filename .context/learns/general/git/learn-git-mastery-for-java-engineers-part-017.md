@@ -2046,6 +2046,9 @@ Saya tahu state sekarang, tahu reference mana yang berubah, tahu object mana yan
 Itulah tujuan bagian ini.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 016 — Cherry-Pick, Revert, Reset: Memilih Operasi Koreksi yang Tepat](./learn-git-mastery-for-java-engineers-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 018 — Stash, Worktree, dan Context Switching](./learn-git-mastery-for-java-engineers-part-018.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Cherry-Pick, Revert, Reset: Memilih Operasi Koreksi yang Tepat</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-018.md">Part 018 — Stash, Worktree, dan Context Switching ➡️</a>
+</div>

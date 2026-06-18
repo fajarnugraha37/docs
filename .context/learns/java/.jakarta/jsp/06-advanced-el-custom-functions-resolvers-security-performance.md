@@ -2844,6 +2844,9 @@ Kita akan membahas `c:out`, `c:set`, `c:if`, `c:choose`, `c:forEach`, `c:url`, `
 Status seri: **belum selesai**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Expression Language Fundamentals: Value Expressions, Method Expressions, Resolver Chain](./05-expression-language-fundamentals-value-method-resolver-chain.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Jakarta Standard Tag Library Core Tags: View Control Abstraction](./07-jakarta-standard-tag-library-core-tags-view-control-abstraction.md)
+<div class="page-nav">
+<a href="./05-expression-language-fundamentals-value-method-resolver-chain.md">⬅️ Part 5 — Expression Language Fundamentals: Value Expressions, Method Expressions, Resolver Chain</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./07-jakarta-standard-tag-library-core-tags-view-control-abstraction.md">Part 7 — Jakarta Standard Tag Library Core Tags: View Control Abstraction ➡️</a>
+</div>

@@ -2560,6 +2560,9 @@ Di sana kita akan masuk ke:
 - framework compatibility.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Package Architecture: Naming, Visibility, Boundaries, and Internal APIs](./learn-java-oop-functional-reflection-codegen-modules-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: JPMS Deep Dive II: Opens, Reflection, Services, Layers, and Runtime Images](./learn-java-oop-functional-reflection-codegen-modules-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-025.md">⬅️ Package Architecture: Naming, Visibility, Boundaries, and Internal APIs</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-027.md">JPMS Deep Dive II: Opens, Reflection, Services, Layers, and Runtime Images ➡️</a>
+</div>

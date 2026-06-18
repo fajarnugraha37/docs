@@ -2792,6 +2792,9 @@ Part 32 — Capstone — target akhir
 Seri belum selesai. Ini adalah Part 6 dari rencana 32 part.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Parameter Injection Semantics: Path, Query, Header, Cookie, Matrix, BeanParam](./05-parameter-injection-semantics-path-query-header-cookie-matrix-beanparam.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — JSON in Jersey: Jackson, JSON-B, MOXy, and Production Serialization Strategy](./07-json-in-jersey-jackson-jsonb-moxy-production-serialization-strategy.md)
+<div class="page-nav">
+<a href="./05-parameter-injection-semantics-path-query-header-cookie-matrix-beanparam.md">⬅️ Part 5 — Parameter Injection Semantics: Path, Query, Header, Cookie, Matrix, BeanParam</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./07-json-in-jersey-jackson-jsonb-moxy-production-serialization-strategy.md">Part 7 — JSON in Jersey: Jackson, JSON-B, MOXy, and Production Serialization Strategy ➡️</a>
+</div>

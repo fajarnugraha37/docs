@@ -2469,6 +2469,9 @@ Setelah memahami vendor-specific behavior, kita akan membahas bagaimana membukti
 - CI pipeline stages.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Database Locking, Transactions, and Online DDL](./21-database-locking-transactions-online-ddl.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Migration Testing Strategy](./23-migration-testing-strategy.md)
+<div class="page-nav">
+<a href="./21-database-locking-transactions-online-ddl.md">⬅️ Database Locking, Transactions, and Online DDL</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./23-migration-testing-strategy.md">Migration Testing Strategy ➡️</a>
+</div>

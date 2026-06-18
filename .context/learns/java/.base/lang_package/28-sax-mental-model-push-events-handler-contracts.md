@@ -1682,6 +1682,9 @@ Part berikutnya akan masuk lebih dalam ke namespace, SAX features/properties, en
 - SAX API design: SAX1 vs SAX2, `XMLReader`, `ContentHandler`, `Attributes`, `DefaultHandler`, `Locator`, `ErrorHandler`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — DOM Level 3: TypeInfo, UserData, ErrorHandler, Load/Save Boundary](./27-dom-level-3-typeinfo-userdata-errorhandler-load-save-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — SAX Namespaces, Features, Properties, Entity Resolution, DTD Handling](./29-sax-namespaces-features-properties-entity-resolution-dtd.md)
+<div class="page-nav">
+<a href="./27-dom-level-3-typeinfo-userdata-errorhandler-load-save-boundary.md">⬅️ Part 27 — DOM Level 3: TypeInfo, UserData, ErrorHandler, Load/Save Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./29-sax-namespaces-features-properties-entity-resolution-dtd.md">Part 29 — SAX Namespaces, Features, Properties, Entity Resolution, DTD Handling ➡️</a>
+</div>

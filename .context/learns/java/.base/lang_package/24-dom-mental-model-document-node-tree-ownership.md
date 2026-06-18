@@ -2049,6 +2049,9 @@ File: 25-dom-creation-mutation-import-adopt-clone-normalize.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — `ClassValue`, `Cleaner`, Runtime-Attached Metadata, and Resource Cleanup](./23-classvalue-cleaner-runtime-attached-metadata-resource-cleanup.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — DOM Creation, Mutation, Import, Adopt, Clone, Normalize](./25-dom-creation-mutation-import-adopt-clone-normalize.md)
+<div class="page-nav">
+<a href="./23-classvalue-cleaner-runtime-attached-metadata-resource-cleanup.md">⬅️ Part 23 — `ClassValue`, `Cleaner`, Runtime-Attached Metadata, and Resource Cleanup</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-dom-creation-mutation-import-adopt-clone-normalize.md">Part 25 — DOM Creation, Mutation, Import, Adopt, Clone, Normalize ➡️</a>
+</div>

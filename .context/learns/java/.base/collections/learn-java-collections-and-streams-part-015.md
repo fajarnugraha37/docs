@@ -1754,6 +1754,9 @@ It is the result of good key design, good hash distribution, reasonable capacity
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/doc-files/coll-overview.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 014](./learn-java-collections-and-streams-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 016](./learn-java-collections-and-streams-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-014.md">⬅️ Java Collections and Streams — Part 014</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-016.md">Java Collections and Streams — Part 016 ➡️</a>
+</div>

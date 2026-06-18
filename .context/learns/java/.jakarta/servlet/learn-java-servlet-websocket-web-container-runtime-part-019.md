@@ -2133,6 +2133,9 @@ Berikutnya:
 - Part 020 — Packaging Models: WAR, Embedded Container, Executable JAR, Native-ish Deployments
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 018 — Threading Model: Classic Servlet, Platform Threads, Virtual Threads](./learn-java-servlet-websocket-web-container-runtime-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — Packaging Models: WAR, Embedded Container, Executable JAR, Native-ish Deployments](./learn-java-servlet-websocket-web-container-runtime-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-018.md">⬅️ Part 018 — Threading Model: Classic Servlet, Platform Threads, Virtual Threads</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-020.md">Part 020 — Packaging Models: WAR, Embedded Container, Executable JAR, Native-ish Deployments ➡️</a>
+</div>

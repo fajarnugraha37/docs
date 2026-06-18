@@ -2650,6 +2650,9 @@ Di sana kita akan membahas cara mengeksplorasi search space secara sistematis: c
 Status seri: **belum selesai**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 015 — String Algorithms I: String Cost Model, Search, Parsing](./learn-java-dsa-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Recursion, Backtracking, Search Space Pruning](./learn-java-dsa-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-015.md">⬅️ Part 015 — String Algorithms I: String Cost Model, Search, Parsing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-017.md">Part 017 — Recursion, Backtracking, Search Space Pruning ➡️</a>
+</div>

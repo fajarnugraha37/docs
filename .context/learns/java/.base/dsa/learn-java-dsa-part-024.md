@@ -2524,6 +2524,9 @@ Part 025 — Concurrent Data Structures in Java, Without Repeating Concurrency B
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 023 — Disjoint Set, Indexing, Sparse vs Dense Data](./learn-java-dsa-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 025 — Concurrent Data Structures in Java, Without Repeating Concurrency Basics](./learn-java-dsa-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-023.md">⬅️ Part 023 — Disjoint Set, Indexing, Sparse vs Dense Data</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-025.md">Part 025 — Concurrent Data Structures in Java, Without Repeating Concurrency Basics ➡️</a>
+</div>

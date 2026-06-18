@@ -2534,6 +2534,9 @@ Bagian berikutnya:
 - Part 006 — Container Element Constraints: Lists, Maps, Optional, Custom Containers
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Nullability Strategy: `@NotNull`, Optional, Defaults, and Domain Absence](./learn-java-validation-jakarta-hibernate-validator-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Container Element Constraints: Lists, Maps, Optional, Custom Containers](./learn-java-validation-jakarta-hibernate-validator-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-004.md">⬅️ Nullability Strategy: `@NotNull`, Optional, Defaults, and Domain Absence</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-006.md">Container Element Constraints: Lists, Maps, Optional, Custom Containers ➡️</a>
+</div>

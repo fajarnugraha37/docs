@@ -1724,6 +1724,9 @@ Berikutnya:
 - Part 028 — Maven/Gradle Dependency Governance for Serious Java Systems
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: JPMS Deep Dive I: Modules, Descriptors, Readability, Exports, Requires](./learn-java-oop-functional-reflection-codegen-modules-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Maven/Gradle Dependency Governance for Serious Java Systems](./learn-java-oop-functional-reflection-codegen-modules-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-026.md">⬅️ JPMS Deep Dive I: Modules, Descriptors, Readability, Exports, Requires</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-028.md">Maven/Gradle Dependency Governance for Serious Java Systems ➡️</a>
+</div>

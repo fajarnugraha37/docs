@@ -1348,6 +1348,9 @@ Jika bisa menjawab itu, kita mulai bergerak dari “user ORM” menjadi “persi
 - Jakarta Persistence Specification/API — entity model, lazy/eager fetch contract, provider behavior boundaries.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Schema Generation, Validation, Migration, and DDL Discipline](./22-schema-generation-validation-migration-ddl-discipline.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — Hibernate ORM Deep Dive: Architecture, Session, Event System, Interceptors, and Extensions](./24-hibernate-orm-architecture-session-events-interceptors-extensions.md)
+<div class="page-nav">
+<a href="./22-schema-generation-validation-migration-ddl-discipline.md">⬅️ Part 22 — Schema Generation, Validation, Migration, and DDL Discipline</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./24-hibernate-orm-architecture-session-events-interceptors-extensions.md">Part 24 — Hibernate ORM Deep Dive: Architecture, Session, Event System, Interceptors, and Extensions ➡️</a>
+</div>

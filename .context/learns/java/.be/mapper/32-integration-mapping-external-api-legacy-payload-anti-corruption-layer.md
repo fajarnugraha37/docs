@@ -2073,6 +2073,9 @@ Topik berikutnya:
 - governance untuk long-lived Java systems.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Persistence Mapping Pitfalls: JPA Entities, Lazy Loading, Proxies, Cycles](./31-persistence-mapping-pitfalls-jpa-entities-lazy-loading-proxies-cycles.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — Mapping Governance: Standards, Reviews, Compatibility Policy](./33-mapping-governance-standards-reviews-compatibility-policy.md)
+<div class="page-nav">
+<a href="./31-persistence-mapping-pitfalls-jpa-entities-lazy-loading-proxies-cycles.md">⬅️ Part 31 — Persistence Mapping Pitfalls: JPA Entities, Lazy Loading, Proxies, Cycles</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./33-mapping-governance-standards-reviews-compatibility-policy.md">Part 33 — Mapping Governance: Standards, Reviews, Compatibility Policy ➡️</a>
+</div>

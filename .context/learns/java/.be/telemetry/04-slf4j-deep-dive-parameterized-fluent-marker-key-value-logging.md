@@ -2501,8 +2501,10 @@ Berikutnya:
 Part 5 — Logback Deep Dive I: Architecture, Configuration, Appenders, Encoders
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — Log Semantics: What Should Be Logged and Why](./03-log-semantics-what-should-be-logged-and-why.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Logback Deep Dive I: Architecture, Configuration, Appenders, Encoders](./05-logback-deep-dive-architecture-configuration-appenders-encoders.md)
+<div class="page-nav">
+<a href="./03-log-semantics-what-should-be-logged-and-why.md">⬅️ Part 3 — Log Semantics: What Should Be Logged and Why</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./05-logback-deep-dive-architecture-configuration-appenders-encoders.md">Part 5 — Logback Deep Dive I: Architecture, Configuration, Appenders, Encoders ➡️</a>
+</div>

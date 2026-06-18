@@ -1896,6 +1896,9 @@ Top-tier OSGi engineering is not about using every modularity mechanism availabl
 - Eclipse Equinox documentation — execution environments and OSGi runtime behavior.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — Security Model: Permissions, Conditional Permission Admin, Signing, and Sandboxing Reality](./18-security-model-permissions-conditional-permission-admin-signing-sandboxing-reality.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Java 8 to 25 Compatibility Engineering for OSGi Systems](./20-java-8-to-25-compatibility-engineering-osgi-systems.md)
+<div class="page-nav">
+<a href="./18-security-model-permissions-conditional-permission-admin-signing-sandboxing-reality.md">⬅️ Part 18 — Security Model: Permissions, Conditional Permission Admin, Signing, and Sandboxing Reality</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./20-java-8-to-25-compatibility-engineering-osgi-systems.md">Part 20 — Java 8 to 25 Compatibility Engineering for OSGi Systems ➡️</a>
+</div>

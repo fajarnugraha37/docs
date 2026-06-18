@@ -3396,6 +3396,9 @@ Engineer top-tier tidak hanya membuat data “tersimpan”. Ia mendesain sistem 
 Bagian berikutnya akan membahas **Jakarta Validation (`jakarta.validation`)**, yaitu cara membuat validation contract yang benar: input validation, bean validation, method validation, groups, cascaded validation, custom constraints, error mapping, dan batas antara validation annotation vs domain invariant.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 13 — Jakarta Data: Repository Abstraction Standar](./learn-java-jakarta-part-013.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 15 — Jakarta Validation (`jakarta.validation`): Contract Validation, Constraints, Groups, dan Integration Boundary](./learn-java-jakarta-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-013.md">⬅️ Bagian 13 — Jakarta Data: Repository Abstraction Standar</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-015.md">Bagian 15 — Jakarta Validation (`jakarta.validation`): Contract Validation, Constraints, Groups, dan Integration Boundary ➡️</a>
+</div>

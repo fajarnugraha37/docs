@@ -2439,6 +2439,9 @@ Engineer top-tier tahu bahwa attachment bukan cuma `byte[]`. Ia memikirkan MIME 
 Bagian berikutnya akan membahas **Jakarta Deployment (`jakarta.enterprise.deploy`)**: deployment SPI, deployer/container contract, TargetModuleID, ProgressObject, application server tooling, why it is mostly vendor/tooling-level, and how modern cloud-native deployment differs from classic Jakarta Deployment.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 33 — Jakarta SOAP with Attachments (`jakarta.xml.soap`) / SAAJ: SOAP Message Object Model, Header, Body, Fault, Attachments, dan Low-Level SOAP Processing](./learn-java-jakarta-part-033.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 35 — Jakarta Deployment (`javax.enterprise.deploy` / `jakarta.enterprise.deploy-api`): Deployment SPI, Tooling Contract, TargetModuleID, ProgressObject, dan Relevansi Modern](./learn-java-jakarta-part-035.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-033.md">⬅️ Bagian 33 — Jakarta SOAP with Attachments (`jakarta.xml.soap`) / SAAJ: SOAP Message Object Model, Header, Body, Fault, Attachments, dan Low-Level SOAP Processing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-035.md">Bagian 35 — Jakarta Deployment (`javax.enterprise.deploy` / `jakarta.enterprise.deploy-api`): Deployment SPI, Tooling Contract, TargetModuleID, ProgressObject, dan Relevansi Modern ➡️</a>
+</div>

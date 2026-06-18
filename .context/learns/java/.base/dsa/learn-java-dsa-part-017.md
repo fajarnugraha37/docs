@@ -2164,6 +2164,9 @@ Sisa: Part 018 sampai Part 030
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 016 — String Algorithms II: Trie, Prefix Index, Suffix Thinking](./learn-java-dsa-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Dynamic Programming I: Mental Model, Memoization, Tabulation](./learn-java-dsa-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-016.md">⬅️ Part 016 — String Algorithms II: Trie, Prefix Index, Suffix Thinking</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-018.md">Part 018 — Dynamic Programming I: Mental Model, Memoization, Tabulation ➡️</a>
+</div>

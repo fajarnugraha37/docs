@@ -2295,6 +2295,9 @@ Records, MapStruct, Jackson 3, Lombok upgrade, dan Java 25 semuanya bisa memberi
   https://docs.openrewrite.org/recipes/java/jackson/upgradejackson_2_3
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 33 — Mapping Governance: Standards, Reviews, Compatibility Policy](./33-mapping-governance-standards-reviews-compatibility-policy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 35 — Capstone: Designing a Production-Grade Mapping Layer](./35-capstone-designing-production-grade-mapping-layer.md)
+<div class="page-nav">
+<a href="./33-mapping-governance-standards-reviews-compatibility-policy.md">⬅️ Part 33 — Mapping Governance: Standards, Reviews, Compatibility Policy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./35-capstone-designing-production-grade-mapping-layer.md">Part 35 — Capstone: Designing a Production-Grade Mapping Layer ➡️</a>
+</div>

@@ -2503,6 +2503,9 @@ Engineer top-tier tidak hanya menambahkan dependency sampai compile hijau. Ia me
 Bagian berikutnya akan membahas **Runtime / Container Model** lebih dalam: bagaimana Jakarta EE container membuat object, mengelola lifecycle, injection, transaction, security, classloading, deployment, dan kenapa behavior container-managed berbeda dari plain Java object.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 2 — Jakarta EE Platform, Web Profile, dan Core Profile](./learn-java-jakarta-part-002.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 4 — Runtime / Container Model: Cara Jakarta EE Benar-Benar Menjalankan Aplikasi](./learn-java-jakarta-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-002.md">⬅️ Bagian 2 — Jakarta EE Platform, Web Profile, dan Core Profile</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-004.md">Bagian 4 — Runtime / Container Model: Cara Jakarta EE Benar-Benar Menjalankan Aplikasi ➡️</a>
+</div>

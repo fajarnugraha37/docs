@@ -2107,6 +2107,9 @@ Part 8 — Security, Identity, and Authorization in Async Execution
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — ContextService and Context Propagation](./06-context-service-and-context-propagation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Security, Identity, and Authorization in Async Execution](./08-security-identity-and-authorization-in-async-execution.md)
+<div class="page-nav">
+<a href="./06-context-service-and-context-propagation.md">⬅️ Part 6 — ContextService and Context Propagation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./08-security-identity-and-authorization-in-async-execution.md">Part 8 — Security, Identity, and Authorization in Async Execution ➡️</a>
+</div>

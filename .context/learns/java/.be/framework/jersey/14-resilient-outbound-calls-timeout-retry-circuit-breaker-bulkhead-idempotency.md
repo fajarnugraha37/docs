@@ -2302,6 +2302,9 @@ Part 32 — Capstone: Building a Production-Grade Jersey Platform Module
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Jersey Client Deep Dive: Invocation Pipeline, Connectors, Providers, and Configuration](./13-jersey-client-deep-dive-invocation-pipeline-connectors-providers-configuration.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — Async Server Processing: `AsyncResponse`, Suspension, Timeout, and Cancellation](./15-async-server-processing-asyncresponse-suspension-timeout-cancellation.md)
+<div class="page-nav">
+<a href="./13-jersey-client-deep-dive-invocation-pipeline-connectors-providers-configuration.md">⬅️ Part 13 — Jersey Client Deep Dive: Invocation Pipeline, Connectors, Providers, and Configuration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./15-async-server-processing-asyncresponse-suspension-timeout-cancellation.md">Part 15 — Async Server Processing: `AsyncResponse`, Suspension, Timeout, and Cancellation ➡️</a>
+</div>

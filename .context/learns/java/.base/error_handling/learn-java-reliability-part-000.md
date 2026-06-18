@@ -1966,6 +1966,9 @@ Rujukan utama yang menjadi anchor seri:
    https://kubernetes.io/docs/concepts/containers/container-lifecycle-hooks/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 030 — Capstone: Designing a Production-Grade Rule, Workflow, and Case Indexing Engine](../dsa/learn-java-dsa-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Mental Model of Failure: Dari Bug ke Reliability Engineering](./learn-java-reliability-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-001.md">Part 001 — Mental Model of Failure: Dari Bug ke Reliability Engineering ➡️</a>
+</div>

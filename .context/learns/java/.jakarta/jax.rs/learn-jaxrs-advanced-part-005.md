@@ -4038,6 +4038,9 @@ Bagian 006 — Parameter Injection: @PathParam, @QueryParam, @HeaderParam, @Cook
 Kita akan membedah semua mekanisme parameter injection, conversion, default values, collection params, error behavior, lifecycle constraints, and production patterns.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 004 — Request Matching Algorithm Deep Dive: Path Template, Specificity, Subresource, Media Type, dan Debugging 404/405/406/415](./learn-jaxrs-advanced-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 006 — Parameter Injection: `@PathParam`, `@QueryParam`, `@HeaderParam`, `@CookieParam`, `@MatrixParam`, `@DefaultValue`, `@BeanParam`](./learn-jaxrs-advanced-part-006.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-004.md">⬅️ Bagian 004 — Request Matching Algorithm Deep Dive: Path Template, Specificity, Subresource, Media Type, dan Debugging 404/405/406/415</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-006.md">Bagian 006 — Parameter Injection: `@PathParam`, `@QueryParam`, `@HeaderParam`, `@CookieParam`, `@MatrixParam`, `@DefaultValue`, `@BeanParam` ➡️</a>
+</div>

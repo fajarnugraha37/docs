@@ -1566,6 +1566,9 @@ Part 30 — Advanced Maven: Reactor, Effective Model, Resolver, Enforcer, Extens
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Troubleshooting Build Failures: Systematic Debugging Framework](./28-troubleshooting-build-failures.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Advanced Maven: Reactor, Effective Model, Resolver, Enforcer, Extensions](./30-advanced-maven-reactor-effective-model-resolver-enforcer-extensions.md)
+<div class="page-nav">
+<a href="./28-troubleshooting-build-failures.md">⬅️ Part 28 — Troubleshooting Build Failures: Systematic Debugging Framework</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./30-advanced-maven-reactor-effective-model-resolver-enforcer-extensions.md">Part 30 — Advanced Maven: Reactor, Effective Model, Resolver, Enforcer, Extensions ➡️</a>
+</div>

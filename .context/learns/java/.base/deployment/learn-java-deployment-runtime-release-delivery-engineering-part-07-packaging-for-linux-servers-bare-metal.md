@@ -2197,6 +2197,9 @@ Belum selesai. Berikutnya:
 - Part 8 — Containerizing Java Applications Correctly
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — JVM Options as Deployment Contract](./learn-java-deployment-runtime-release-delivery-engineering-part-06-jvm-options-as-deployment-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Containerizing Java Applications Correctly](./learn-java-deployment-runtime-release-delivery-engineering-part-08-containerizing-java-applications-correctly.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-06-jvm-options-as-deployment-contract.md">⬅️ Part 6 — JVM Options as Deployment Contract</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-08-containerizing-java-applications-correctly.md">Part 8 — Containerizing Java Applications Correctly ➡️</a>
+</div>

@@ -2272,6 +2272,9 @@ Bagian 025 — Server-Sent Events / SSE
 Kita akan membahas SSE secara mendalam: event stream, `Sse`, `SseEventSink`, broadcaster, reconnect, last-event-id, heartbeat, backpressure, auth, proxy buffering, and production streaming.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 023 — Hypermedia and Links: `Link`, HATEOAS, Practical REST Maturity, `Location`, `Content-Location`, Pagination Links, Action Affordances, dan API Evolvability](./learn-jaxrs-advanced-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 025 — Server-Sent Events / SSE: `Sse`, `SseEventSink`, `SseBroadcaster`, Event Stream Protocol, Reconnect, `Last-Event-ID`, Heartbeat, Backpressure, Auth, Proxy Buffering, dan Production Streaming](./learn-jaxrs-advanced-part-025.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-023.md">⬅️ Bagian 023 — Hypermedia and Links: `Link`, HATEOAS, Practical REST Maturity, `Location`, `Content-Location`, Pagination Links, Action Affordances, dan API Evolvability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-025.md">Bagian 025 — Server-Sent Events / SSE: `Sse`, `SseEventSink`, `SseBroadcaster`, Event Stream Protocol, Reconnect, `Last-Event-ID`, Heartbeat, Backpressure, Auth, Proxy Buffering, dan Production Streaming ➡️</a>
+</div>

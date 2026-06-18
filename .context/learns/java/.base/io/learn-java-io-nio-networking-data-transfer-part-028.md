@@ -1864,6 +1864,9 @@ Kalimat kunci:
   https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/nio/channels/package-summary.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 027 — Performance Engineering for I/O: Syscall, Page Cache, GC, Direct Memory, Benchmark, dan Profiling](./learn-java-io-nio-networking-data-transfer-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — Security, Robustness, dan Defensive I/O: Path Traversal, Zip Slip, Deserialization, Resource Exhaustion](./learn-java-io-nio-networking-data-transfer-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-027.md">⬅️ Part 027 — Performance Engineering for I/O: Syscall, Page Cache, GC, Direct Memory, Benchmark, dan Profiling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-029.md">Part 029 — Security, Robustness, dan Defensive I/O: Path Traversal, Zip Slip, Deserialization, Resource Exhaustion ➡️</a>
+</div>

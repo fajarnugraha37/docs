@@ -3534,6 +3534,9 @@ Kita akan membahas:
 8. kapan memilih Camunda 7, Camunda 8, Flowable, Temporal, Conductor, atau custom state machine.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — BPMN Core Elements: Events, Tasks, Gateways, Subprocesses](./learn-java-bpmn-camunda-part-02-bpmn-core-elements-events-tasks-gateways-subprocesses.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Camunda Landscape: Camunda 7 vs Camunda 8](./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-02-bpmn-core-elements-events-tasks-gateways-subprocesses.md">⬅️ Part 2 — BPMN Core Elements: Events, Tasks, Gateways, Subprocesses</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md">Part 4 — Camunda Landscape: Camunda 7 vs Camunda 8 ➡️</a>
+</div>

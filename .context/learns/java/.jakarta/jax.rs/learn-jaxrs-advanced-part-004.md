@@ -3305,6 +3305,9 @@ Bagian 005 — Path Template, Regex, Matrix Param, and URI Design
 Kita akan membahas URI design dan path template secara jauh lebih detail: canonical resource identity, nested resources, matrix parameters, reserved literals, regex constraints, versioning, trailing slash policy, and gateway-aware URI design.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 003 — Resource Class Mental Model: Class-Level Path, Method-Level Path, Subresource, Lifecycle, dan Boundary Design](./learn-jaxrs-advanced-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 005 — Path Template, Regex, Matrix Param, and URI Design: Canonical Resource Identity, Reserved Literals, Nested Resources, Versioning, dan Gateway-Aware URI](./learn-jaxrs-advanced-part-005.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-003.md">⬅️ Bagian 003 — Resource Class Mental Model: Class-Level Path, Method-Level Path, Subresource, Lifecycle, dan Boundary Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-005.md">Bagian 005 — Path Template, Regex, Matrix Param, and URI Design: Canonical Resource Identity, Reserved Literals, Nested Resources, Versioning, dan Gateway-Aware URI ➡️</a>
+</div>

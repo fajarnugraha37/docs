@@ -1815,8 +1815,10 @@ Berikutnya:
 
 Seri belum selesai. Bagian terakhir yang direncanakan adalah Part 35.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — JFR Deep Dive II: Custom Events, Production Recording, JMC Analysis](./21-jfr-deep-dive-custom-events-production-recording-jmc-analysis.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — async-profiler Deep Dive: CPU, Wall, Alloc, Lock, Native, Flame Graph](./23-async-profiler-deep-dive-cpu-wall-alloc-lock-native-flame-graph.md)
+<div class="page-nav">
+<a href="./21-jfr-deep-dive-custom-events-production-recording-jmc-analysis.md">⬅️ Part 21 — JFR Deep Dive II: Custom Events, Production Recording, JMC Analysis</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./23-async-profiler-deep-dive-cpu-wall-alloc-lock-native-flame-graph.md">Part 23 — async-profiler Deep Dive: CPU, Wall, Alloc, Lock, Native, Flame Graph ➡️</a>
+</div>

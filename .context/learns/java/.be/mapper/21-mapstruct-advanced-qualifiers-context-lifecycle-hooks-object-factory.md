@@ -2248,6 +2248,9 @@ Seri belum selesai. Berikutnya:
 > Part 22 — MapStruct for Domain Boundaries: Entity DTO Event Projection
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — MapStruct Update Mapping: Patch, Merge, Partial Update, Null Strategy](./20-mapstruct-update-mapping-patch-merge-partial-update-null-strategy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — MapStruct for Domain Boundaries: Entity DTO Event Projection](./22-mapstruct-domain-boundaries-entity-dto-event-projection.md)
+<div class="page-nav">
+<a href="./20-mapstruct-update-mapping-patch-merge-partial-update-null-strategy.md">⬅️ Part 20 — MapStruct Update Mapping: Patch, Merge, Partial Update, Null Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./22-mapstruct-domain-boundaries-entity-dto-event-projection.md">Part 22 — MapStruct for Domain Boundaries: Entity DTO Event Projection ➡️</a>
+</div>

@@ -2420,6 +2420,9 @@ Part 3 — URI, URL, Encoding, Query Parameter, dan Canonical Request
 Belum selesai. Masih lanjut ke Part 4 sampai Part 34.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — Request Lifecycle Deep Dive: Dari Method Call Sampai Response Body](./02-http-request-lifecycle-from-call-to-response.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Headers, Content Negotiation, Compression, dan Metadata Contract](./04-http-headers-content-negotiation-compression-metadata.md)
+<div class="page-nav">
+<a href="./02-http-request-lifecycle-from-call-to-response.md">⬅️ Part 2 — Request Lifecycle Deep Dive: Dari Method Call Sampai Response Body</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./04-http-headers-content-negotiation-compression-metadata.md">Part 4 — Headers, Content Negotiation, Compression, dan Metadata Contract ➡️</a>
+</div>

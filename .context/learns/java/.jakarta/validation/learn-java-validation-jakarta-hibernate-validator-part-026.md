@@ -2530,6 +2530,9 @@ Part 027 — Migration Playbook: Javax to Jakarta, Spring Boot 2→3, HV 6→9
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Security and Abuse Resistance: Validation Is Not Sanitization](./learn-java-validation-jakarta-hibernate-validator-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Migration Playbook: `javax.validation` ke `jakarta.validation`, Spring Boot 2→3, Hibernate Validator 6→9](./learn-java-validation-jakarta-hibernate-validator-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-025.md">⬅️ Security and Abuse Resistance: Validation Is Not Sanitization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-027.md">Migration Playbook: `javax.validation` ke `jakarta.validation`, Spring Boot 2→3, Hibernate Validator 6→9 ➡️</a>
+</div>

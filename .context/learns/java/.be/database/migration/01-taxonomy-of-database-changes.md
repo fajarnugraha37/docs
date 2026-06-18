@@ -2323,6 +2323,9 @@ Di sana kita akan membahas invariant dan failure model secara lebih formal:
 Part 1 ini belum masuk detail Flyway/Liquibase command karena fondasinya adalah klasifikasi. Tanpa taxonomy ini, command tooling hanya menjadi hafalan.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Orientation: Database Change as Engineering Discipline](./00-orientation-database-change-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Migration Invariants and Failure Models](./02-migration-invariants-and-failure-models.md)
+<div class="page-nav">
+<a href="./00-orientation-database-change-engineering.md">⬅️ Part 0 — Orientation: Database Change as Engineering Discipline</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./02-migration-invariants-and-failure-models.md">Migration Invariants and Failure Models ➡️</a>
+</div>

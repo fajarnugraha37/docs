@@ -2084,9 +2084,10 @@ Selesai sampai: **Part 16 — Logs + Traces + Metrics Correlation**
 Belum selesai.  
 Berikutnya: **Part 17 — Logging Performance: Cost Model, Allocation, Locking, IO, Backpressure**
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — Metrics Engineering: RED, USE, JVM, Application, Business Metrics](./15-metrics-engineering-red-use-jvm-application-business-metrics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Logging Performance: Cost Model, Allocation, Locking, IO, Backpressure](./17-logging-performance-cost-model-allocation-locking-io-backpressure.md)
+<div class="page-nav">
+<a href="./15-metrics-engineering-red-use-jvm-application-business-metrics.md">⬅️ Part 15 — Metrics Engineering: RED, USE, JVM, Application, Business Metrics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./17-logging-performance-cost-model-allocation-locking-io-backpressure.md">Part 17 — Logging Performance: Cost Model, Allocation, Locking, IO, Backpressure ➡️</a>
+</div>

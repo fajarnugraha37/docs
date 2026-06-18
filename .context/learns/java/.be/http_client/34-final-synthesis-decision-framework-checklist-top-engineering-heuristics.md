@@ -1455,6 +1455,9 @@ Part 34 — Final Synthesis: Decision Framework, Checklist, and Top 1% Engineeri
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 33 — Case Study: Internal Microservice Client at Scale](./33-case-study-internal-microservice-client-at-scale.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Orientation: Data Transformation as Software Boundary](../mapper/00-orientation-data-transformation-as-software-boundary.md)
+<div class="page-nav">
+<a href="./33-case-study-internal-microservice-client-at-scale.md">⬅️ Part 33 — Case Study: Internal Microservice Client at Scale</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

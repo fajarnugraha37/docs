@@ -2590,6 +2590,9 @@ Bagian 017 — Name Binding, DynamicFeature, Priorities, and Provider Lifecycle
 Kita akan membahas extension binding secara sangat mendalam: global vs name-bound vs dynamic providers, multiple name bindings, priority ordering, provider lifecycle/thread safety, CDI integration, registration strategy, and production extension architecture.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 015 — Filters: `ContainerRequestFilter`, `ContainerResponseFilter`, Pre-Matching, Post-Matching, `abortWith`, Priority, Name Binding, dan Cross-Cutting REST Boundary](./learn-jaxrs-advanced-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 017 — Name Binding, `DynamicFeature`, Priorities, Provider Lifecycle, Registration Strategy, CDI Integration, dan Production Extension Architecture](./learn-jaxrs-advanced-part-017.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-015.md">⬅️ Bagian 015 — Filters: `ContainerRequestFilter`, `ContainerResponseFilter`, Pre-Matching, Post-Matching, `abortWith`, Priority, Name Binding, dan Cross-Cutting REST Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-017.md">Bagian 017 — Name Binding, `DynamicFeature`, Priorities, Provider Lifecycle, Registration Strategy, CDI Integration, dan Production Extension Architecture ➡️</a>
+</div>

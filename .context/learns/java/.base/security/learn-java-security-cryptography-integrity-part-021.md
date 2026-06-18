@@ -2762,6 +2762,9 @@ High-integrity systems should treat authorization as part of state integrity. Au
 - CWE-863 — Incorrect Authorization: https://cwe.mitre.org/data/definitions/863.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: OAuth2/OIDC Security for Java Systems Without Repeating Jakarta/JAX-RS](./learn-java-security-cryptography-integrity-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Input Validation, Canonicalization, Injection Resistance](./learn-java-security-cryptography-integrity-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-020.md">⬅️ OAuth2/OIDC Security for Java Systems Without Repeating Jakarta/JAX-RS</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-022.md">Part 22 — Input Validation, Canonicalization, Injection Resistance ➡️</a>
+</div>

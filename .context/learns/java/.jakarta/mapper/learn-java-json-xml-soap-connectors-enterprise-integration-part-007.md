@@ -2773,6 +2773,9 @@ Kita akan membahas `@JsonbProperty`, `@JsonbTransient`, `@JsonbDateFormat`, `@Js
 - Berikutnya: **Part 8 — JSON-B Annotation Deep Dive**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — P Advanced Production Patterns](./learn-java-json-xml-soap-connectors-enterprise-integration-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 008 — B Annotation Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-006.md">⬅️ Part 6 — P Advanced Production Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-008.md">Part 008 — B Annotation Deep Dive ➡️</a>
+</div>

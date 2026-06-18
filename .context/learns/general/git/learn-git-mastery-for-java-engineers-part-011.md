@@ -2465,6 +2465,9 @@ Bagian terakhir yang direncanakan: learn-git-mastery-for-java-engineers-part-032
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 010 — Interactive Rebase: Sculpting History](./learn-git-mastery-for-java-engineers-part-010.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Remote Repository: Clone, Fetch, Pull, Push](./learn-git-mastery-for-java-engineers-part-012.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Interactive Rebase: Sculpting History</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-012.md">Remote Repository: Clone, Fetch, Pull, Push ➡️</a>
+</div>

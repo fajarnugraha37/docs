@@ -2531,6 +2531,9 @@ Progress:
 Seri **belum selesai**. Bagian berikutnya adalah **Part 6 — Jackson Mental Model: Streaming, Tree Model, Data Binding**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — Manual Mapping: The Baseline Every Senior Engineer Must Master](./04-manual-mapping-baseline-every-senior-engineer-must-master.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Jackson Mental Model: Streaming, Tree Model, Data Binding](./06-jackson-mental-model-streaming-tree-model-data-binding.md)
+<div class="page-nav">
+<a href="./04-manual-mapping-baseline-every-senior-engineer-must-master.md">⬅️ Part 4 — Manual Mapping: The Baseline Every Senior Engineer Must Master</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./06-jackson-mental-model-streaming-tree-model-data-binding.md">Part 6 — Jackson Mental Model: Streaming, Tree Model, Data Binding ➡️</a>
+</div>

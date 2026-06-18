@@ -1976,6 +1976,9 @@ File berikutnya:
 `11-throwable-exception-object-model-causality-stacktrace-suppression.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — `Record`: Runtime Contract, Value Carrier Semantics, and API Boundaries](./09-record-runtime-contract-value-carrier-api-boundaries.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — `Throwable`: Exception Object Model, Stack Trace, Causality, Suppression](./11-throwable-exception-object-model-causality-stacktrace-suppression.md)
+<div class="page-nav">
+<a href="./09-record-runtime-contract-value-carrier-api-boundaries.md">⬅️ Part 9 — `Record`: Runtime Contract, Value Carrier Semantics, and API Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./11-throwable-exception-object-model-causality-stacktrace-suppression.md">Part 11 — `Throwable`: Exception Object Model, Stack Trace, Causality, Suppression ➡️</a>
+</div>

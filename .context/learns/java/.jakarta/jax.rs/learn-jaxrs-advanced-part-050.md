@@ -1714,6 +1714,9 @@ Bagian 051 — JAX-RS Runtime Internals and Extension Points
 Kita akan membahas bagaimana runtime JAX-RS bekerja di dalam: bootstrap, application model, resource scanning, request matching, provider registry, injection, filters/interceptors pipeline, entity provider selection, exception mapper resolution, async internals, and extension design.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 049 — JAX-RS with MicroProfile: Config, Rest Client, Fault Tolerance, Telemetry/Metrics, OpenAPI, JWT, Health, and Production Runtime Patterns](./learn-jaxrs-advanced-part-049.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 051 — JAX-RS Runtime Internals and Extension Points: Bootstrap, Application Model, Resource Scanning, Request Matching, Provider Registry, Injection, Filters/Interceptors Pipeline, Entity Provider Selection, Exception Mapper Resolution, Async Internals, and Extension Design](./learn-jaxrs-advanced-part-051.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-049.md">⬅️ Bagian 049 — JAX-RS with MicroProfile: Config, Rest Client, Fault Tolerance, Telemetry/Metrics, OpenAPI, JWT, Health, and Production Runtime Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-051.md">Bagian 051 — JAX-RS Runtime Internals and Extension Points: Bootstrap, Application Model, Resource Scanning, Request Matching, Provider Registry, Injection, Filters/Interceptors Pipeline, Entity Provider Selection, Exception Mapper Resolution, Async Internals, and Extension Design ➡️</a>
+</div>

@@ -2319,6 +2319,9 @@ Kita akan membahas:
 - benchmark realistis mail pipeline.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Testing Mail Systems](./19-testing-mail-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Performance and Resource Management](./21-performance-resource-management.md)
+<div class="page-nav">
+<a href="./19-testing-mail-systems.md">⬅️ Part 19 — Testing Mail Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./21-performance-resource-management.md">Part 21 — Performance and Resource Management ➡️</a>
+</div>

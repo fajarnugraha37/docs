@@ -1433,6 +1433,9 @@ If yes, is that exactly what the algorithm needs?
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/IdentityHashMap.java
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 022](./learn-java-collections-and-streams-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 024](./learn-java-collections-and-streams-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-022.md">⬅️ Java Collections and Streams — Part 022</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-024.md">Java Collections and Streams — Part 024 ➡️</a>
+</div>

@@ -2042,6 +2042,9 @@ Part 14 — File Attributes: Basic, POSIX, DOS, Owner, ACL
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming](./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 14 — File Attributes: Basic, POSIX, DOS, Owner, ACL](./learn-java-io-file-filesystem-storage-engineering-part-14-file-attributes.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md">⬅️ Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-14-file-attributes.md">Part 14 — File Attributes: Basic, POSIX, DOS, Owner, ACL ➡️</a>
+</div>

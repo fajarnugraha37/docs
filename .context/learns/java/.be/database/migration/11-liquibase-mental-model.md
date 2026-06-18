@@ -1860,6 +1860,9 @@ Di sana kita akan masuk ke setup teknis:
 Part 11 ini adalah fondasi mentalnya. Part 12 akan mengubah mental model tersebut menjadi setup project yang bisa dijalankan.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Flyway Baseline, Repair, Validate, and Clean](./10-flyway-baseline-repair-validate-clean.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Liquibase Setup in Java 8–25 Projects](./12-liquibase-setup-java-8-to-25.md)
+<div class="page-nav">
+<a href="./10-flyway-baseline-repair-validate-clean.md">⬅️ Flyway Baseline, Repair, Validate, and Clean</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./12-liquibase-setup-java-8-to-25.md">Part 12 — Liquibase Setup in Java 8–25 Projects ➡️</a>
+</div>

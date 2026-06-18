@@ -1435,6 +1435,9 @@ and where the aggregation should execute.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/time/ZoneId.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 055](./learn-java-collections-and-streams-part-055.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 057](./learn-java-collections-and-streams-part-057.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-055.md">⬅️ Java Collections and Streams — Part 055</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-057.md">Java Collections and Streams — Part 057 ➡️</a>
+</div>

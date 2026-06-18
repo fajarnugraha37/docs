@@ -3102,6 +3102,9 @@ Seri **belum selesai**. Bagian berikutnya:
 > **Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Multipart, File Upload, Download, and Large Payload Engineering](./17-multipart-file-upload-download-large-payload-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape](./19-validation-strategy-bean-validation-request-contract-group-error-shape.md)
+<div class="page-nav">
+<a href="./17-multipart-file-upload-download-large-payload-engineering.md">⬅️ Part 17 — Multipart, File Upload, Download, and Large Payload Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./19-validation-strategy-bean-validation-request-contract-group-error-shape.md">Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape ➡️</a>
+</div>

@@ -2830,6 +2830,9 @@ Part 20 will go deeper into operating mail systems in production:
 - dashboard and incident signals.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — Jakarta Mail in Spring Boot and Modern Java Applications](./18-spring-boot-modern-java-mail-integration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Observability: Logs, Metrics, Tracing, Audit](./20-observability-logs-metrics-tracing-audit.md)
+<div class="page-nav">
+<a href="./18-spring-boot-modern-java-mail-integration.md">⬅️ Part 18 — Jakarta Mail in Spring Boot and Modern Java Applications</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./20-observability-logs-metrics-tracing-audit.md">Part 20 — Observability: Logs, Metrics, Tracing, Audit ➡️</a>
+</div>

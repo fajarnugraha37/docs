@@ -1468,6 +1468,9 @@ Use explicit workflows to make important things happen.
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/stream/Stream.java
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 035](./learn-java-collections-and-streams-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 037](./learn-java-collections-and-streams-part-037.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-035.md">⬅️ Java Collections and Streams — Part 035</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-037.md">Java Collections and Streams — Part 037 ➡️</a>
+</div>

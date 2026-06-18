@@ -2464,6 +2464,9 @@ Part 11 will go deeper into:
 - MyBatis-Spring documentation: `SqlSessionTemplate`, transaction-aware session handling, thread-safety, mapper integration.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: MyBatis Dynamic SQL Library: Type-Safe Query Generation](./09-mybatis-dynamic-sql-library-type-safe-query-generation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — Transaction Integration: Spring, SqlSession, Propagation, Rollback](./11-transaction-integration-spring-sqlsession-propagation-rollback.md)
+<div class="page-nav">
+<a href="./09-mybatis-dynamic-sql-library-type-safe-query-generation.md">⬅️ MyBatis Dynamic SQL Library: Type-Safe Query Generation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./11-transaction-integration-spring-sqlsession-propagation-rollback.md">Part 11 — Transaction Integration: Spring, SqlSession, Propagation, Rollback ➡️</a>
+</div>

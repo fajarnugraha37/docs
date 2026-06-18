@@ -1960,6 +1960,9 @@ Pertanyaan berikutnya:
 > “Bagaimana memastikan user/service yang sudah authenticated hanya bisa melakukan aksi yang benar terhadap object yang benar pada state yang benar, tanpa confused deputy dan privilege escalation?”
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — JSON, JWT, JWS, JWE, JOSE, and Token Integrity](./learn-java-security-cryptography-integrity-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Authorization Integrity: Policy, Permission, and Confused Deputy](./learn-java-security-cryptography-integrity-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-019.md">⬅️ Part 19 — JSON, JWT, JWS, JWE, JOSE, and Token Integrity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-021.md">Part 21 — Authorization Integrity: Policy, Permission, and Confused Deputy ➡️</a>
+</div>

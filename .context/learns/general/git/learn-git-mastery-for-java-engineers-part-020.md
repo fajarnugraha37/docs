@@ -2726,6 +2726,9 @@ Git untuk Java Projects: Maven, Gradle, IDE, dan Generated Files
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 019 — Bisect: Debugging Regresi dengan Git](./learn-git-mastery-for-java-engineers-part-019.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 021 — Git untuk Java Projects: Maven, Gradle, IDE, dan Generated Files](./learn-git-mastery-for-java-engineers-part-021.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Bisect: Debugging Regresi dengan Git</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-021.md">Part 021 — Git untuk Java Projects: Maven, Gradle, IDE, dan Generated Files ➡️</a>
+</div>

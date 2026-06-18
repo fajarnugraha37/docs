@@ -2205,6 +2205,9 @@ Validation in Persistence: JPA Lifecycle, Hibernate ORM, Database Constraints
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Dependency Injection in Validators: CDI, Spring, Jakarta EE, and Testability](./learn-java-validation-jakarta-hibernate-validator-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Validation in Persistence: JPA Lifecycle, Hibernate ORM, Database Constraints](./learn-java-validation-jakarta-hibernate-validator-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-018.md">⬅️ Dependency Injection in Validators: CDI, Spring, Jakarta EE, and Testability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-020.md">Validation in Persistence: JPA Lifecycle, Hibernate ORM, Database Constraints ➡️</a>
+</div>

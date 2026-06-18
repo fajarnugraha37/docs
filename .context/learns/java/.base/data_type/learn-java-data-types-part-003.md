@@ -1916,6 +1916,9 @@ The key is matching numeric representation to domain semantics.
     https://ieeexplore.ieee.org/document/8766229
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 002](./learn-java-data-types-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 004](./learn-java-data-types-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-002.md">⬅️ Java Data Types — Part 002</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-004.md">Java Data Types — Part 004 ➡️</a>
+</div>

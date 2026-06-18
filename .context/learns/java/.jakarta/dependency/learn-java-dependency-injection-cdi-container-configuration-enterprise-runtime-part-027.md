@@ -2632,6 +2632,9 @@ Di part berikutnya kita akan membahas feature flag secara jauh lebih dalam:
 [^helidon-config]: Helidon MP Config documentation, which describes support for MicroProfile Config sources, API, custom `ConfigSource`, and converters.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 026 — MicroProfile Config Deep Dive](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 028 — Feature Flags: Runtime Decisioning, Risk Control, and Progressive Delivery](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-026.md">⬅️ Part 026 — MicroProfile Config Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-028.md">Part 028 — Feature Flags: Runtime Decisioning, Risk Control, and Progressive Delivery ➡️</a>
+</div>

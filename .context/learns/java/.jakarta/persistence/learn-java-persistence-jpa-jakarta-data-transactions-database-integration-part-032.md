@@ -1901,6 +1901,9 @@ Part 032 — bagian terakhir
 - Debezium Outbox Event Router: https://debezium.io/documentation/reference/stable/transformations/outbox-event-router.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 031 — Production Operations: Observability, Debugging, Tuning, and Incident Response](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 00 — Orientation: Enterprise Java Security Mental Model](../security/learn-java-jakarta-security-authentication-authorization-identity-part-00-orientation-and-mental-model.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-031.md">⬅️ Part 031 — Production Operations: Observability, Debugging, Tuning, and Incident Response</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

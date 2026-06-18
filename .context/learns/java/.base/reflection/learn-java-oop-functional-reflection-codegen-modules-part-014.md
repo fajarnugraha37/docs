@@ -2704,6 +2704,9 @@ Bagian berikutnya:
 - Part 015 — Lambdas Under the Hood: Capture, Target Typing, Invokedynamic, and SAM
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Composition, Delegation, Mixins, and Object Collaboration Design](./learn-java-oop-functional-reflection-codegen-modules-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Lambdas Under the Hood: Capture, Target Typing, `invokedynamic`, and SAM](./learn-java-oop-functional-reflection-codegen-modules-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-013.md">⬅️ Composition, Delegation, Mixins, and Object Collaboration Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-015.md">Lambdas Under the Hood: Capture, Target Typing, `invokedynamic`, and SAM ➡️</a>
+</div>

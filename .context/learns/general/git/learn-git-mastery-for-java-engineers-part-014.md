@@ -1779,6 +1779,9 @@ Bagian terakhir: learn-git-mastery-for-java-engineers-part-032.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Pull Request / Merge Request sebagai Engineering Control Point](./learn-git-mastery-for-java-engineers-part-013.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 015 — Release, Tagging, Versioning, dan Hotfix](./learn-git-mastery-for-java-engineers-part-015.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-013.md">⬅️ Pull Request / Merge Request sebagai Engineering Control Point</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-015.md">Part 015 — Release, Tagging, Versioning, dan Hotfix ➡️</a>
+</div>

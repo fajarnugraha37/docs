@@ -2648,6 +2648,9 @@ Berikutnya:
 - Part 014 — Functional Java Mental Model: Functions, Effects, and Referential Transparency
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Advanced Polymorphism: Overloading, Overriding, Dispatch, and Pattern Matching](./learn-java-oop-functional-reflection-codegen-modules-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Functional Java Mental Model: Functions, Effects, and Referential Transparency](./learn-java-oop-functional-reflection-codegen-modules-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-012.md">⬅️ Advanced Polymorphism: Overloading, Overriding, Dispatch, and Pattern Matching</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-014.md">Functional Java Mental Model: Functions, Effects, and Referential Transparency ➡️</a>
+</div>

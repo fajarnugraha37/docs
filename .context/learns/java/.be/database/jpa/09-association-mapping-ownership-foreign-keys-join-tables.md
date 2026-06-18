@@ -2600,6 +2600,9 @@ Part 10 will go deeper into collection semantics:
 - huge collection failure modes.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — Mapping Strategy Beyond Annotation Memorization](./08-mapping-strategy-beyond-annotation-memorization.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 10 — Collection Mapping: Bags, Lists, Sets, Maps, Ordering, and Hidden Costs](./10-collection-mapping-bags-lists-sets-maps-ordering-hidden-costs.md)
+<div class="page-nav">
+<a href="./08-mapping-strategy-beyond-annotation-memorization.md">⬅️ Part 8 — Mapping Strategy Beyond Annotation Memorization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./10-collection-mapping-bags-lists-sets-maps-ordering-hidden-costs.md">Part 10 — Collection Mapping: Bags, Lists, Sets, Maps, Ordering, and Hidden Costs ➡️</a>
+</div>

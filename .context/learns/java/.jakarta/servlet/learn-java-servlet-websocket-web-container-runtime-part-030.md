@@ -2292,6 +2292,9 @@ Part berikutnya:
 - Part 031 — Advanced Architecture Patterns and Final Integration
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 029 — Reverse Proxy, Load Balancer, Kubernetes, and Cloud Runtime](./learn-java-servlet-websocket-web-container-runtime-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 031 — Advanced Architecture Patterns and Final Integration](./learn-java-servlet-websocket-web-container-runtime-part-031.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-029.md">⬅️ Part 029 — Reverse Proxy, Load Balancer, Kubernetes, and Cloud Runtime</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-031.md">Part 031 — Advanced Architecture Patterns and Final Integration ➡️</a>
+</div>

@@ -2515,6 +2515,9 @@ Progress:
 Part berikutnya adalah **Part 3 — Cryptography Mental Model: What Crypto Can and Cannot Guarantee**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Security Architecture: JCA, JCE, JAAS, JSSE, JGSS, SASL, CertPath](./learn-java-security-cryptography-integrity-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — Cryptography Mental Model: What Crypto Can and Cannot Guarantee](./learn-java-security-cryptography-integrity-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-001.md">⬅️ Java Security Architecture: JCA, JCE, JAAS, JSSE, JGSS, SASL, CertPath</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-003.md">Part 3 — Cryptography Mental Model: What Crypto Can and Cannot Guarantee ➡️</a>
+</div>

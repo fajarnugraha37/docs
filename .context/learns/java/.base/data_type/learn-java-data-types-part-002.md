@@ -2547,6 +2547,9 @@ Top-tier engineering is not choosing the “largest” or “most precise” typ
     https://docs.oracle.com/javase/specs/jls/se25/html/jls-5.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 001](./learn-java-data-types-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 003](./learn-java-data-types-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-001.md">⬅️ Java Data Types — Part 001</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-003.md">Java Data Types — Part 003 ➡️</a>
+</div>

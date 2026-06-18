@@ -1635,6 +1635,9 @@ It gives virtual-thread fan-out a lifecycle, failure policy, and cancellation bo
     https://docs.oracle.com/en/java/javase/25/core/virtual-threads.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 015](./learn-java-concurrency-and-reactive-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 017](./learn-java-concurrency-and-reactive-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-015.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 015</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-017.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 017 ➡️</a>
+</div>

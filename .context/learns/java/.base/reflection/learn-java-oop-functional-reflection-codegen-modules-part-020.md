@@ -2103,6 +2103,9 @@ Di part berikutnya kita akan masuk ke **Annotation Design**: bagaimana mendesain
 - Java Virtual Machine Specification Java SE 25
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Reflection Deep Dive II: Dynamic Invocation, Proxies, Framework Mechanics](./learn-java-oop-functional-reflection-codegen-modules-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — Annotation Design: Metadata, Retention, Targets, Repeatable, Inheritance](./learn-java-oop-functional-reflection-codegen-modules-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-019.md">⬅️ Reflection Deep Dive II: Dynamic Invocation, Proxies, Framework Mechanics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-021.md">Part 021 — Annotation Design: Metadata, Retention, Targets, Repeatable, Inheritance ➡️</a>
+</div>

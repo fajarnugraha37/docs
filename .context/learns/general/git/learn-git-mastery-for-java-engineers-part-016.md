@@ -2316,6 +2316,9 @@ Recovery: Reflog, Lost Commit, dan Disaster Handling
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 015 — Release, Tagging, Versioning, dan Hotfix](./learn-git-mastery-for-java-engineers-part-015.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 017 — Recovery: Reflog, Lost Commit, dan Disaster Handling](./learn-git-mastery-for-java-engineers-part-017.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Release, Tagging, Versioning, dan Hotfix</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-017.md">Part 017 — Recovery: Reflog, Lost Commit, dan Disaster Handling ➡️</a>
+</div>

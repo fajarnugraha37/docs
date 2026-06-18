@@ -2319,6 +2319,9 @@ workflow orchestration across business states
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Batch Transactions and Database Integration](./23-batch-transactions-and-database-integration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Split, Flow, Decision, and Complex Job Graphs](./25-split-flow-decision-complex-job-graphs.md)
+<div class="page-nav">
+<a href="./23-batch-transactions-and-database-integration.md">⬅️ Part 23 — Batch Transactions and Database Integration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-split-flow-decision-complex-job-graphs.md">Part 25 — Split, Flow, Decision, and Complex Job Graphs ➡️</a>
+</div>

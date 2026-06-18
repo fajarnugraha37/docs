@@ -1496,6 +1496,9 @@ If the caller simply needs data, return a collection, page, cursor, or result ob
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 048](./learn-java-collections-and-streams-part-048.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 050](./learn-java-collections-and-streams-part-050.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-048.md">⬅️ Java Collections and Streams — Part 048</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-050.md">Java Collections and Streams — Part 050 ➡️</a>
+</div>

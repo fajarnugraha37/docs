@@ -1850,6 +1850,9 @@ Choose them by contract.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Collections.html#synchronizedList(java.util.List)
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 010](./learn-java-collections-and-streams-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 012](./learn-java-collections-and-streams-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-010.md">⬅️ Java Collections and Streams — Part 010</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-012.md">Java Collections and Streams — Part 012 ➡️</a>
+</div>

@@ -2973,6 +2973,9 @@ Capstone: Designing a Production-Grade Validation Framework for a Case Managemen
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Architecture Patterns: Validation Layering in Large Systems](./learn-java-validation-jakarta-hibernate-validator-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Designing a Production-Grade Validation Framework for a Case Management Platform](./learn-java-validation-jakarta-hibernate-validator-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-028.md">⬅️ Architecture Patterns: Validation Layering in Large Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-030.md">Designing a Production-Grade Validation Framework for a Case Management Platform ➡️</a>
+</div>

@@ -1663,6 +1663,9 @@ timeout, cancel, cleanup, and report its outcome predictably.
     https://openjdk.org/jeps/444
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 017](./learn-java-concurrency-and-reactive-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 019](./learn-java-concurrency-and-reactive-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-017.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 017</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-019.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 019 ➡️</a>
+</div>

@@ -2159,6 +2159,9 @@ Next: Part 29 — Plugin and Interceptor Engineering.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Large Object and Large Result Handling: CLOB, BLOB, Streaming, Cursor](./27-large-object-large-result-clob-blob-streaming-cursor.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Plugin and Interceptor Engineering](./29-plugin-interceptor-engineering.md)
+<div class="page-nav">
+<a href="./27-large-object-large-result-clob-blob-streaming-cursor.md">⬅️ Part 27 — Large Object and Large Result Handling: CLOB, BLOB, Streaming, Cursor</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./29-plugin-interceptor-engineering.md">Part 29 — Plugin and Interceptor Engineering ➡️</a>
+</div>

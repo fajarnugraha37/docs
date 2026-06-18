@@ -2874,6 +2874,9 @@ Apakah contract dites dengan golden JSON?
 Bagian berikutnya akan masuk ke **Jakarta Persistence (`jakarta.persistence` / JPA)**, salah satu spesifikasi paling kompleks dan paling sering menjadi sumber performance, consistency, transaction, dan domain modeling trade-off di aplikasi enterprise Java.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 10 — Jakarta JSON Processing: `jakarta.json` / JSON-P](./learn-java-jakarta-part-010.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 12 — Jakarta Persistence (`jakarta.persistence`) / JPA](./learn-java-jakarta-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-010.md">⬅️ Bagian 10 — Jakarta JSON Processing: `jakarta.json` / JSON-P</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-012.md">Bagian 12 — Jakarta Persistence (`jakarta.persistence`) / JPA ➡️</a>
+</div>

@@ -2843,6 +2843,9 @@ Topik berikutnya: Membaca History secara Efektif
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 003 — Commit Graph: Parent, Branch, HEAD, dan Reachability](./learn-git-mastery-for-java-engineers-part-003.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 005 — Membaca History secara Efektif](./learn-git-mastery-for-java-engineers-part-005.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Commit Graph: Parent, Branch, HEAD, dan Reachability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-005.md">Part 005 — Membaca History secara Efektif ➡️</a>
+</div>

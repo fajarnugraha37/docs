@@ -1759,6 +1759,9 @@ This is **Part 35 of 35**.
 The series `learn-java-data-mapper-json-xml-jackson-mapstruct-lombok-transformation-engineering` is now complete.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — Migration Playbook: Java 8 Legacy to Java 25 Modern Mapping Stack](./34-migration-playbook-java-8-legacy-to-java-25-modern-mapping-stack.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 0 — Orientation, Scope, Mental Model, dan Learning Contract](../telemetry/00-orientation-scope-mental-model-learning-contract.md)
+<div class="page-nav">
+<a href="./34-migration-playbook-java-8-legacy-to-java-25-modern-mapping-stack.md">⬅️ Part 34 — Migration Playbook: Java 8 Legacy to Java 25 Modern Mapping Stack</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

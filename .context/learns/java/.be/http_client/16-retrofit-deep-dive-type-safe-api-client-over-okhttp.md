@@ -1934,6 +1934,9 @@ File: 17-apache-httpclient-5-deep-dive.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — OkHttp Deep Dive: Client, Dispatcher, Interceptor, ConnectionPool](./15-okhttp-deep-dive-client-dispatcher-interceptor-connectionpool.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Apache HttpClient 5 Deep Dive](./17-apache-httpclient-5-deep-dive.md)
+<div class="page-nav">
+<a href="./15-okhttp-deep-dive-client-dispatcher-interceptor-connectionpool.md">⬅️ Part 15 — OkHttp Deep Dive: Client, Dispatcher, Interceptor, ConnectionPool</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./17-apache-httpclient-5-deep-dive.md">Part 17 — Apache HttpClient 5 Deep Dive ➡️</a>
+</div>

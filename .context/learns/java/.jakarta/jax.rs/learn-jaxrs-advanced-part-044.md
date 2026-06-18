@@ -1952,6 +1952,9 @@ Bagian 045 — Error Contract and Enterprise Error Taxonomy
 Kita akan membahas desain kontrak error enterprise: Problem Details, stable error code, domain vs validation vs security vs infrastructure errors, localization, retryability, field errors, correlation ID, supportability, compatibility, and governance.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 043 — REST API Design for Enterprise Domains: Aggregate and Resource Modeling, Command vs Resource Endpoints, Workflows, State Machines, Domain Errors, Idempotency, Tenant/Security Boundaries, Event/Outbox Integration, and Long-Term Evolvability](./learn-jaxrs-advanced-part-043.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 045 — Error Contract and Enterprise Error Taxonomy: Problem Details, Stable Error Code, Domain vs Validation vs Security vs Infrastructure Errors, Localization, Retryability, Field Errors, Correlation ID, Supportability, Compatibility, and Governance](./learn-jaxrs-advanced-part-045.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-043.md">⬅️ Bagian 043 — REST API Design for Enterprise Domains: Aggregate and Resource Modeling, Command vs Resource Endpoints, Workflows, State Machines, Domain Errors, Idempotency, Tenant/Security Boundaries, Event/Outbox Integration, and Long-Term Evolvability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-045.md">Bagian 045 — Error Contract and Enterprise Error Taxonomy: Problem Details, Stable Error Code, Domain vs Validation vs Security vs Infrastructure Errors, Localization, Retryability, Field Errors, Correlation ID, Supportability, Compatibility, and Governance ➡️</a>
+</div>

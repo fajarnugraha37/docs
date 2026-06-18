@@ -2253,6 +2253,9 @@ Mutability bugs are often not syntax bugs. They are ownership design bugs.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Map.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 019](./learn-java-data-types-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 021](./learn-java-data-types-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-019.md">⬅️ Java Data Types — Part 019</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-021.md">Java Data Types — Part 021 ➡️</a>
+</div>

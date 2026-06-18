@@ -2621,6 +2621,9 @@ Part 027 — Chaos Engineering and Failure Drills
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 025 — Security and Compliance in Error Handling](./learn-java-reliability-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — Chaos Engineering and Failure Drills](./learn-java-reliability-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-025.md">⬅️ Part 025 — Security and Compliance in Error Handling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-027.md">Part 027 — Chaos Engineering and Failure Drills ➡️</a>
+</div>

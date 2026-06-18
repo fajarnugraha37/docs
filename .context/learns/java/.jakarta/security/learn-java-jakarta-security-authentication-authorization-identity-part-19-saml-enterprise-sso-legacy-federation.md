@@ -2849,6 +2849,9 @@ Part 20 — mTLS, Client Certificates, and Strong Caller Authentication
 Part 20 will discuss strong caller authentication via TLS client certificates, certificate chains, truststore/keystore, subject/SAN mapping, reverse proxy termination, service-to-service identity, certificate rotation, and operational failure modelling.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — OAuth2 Resource Server Pattern for JAX-RS and Servlet APIs](./learn-java-jakarta-security-authentication-authorization-identity-part-18-oauth2-resource-server-jaxrs-servlet.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — mTLS, Client Certificates, and Strong Caller Authentication](./learn-java-jakarta-security-authentication-authorization-identity-part-20-mtls-client-certificates.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-18-oauth2-resource-server-jaxrs-servlet.md">⬅️ Part 18 — OAuth2 Resource Server Pattern for JAX-RS and Servlet APIs</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-20-mtls-client-certificates.md">Part 20 — mTLS, Client Certificates, and Strong Caller Authentication ➡️</a>
+</div>

@@ -3188,6 +3188,9 @@ Progress:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Bounce, Complaint, Webhook, and Delivery Feedback Loop](./23-bounce-complaint-webhook-feedback-loop.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Compliance, Privacy, and Regulatory-Grade Mail Systems](./25-compliance-privacy-regulatory-mail-systems.md)
+<div class="page-nav">
+<a href="./23-bounce-complaint-webhook-feedback-loop.md">⬅️ Part 23 — Bounce, Complaint, Webhook, and Delivery Feedback Loop</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-compliance-privacy-regulatory-mail-systems.md">Part 25 — Compliance, Privacy, and Regulatory-Grade Mail Systems ➡️</a>
+</div>

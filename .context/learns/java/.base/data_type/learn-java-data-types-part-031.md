@@ -1811,6 +1811,9 @@ Senior Java engineer tidak hanya bisa membuat type yang baik, tetapi juga cepat 
     https://docs.oracle.com/javase/specs/jls/se25/html/index.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 030](./learn-java-data-types-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 032](./learn-java-data-types-part-032.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-030.md">⬅️ Java Data Types — Part 030</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-032.md">Java Data Types — Part 032 ➡️</a>
+</div>

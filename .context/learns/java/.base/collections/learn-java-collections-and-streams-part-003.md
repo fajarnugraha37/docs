@@ -1910,6 +1910,9 @@ Use Set when uniqueness is the model, not merely because duplicates are inconven
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/doc-files/coll-overview.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 002](./learn-java-collections-and-streams-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 004](./learn-java-collections-and-streams-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-002.md">⬅️ Java Collections and Streams — Part 002</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-004.md">Java Collections and Streams — Part 004 ➡️</a>
+</div>

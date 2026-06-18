@@ -2357,6 +2357,9 @@ File   — 08-enum-constant-identity-type-safety-switch-serialization.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Primitive Wrappers, Boxing, Caches, Numeric Semantics](./06-primitive-wrappers-boxing-caches-numeric-semantics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — `Enum`: Constant Identity, Type Safety, Switch, Serialization, Design](./08-enum-constant-identity-type-safety-switch-serialization.md)
+<div class="page-nav">
+<a href="./06-primitive-wrappers-boxing-caches-numeric-semantics.md">⬅️ Part 6 — Primitive Wrappers, Boxing, Caches, Numeric Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./08-enum-constant-identity-type-safety-switch-serialization.md">Part 8 — `Enum`: Constant Identity, Type Safety, Switch, Serialization, Design ➡️</a>
+</div>

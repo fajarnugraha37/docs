@@ -2915,6 +2915,9 @@ Part berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Resolver Engineering: Constraint Solving, Wiring, Uses Constraints, and Failure Analysis](./05-resolver-engineering-constraint-solving-wiring-uses-constraints-failure-analysis.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Service Layer Fundamentals: Registry, References, Dynamics, and Contracts](./07-service-layer-fundamentals-registry-references-dynamics-contracts.md)
+<div class="page-nav">
+<a href="./05-resolver-engineering-constraint-solving-wiring-uses-constraints-failure-analysis.md">⬅️ Part 5 — Resolver Engineering: Constraint Solving, Wiring, Uses Constraints, and Failure Analysis</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./07-service-layer-fundamentals-registry-references-dynamics-contracts.md">Part 7 — Service Layer Fundamentals: Registry, References, Dynamics, and Contracts ➡️</a>
+</div>

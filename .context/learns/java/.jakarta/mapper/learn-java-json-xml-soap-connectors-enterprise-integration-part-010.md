@@ -2253,6 +2253,9 @@ Part ini adalah **Part 10 dari 34**.
 Berikutnya: **Part 11 — JSON Security & Robustness**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — JSON-B Customization & Provider Internals](./learn-java-json-xml-soap-connectors-enterprise-integration-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — JSON Security & Robustness](./learn-java-json-xml-soap-connectors-enterprise-integration-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-009.md">⬅️ Part 9 — JSON-B Customization & Provider Internals</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-011.md">Part 011 — JSON Security & Robustness ➡️</a>
+</div>

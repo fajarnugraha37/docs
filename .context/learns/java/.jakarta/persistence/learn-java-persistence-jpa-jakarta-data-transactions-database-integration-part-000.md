@@ -1801,6 +1801,9 @@ Part 001 — Evolution Map: JDBC, JPA, Hibernate, Spring Data, Jakarta Data, Jak
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — Integration Architecture Capstone](../mapper/learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Evolution Map: JDBC, JPA, Hibernate, Spring Data, Jakarta Data, Jakarta Transactions](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-001.md">Part 001 — Evolution Map: JDBC, JPA, Hibernate, Spring Data, Jakarta Data, Jakarta Transactions ➡️</a>
+</div>

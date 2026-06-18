@@ -1850,6 +1850,9 @@ Belum selesai. Berikutnya:
 - Part 06 — Writing Files Correctly: Replace, Append, Flush, Durability
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 04 — Open Options and File Handles: How Java Opens Files](./learn-java-io-file-filesystem-storage-engineering-part-04-open-options-file-handles.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 06 — Writing Files Correctly: Replace, Append, Flush, Durability](./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-04-open-options-file-handles.md">⬅️ Part 04 — Open Options and File Handles: How Java Opens Files</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md">Part 06 — Writing Files Correctly: Replace, Append, Flush, Durability ➡️</a>
+</div>

@@ -2989,6 +2989,9 @@ Masih ada 31 part setelah ini.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Production Playbook: Diagnosis, Tuning, Review Checklist, and Case Studies](../sql/learn-java-sql-jdbc-hikaricp-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Test Taxonomy dan Test Strategy untuk Sistem Enterprise Java](./learn-java-testing-benchmarking-performance-jvm-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-001.md">Test Taxonomy dan Test Strategy untuk Sistem Enterprise Java ➡️</a>
+</div>

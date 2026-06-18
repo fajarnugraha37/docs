@@ -2626,6 +2626,9 @@ Di sana kita akan membahas lebih dalam:
 9. Java Platform Security Guides and JDK security properties documentation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KMS, HSM](./learn-java-security-cryptography-integrity-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: X.509, PKI, Certificate Path Validation, Revocation](./learn-java-security-cryptography-integrity-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-011.md">⬅️ Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KMS, HSM</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-013.md">X.509, PKI, Certificate Path Validation, Revocation ➡️</a>
+</div>

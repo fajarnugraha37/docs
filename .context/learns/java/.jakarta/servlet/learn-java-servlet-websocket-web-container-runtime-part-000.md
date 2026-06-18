@@ -2314,6 +2314,9 @@ Legacy runtime -> modern Java 17/21/25 runtime
 Seri **belum selesai**. Ini adalah **Part 000 dari 032**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — Capstone Architecture: Designing an Enterprise Jakarta Security Platform](../security/learn-java-jakarta-security-authentication-authorization-identity-part-34-capstone-enterprise-jakarta-security-platform.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Evolution: Java EE `javax.*` ke Jakarta EE `jakarta.*`](./learn-java-servlet-websocket-web-container-runtime-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-001.md">Part 001 — Evolution: Java EE `javax.*` ke Jakarta EE `jakarta.*` ➡️</a>
+</div>

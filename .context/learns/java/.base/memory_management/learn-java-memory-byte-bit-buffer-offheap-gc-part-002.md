@@ -2204,6 +2204,9 @@ Masih lanjut ke part 003 sampai part 030.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 001 — Bits, Bytes, Words, Alignment, Endianness: Fondasi Representasi Data](./learn-java-memory-byte-bit-buffer-offheap-gc-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Object Layout in HotSpot: Header, Mark Word, Klass Pointer, Padding](./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-001.md">⬅️ Part 001 — Bits, Bytes, Words, Alignment, Endianness: Fondasi Representasi Data</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md">Object Layout in HotSpot: Header, Mark Word, Klass Pointer, Padding ➡️</a>
+</div>

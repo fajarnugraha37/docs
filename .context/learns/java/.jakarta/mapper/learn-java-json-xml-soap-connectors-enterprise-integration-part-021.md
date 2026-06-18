@@ -2087,6 +2087,9 @@ Seri belum selesai.
 - Part berikutnya: **Part 22 — SOAP Mental Model**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — JAXB Advanced Mapping: Adapters, Polymorphism, `JAXBElement`, Wildcards, Mixed Content, and Contract-Safe XML Models](./learn-java-json-xml-soap-connectors-enterprise-integration-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — SOAP Mental Model: Envelope, Header, Body, Fault, SOAP 1.1 vs 1.2, Document-Literal, RPC Legacy, and Why SOAP Survived](./learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-020.md">⬅️ Part 20 — JAXB Advanced Mapping: Adapters, Polymorphism, `JAXBElement`, Wildcards, Mixed Content, and Contract-Safe XML Models</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md">Part 22 — SOAP Mental Model: Envelope, Header, Body, Fault, SOAP 1.1 vs 1.2, Document-Literal, RPC Legacy, and Why SOAP Survived ➡️</a>
+</div>

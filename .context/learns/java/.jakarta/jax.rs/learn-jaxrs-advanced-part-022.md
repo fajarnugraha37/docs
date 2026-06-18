@@ -2611,6 +2611,9 @@ Bagian 023 — Hypermedia and Links: Link, HATEOAS, and Practical REST Maturity
 Kita akan membahas `Link`, link relations, `Location`, `Content-Location`, affordances, HATEOAS pragmatis, pagination links, action links, and when hypermedia is useful vs over-engineered.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 021 — PATCH, JSON Patch, JSON Merge Patch, and Partial Update Semantics: PUT vs PATCH, Null vs Missing, Field Authorization, Validation, Optimistic Locking, Idempotency, Audit, dan Domain State Semantics](./learn-jaxrs-advanced-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 023 — Hypermedia and Links: `Link`, HATEOAS, Practical REST Maturity, `Location`, `Content-Location`, Pagination Links, Action Affordances, dan API Evolvability](./learn-jaxrs-advanced-part-023.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-021.md">⬅️ Bagian 021 — PATCH, JSON Patch, JSON Merge Patch, and Partial Update Semantics: PUT vs PATCH, Null vs Missing, Field Authorization, Validation, Optimistic Locking, Idempotency, Audit, dan Domain State Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-023.md">Bagian 023 — Hypermedia and Links: `Link`, HATEOAS, Practical REST Maturity, `Location`, `Content-Location`, Pagination Links, Action Affordances, dan API Evolvability ➡️</a>
+</div>

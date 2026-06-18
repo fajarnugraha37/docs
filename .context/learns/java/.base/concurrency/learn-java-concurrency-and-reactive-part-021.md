@@ -1668,6 +1668,9 @@ and how each dependency is protected.
     https://www.reactive-streams.org/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 020](./learn-java-concurrency-and-reactive-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 022](./learn-java-concurrency-and-reactive-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-020.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 020</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-022.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 022 ➡️</a>
+</div>

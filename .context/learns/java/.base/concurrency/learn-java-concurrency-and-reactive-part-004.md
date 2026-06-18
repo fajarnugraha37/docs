@@ -2120,6 +2120,9 @@ failure observation, shutdown, and metrics as intentionally as you design a data
     https://openjdk.org/jeps/444
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 003](./learn-java-concurrency-and-reactive-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 005](./learn-java-concurrency-and-reactive-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-003.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 003</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-005.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 005 ➡️</a>
+</div>

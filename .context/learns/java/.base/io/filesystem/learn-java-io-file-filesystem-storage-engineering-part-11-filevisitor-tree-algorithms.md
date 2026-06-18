@@ -2531,6 +2531,9 @@ We will go deeper into links as filesystem identity indirection:
 - containment validation under hostile filesystem mutation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Directory Listing and Traversal: `list`, `walk`, `find`, `DirectoryStream`](./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming](./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md">⬅️ Part 10 — Directory Listing and Traversal: `list`, `walk`, `find`, `DirectoryStream`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md">Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming ➡️</a>
+</div>

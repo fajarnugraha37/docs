@@ -1616,6 +1616,9 @@ Part 19 — Global State, Properties, Environment, Locale Boundary, and Design
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — `ClassLoader`, `Package`, `Module`, `Layer`: Runtime Boundaries and Encapsulation](./17-classloader-package-module-layer-runtime-boundaries.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Global State, Properties, Environment, Locale Boundary, and Design](./19-global-state-properties-environment-locale-boundary-design.md)
+<div class="page-nav">
+<a href="./17-classloader-package-module-layer-runtime-boundaries.md">⬅️ Part 17 — `ClassLoader`, `Package`, `Module`, `Layer`: Runtime Boundaries and Encapsulation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./19-global-state-properties-environment-locale-boundary-design.md">Part 19 — Global State, Properties, Environment, Locale Boundary, and Design ➡️</a>
+</div>

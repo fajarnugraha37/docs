@@ -2031,6 +2031,9 @@ Part 021 — Stateless, Stateful, Singleton Beans and Pooling Semantics
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 019 — CDI Extensions and Portable Runtime Customization](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — Stateless, Stateful, Singleton Beans and Pooling Semantics](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-019.md">⬅️ Part 019 — CDI Extensions and Portable Runtime Customization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-021.md">Part 021 — Stateless, Stateful, Singleton Beans and Pooling Semantics ➡️</a>
+</div>

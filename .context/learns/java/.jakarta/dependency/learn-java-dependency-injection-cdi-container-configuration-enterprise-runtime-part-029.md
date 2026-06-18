@@ -2395,6 +2395,9 @@ Part 030 — Container Concurrency, Managed Executors, and Context Propagation
 Bagian berikutnya penting karena banyak selection/config/feature flag logic berjalan di async task, scheduler, background worker, event observer, atau external callback. Di sana kita harus memahami context propagation, request scope, security context, transaction boundary, managed executor, dan risiko unmanaged thread.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 028 — Feature Flags: Runtime Decisioning, Risk Control, and Progressive Delivery](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Container Concurrency, Managed Executors, and Context Propagation](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-028.md">⬅️ Part 028 — Feature Flags: Runtime Decisioning, Risk Control, and Progressive Delivery</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-030.md">Part 030 — Container Concurrency, Managed Executors, and Context Propagation ➡️</a>
+</div>

@@ -2053,6 +2053,9 @@ Kesimpulan utama:
 Di Part 31, kita akan masuk lebih dalam ke persistence-specific pitfalls: JPA entities, lazy loading, proxies, cycles, entity graph, DTO projection, dan bagaimana mapper dapat memicu database storm jika tidak dirancang dengan benar.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Testing Strategy: Unit, Golden Payload, Property-Based, Contract Tests](./29-testing-strategy-unit-golden-payload-property-based-contract-tests.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Persistence Mapping Pitfalls: JPA Entities, Lazy Loading, Proxies, Cycles](./31-persistence-mapping-pitfalls-jpa-entities-lazy-loading-proxies-cycles.md)
+<div class="page-nav">
+<a href="./29-testing-strategy-unit-golden-payload-property-based-contract-tests.md">⬅️ Part 29 — Testing Strategy: Unit, Golden Payload, Property-Based, Contract Tests</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./31-persistence-mapping-pitfalls-jpa-entities-lazy-loading-proxies-cycles.md">Part 31 — Persistence Mapping Pitfalls: JPA Entities, Lazy Loading, Proxies, Cycles ➡️</a>
+</div>

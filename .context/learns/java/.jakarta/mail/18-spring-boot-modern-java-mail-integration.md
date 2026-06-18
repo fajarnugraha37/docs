@@ -2686,6 +2686,9 @@ Kita akan masuk jauh lebih detail ke:
 - privacy-safe test data.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Jakarta Mail in Jakarta EE Containers](./17-jakarta-ee-container-managed-mail.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Testing Mail Systems](./19-testing-mail-systems.md)
+<div class="page-nav">
+<a href="./17-jakarta-ee-container-managed-mail.md">⬅️ Part 17 — Jakarta Mail in Jakarta EE Containers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./19-testing-mail-systems.md">Part 19 — Testing Mail Systems ➡️</a>
+</div>

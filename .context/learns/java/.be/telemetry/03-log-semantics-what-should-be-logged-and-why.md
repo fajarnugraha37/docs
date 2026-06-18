@@ -3558,8 +3558,10 @@ Remaining:
 
 The series is not finished yet.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — Java Logging Architecture: Facade, API, Backend, Appender, Layout](./02-java-logging-architecture-facade-api-backend-appender-layout.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — SLF4J Deep Dive: Parameterized, Fluent, Marker, Key-Value Logging](./04-slf4j-deep-dive-parameterized-fluent-marker-key-value-logging.md)
+<div class="page-nav">
+<a href="./02-java-logging-architecture-facade-api-backend-appender-layout.md">⬅️ Part 2 — Java Logging Architecture: Facade, API, Backend, Appender, Layout</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./04-slf4j-deep-dive-parameterized-fluent-marker-key-value-logging.md">Part 4 — SLF4J Deep Dive: Parameterized, Fluent, Marker, Key-Value Logging ➡️</a>
+</div>

@@ -2438,6 +2438,9 @@ Senior Java engineer memilih collection bukan karena kebiasaan, tetapi karena se
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/package-summary.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 015](./learn-java-data-types-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 017](./learn-java-data-types-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-015.md">⬅️ Java Data Types — Part 015</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-017.md">Java Data Types — Part 017 ➡️</a>
+</div>

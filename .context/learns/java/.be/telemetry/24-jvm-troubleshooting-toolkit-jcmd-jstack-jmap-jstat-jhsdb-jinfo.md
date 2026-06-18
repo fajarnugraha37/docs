@@ -1760,9 +1760,10 @@ We will go much deeper into:
 - reading multiple dumps over time;
 - turning thread dumps into a root-cause hypothesis.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — async-profiler Deep Dive: CPU, Wall, Alloc, Lock, Native, Flame Graph](./23-async-profiler-deep-dive-cpu-wall-alloc-lock-native-flame-graph.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Thread Dump Analysis: Deadlock, Blocking, Starvation, Pool Exhaustion](./25-thread-dump-analysis-deadlock-blocking-starvation-pool-exhaustion.md)
+<div class="page-nav">
+<a href="./23-async-profiler-deep-dive-cpu-wall-alloc-lock-native-flame-graph.md">⬅️ Part 23 — async-profiler Deep Dive: CPU, Wall, Alloc, Lock, Native, Flame Graph</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-thread-dump-analysis-deadlock-blocking-starvation-pool-exhaustion.md">Part 25 — Thread Dump Analysis: Deadlock, Blocking, Starvation, Pool Exhaustion ➡️</a>
+</div>

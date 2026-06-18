@@ -2557,6 +2557,9 @@ Part 24 — Secrets Management in Java Applications
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Input Validation, Canonicalization, Injection Resistance](./learn-java-security-cryptography-integrity-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Secrets Management in Java Applications](./learn-java-security-cryptography-integrity-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-022.md">⬅️ Part 22 — Input Validation, Canonicalization, Injection Resistance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-024.md">Part 24 — Secrets Management in Java Applications ➡️</a>
+</div>

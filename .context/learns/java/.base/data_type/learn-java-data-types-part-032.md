@@ -1948,6 +1948,9 @@ This mindset turns bugs into stronger type design.
     https://www.rfc-editor.org/rfc/rfc9457.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 031](./learn-java-data-types-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 033](./learn-java-data-types-part-033.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-031.md">⬅️ Java Data Types — Part 031</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-033.md">Java Data Types — Part 033 ➡️</a>
+</div>

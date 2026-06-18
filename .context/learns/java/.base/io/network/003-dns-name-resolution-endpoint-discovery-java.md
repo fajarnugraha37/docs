@@ -1793,6 +1793,9 @@ Part berikutnya: Part 4 — Java Socket Internals: Blocking Socket, ServerSocket
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 2 — TCP for Java Engineers: Connections, Streams, Buffers, and Failure Semantics](./002-tcp-for-java-engineers-connections-streams-buffers-failures.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 4 — Java Socket Internals: Blocking Socket, ServerSocket, SocketChannel, and Selector Revisited](./004-java-socket-internals-blocking-socket-serversocket-socketchannel-selector-revisited.md)
+<div class="page-nav">
+<a href="./002-tcp-for-java-engineers-connections-streams-buffers-failures.md">⬅️ Part 2 — TCP for Java Engineers: Connections, Streams, Buffers, and Failure Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./004-java-socket-internals-blocking-socket-serversocket-socketchannel-selector-revisited.md">Part 4 — Java Socket Internals: Blocking Socket, ServerSocket, SocketChannel, and Selector Revisited ➡️</a>
+</div>

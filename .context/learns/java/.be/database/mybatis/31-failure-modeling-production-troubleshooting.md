@@ -1800,6 +1800,9 @@ Part 32 akan membahas bagaimana **merefactor legacy MyBatis system** yang sudah 
 Tujuannya bukan rewrite total, tetapi refactoring bertahap yang aman untuk production.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Advanced Patterns: CQRS Read Models, Projection Mapper, Reporting Queries](./30-advanced-patterns-cqrs-read-models-projection-reporting-queries.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 32 — Refactoring Legacy MyBatis Systems](./32-refactoring-legacy-mybatis-systems.md)
+<div class="page-nav">
+<a href="./30-advanced-patterns-cqrs-read-models-projection-reporting-queries.md">⬅️ Part 30 — Advanced Patterns: CQRS Read Models, Projection Mapper, Reporting Queries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./32-refactoring-legacy-mybatis-systems.md">Part 32 — Refactoring Legacy MyBatis Systems ➡️</a>
+</div>

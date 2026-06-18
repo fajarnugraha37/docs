@@ -2379,6 +2379,9 @@ Part berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Fragments, Extension Bundles, Native Code, and Low-Level Runtime Tricks](./23-fragments-extension-bundles-native-code-low-level-runtime-tricks.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Observability and Troubleshooting: Wiring Graphs, Service Graphs, Memory Leaks, Startup Failures](./25-observability-troubleshooting-wiring-service-graphs-memory-leaks-startup-failures.md)
+<div class="page-nav">
+<a href="./23-fragments-extension-bundles-native-code-low-level-runtime-tricks.md">⬅️ Part 23 — Fragments, Extension Bundles, Native Code, and Low-Level Runtime Tricks</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-observability-troubleshooting-wiring-service-graphs-memory-leaks-startup-failures.md">Part 25 — Observability and Troubleshooting: Wiring Graphs, Service Graphs, Memory Leaks, Startup Failures ➡️</a>
+</div>

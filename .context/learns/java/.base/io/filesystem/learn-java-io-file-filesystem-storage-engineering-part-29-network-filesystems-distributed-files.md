@@ -2028,6 +2028,9 @@ Jika kamu memahami boundary ini, kamu akan jauh lebih siap membangun file-proces
 - AWS — Amazon S3 strong consistency: https://aws.amazon.com/s3/consistency/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Containers, Cloud Runtime, Kubernetes Volumes, and Ephemeral Files](./learn-java-io-file-filesystem-storage-engineering-part-28-containers-cloud-runtime-kubernetes-volumes-ephemeral-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 30 — Performance Engineering: Syscalls, Page Cache, Buffering, Batching, and Directory Scale](./learn-java-io-file-filesystem-storage-engineering-part-30-performance-engineering.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-28-containers-cloud-runtime-kubernetes-volumes-ephemeral-files.md">⬅️ Part 28 — Containers, Cloud Runtime, Kubernetes Volumes, and Ephemeral Files</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-30-performance-engineering.md">Part 30 — Performance Engineering: Syscalls, Page Cache, Buffering, Batching, and Directory Scale ➡️</a>
+</div>

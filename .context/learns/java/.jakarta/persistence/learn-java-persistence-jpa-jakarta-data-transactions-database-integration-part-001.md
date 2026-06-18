@@ -1489,6 +1489,9 @@ Part 002 — Persistence Architecture: Layering, Boundaries, and Dependency Dire
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 000 — Big Picture: Persistence as a Boundary, Not a CRUD Layer](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — Persistence Architecture: Layering, Boundaries, and Dependency Direction](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-000.md">⬅️ Part 000 — Big Picture: Persistence as a Boundary, Not a CRUD Layer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-002.md">Part 002 — Persistence Architecture: Layering, Boundaries, and Dependency Direction ➡️</a>
+</div>

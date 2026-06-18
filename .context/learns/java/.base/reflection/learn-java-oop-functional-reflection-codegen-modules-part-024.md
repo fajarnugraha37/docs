@@ -1680,6 +1680,9 @@ Berikutnya:
 - **Part 025 — Package Architecture: Naming, Visibility, Boundaries, and Internal APIs**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Code Generation Strategy: Source Generation, Runtime Generation, Bytecode Generation](./learn-java-oop-functional-reflection-codegen-modules-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Package Architecture: Naming, Visibility, Boundaries, and Internal APIs](./learn-java-oop-functional-reflection-codegen-modules-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-023.md">⬅️ Code Generation Strategy: Source Generation, Runtime Generation, Bytecode Generation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-025.md">Package Architecture: Naming, Visibility, Boundaries, and Internal APIs ➡️</a>
+</div>

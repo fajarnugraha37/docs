@@ -2253,6 +2253,9 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-022.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 020 — HikariCP Configuration Deep Dive](./learn-java-sql-jdbc-hikaricp-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Timeout Design: Connection Timeout, Query Timeout, Socket Timeout, Transaction Timeout](./learn-java-sql-jdbc-hikaricp-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-020.md">⬅️ Part 020 — HikariCP Configuration Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-022.md">Timeout Design: Connection Timeout, Query Timeout, Socket Timeout, Transaction Timeout ➡️</a>
+</div>

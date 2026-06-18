@@ -2102,6 +2102,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Validation in Persistence: JPA Lifecycle, Hibernate ORM, Database Constraints](./learn-java-validation-jakarta-hibernate-validator-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Validation for Workflow, State Machines, and Regulatory Case Management](./learn-java-validation-jakarta-hibernate-validator-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-020.md">⬅️ Validation in Persistence: JPA Lifecycle, Hibernate ORM, Database Constraints</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-022.md">Validation for Workflow, State Machines, and Regulatory Case Management ➡️</a>
+</div>

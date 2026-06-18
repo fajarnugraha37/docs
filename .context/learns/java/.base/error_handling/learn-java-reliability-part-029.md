@@ -1818,6 +1818,9 @@ Part 030 — Top 1% Reliability Thinking: Heuristics, Trade-offs, and Anti-Patte
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 028 — Reliability Architecture Review Checklist](./learn-java-reliability-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Top 1% Reliability Thinking: Heuristics, Trade-offs, and Anti-Patterns](./learn-java-reliability-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-028.md">⬅️ Part 028 — Reliability Architecture Review Checklist</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-030.md">Part 030 — Top 1% Reliability Thinking: Heuristics, Trade-offs, and Anti-Patterns ➡️</a>
+</div>

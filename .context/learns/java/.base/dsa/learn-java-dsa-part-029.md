@@ -2070,6 +2070,9 @@ Part 030 — Capstone: Designing a Production-Grade Rule, Workflow, and Case Ind
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java DSA — Part 028](./learn-java-dsa-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Capstone: Designing a Production-Grade Rule, Workflow, and Case Indexing Engine](./learn-java-dsa-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-028.md">⬅️ Learn Java DSA — Part 028</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-030.md">Part 030 — Capstone: Designing a Production-Grade Rule, Workflow, and Case Indexing Engine ➡️</a>
+</div>

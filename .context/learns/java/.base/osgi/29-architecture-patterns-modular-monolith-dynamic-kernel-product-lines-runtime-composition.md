@@ -2089,6 +2089,9 @@ Masih tersisa:
 Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Designing Plugin Platforms with OSGi: Extension Contracts, Isolation, Governance](./28-designing-plugin-platforms-extension-contracts-isolation-governance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Anti-Patterns and Failure Modes: The Things That Make OSGi Projects Fail](./30-anti-patterns-failure-modes-things-that-make-osgi-projects-fail.md)
+<div class="page-nav">
+<a href="./28-designing-plugin-platforms-extension-contracts-isolation-governance.md">⬅️ Part 28 — Designing Plugin Platforms with OSGi: Extension Contracts, Isolation, Governance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./30-anti-patterns-failure-modes-things-that-make-osgi-projects-fail.md">Part 30 — Anti-Patterns and Failure Modes: The Things That Make OSGi Projects Fail ➡️</a>
+</div>

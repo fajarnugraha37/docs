@@ -2052,6 +2052,9 @@ Once you answer that, `@Version`, `LockModeType`, transaction isolation, databas
 - EclipseLink JPA Extensions — `@OptimisticLocking`. citeturn439875search15
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — Transaction Integration: Resource Local, JTA, Spring, Jakarta EE, and Boundary Design](./18-transaction-integration-resource-local-jta-spring-jakarta-ee-boundary.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Merge, Detach, DTO Mapping, and API Boundary Safety](./20-merge-detach-dto-mapping-api-boundary-safety.md)
+<div class="page-nav">
+<a href="./18-transaction-integration-resource-local-jta-spring-jakarta-ee-boundary.md">⬅️ Part 18 — Transaction Integration: Resource Local, JTA, Spring, Jakarta EE, and Boundary Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./20-merge-detach-dto-mapping-api-boundary-safety.md">Part 20 — Merge, Detach, DTO Mapping, and API Boundary Safety ➡️</a>
+</div>

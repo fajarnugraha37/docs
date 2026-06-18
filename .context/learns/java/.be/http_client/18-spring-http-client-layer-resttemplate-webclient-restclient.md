@@ -1726,6 +1726,9 @@ File: 19-api-client-architecture-port-adapter-gateway-sdk-acl.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Apache HttpClient 5 Deep Dive](./17-apache-httpclient-5-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — API Client Architecture: Port, Adapter, Gateway, SDK, Anti-Corruption Layer](./19-api-client-architecture-port-adapter-gateway-sdk-acl.md)
+<div class="page-nav">
+<a href="./17-apache-httpclient-5-deep-dive.md">⬅️ Part 17 — Apache HttpClient 5 Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./19-api-client-architecture-port-adapter-gateway-sdk-acl.md">Part 19 — API Client Architecture: Port, Adapter, Gateway, SDK, Anti-Corruption Layer ➡️</a>
+</div>

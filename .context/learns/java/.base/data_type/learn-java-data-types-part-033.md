@@ -1574,6 +1574,9 @@ The goal is not to make code “fancy”.
 The goal is to make illegal states difficult, correct states obvious, and production failures less likely.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 032](./learn-java-data-types-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 034](./learn-java-data-types-part-034.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-032.md">⬅️ Java Data Types — Part 032</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-034.md">Java Data Types — Part 034 ➡️</a>
+</div>

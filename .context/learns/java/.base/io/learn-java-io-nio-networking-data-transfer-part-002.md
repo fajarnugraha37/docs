@@ -2413,6 +2413,9 @@ Part 003 — Buffering Deep Dive: Kenapa Buffer Ada, Bagaimana Memilih Ukuran, d
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 001 — Byte, Character, Encoding, Charset, dan Boundary yang Sering Menjadi Sumber Bug](./learn-java-io-nio-networking-data-transfer-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Buffering Deep Dive: Kenapa Buffer Ada, Bagaimana Memilih Ukuran, dan Apa Efeknya ke Performance](./learn-java-io-nio-networking-data-transfer-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-001.md">⬅️ Part 001 — Byte, Character, Encoding, Charset, dan Boundary yang Sering Menjadi Sumber Bug</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-003.md">Part 003 — Buffering Deep Dive: Kenapa Buffer Ada, Bagaimana Memilih Ukuran, dan Apa Efeknya ke Performance ➡️</a>
+</div>

@@ -2095,6 +2095,9 @@ Part 017 menutup dua bagian serialization. Part 016 menjelaskan bagaimana Java s
 Mulai Part 018, kita pindah ke **compression**: ZIP, GZIP, Deflater, Inflater, streaming compression, zip bomb, zip slip, CRC, dan bagaimana compression berinteraksi dengan I/O pipeline, network transfer, CPU, memory, dan security.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 016 — Serialization I: Java Object Serialization Architecture, Object Graph, Identity, dan Format](./learn-java-io-nio-networking-data-transfer-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Compression: ZIP, GZIP, Deflater, Inflater, Tar Concept, dan Streaming Compression](./learn-java-io-nio-networking-data-transfer-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-016.md">⬅️ Part 016 — Serialization I: Java Object Serialization Architecture, Object Graph, Identity, dan Format</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-018.md">Part 018 — Compression: ZIP, GZIP, Deflater, Inflater, Tar Concept, dan Streaming Compression ➡️</a>
+</div>

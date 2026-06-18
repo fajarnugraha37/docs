@@ -1873,6 +1873,9 @@ dan bagaimana kita mengurangi cost tanpa mengubah semantics?
 - Oracle Java Tutorials — File I/O, directory walking, NIO.2 concepts
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary](./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Observability and Troubleshooting File Workloads](./learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md">⬅️ Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads.md">Part 31 — Observability and Troubleshooting File Workloads ➡️</a>
+</div>

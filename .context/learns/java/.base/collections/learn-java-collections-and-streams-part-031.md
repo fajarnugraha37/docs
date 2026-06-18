@@ -1686,6 +1686,9 @@ Then choose the collector that encodes that contract.
     https://dev.java/learn/api/streams/reducing/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 030](./learn-java-collections-and-streams-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 032](./learn-java-collections-and-streams-part-032.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-030.md">⬅️ Java Collections and Streams — Part 030</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-032.md">Java Collections and Streams — Part 032 ➡️</a>
+</div>

@@ -2522,6 +2522,9 @@ That is the difference between “knowing Maven commands” and “engineering M
 - Maven Guide to CI Friendly Versions: https://maven.apache.org/guides/mini/guide-maven-ci-friendly.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Advanced Gradle: Variant-Aware Dependency Management, Capabilities, Attributes](./29-advanced-gradle-variant-aware-dependency-management.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Build Observability: Logs, Reports, Build Scan, Metrics, Flakiness, Trend Analysis](./31-build-observability.md)
+<div class="page-nav">
+<a href="./29-advanced-gradle-variant-aware-dependency-management.md">⬅️ Part 29 — Advanced Gradle: Variant-Aware Dependency Management, Capabilities, Attributes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./31-build-observability.md">Part 31 — Build Observability: Logs, Reports, Build Scan, Metrics, Flakiness, Trend Analysis ➡️</a>
+</div>

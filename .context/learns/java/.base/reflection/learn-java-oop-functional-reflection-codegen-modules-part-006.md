@@ -2502,6 +2502,9 @@ Jika interface tidak memperjelas salah satu dari itu, kemungkinan besar ia hanya
 Part berikutnya akan membahas **Sealed Classes and Controlled Hierarchies**, yaitu cara Java modern membatasi type family agar model domain, state machine, dan result type bisa lebih eksplisit dan exhaustively reasoned.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 005 — Inheritance Deep Dive: Substitutability, Fragility, and Runtime Dispatch](./learn-java-oop-functional-reflection-codegen-modules-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Sealed Classes and Controlled Hierarchies](./learn-java-oop-functional-reflection-codegen-modules-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-005.md">⬅️ Part 005 — Inheritance Deep Dive: Substitutability, Fragility, and Runtime Dispatch</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-007.md">Sealed Classes and Controlled Hierarchies ➡️</a>
+</div>

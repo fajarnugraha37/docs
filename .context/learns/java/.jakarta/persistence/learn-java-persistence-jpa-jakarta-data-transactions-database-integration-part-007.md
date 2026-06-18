@@ -2736,6 +2736,9 @@ Part 008 — Query Model: JPQL, HQL, Criteria, Native SQL, QuerySpecification
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 006 — Relationship Mapping: One-to-One, Many-to-One, One-to-Many, Many-to-Many](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 008 — Query Model: JPQL, HQL, Criteria, Native SQL, QuerySpecification](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-006.md">⬅️ Part 006 — Relationship Mapping: One-to-One, Many-to-One, One-to-Many, Many-to-Many</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-008.md">Part 008 — Query Model: JPQL, HQL, Criteria, Native SQL, QuerySpecification ➡️</a>
+</div>

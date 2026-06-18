@@ -2671,6 +2671,9 @@ If the system can answer those questions consistently, BPMN/Camunda is being use
 - Camunda documentation on BPMN symbols and process modeling guidance.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Process Versioning, Deployment Strategy, and Change Management](./learn-java-bpmn-camunda-part-26-process-versioning-deployment-strategy-change-management.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Workflow Engine vs State Machine vs Rules Engine vs Temporal](./learn-java-bpmn-camunda-part-28-workflow-engine-vs-state-machine-rules-engine-temporal.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-26-process-versioning-deployment-strategy-change-management.md">⬅️ Part 26 — Process Versioning, Deployment Strategy, and Change Management</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-28-workflow-engine-vs-state-machine-rules-engine-temporal.md">Part 28 — Workflow Engine vs State Machine vs Rules Engine vs Temporal ➡️</a>
+</div>

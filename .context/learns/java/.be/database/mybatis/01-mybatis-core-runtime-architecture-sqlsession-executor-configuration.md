@@ -2410,6 +2410,9 @@ Fokusnya:
 - MyBatis Spring Boot Starter Documentation — auto-configuration, properties, mapper scanning, version compatibility.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: MyBatis Orientation: SQL-First Persistence Mental Model](./00-mybatis-orientation-sql-first-persistence-mental-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 2 — Java 8 to 25 MyBatis Version Strategy and Compatibility](./02-java-8-to-25-mybatis-version-strategy-and-compatibility.md)
+<div class="page-nav">
+<a href="./00-mybatis-orientation-sql-first-persistence-mental-model.md">⬅️ MyBatis Orientation: SQL-First Persistence Mental Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./02-java-8-to-25-mybatis-version-strategy-and-compatibility.md">Part 2 — Java 8 to 25 MyBatis Version Strategy and Compatibility ➡️</a>
+</div>

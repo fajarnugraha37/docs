@@ -2250,6 +2250,9 @@ Belum selesai. Lanjut ke:
 - Part 016 — Decorators: Semantic Wrapping of Business Interfaces
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 016 — Decorators: Semantic Wrapping of Business Interfaces](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-014.md">⬅️ Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md">Part 016 — Decorators: Semantic Wrapping of Business Interfaces ➡️</a>
+</div>

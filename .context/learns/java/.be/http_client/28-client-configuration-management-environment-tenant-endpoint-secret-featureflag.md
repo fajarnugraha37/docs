@@ -2307,6 +2307,9 @@ File: 29-production-failure-playbook-diagnosis-incident-response.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Generated Clients: OpenAPI, Codegen, SDK Governance](./27-generated-clients-openapi-codegen-sdk-governance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Production Failure Playbook: Diagnosis and Incident Response](./29-production-failure-playbook-diagnosis-incident-response.md)
+<div class="page-nav">
+<a href="./27-generated-clients-openapi-codegen-sdk-governance.md">⬅️ Part 27 — Generated Clients: OpenAPI, Codegen, SDK Governance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./29-production-failure-playbook-diagnosis-incident-response.md">Part 29 — Production Failure Playbook: Diagnosis and Incident Response ➡️</a>
+</div>

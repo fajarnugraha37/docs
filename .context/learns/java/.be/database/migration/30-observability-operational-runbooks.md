@@ -2030,6 +2030,9 @@ Berikutnya:
 - Part 31 — Advanced Patterns and Anti-Patterns
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Security, Compliance, and Auditability in Database Migration](./29-security-compliance-auditability.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Advanced Patterns and Anti-Patterns](./31-advanced-patterns-and-anti-patterns.md)
+<div class="page-nav">
+<a href="./29-security-compliance-auditability.md">⬅️ Security, Compliance, and Auditability in Database Migration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./31-advanced-patterns-and-anti-patterns.md">Part 31 — Advanced Patterns and Anti-Patterns ➡️</a>
+</div>

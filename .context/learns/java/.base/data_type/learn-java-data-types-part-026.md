@@ -2055,6 +2055,9 @@ API data type design yang baik membuat client aman, evolution terkendali, dan bu
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Optional.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 025](./learn-java-data-types-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 027](./learn-java-data-types-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-025.md">⬅️ Java Data Types — Part 025</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-027.md">Java Data Types — Part 027 ➡️</a>
+</div>

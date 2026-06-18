@@ -1793,6 +1793,9 @@ mutation frequency, contention, and ownership.
     https://openjdk.org/jeps/444
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 019](./learn-java-concurrency-and-reactive-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 021](./learn-java-concurrency-and-reactive-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-019.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 019</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-021.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 021 ➡️</a>
+</div>

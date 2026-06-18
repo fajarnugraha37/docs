@@ -2108,6 +2108,9 @@ Part 021 — NIO Networking: SocketChannel, ServerSocketChannel, Selector, dan E
 Di sana kita akan membahas bagaimana framing, partial read, partial write, dan backpressure berubah ketika modelnya bukan lagi satu thread blocking per connection, melainkan event loop dan selector.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 019 — Networking I: `java.net` Foundation, Address, DNS, URI, URL, Socket Basics](./learn-java-io-nio-networking-data-transfer-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — NIO Networking: `SocketChannel`, `ServerSocketChannel`, `Selector`, dan Event Loop](./learn-java-io-nio-networking-data-transfer-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-019.md">⬅️ Part 019 — Networking I: `java.net` Foundation, Address, DNS, URI, URL, Socket Basics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-021.md">Part 021 — NIO Networking: `SocketChannel`, `ServerSocketChannel`, `Selector`, dan Event Loop ➡️</a>
+</div>

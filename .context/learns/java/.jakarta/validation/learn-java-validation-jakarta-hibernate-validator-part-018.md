@@ -1992,6 +1992,9 @@ Part berikutnya:
 `learn-java-validation-jakarta-hibernate-validator-part-019.md` — **Validation in REST APIs: JAX-RS, Spring MVC, Error Mapping, and Problem Details**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Hibernate Validator Extensions: Beyond the Specification](./learn-java-validation-jakarta-hibernate-validator-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Validation in REST APIs: JAX-RS, Spring MVC, Error Mapping, and Problem Details](./learn-java-validation-jakarta-hibernate-validator-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-017.md">⬅️ Hibernate Validator Extensions: Beyond the Specification</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-019.md">Validation in REST APIs: JAX-RS, Spring MVC, Error Mapping, and Problem Details ➡️</a>
+</div>

@@ -2149,6 +2149,9 @@ Kita akan membahas:
 - Red Hat JBoss EAP Undertow Configuration Guide: https://docs.redhat.com/en/documentation/red_hat_jboss_enterprise_application_platform/7.0/html/configuration_guide/configuring_the_web_server_undertow
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 002 — HTTP Fundamentals for Servlet Engineers](./learn-java-servlet-websocket-web-container-runtime-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Servlet Lifecycle Deep Dive](./learn-java-servlet-websocket-web-container-runtime-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-002.md">⬅️ Part 002 — HTTP Fundamentals for Servlet Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-004.md">Part 004 — Servlet Lifecycle Deep Dive ➡️</a>
+</div>

@@ -1392,6 +1392,9 @@ performance, and consistency consequences.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/Stream.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 049](./learn-java-collections-and-streams-part-049.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 052](./learn-java-collections-and-streams-part-052.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-049.md">⬅️ Java Collections and Streams — Part 049</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-052.md">Java Collections and Streams — Part 052 ➡️</a>
+</div>

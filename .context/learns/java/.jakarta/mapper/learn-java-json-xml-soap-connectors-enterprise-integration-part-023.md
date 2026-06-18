@@ -2334,6 +2334,9 @@ Part 24 — JAX-WS / Jakarta XML Web Services Server Side
 Di sana kita akan melihat bagaimana Java endpoint, annotation, SEI, implementation class, handler, servlet/container integration, dan fault mapping berhubungan langsung dengan WSDL yang sudah kita bedah di bagian ini.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — SOAP Mental Model: Envelope, Header, Body, Fault, SOAP 1.1 vs 1.2, Document-Literal, RPC Legacy, and Why SOAP Survived](./learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — WS / Jakarta XML Web Services Server Side](./learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md">⬅️ Part 22 — SOAP Mental Model: Envelope, Header, Body, Fault, SOAP 1.1 vs 1.2, Document-Literal, RPC Legacy, and Why SOAP Survived</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md">Part 24 — WS / Jakarta XML Web Services Server Side ➡️</a>
+</div>

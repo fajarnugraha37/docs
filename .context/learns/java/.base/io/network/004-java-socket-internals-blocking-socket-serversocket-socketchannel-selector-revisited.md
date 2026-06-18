@@ -1775,6 +1775,9 @@ Next: Part 5 — Protocol Design Fundamentals: Framing, Length Prefix, Delimiter
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — DNS, Name Resolution, and Endpoint Discovery in Java](./003-dns-name-resolution-endpoint-discovery-java.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 5 — Protocol Design Fundamentals: Framing, Length Prefix, Delimiters, Streaming, and Compatibility](./005-protocol-design-fundamentals-framing-length-prefix-delimiters-streaming-compatibility.md)
+<div class="page-nav">
+<a href="./003-dns-name-resolution-endpoint-discovery-java.md">⬅️ Part 3 — DNS, Name Resolution, and Endpoint Discovery in Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./005-protocol-design-fundamentals-framing-length-prefix-delimiters-streaming-compatibility.md">Part 5 — Protocol Design Fundamentals: Framing, Length Prefix, Delimiters, Streaming, and Compatibility ➡️</a>
+</div>

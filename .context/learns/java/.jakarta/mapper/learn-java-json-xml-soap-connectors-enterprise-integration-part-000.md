@@ -2106,6 +2106,9 @@ Sumber-sumber berikut dipakai untuk mengunci fakta versi/spec di Part 0 dan akan
 - Berikutnya: **Part 1 — Data Format as Contract: JSON vs XML sebagai boundary contract, schema-first vs code-first, backward compatibility, versioning, consumer-driven constraints, dan canonical model anti-pattern.**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Top 1% Design Review: Evaluating a Mail Subsystem Like an Architect](../mail/29-top-one-percent-design-review.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Data Format as Contract: JSON, XML, XSD, WSDL, and Integration Compatibility](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md">Part 1 — Data Format as Contract: JSON, XML, XSD, WSDL, and Integration Compatibility ➡️</a>
+</div>

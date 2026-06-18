@@ -2109,6 +2109,9 @@ File: 02-container-integrity-and-managed-concurrency.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Orientation: Enterprise Concurrency & Batch Mental Model](./00-orientation-enterprise-concurrency-and-batch-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Container Integrity: Why Managed Concurrency Exists](./02-container-integrity-and-managed-concurrency.md)
+<div class="page-nav">
+<a href="./00-orientation-enterprise-concurrency-and-batch-mental-model.md">⬅️ Part 0 — Orientation: Enterprise Concurrency & Batch Mental Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./02-container-integrity-and-managed-concurrency.md">Part 2 — Container Integrity: Why Managed Concurrency Exists ➡️</a>
+</div>

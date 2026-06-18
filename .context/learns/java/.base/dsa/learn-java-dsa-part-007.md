@@ -2675,6 +2675,9 @@ Part 008 berikutnya — Ordering, Sorting, Comparator, Comparable
 Seri belum selesai. Kita baru menyelesaikan Part 007 dari 030.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java DSA — Part 006: Hash Table Fundamentals](./learn-java-dsa-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 008 — Ordering, Sorting, Comparator, Comparable](./learn-java-dsa-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-006.md">⬅️ Learn Java DSA — Part 006: Hash Table Fundamentals</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-008.md">Part 008 — Ordering, Sorting, Comparator, Comparable ➡️</a>
+</div>

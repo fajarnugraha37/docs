@@ -1932,6 +1932,9 @@ It will consolidate everything into:
 - final top 1% mental model.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Building a Production-Grade OSGi Case Study Runtime from Scratch](./32-building-production-grade-osgi-case-study-runtime-from-scratch.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Top 1% OSGi Engineering: Design Reviews, Invariants, Checklists, and Decision Framework](./34-top-1-percent-osgi-engineering-design-reviews-invariants-checklists-decision-framework.md)
+<div class="page-nav">
+<a href="./32-building-production-grade-osgi-case-study-runtime-from-scratch.md">⬅️ Part 32 — Building a Production-Grade OSGi Case Study Runtime from Scratch</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./34-top-1-percent-osgi-engineering-design-reviews-invariants-checklists-decision-framework.md">Top 1% OSGi Engineering: Design Reviews, Invariants, Checklists, and Decision Framework ➡️</a>
+</div>

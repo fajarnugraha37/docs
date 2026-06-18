@@ -1767,6 +1767,9 @@ Primary references for this capstone:
 - Jakarta EE Tutorial.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 034 — Migration and Modernization Playbook](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 000 — Big Picture JAX-RS: From Annotation API to HTTP Runtime Contract](../jax.rs/learn-jaxrs-advanced-part-000.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-034.md">⬅️ Part 034 — Migration and Modernization Playbook</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

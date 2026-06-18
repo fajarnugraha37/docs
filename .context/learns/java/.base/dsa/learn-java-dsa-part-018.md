@@ -2140,6 +2140,9 @@ learn-java-dsa-part-019 — Dynamic Programming II: Classic Patterns and Enginee
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 017 — Recursion, Backtracking, Search Space Pruning](./learn-java-dsa-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java DSA — Part 019: Dynamic Programming II — Classic Patterns and Engineering Use](./learn-java-dsa-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-017.md">⬅️ Part 017 — Recursion, Backtracking, Search Space Pruning</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-019.md">Learn Java DSA — Part 019: Dynamic Programming II — Classic Patterns and Engineering Use ➡️</a>
+</div>

@@ -1342,6 +1342,9 @@ Use other concurrent collections when mutation is frequent.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/atomic/AtomicReference.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 021](./learn-java-collections-and-streams-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 023](./learn-java-collections-and-streams-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-021.md">⬅️ Java Collections and Streams — Part 021</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-023.md">Java Collections and Streams — Part 023 ➡️</a>
+</div>

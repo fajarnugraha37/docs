@@ -2277,6 +2277,9 @@ Part 028 — Performance Engineering: Benchmarking DSA in Java
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 026 — Persistent, Immutable, Copy-on-Write, and Snapshot Structures](./learn-java-dsa-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java DSA — Part 028](./learn-java-dsa-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-026.md">⬅️ Part 026 — Persistent, Immutable, Copy-on-Write, and Snapshot Structures</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-028.md">Learn Java DSA — Part 028 ➡️</a>
+</div>

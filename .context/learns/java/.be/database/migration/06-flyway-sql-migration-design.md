@@ -3137,6 +3137,9 @@ Seri belum selesai.
 - Berikutnya: Part 7 — `07-flyway-repeatable-migrations.md`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Flyway Setup in Java 8–25 Projects](./05-flyway-setup-java-8-to-25.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — Flyway Repeatable Migrations](./07-flyway-repeatable-migrations.md)
+<div class="page-nav">
+<a href="./05-flyway-setup-java-8-to-25.md">⬅️ Part 5 — Flyway Setup in Java 8–25 Projects</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./07-flyway-repeatable-migrations.md">Part 7 — Flyway Repeatable Migrations ➡️</a>
+</div>

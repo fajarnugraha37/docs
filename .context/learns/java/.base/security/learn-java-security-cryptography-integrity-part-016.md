@@ -2397,6 +2397,9 @@ Berikutnya:
 - Part 17 — Secure File, Archive, and Data Transfer Integrity
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — TLS Hardening, Disabled Algorithms, and Runtime Security Properties](./learn-java-security-cryptography-integrity-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Secure File, Archive, and Data Transfer Integrity](./learn-java-security-cryptography-integrity-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-015.md">⬅️ Part 15 — TLS Hardening, Disabled Algorithms, and Runtime Security Properties</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-017.md">Part 17 — Secure File, Archive, and Data Transfer Integrity ➡️</a>
+</div>

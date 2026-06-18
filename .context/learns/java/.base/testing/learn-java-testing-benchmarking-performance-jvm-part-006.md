@@ -2887,6 +2887,9 @@ Part 007 berikutnya: Testing Domain Logic, State Machine, Workflow, dan Business
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Test Data Engineering: Fixture, Builder, Mother, Factory, Randomized Data](./learn-java-testing-benchmarking-performance-jvm-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Testing Domain Logic, State Machine, Workflow, dan Business Invariant](./learn-java-testing-benchmarking-performance-jvm-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-005.md">⬅️ Test Data Engineering: Fixture, Builder, Mother, Factory, Randomized Data</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-007.md">Testing Domain Logic, State Machine, Workflow, dan Business Invariant ➡️</a>
+</div>

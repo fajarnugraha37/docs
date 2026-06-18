@@ -2288,6 +2288,9 @@ File: 11-virtual-threads-and-jakarta-ee-managed-concurrency.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — CDI, Interceptors, Events, and Async Boundaries](./09-cdi-interceptors-events-and-async-boundaries.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Virtual Threads, Jakarta EE, and Managed Concurrency](./11-virtual-threads-and-jakarta-ee-managed-concurrency.md)
+<div class="page-nav">
+<a href="./09-cdi-interceptors-events-and-async-boundaries.md">⬅️ Part 9 — CDI, Interceptors, Events, and Async Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./11-virtual-threads-and-jakarta-ee-managed-concurrency.md">Part 11 — Virtual Threads, Jakarta EE, and Managed Concurrency ➡️</a>
+</div>

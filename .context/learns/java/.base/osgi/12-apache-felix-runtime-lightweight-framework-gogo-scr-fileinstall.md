@@ -2093,6 +2093,9 @@ Series belum selesai.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — bnd and Bndtools: Build Intelligence for OSGi Engineering](./11-bnd-bndtools-build-intelligence-osgi-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Eclipse Equinox Runtime: Eclipse Platform, p2, Extension Registry, Enterprise Lessons](./13-eclipse-equinox-runtime-eclipse-platform-p2-extension-registry-enterprise-lessons.md)
+<div class="page-nav">
+<a href="./11-bnd-bndtools-build-intelligence-osgi-engineering.md">⬅️ Part 11 — bnd and Bndtools: Build Intelligence for OSGi Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./13-eclipse-equinox-runtime-eclipse-platform-p2-extension-registry-enterprise-lessons.md">Part 13 — Eclipse Equinox Runtime: Eclipse Platform, p2, Extension Registry, Enterprise Lessons ➡️</a>
+</div>

@@ -2547,6 +2547,9 @@ Part 16 — FileStore and Filesystem Capacity: Disk Space, Quotas, and Operation
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — File Attributes: Basic, POSIX, DOS, Owner, ACL](./learn-java-io-file-filesystem-storage-engineering-part-14-file-attributes.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — FileStore and Filesystem Capacity: Disk Space, Quotas, and Operational Guardrails](./learn-java-io-file-filesystem-storage-engineering-part-16-filestore-filesystem-capacity.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-14-file-attributes.md">⬅️ Part 14 — File Attributes: Basic, POSIX, DOS, Owner, ACL</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-16-filestore-filesystem-capacity.md">Part 16 — FileStore and Filesystem Capacity: Disk Space, Quotas, and Operational Guardrails ➡️</a>
+</div>

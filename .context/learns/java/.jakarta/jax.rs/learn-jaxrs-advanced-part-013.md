@@ -2951,6 +2951,9 @@ Bagian 014 — Validation Integration: Jakarta Validation at REST Boundary
 Kita akan membahas integrasi Jakarta Validation secara mendalam: parameter validation, entity validation, `@Valid`, cross-field constraints, validation groups, method validation, error mapping, and designing validation as boundary contract.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 012 — JSON in JAX-RS: JSON-B, JSON-P, Jackson, Provider Selection, DTO Contract, Null Policy, Unknown Fields, Date/Time, Enum Wire Values, dan Security](./learn-jaxrs-advanced-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 014 — Validation Integration: Jakarta Validation at REST Boundary, `@Valid`, Parameter Validation, Entity Validation, Groups, Cross-Field Constraint, dan Error Mapping](./learn-jaxrs-advanced-part-014.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-012.md">⬅️ Bagian 012 — JSON in JAX-RS: JSON-B, JSON-P, Jackson, Provider Selection, DTO Contract, Null Policy, Unknown Fields, Date/Time, Enum Wire Values, dan Security</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-014.md">Bagian 014 — Validation Integration: Jakarta Validation at REST Boundary, `@Valid`, Parameter Validation, Entity Validation, Groups, Cross-Field Constraint, dan Error Mapping ➡️</a>
+</div>

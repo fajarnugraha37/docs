@@ -1845,6 +1845,9 @@ Progress: **Part 029 dari 031 selesai**.
 - Brendan Gregg — Systems performance and latency analysis concepts.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 028 — Performance Engineering for Java Code: Allocation, Collections, Strings, IO, Serialization](./learn-java-testing-benchmarking-performance-jvm-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Performance Regression Pipeline: CI Benchmark, Baseline, Threshold, and Release Gate](./learn-java-testing-benchmarking-performance-jvm-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-028.md">⬅️ Part 028 — Performance Engineering for Java Code: Allocation, Collections, Strings, IO, Serialization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-030.md">Performance Regression Pipeline: CI Benchmark, Baseline, Threshold, and Release Gate ➡️</a>
+</div>

@@ -1951,9 +1951,10 @@ Part 11 will go deeper into the semantics of identity itself:
 - how to model causality in distributed systems,
 - how to avoid misleading correlation.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — Structured Logging: From Human Text to Machine-Queryable Events](./09-structured-logging-from-human-text-to-machine-queryable-events.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Correlation ID, Trace ID, Request ID, Idempotency Key, Causality](./11-correlation-id-trace-id-request-id-idempotency-key-causality.md)
+<div class="page-nav">
+<a href="./09-structured-logging-from-human-text-to-machine-queryable-events.md">⬅️ Part 9 — Structured Logging: From Human Text to Machine-Queryable Events</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./11-correlation-id-trace-id-request-id-idempotency-key-causality.md">Part 11 — Correlation ID, Trace ID, Request ID, Idempotency Key, Causality ➡️</a>
+</div>

@@ -1879,6 +1879,9 @@ Pada part berikutnya, kita akan masuk ke **seeding strategy**: reference data, m
 - Part berikutnya: `17-seeding-reference-master-bootstrap-data.md`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — Liquibase Rollback Engineering](./15-liquibase-rollback-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 17 — Seeding Strategy: Reference Data, Master Data, and Bootstrap Data](./17-seeding-reference-master-bootstrap-data.md)
+<div class="page-nav">
+<a href="./15-liquibase-rollback-engineering.md">⬅️ Part 15 — Liquibase Rollback Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./17-seeding-reference-master-bootstrap-data.md">Part 17 — Seeding Strategy: Reference Data, Master Data, and Bootstrap Data ➡️</a>
+</div>

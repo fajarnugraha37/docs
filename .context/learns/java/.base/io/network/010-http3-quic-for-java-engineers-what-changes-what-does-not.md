@@ -1458,6 +1458,9 @@ Part 11 — Java HTTP Clients Across Generations: HttpURLConnection, Apache Http
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — HTTP/2 Deep Dive: Streams, Frames, Multiplexing, HPACK, Flow Control, and Prioritization](./009-http2-deep-dive-streams-frames-multiplexing-hpack-flow-control-prioritization.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — Java HTTP Clients Across Generations: `HttpURLConnection`, Apache HttpClient, OkHttp, Netty, Spring, and JDK `HttpClient`](./011-java-http-clients-across-generations-httpurlconnection-apache-okhttp-netty-spring-jdk-httpclient.md)
+<div class="page-nav">
+<a href="./009-http2-deep-dive-streams-frames-multiplexing-hpack-flow-control-prioritization.md">⬅️ Part 9 — HTTP/2 Deep Dive: Streams, Frames, Multiplexing, HPACK, Flow Control, and Prioritization</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./011-java-http-clients-across-generations-httpurlconnection-apache-okhttp-netty-spring-jdk-httpclient.md">Part 11 — Java HTTP Clients Across Generations: `HttpURLConnection`, Apache HttpClient, OkHttp, Netty, Spring, and JDK `HttpClient` ➡️</a>
+</div>

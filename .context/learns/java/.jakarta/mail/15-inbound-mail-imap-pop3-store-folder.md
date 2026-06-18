@@ -1722,6 +1722,9 @@ Itu akan dibahas di part berikutnya:
 - MIME message structure from earlier parts.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — Deliverability Fundamentals: SPF, DKIM, DMARC, Reputation, Bounce](./14-deliverability-spf-dkim-dmarc-bounce.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — MIME Parsing: Reading Complex Messages Safely](./16-mime-parsing-safe-message-ingestion.md)
+<div class="page-nav">
+<a href="./14-deliverability-spf-dkim-dmarc-bounce.md">⬅️ Part 14 — Deliverability Fundamentals: SPF, DKIM, DMARC, Reputation, Bounce</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./16-mime-parsing-safe-message-ingestion.md">Part 16 — MIME Parsing: Reading Complex Messages Safely ➡️</a>
+</div>

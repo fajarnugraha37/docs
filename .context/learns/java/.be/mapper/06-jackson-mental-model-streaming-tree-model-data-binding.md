@@ -3042,6 +3042,9 @@ Dengan mental model ini, bagian berikutnya dapat masuk lebih dalam ke `ObjectMap
 - Spring Framework/Jackson 3 notes: ekosistem modern mulai mengadopsi format-specific mapper seperti `JsonMapper`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Mapping Architecture: Mapper Placement, Ownership, and Dependency Direction](./05-mapping-architecture-placement-ownership-dependency-direction.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — ObjectMapper Engineering: Configuration, Lifecycle, Thread Safety, Modules](./07-objectmapper-engineering-configuration-lifecycle-thread-safety-modules.md)
+<div class="page-nav">
+<a href="./05-mapping-architecture-placement-ownership-dependency-direction.md">⬅️ Part 5 — Mapping Architecture: Mapper Placement, Ownership, and Dependency Direction</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./07-objectmapper-engineering-configuration-lifecycle-thread-safety-modules.md">Part 7 — ObjectMapper Engineering: Configuration, Lifecycle, Thread Safety, Modules ➡️</a>
+</div>

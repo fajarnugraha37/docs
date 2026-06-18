@@ -2033,6 +2033,9 @@ Servlet Mapping, URL Pattern, and Dispatch Resolution
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 005 — Request Object Internals: `HttpServletRequest`](./learn-java-servlet-websocket-web-container-runtime-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — Servlet Mapping, URL Pattern, and Dispatch Resolution](./learn-java-servlet-websocket-web-container-runtime-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-005.md">⬅️ Part 005 — Request Object Internals: `HttpServletRequest`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-007.md">Part 007 — Servlet Mapping, URL Pattern, and Dispatch Resolution ➡️</a>
+</div>

@@ -1924,6 +1924,9 @@ Kita akan membahas:
 - Oracle Java SE 25 — `java.nio.channels.FileChannel`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 03 — File Creation Semantics: Atomic Create, Temp File, Directory Creation](./learn-java-io-file-filesystem-storage-engineering-part-03-file-creation-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 05 — Reading Files Correctly: Small File, Large File, Streaming, Lazy Lines](./learn-java-io-file-filesystem-storage-engineering-part-05-reading-files-correctly.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-03-file-creation-semantics.md">⬅️ Part 03 — File Creation Semantics: Atomic Create, Temp File, Directory Creation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-05-reading-files-correctly.md">Part 05 — Reading Files Correctly: Small File, Large File, Streaming, Lazy Lines ➡️</a>
+</div>

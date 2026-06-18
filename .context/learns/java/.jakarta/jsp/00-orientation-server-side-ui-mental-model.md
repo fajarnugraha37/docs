@@ -2239,6 +2239,9 @@ Fokus Part 1 nanti:
 6. risiko dependency/library di aplikasi enterprise nyata.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bonus Appendix 055 — JAX-RS Production Review Playbook: Maturity Rubric, Architecture Review Checklist, Design Interview Drills, Failure Scenario Matrix, Security Review Prompts, Performance Review Prompts, and Decision Records](../jax.rs/learn-jaxrs-advanced-part-055.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Historical Evolution dan Compatibility Matrix: JSP, JSTL, EL, JSF, Jakarta Faces](./01-history-compatibility-java8-to-java25.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./01-history-compatibility-java8-to-java25.md">Part 1 — Historical Evolution dan Compatibility Matrix: JSP, JSTL, EL, JSF, Jakarta Faces ➡️</a>
+</div>

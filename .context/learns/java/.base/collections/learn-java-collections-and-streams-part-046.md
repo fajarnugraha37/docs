@@ -1508,6 +1508,9 @@ are all honest and tested.
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/Spliterators.java
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 045](./learn-java-collections-and-streams-part-045.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 047](./learn-java-collections-and-streams-part-047.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-045.md">⬅️ Java Collections and Streams — Part 045</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-047.md">Java Collections and Streams — Part 047 ➡️</a>
+</div>

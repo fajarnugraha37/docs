@@ -2593,6 +2593,9 @@ Part 1 — Mental Model Network Stack: Application Code to Wire
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 030 — Production Design Patterns: File Ingestion, Export Job, Secure Transfer, Audit, Observability, dan Operational Runbook](../learn-java-io-nio-networking-data-transfer-part-030.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 1 — Mental Model Network Stack: Application Code to Wire](./001-network-stack-mental-model-application-code-to-wire.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./001-network-stack-mental-model-application-code-to-wire.md">Part 1 — Mental Model Network Stack: Application Code to Wire ➡️</a>
+</div>

@@ -2054,6 +2054,9 @@ Fokusnya adalah security khusus Jakarta Faces:
 - secure Faces checklist.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Composite Components and Reusable UI Architecture](./23-composite-components-and-reusable-ui-architecture.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Faces Security: XSS, CSRF, View State, Authorization, and Secure Rendering](./25-faces-security-xss-csrf-view-state-authorization-secure-rendering.md)
+<div class="page-nav">
+<a href="./23-composite-components-and-reusable-ui-architecture.md">⬅️ Part 23 — Composite Components and Reusable UI Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-faces-security-xss-csrf-view-state-authorization-secure-rendering.md">Part 25 — Faces Security: XSS, CSRF, View State, Authorization, and Secure Rendering ➡️</a>
+</div>

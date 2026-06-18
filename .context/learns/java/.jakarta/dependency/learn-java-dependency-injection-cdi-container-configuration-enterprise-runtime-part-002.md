@@ -2509,6 +2509,9 @@ Di sana kita akan membahas:
 Seri belum selesai. Ini adalah bagian 002 dari 035.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 001 — Dependency Management: From JAR Hell to Reproducible Enterprise Builds](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Java EE to Jakarta EE Migration Model: `javax.*` to `jakarta.*`](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-001.md">⬅️ Part 001 — Dependency Management: From JAR Hell to Reproducible Enterprise Builds</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-003.md">Part 003 — Java EE to Jakarta EE Migration Model: `javax.*` to `jakarta.*` ➡️</a>
+</div>

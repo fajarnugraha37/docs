@@ -2461,6 +2461,9 @@ Berikutnya:
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — Camunda Landscape: Camunda 7 vs Camunda 8](./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Java Client Engineering: From API Call to Production-grade Worker](./learn-java-bpmn-camunda-part-06-java-client-engineering-production-grade-worker.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md">⬅️ Part 4 — Camunda Landscape: Camunda 7 vs Camunda 8</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-06-java-client-engineering-production-grade-worker.md">Part 6 — Java Client Engineering: From API Call to Production-grade Worker ➡️</a>
+</div>

@@ -1900,6 +1900,9 @@ Di sana kita akan membahas `java.net.http.HttpClient` sebagai client modern bawa
 - production wrapper pattern
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — Rate Limiting, Throttling, Bulkhead, dan Client-Side Load Shedding](./12-rate-limiting-throttling-bulkhead-client-side-load-shedding.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — JDK `HttpClient` Deep Dive: `java.net.http` sebagai Native HTTP Client Modern Java](./14-jdk-httpclient-deep-dive-java-net-http.md)
+<div class="page-nav">
+<a href="./12-rate-limiting-throttling-bulkhead-client-side-load-shedding.md">⬅️ Part 12 — Rate Limiting, Throttling, Bulkhead, dan Client-Side Load Shedding</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./14-jdk-httpclient-deep-dive-java-net-http.md">Part 14 — JDK `HttpClient` Deep Dive: `java.net.http` sebagai Native HTTP Client Modern Java ➡️</a>
+</div>

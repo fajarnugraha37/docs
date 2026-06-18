@@ -2510,6 +2510,9 @@ Part berikutnya: **Part 017 — Performance Model of JDBC Calls**.
 File berikutnya: `learn-java-sql-jdbc-hikaricp-part-017.md`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Advanced JDBC Features: Savepoint, Array, Struct, Ref, RowId, SQLData](./learn-java-sql-jdbc-hikaricp-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Performance Model of JDBC Calls](./learn-java-sql-jdbc-hikaricp-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-015.md">⬅️ Advanced JDBC Features: Savepoint, Array, Struct, Ref, RowId, SQLData</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-017.md">Part 017 — Performance Model of JDBC Calls ➡️</a>
+</div>

@@ -2312,9 +2312,10 @@ and what evidence supports the conclusion.
 
 That is the standard this series has been building toward.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — Building a Production-Grade Java Observability Starter Kit](./34-building-production-grade-java-observability-starter-kit.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Enterprise Concurrency & Batch Mental Model](../../.jakarta/concurrency/00-orientation-enterprise-concurrency-and-batch-mental-model.md)
+<div class="page-nav">
+<a href="./34-building-production-grade-java-observability-starter-kit.md">⬅️ Part 34 — Building a Production-Grade Java Observability Starter Kit</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

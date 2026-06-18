@@ -1641,6 +1641,9 @@ They encode dataflow, state, ordering, memory, and termination behavior.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Collection.html#stream()
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 025](./learn-java-collections-and-streams-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 027](./learn-java-collections-and-streams-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-025.md">⬅️ Java Collections and Streams — Part 025</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-027.md">Java Collections and Streams — Part 027 ➡️</a>
+</div>

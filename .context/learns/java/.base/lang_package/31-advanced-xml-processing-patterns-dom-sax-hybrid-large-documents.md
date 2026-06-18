@@ -2300,6 +2300,9 @@ Sisa:
 Part berikutnya akan menyatukan semua materi `java.lang`, DOM, dan SAX menjadi desain mini-library internal yang production-grade: runtime info collector, safe process executor, version detector, exception taxonomy, safe XML parser factories, DOM extractor, SAX streaming importer, testing matrix, dan production readiness checklist.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Secure XML Parsing with DOM/SAX: XXE, Billion Laughs, Expansion Limits, Hardening](./30-secure-xml-parsing-dom-sax-xxe-expansion-hardening.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Capstone: Build a Production-Grade Runtime/XML Utility Layer](./32-capstone-production-grade-runtime-xml-utility-layer.md)
+<div class="page-nav">
+<a href="./30-secure-xml-parsing-dom-sax-xxe-expansion-hardening.md">⬅️ Part 30 — Secure XML Parsing with DOM/SAX: XXE, Billion Laughs, Expansion Limits, Hardening</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./32-capstone-production-grade-runtime-xml-utility-layer.md">Part 32 — Capstone: Build a Production-Grade Runtime/XML Utility Layer ➡️</a>
+</div>

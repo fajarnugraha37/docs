@@ -2727,6 +2727,9 @@ Progress saat ini:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 33 — Capstone: Designing a Production-Grade Migration Platform](../migration/33-capstone-production-grade-migration-platform.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: MyBatis Core Runtime Architecture: `SqlSession`, `Executor`, `Configuration`](./01-mybatis-core-runtime-architecture-sqlsession-executor-configuration.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./01-mybatis-core-runtime-architecture-sqlsession-executor-configuration.md">MyBatis Core Runtime Architecture: `SqlSession`, `Executor`, `Configuration` ➡️</a>
+</div>

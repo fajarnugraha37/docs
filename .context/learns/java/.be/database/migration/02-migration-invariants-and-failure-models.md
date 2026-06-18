@@ -2728,6 +2728,9 @@ Progress saat ini:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — Taxonomy of Database Changes](./01-taxonomy-of-database-changes.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 3 — Database Versioning Models](./03-database-versioning-models.md)
+<div class="page-nav">
+<a href="./01-taxonomy-of-database-changes.md">⬅️ Part 1 — Taxonomy of Database Changes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./03-database-versioning-models.md">Part 3 — Database Versioning Models ➡️</a>
+</div>

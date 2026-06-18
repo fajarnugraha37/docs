@@ -2914,6 +2914,9 @@ Engineer top-tier tahu bahwa `#{bean.property}` bukan sekadar string ajaib. Ia t
 Bagian berikutnya akan membahas **Jakarta Server Pages (`jakarta.servlet.jsp`) / Jakarta Pages**: JSP lifecycle, translation to servlet, tag libraries, JSTL, EL integration, implicit objects, custom tags, migration, security, and modern relevance.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 26 — Jakarta Faces (`jakarta.faces`): Component-Based Server-Side UI, Lifecycle, State, Validation, Ajax, dan Modern Relevance](./learn-java-jakarta-part-026.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 28 — Jakarta Pages / JSP (`jakarta.servlet.jsp`): Translation to Servlet, Tag Libraries, EL, JSTL, dan Modern Relevance](./learn-java-jakarta-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-026.md">⬅️ Bagian 26 — Jakarta Faces (`jakarta.faces`): Component-Based Server-Side UI, Lifecycle, State, Validation, Ajax, dan Modern Relevance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-028.md">Bagian 28 — Jakarta Pages / JSP (`jakarta.servlet.jsp`): Translation to Servlet, Tag Libraries, EL, JSTL, dan Modern Relevance ➡️</a>
+</div>

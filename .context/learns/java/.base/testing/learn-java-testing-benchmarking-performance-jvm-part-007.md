@@ -2532,6 +2532,9 @@ Part 008 — Testing Error Handling, Exception Semantics, Retry, Timeout, dan Id
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Mocking, Stubbing, Fakes, Spies, dan Contract of Collaboration](./learn-java-testing-benchmarking-performance-jvm-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Testing Error Handling, Exception Semantics, Retry, Timeout, dan Idempotency](./learn-java-testing-benchmarking-performance-jvm-part-008.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-006.md">⬅️ Mocking, Stubbing, Fakes, Spies, dan Contract of Collaboration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-008.md">Testing Error Handling, Exception Semantics, Retry, Timeout, dan Idempotency ➡️</a>
+</div>

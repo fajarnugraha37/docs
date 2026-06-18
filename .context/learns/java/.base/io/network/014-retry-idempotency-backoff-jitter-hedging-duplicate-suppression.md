@@ -2451,6 +2451,9 @@ Part berikutnya: Part 15 — Connection Pooling and Resource Management.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Timeout Engineering: Connect, DNS, TLS, Request, Read, Write, Pool Acquisition, and Deadline](./013-timeout-engineering-connect-dns-tls-request-read-write-pool-acquisition-deadline.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — Connection Pooling and Resource Management](./015-connection-pooling-and-resource-management.md)
+<div class="page-nav">
+<a href="./013-timeout-engineering-connect-dns-tls-request-read-write-pool-acquisition-deadline.md">⬅️ Part 13 — Timeout Engineering: Connect, DNS, TLS, Request, Read, Write, Pool Acquisition, and Deadline</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./015-connection-pooling-and-resource-management.md">Part 15 — Connection Pooling and Resource Management ➡️</a>
+</div>

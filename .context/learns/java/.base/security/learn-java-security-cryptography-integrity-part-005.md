@@ -2356,6 +2356,9 @@ Pada Part 6, kita akan masuk ke topik yang sering disalahpahami: **Password Stor
 Status seri: **belum selesai**. Ini adalah **Part 5 dari 35**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — Randomness, Entropy, Nonce, Salt, IV, Token](./learn-java-security-cryptography-integrity-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Password Storage, Password Verification, and Secret-Derived Keys](./learn-java-security-cryptography-integrity-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-004.md">⬅️ Part 4 — Randomness, Entropy, Nonce, Salt, IV, Token</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-006.md">Part 6 — Password Storage, Password Verification, and Secret-Derived Keys ➡️</a>
+</div>

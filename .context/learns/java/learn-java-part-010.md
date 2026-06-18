@@ -3526,6 +3526,9 @@ Ia bertanya:
 Itulah perbedaan antara “bisa memakai I/O API” dan “bisa mendesain data transfer system”.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 009 — Java Memory Model dan Concurrency Fundamental](./learn-java-part-009.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 11 — Text, Unicode, Locale, Date-Time](./learn-java-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-part-009.md">⬅️ Learn Java Part 009 — Java Memory Model dan Concurrency Fundamental</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-011.md">Bagian 11 — Text, Unicode, Locale, Date-Time ➡️</a>
+</div>

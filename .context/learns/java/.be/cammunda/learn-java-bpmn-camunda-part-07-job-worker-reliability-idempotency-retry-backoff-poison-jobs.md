@@ -2841,6 +2841,9 @@ Berikutnya:
 **Part 8 — Process Variables: Data Contract, Scope, Serialization, and Governance**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Java Client Engineering: From API Call to Production-grade Worker](./learn-java-bpmn-camunda-part-06-java-client-engineering-production-grade-worker.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java BPMN & Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-08-process-variables-data-contract-scope-serialization-governance.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-06-java-client-engineering-production-grade-worker.md">⬅️ Part 6 — Java Client Engineering: From API Call to Production-grade Worker</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-08-process-variables-data-contract-scope-serialization-governance.md">Learn Java BPMN & Camunda Process Orchestration Engineering ➡️</a>
+</div>

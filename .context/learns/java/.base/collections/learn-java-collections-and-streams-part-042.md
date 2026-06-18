@@ -1455,6 +1455,9 @@ If handling is procedural and complex, use a loop.
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 041](./learn-java-collections-and-streams-part-041.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 043](./learn-java-collections-and-streams-part-043.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-041.md">⬅️ Java Collections and Streams — Part 041</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-043.md">Java Collections and Streams — Part 043 ➡️</a>
+</div>

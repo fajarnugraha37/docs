@@ -1709,6 +1709,9 @@ Next part:
 The next topic goes deeper into one of the hardest areas in Faces: state saving. We will analyze server-side state, client-side state, view state token, partial state saving, session memory pressure, clustering, view expiry, multi-tab behavior, serialization, and security of stateful component trees.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Conversion and Validation in Faces: UI-Level Integrity](./19-conversion-and-validation-in-faces-ui-level-integrity.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Faces State Management: Server State, Client State, View Expiry, and Memory](./21-faces-state-management-server-client-view-expiry-memory.md)
+<div class="page-nav">
+<a href="./19-conversion-and-validation-in-faces-ui-level-integrity.md">⬅️ Part 19 — Conversion and Validation in Faces: UI-Level Integrity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./21-faces-state-management-server-client-view-expiry-memory.md">Part 21 — Faces State Management: Server State, Client State, View Expiry, and Memory ➡️</a>
+</div>

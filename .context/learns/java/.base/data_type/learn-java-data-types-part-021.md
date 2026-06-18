@@ -2025,6 +2025,9 @@ Jika jawaban tidak jelas, production bug tinggal menunggu waktu.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/Record.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 020](./learn-java-data-types-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 022](./learn-java-data-types-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-020.md">⬅️ Java Data Types — Part 020</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-022.md">Java Data Types — Part 022 ➡️</a>
+</div>

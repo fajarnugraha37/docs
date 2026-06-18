@@ -2092,6 +2092,9 @@ GC Selection Strategy: Choosing the Right Collector by Workload
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: ZGC Deep Dive: Colored Pointers, Load Barriers, Relocation, Generational ZGC](./learn-java-memory-byte-bit-buffer-offheap-gc-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: GC Selection Strategy: Choosing the Right Collector by Workload](./learn-java-memory-byte-bit-buffer-offheap-gc-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-022.md">⬅️ ZGC Deep Dive: Colored Pointers, Load Barriers, Relocation, Generational ZGC</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-024.md">GC Selection Strategy: Choosing the Right Collector by Workload ➡️</a>
+</div>

@@ -2042,6 +2042,9 @@ Pertanyaan:
 - Vendor/runtime documentation should always be checked for transaction timeout, cursor holdability, job repository configuration, and datasource transaction behavior.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Skip, Retry, Rollback, and Exception Classification](./22-skip-retry-rollback-exception-classification.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Partitioning: Parallel Batch at Scale](./24-partitioning-parallel-batch-at-scale.md)
+<div class="page-nav">
+<a href="./22-skip-retry-rollback-exception-classification.md">⬅️ Part 22 — Skip, Retry, Rollback, and Exception Classification</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./24-partitioning-parallel-batch-at-scale.md">Part 24 — Partitioning: Parallel Batch at Scale ➡️</a>
+</div>

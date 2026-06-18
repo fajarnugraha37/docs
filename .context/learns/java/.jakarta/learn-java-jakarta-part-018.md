@@ -2654,6 +2654,9 @@ Engineer top-tier tahu perbedaan antara **authenticating a caller**, **checking 
 Bagian berikutnya akan membahas **Jakarta Messaging (`jakarta.jms`)**: queue/topic, producer/consumer, durable subscription, transaction, acknowledgment, redelivery, DLQ, ordering, idempotency, and event-driven reliability.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 17 — Jakarta Security (`jakarta.security.enterprise`): Authentication, Identity Store, dan Security Boundary](./learn-java-jakarta-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 19 — Jakarta Messaging (`jakarta.jms`): Queue, Topic, Reliability, dan Event-Driven Boundary](./learn-java-jakarta-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-017.md">⬅️ Bagian 17 — Jakarta Security (`jakarta.security.enterprise`): Authentication, Identity Store, dan Security Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-019.md">Bagian 19 — Jakarta Messaging (`jakarta.jms`): Queue, Topic, Reliability, dan Event-Driven Boundary ➡️</a>
+</div>

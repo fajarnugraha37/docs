@@ -1436,6 +1436,9 @@ Use it only when source splits well, work is heavy enough, reduction is correct,
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 038](./learn-java-collections-and-streams-part-038.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 040](./learn-java-collections-and-streams-part-040.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-038.md">⬅️ Java Collections and Streams — Part 038</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-040.md">Java Collections and Streams — Part 040 ➡️</a>
+</div>

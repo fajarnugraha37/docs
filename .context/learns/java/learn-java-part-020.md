@@ -2920,6 +2920,9 @@ Engineer top-tier tidak sekadar menulis kode yang terlihat cepat. Ia membangun s
 Performance yang baik bukan hasil “micro-optimization acak”. Performance yang baik adalah hasil desain, pengukuran, dan disiplin engineering.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 19 — Java di Cloud, Container, dan Kubernetes](./learn-java-part-019.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 21 — Framework Internals: Kenapa Framework Java Bisa Bekerja](./learn-java-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-part-019.md">⬅️ Bagian 19 — Java di Cloud, Container, dan Kubernetes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-021.md">Bagian 21 — Framework Internals: Kenapa Framework Java Bisa Bekerja ➡️</a>
+</div>

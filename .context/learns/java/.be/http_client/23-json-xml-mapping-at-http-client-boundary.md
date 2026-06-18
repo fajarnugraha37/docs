@@ -2084,6 +2084,9 @@ Part 24 — Performance Engineering: Throughput, Latency, Allocation, GC, Thread
 File: `24-performance-engineering-throughput-latency-allocation-gc-threading.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Testing HTTP Clients: Unit, Contract, Integration, Chaos, Mock Server](./22-testing-http-clients-unit-contract-integration-chaos-mockserver.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Performance Engineering: Throughput, Latency, Allocation, GC, Threading](./24-performance-engineering-throughput-latency-allocation-gc-threading.md)
+<div class="page-nav">
+<a href="./22-testing-http-clients-unit-contract-integration-chaos-mockserver.md">⬅️ Part 22 — Testing HTTP Clients: Unit, Contract, Integration, Chaos, Mock Server</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./24-performance-engineering-throughput-latency-allocation-gc-threading.md">Part 24 — Performance Engineering: Throughput, Latency, Allocation, GC, Threading ➡️</a>
+</div>

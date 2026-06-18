@@ -2752,6 +2752,9 @@ Kita akan bahas:
 # End of Part 3
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Migration Invariants and Failure Models](./02-migration-invariants-and-failure-models.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 4 — Flyway Mental Model](./04-flyway-mental-model.md)
+<div class="page-nav">
+<a href="./02-migration-invariants-and-failure-models.md">⬅️ Migration Invariants and Failure Models</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./04-flyway-mental-model.md">Part 4 — Flyway Mental Model ➡️</a>
+</div>

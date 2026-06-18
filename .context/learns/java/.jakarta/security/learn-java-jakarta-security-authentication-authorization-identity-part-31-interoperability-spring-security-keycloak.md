@@ -2092,6 +2092,9 @@ Part 32 — Production Hardening Checklist for Jakarta Security Systems
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Migration Guide: Java EE `javax` Security to Jakarta `jakarta` Security](./learn-java-jakarta-security-authentication-authorization-identity-part-30-migration-javax-to-jakarta-security.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Production Hardening Checklist for Jakarta Security Systems](./learn-java-jakarta-security-authentication-authorization-identity-part-32-production-hardening-checklist.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-30-migration-javax-to-jakarta-security.md">⬅️ Part 30 — Migration Guide: Java EE `javax` Security to Jakarta `jakarta` Security</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-32-production-hardening-checklist.md">Part 32 — Production Hardening Checklist for Jakarta Security Systems ➡️</a>
+</div>

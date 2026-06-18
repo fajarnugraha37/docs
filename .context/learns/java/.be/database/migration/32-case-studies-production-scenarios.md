@@ -2746,6 +2746,9 @@ Di sana kita akan menyatukan seluruh seri menjadi satu **production-grade migrat
 - maturity model.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Advanced Patterns and Anti-Patterns](./31-advanced-patterns-and-anti-patterns.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 33 — Capstone: Designing a Production-Grade Migration Platform](./33-capstone-production-grade-migration-platform.md)
+<div class="page-nav">
+<a href="./31-advanced-patterns-and-anti-patterns.md">⬅️ Part 31 — Advanced Patterns and Anti-Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./33-capstone-production-grade-migration-platform.md">Part 33 — Capstone: Designing a Production-Grade Migration Platform ➡️</a>
+</div>

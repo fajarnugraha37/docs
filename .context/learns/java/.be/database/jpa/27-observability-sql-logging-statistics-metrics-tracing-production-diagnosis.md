@@ -2397,6 +2397,9 @@ If earlier parts taught how ORM works, this part teaches how to prove what ORM d
 - Database execution plan and wait-event tooling for Oracle, PostgreSQL, MySQL/MariaDB, and SQL Server.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Hibernate vs EclipseLink: Behavioral Differences That Matter](./26-hibernate-vs-eclipselink-behavioral-differences-that-matter.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Performance Engineering: Cost Model from Object Graph to Database Work](./28-performance-engineering-cost-model-object-graph-to-database-work.md)
+<div class="page-nav">
+<a href="./26-hibernate-vs-eclipselink-behavioral-differences-that-matter.md">⬅️ Part 26 — Hibernate vs EclipseLink: Behavioral Differences That Matter</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./28-performance-engineering-cost-model-object-graph-to-database-work.md">Part 28 — Performance Engineering: Cost Model from Object Graph to Database Work ➡️</a>
+</div>

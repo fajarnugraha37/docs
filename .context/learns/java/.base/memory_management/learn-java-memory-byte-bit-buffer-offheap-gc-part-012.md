@@ -2185,6 +2185,9 @@ Memory-Mapped Files: MappedByteBuffer, Page Cache, and OS Semantics
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 011 — `ByteBuffer` Deep Dive: Heap Buffer, Direct Buffer, Slice, Duplicate, View](./learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Mapped Files: `MappedByteBuffer`, Page Cache, and OS Semantics](./learn-java-memory-byte-bit-buffer-offheap-gc-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md">⬅️ Part 011 — `ByteBuffer` Deep Dive: Heap Buffer, Direct Buffer, Slice, Duplicate, View</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-013.md">Mapped Files: `MappedByteBuffer`, Page Cache, and OS Semantics ➡️</a>
+</div>

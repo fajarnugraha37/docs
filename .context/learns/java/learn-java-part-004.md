@@ -3079,6 +3079,9 @@ Setelah bagian ini, kamu seharusnya bisa menjelaskan tanpa menghafal:
 Jika jawabanmu untuk semua ini sudah natural, kamu bukan sekadar “bisa memakai Java generics”; kamu mulai memahami Java sebagai language designer dan library designer.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 003 — Object Model: Class, Object, Constructor, Inheritance, Interface, `Object`, dan Equality](./learn-java-part-003.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 005 — Modern Java Language Features](./learn-java-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-part-003.md">⬅️ Learn Java Part 003 — Object Model: Class, Object, Constructor, Inheritance, Interface, `Object`, dan Equality</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-005.md">Learn Java Part 005 — Modern Java Language Features ➡️</a>
+</div>

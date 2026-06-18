@@ -2804,6 +2804,9 @@ Bagian 001 — HTTP Semantics yang Wajib Dikuasai Sebelum JAX-RS
 Karena banyak bug JAX-RS sebenarnya bukan bug JAX-RS, melainkan salah memahami HTTP.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 035 — Capstone: Designing a Production-Grade Enterprise Runtime Skeleton](../dependency/learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 001 — HTTP Semantics yang Wajib Dikuasai Sebelum JAX-RS](./learn-jaxrs-advanced-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-001.md">Bagian 001 — HTTP Semantics yang Wajib Dikuasai Sebelum JAX-RS ➡️</a>
+</div>

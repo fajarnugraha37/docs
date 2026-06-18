@@ -1,15 +1,11 @@
-# General Engineering
+# General
 
-> Kumpulan topik lintas stack yang berguna untuk engineering sehari-hari: Git, workflow, dan fondasi umum lainnya.
+> Topik fondasi engineering umum seperti Git, HTTP, messaging, database, dan operasional.
 
-## Mulai dari sini
+Tersedia **0 artikel** dan **1 subkategori** pada bagian ini.
 
-- [Git](git/index.md)
-
-## Cara memakai bagian ini
-
-- Masuk ke kategori jika ingin membaca satu domain secara berurutan.
-- Gunakan halaman kategori untuk menemukan artikel yang paling relevan lebih cepat.
+## Subkategori
+- [Git](./git/index.md)
 
 ---
 

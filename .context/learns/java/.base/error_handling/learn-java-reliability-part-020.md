@@ -1829,6 +1829,9 @@ Part 021 — Data Reliability and Persistence Failure
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 019 — Fallback, Degradation, and Recovery Design](./learn-java-reliability-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — Data Reliability and Persistence Failure](./learn-java-reliability-part-021.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-019.md">⬅️ Part 019 — Fallback, Degradation, and Recovery Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-021.md">Part 021 — Data Reliability and Persistence Failure ➡️</a>
+</div>

@@ -2861,6 +2861,9 @@ Engineer top-tier tidak hanya tahu `@Inject`, `@Path`, atau `@Entity`. Ia tahu r
 Bagian berikutnya akan membahas **Jakarta EE Migration & Modernization Playbook**: step-by-step migration dari Java EE/Jakarta EE legacy ke Jakarta EE 11/modern runtime, termasuk namespace migration, removed specs, testing strategy, dependency cleanup, runtime certification, observability uplift, and safe rollout.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 37 — Jakarta Managed Beans / Legacy Managed Beans: `@ManagedBean`, Container-Managed POJO, Faces Managed Bean, dan Migrasi ke CDI](./learn-java-jakarta-part-037.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 39 — Jakarta EE Migration & Modernization Playbook: Java EE/Jakarta Legacy ke Jakarta EE 11 dan Runtime Modern](./learn-java-jakarta-part-039.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-037.md">⬅️ Bagian 37 — Jakarta Managed Beans / Legacy Managed Beans: `@ManagedBean`, Container-Managed POJO, Faces Managed Bean, dan Migrasi ke CDI</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-039.md">Bagian 39 — Jakarta EE Migration & Modernization Playbook: Java EE/Jakarta Legacy ke Jakarta EE 11 dan Runtime Modern ➡️</a>
+</div>

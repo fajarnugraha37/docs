@@ -2361,6 +2361,9 @@ Mutation testing checks whether those tests can actually catch faults.
 - QuickREST paper: Property-based Test Generation of OpenAPI-Described RESTful APIs, arXiv 1912.09686
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Testing Messaging, Event Flow, Outbox, Scheduler, dan Async Processing](./learn-java-testing-benchmarking-performance-jvm-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Mutation Testing dan Test Quality Measurement](./learn-java-testing-benchmarking-performance-jvm-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-011.md">⬅️ Testing Messaging, Event Flow, Outbox, Scheduler, dan Async Processing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-013.md">Mutation Testing dan Test Quality Measurement ➡️</a>
+</div>

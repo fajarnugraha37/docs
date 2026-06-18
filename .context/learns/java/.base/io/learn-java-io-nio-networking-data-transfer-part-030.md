@@ -1976,6 +1976,9 @@ Kemampuan yang ingin dibentuk bukan sekadar tahu API, tetapi mampu membuat keput
 Dengan ini, seri mencapai bagian terakhir.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 029 — Security, Robustness, dan Defensive I/O: Path Traversal, Zip Slip, Deserialization, Resource Exhaustion](./learn-java-io-nio-networking-data-transfer-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: From Java I/O Developer to Network Systems Engineer](./network/000-orientation-from-java-io-developer-to-network-systems-engineer.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-029.md">⬅️ Part 029 — Security, Robustness, dan Defensive I/O: Path Traversal, Zip Slip, Deserialization, Resource Exhaustion</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

@@ -1846,6 +1846,9 @@ Senior Java engineer uses pattern matching not as syntax sugar, but as a compile
    https://docs.oracle.com/javase/specs/jls/se25/preview/specs/primitive-types-in-patterns-instanceof-switch-jls.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 013](./learn-java-data-types-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 015](./learn-java-data-types-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-013.md">⬅️ Java Data Types — Part 013</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-015.md">Java Data Types — Part 015 ➡️</a>
+</div>

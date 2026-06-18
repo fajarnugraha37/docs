@@ -1899,6 +1899,9 @@ Bagian 040 — Production Observability for JAX-RS
 Kita akan membahas observability production-grade untuk Jakarta REST: logs, metrics, tracing, correlation ID, OpenTelemetry, HTTP semantic conventions, error taxonomy, SLOs, RED/USE metrics, dashboards, and incident debugging.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 038 — Migration: `javax.ws.rs` to `jakarta.ws.rs`: Namespace Shift, Dependency Alignment, Runtime Upgrade, OpenRewrite, Eclipse Transformer, CDI/Servlet/Validation/Persistence Ecosystem, Testing Strategy, and Migration Failure Modes](./learn-jaxrs-advanced-part-038.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 040 — Production Observability for JAX-RS: Logs, Metrics, Traces, Correlation ID, OpenTelemetry, MicroProfile Telemetry, HTTP Semantic Conventions, RED/USE, SLOs, Dashboards, and Incident Debugging](./learn-jaxrs-advanced-part-040.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-038.md">⬅️ Bagian 038 — Migration: `javax.ws.rs` to `jakarta.ws.rs`: Namespace Shift, Dependency Alignment, Runtime Upgrade, OpenRewrite, Eclipse Transformer, CDI/Servlet/Validation/Persistence Ecosystem, Testing Strategy, and Migration Failure Modes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-040.md">Bagian 040 — Production Observability for JAX-RS: Logs, Metrics, Traces, Correlation ID, OpenTelemetry, MicroProfile Telemetry, HTTP Semantic Conventions, RED/USE, SLOs, Dashboards, and Incident Debugging ➡️</a>
+</div>

@@ -2380,6 +2380,9 @@ File: 14-cancellation-timeout-retry-interruption-semantics.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — Structured Concurrency and Scoped Values for Enterprise Java](./12-structured-concurrency-scoped-values-enterprise-java.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Cancellation, Timeout, Retry, and Interruption Semantics](./14-cancellation-timeout-retry-interruption-semantics.md)
+<div class="page-nav">
+<a href="./12-structured-concurrency-scoped-values-enterprise-java.md">⬅️ Part 12 — Structured Concurrency and Scoped Values for Enterprise Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./14-cancellation-timeout-retry-interruption-semantics.md">Part 14 — Cancellation, Timeout, Retry, and Interruption Semantics ➡️</a>
+</div>

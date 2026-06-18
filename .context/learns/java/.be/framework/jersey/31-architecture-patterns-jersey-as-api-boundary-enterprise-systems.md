@@ -1855,6 +1855,9 @@ Seri belum selesai. Part berikutnya adalah bagian terakhir:
 > Part 32 — Capstone: Building a Production-Grade Jersey Platform Module
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Production Failure Modes: Debugging Real Jersey Incidents](./30-production-failure-modes-debugging-real-jersey-incidents.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 32 — Capstone: Building a Production-Grade Jersey Platform Module](./32-capstone-building-production-grade-jersey-platform-module.md)
+<div class="page-nav">
+<a href="./30-production-failure-modes-debugging-real-jersey-incidents.md">⬅️ Part 30 — Production Failure Modes: Debugging Real Jersey Incidents</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./32-capstone-building-production-grade-jersey-platform-module.md">Part 32 — Capstone: Building a Production-Grade Jersey Platform Module ➡️</a>
+</div>

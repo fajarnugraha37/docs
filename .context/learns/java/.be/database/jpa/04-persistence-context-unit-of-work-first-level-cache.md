@@ -2296,6 +2296,9 @@ The next part goes deeper into **dirty checking internals and change detection s
 - EclipseLink Cache Concepts / historical ELUG: https://wiki.eclipse.org/Introduction_to_Cache_%28ELUG%29
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — Entity Identity: Java Object Identity, Database Identity, Persistence Context Identity](./03-entity-identity-java-database-persistence-context.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 5 — Dirty Checking Internals and Change Detection](./05-dirty-checking-internals-change-detection.md)
+<div class="page-nav">
+<a href="./03-entity-identity-java-database-persistence-context.md">⬅️ Part 3 — Entity Identity: Java Object Identity, Database Identity, Persistence Context Identity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./05-dirty-checking-internals-change-detection.md">Part 5 — Dirty Checking Internals and Change Detection ➡️</a>
+</div>

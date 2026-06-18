@@ -1913,6 +1913,9 @@ learn-java-dsa-part-026 — Persistent, Immutable, Copy-on-Write, and Snapshot S
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Data Structure and Algorithm — Part 024](./learn-java-dsa-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — Persistent, Immutable, Copy-on-Write, and Snapshot Structures](./learn-java-dsa-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-024.md">⬅️ Learn Java Data Structure and Algorithm — Part 024</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-026.md">Part 026 — Persistent, Immutable, Copy-on-Write, and Snapshot Structures ➡️</a>
+</div>

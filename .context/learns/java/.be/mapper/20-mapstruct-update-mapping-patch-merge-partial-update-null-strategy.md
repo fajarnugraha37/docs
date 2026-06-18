@@ -3041,6 +3041,9 @@ Part 21 akan menjawab:
 > Bagaimana menyusun mapper kompleks yang membutuhkan policy, context, dan lifecycle control tanpa berubah menjadi service layer tersembunyi?
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — MapStruct Core: Field Mapping, Nested Mapping, Collection Mapping](./19-mapstruct-core-field-nested-collection-mapping.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — MapStruct Advanced: Qualifiers, Context, Lifecycle Hooks, Object Factory](./21-mapstruct-advanced-qualifiers-context-lifecycle-hooks-object-factory.md)
+<div class="page-nav">
+<a href="./19-mapstruct-core-field-nested-collection-mapping.md">⬅️ Part 19 — MapStruct Core: Field Mapping, Nested Mapping, Collection Mapping</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./21-mapstruct-advanced-qualifiers-context-lifecycle-hooks-object-factory.md">Part 21 — MapStruct Advanced: Qualifiers, Context, Lifecycle Hooks, Object Factory ➡️</a>
+</div>

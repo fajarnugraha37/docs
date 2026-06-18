@@ -2575,6 +2575,9 @@ Total rencana: Part 000 sampai Part 032
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 018 — Constraints, Invariants, and Validation Across Layers](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — Advanced Mapping: Inheritance, Polymorphism, JSON, LOB, Custom Types](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-018.md">⬅️ Part 018 — Constraints, Invariants, and Validation Across Layers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-020.md">Part 020 — Advanced Mapping: Inheritance, Polymorphism, JSON, LOB, Custom Types ➡️</a>
+</div>

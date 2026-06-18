@@ -1648,6 +1648,9 @@ and common-pool impact is acceptable.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/IntStream.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 022](./learn-java-concurrency-and-reactive-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 024](./learn-java-concurrency-and-reactive-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-022.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 022</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-024.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 024 ➡️</a>
+</div>

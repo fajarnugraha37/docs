@@ -3229,6 +3229,9 @@ Poin paling penting:
 Part berikutnya akan masuk ke **designing plugin platforms with OSGi**: extension contracts, isolation, plugin governance, compatibility, certification, versioned extension points, dan bagaimana merancang OSGi sebagai platform ekstensi yang serius, bukan sekadar dynamic class loading.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Performance Engineering: Startup, Resolver Cost, Service Lookup, Classloading, Memory](./26-performance-engineering-startup-resolver-service-lookup-classloading-memory.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Designing Plugin Platforms with OSGi: Extension Contracts, Isolation, Governance](./28-designing-plugin-platforms-extension-contracts-isolation-governance.md)
+<div class="page-nav">
+<a href="./26-performance-engineering-startup-resolver-service-lookup-classloading-memory.md">⬅️ Part 26 — Performance Engineering: Startup, Resolver Cost, Service Lookup, Classloading, Memory</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-designing-plugin-platforms-extension-contracts-isolation-governance.md">Part 28 — Designing Plugin Platforms with OSGi: Extension Contracts, Isolation, Governance ➡️</a>
+</div>

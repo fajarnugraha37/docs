@@ -2079,6 +2079,9 @@ Bagian 044 — Long-Running Operations and Async API Design
 Kita akan membahas desain API untuk operasi panjang: 202 Accepted, operation resource, polling, callback/webhook, SSE progress, cancellation, retry, idempotency, timeout, result resources, failure recovery, and production job orchestration.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 042 — Production Security Hardening for JAX-RS APIs: Authentication, Authorization, JWT/OIDC, CORS/CSRF, Input Limits, Security Headers, Rate Limit, Request Smuggling, SSRF, Deserialization Safety, File Upload Security, Audit, and Security Testing](./learn-jaxrs-advanced-part-042.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 044 — Long-Running Operations and Async API Design: 202 Accepted, Operation Resource, Polling, Webhook, SSE Progress, Cancellation, Retry, Idempotency, Timeout, Result Resources, Failure Recovery, and Production Job Orchestration](./learn-jaxrs-advanced-part-044.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-042.md">⬅️ Bagian 042 — Production Security Hardening for JAX-RS APIs: Authentication, Authorization, JWT/OIDC, CORS/CSRF, Input Limits, Security Headers, Rate Limit, Request Smuggling, SSRF, Deserialization Safety, File Upload Security, Audit, and Security Testing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-044.md">Bagian 044 — Long-Running Operations and Async API Design: 202 Accepted, Operation Resource, Polling, Webhook, SSE Progress, Cancellation, Retry, Idempotency, Timeout, Result Resources, Failure Recovery, and Production Job Orchestration ➡️</a>
+</div>

@@ -2179,6 +2179,9 @@ Seri belum selesai.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 000 — Orientation, Scope, and Mental Model for Graceful Shutdown, Error Handling, Exceptions, and Reliability](./learn-java-reliability-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — Java Exception Semantics Deep Dive](./learn-java-reliability-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-000.md">⬅️ Part 000 — Orientation, Scope, and Mental Model for Graceful Shutdown, Error Handling, Exceptions, and Reliability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-002.md">Part 002 — Java Exception Semantics Deep Dive ➡️</a>
+</div>

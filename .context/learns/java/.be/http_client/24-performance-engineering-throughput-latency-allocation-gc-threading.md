@@ -2294,6 +2294,9 @@ blocking platform thread
 Tujuannya agar kita tidak hanya tahu “async lebih cepat” atau “virtual thread lebih mudah”, tetapi bisa memilih model concurrency berdasarkan workload, failure semantics, observability, dan maintainability.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — JSON/XML Mapping for HTTP Client Boundary](./23-json-xml-mapping-at-http-client-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Virtual Threads, CompletableFuture, Reactive, dan Structured Concurrency](./25-virtual-threads-completablefuture-reactive-structured-concurrency.md)
+<div class="page-nav">
+<a href="./23-json-xml-mapping-at-http-client-boundary.md">⬅️ Part 23 — JSON/XML Mapping for HTTP Client Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./25-virtual-threads-completablefuture-reactive-structured-concurrency.md">Part 25 — Virtual Threads, CompletableFuture, Reactive, dan Structured Concurrency ➡️</a>
+</div>

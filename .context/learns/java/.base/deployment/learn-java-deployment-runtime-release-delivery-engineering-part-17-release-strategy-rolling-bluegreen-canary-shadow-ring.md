@@ -2613,6 +2613,9 @@ Part 18 — Database-Aware Deployment and Schema Migration
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Resource Sizing: CPU, Memory, Heap, Non-Heap, Threads, and Containers](./learn-java-deployment-runtime-release-delivery-engineering-part-16-resource-sizing-cpu-memory-heap-nonheap-threads-containers.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — Database-Aware Deployment and Schema Migration](./learn-java-deployment-runtime-release-delivery-engineering-part-18-database-aware-deployment-schema-migration.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-16-resource-sizing-cpu-memory-heap-nonheap-threads-containers.md">⬅️ Part 16 — Resource Sizing: CPU, Memory, Heap, Non-Heap, Threads, and Containers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-18-database-aware-deployment-schema-migration.md">Part 18 — Database-Aware Deployment and Schema Migration ➡️</a>
+</div>

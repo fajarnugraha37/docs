@@ -2174,6 +2174,9 @@ Part 025 — Data Transfer Reliability: Retry, Resume, Checksum, Idempotency, Ch
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 023 — HTTP Data Transfer: Java HTTP Client, Streaming Body, Timeout, Redirect, Proxy, dan TLS](./learn-java-io-nio-networking-data-transfer-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 025 — Data Transfer Reliability: Retry, Resume, Checksum, Idempotency, Chunking, dan Exactly-Once Myth](./learn-java-io-nio-networking-data-transfer-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-023.md">⬅️ Part 023 — HTTP Data Transfer: Java HTTP Client, Streaming Body, Timeout, Redirect, Proxy, dan TLS</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-025.md">Part 025 — Data Transfer Reliability: Retry, Resume, Checksum, Idempotency, Chunking, dan Exactly-Once Myth ➡️</a>
+</div>

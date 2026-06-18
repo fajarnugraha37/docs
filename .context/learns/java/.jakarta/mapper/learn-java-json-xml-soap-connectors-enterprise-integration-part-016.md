@@ -2337,6 +2337,9 @@ Part ini adalah **Part 16 dari 34**.
 Part berikutnya: **Part 17 — JAXB Annotation Deep Dive**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — XML Security](./learn-java-json-xml-soap-connectors-enterprise-integration-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — JAXB / Jakarta XML Binding Annotation Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-015.md">⬅️ Part 15 — XML Security</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-017.md">Part 17 — JAXB / Jakarta XML Binding Annotation Deep Dive ➡️</a>
+</div>

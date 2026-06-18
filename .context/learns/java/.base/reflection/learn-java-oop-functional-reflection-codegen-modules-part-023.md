@@ -1942,6 +1942,9 @@ Bagian berikutnya akan masuk ke area yang lebih low-level dan lebih berisiko: **
 - Java Virtual Machine Specification Java SE 25.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Annotation Processing: Compile-Time Metaprogramming](./learn-java-oop-functional-reflection-codegen-modules-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Dynamic Proxy, Bytecode Libraries, Agents, and Instrumentation Concepts](./learn-java-oop-functional-reflection-codegen-modules-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-022.md">⬅️ Annotation Processing: Compile-Time Metaprogramming</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-024.md">Dynamic Proxy, Bytecode Libraries, Agents, and Instrumentation Concepts ➡️</a>
+</div>

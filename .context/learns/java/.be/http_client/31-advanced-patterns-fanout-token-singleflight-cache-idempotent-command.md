@@ -2225,6 +2225,9 @@ File: 32-case-study-production-grade-third-party-api-client.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Migration Patterns: Legacy Client ke Modern Client](./30-migration-patterns-legacy-client-to-modern-client.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Case Study: Building a Production-Grade Third-Party API Client](./32-case-study-production-grade-third-party-api-client.md)
+<div class="page-nav">
+<a href="./30-migration-patterns-legacy-client-to-modern-client.md">⬅️ Part 30 — Migration Patterns: Legacy Client ke Modern Client</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./32-case-study-production-grade-third-party-api-client.md">Part 32 — Case Study: Building a Production-Grade Third-Party API Client ➡️</a>
+</div>

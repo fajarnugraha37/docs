@@ -1887,6 +1887,9 @@ Bagian berikutnya:
 - Part 015 — Flush, Dirty Checking, Write-Behind, and SQL Generation
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 013 — Optimistic Locking, Versioning, and State Machine Persistence](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — Flush, Dirty Checking, Write-Behind, and SQL Generation](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-013.md">⬅️ Part 013 — Optimistic Locking, Versioning, and State Machine Persistence</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-015.md">Part 015 — Flush, Dirty Checking, Write-Behind, and SQL Generation ➡️</a>
+</div>

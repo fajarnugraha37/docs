@@ -1,9 +1,12 @@
-# Daftar Isi: Framework
+# Framework
 
-## Direktori
-- [📁 Jersey](jersey/index.md)
+> Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
 
+Tersedia **0 artikel** dan **1 subkategori** pada bagian ini.
+
+## Subkategori
+- [Jersey](./jersey/index.md)
 
 ---
 
-[🏠 Kembali ke Daftar Isi Utama](../../../index.md)
+[🏠 Kembali ke Home](../../../index.md)

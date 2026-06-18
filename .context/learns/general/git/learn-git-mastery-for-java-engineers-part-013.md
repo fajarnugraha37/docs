@@ -2484,6 +2484,9 @@ Bagian terakhir yang direncanakan: learn-git-mastery-for-java-engineers-part-032
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Remote Repository: Clone, Fetch, Pull, Push](./learn-git-mastery-for-java-engineers-part-012.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 014 — Git Workflow untuk Tim: Trunk-Based, Git Flow, GitHub Flow](./learn-git-mastery-for-java-engineers-part-014.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-012.md">⬅️ Remote Repository: Clone, Fetch, Pull, Push</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-014.md">Part 014 — Git Workflow untuk Tim: Trunk-Based, Git Flow, GitHub Flow ➡️</a>
+</div>

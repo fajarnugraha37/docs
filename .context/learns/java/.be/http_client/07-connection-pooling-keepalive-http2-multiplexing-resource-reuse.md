@@ -1826,6 +1826,9 @@ Materi utama part ini:
 - Apache HttpClient 5 Documentation — connection management, `PoolingHttpClientConnectionManager`, per-route dan total connection limits.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Timeout Engineering: Connect, Read, Write, Call, Pool, DNS, TLS](./06-timeout-engineering-connect-read-write-call-pool-dns-tls.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — DNS, Proxy, Load Balancer, NAT, dan Network Topology Awareness](./08-dns-proxy-loadbalancer-nat-network-topology-awareness.md)
+<div class="page-nav">
+<a href="./06-timeout-engineering-connect-read-write-call-pool-dns-tls.md">⬅️ Part 6 — Timeout Engineering: Connect, Read, Write, Call, Pool, DNS, TLS</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./08-dns-proxy-loadbalancer-nat-network-topology-awareness.md">Part 8 — DNS, Proxy, Load Balancer, NAT, dan Network Topology Awareness ➡️</a>
+</div>

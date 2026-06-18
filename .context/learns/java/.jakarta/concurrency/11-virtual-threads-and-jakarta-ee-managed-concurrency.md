@@ -1942,6 +1942,9 @@ Fokus berikutnya:
 - bagaimana semua ini relevan untuk Jakarta EE, meskipun sebagian masih preview/berkembang di Java modern.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — CompletableFuture in Jakarta EE Without Breaking the Container](./10-completablefuture-in-jakarta-ee.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Structured Concurrency and Scoped Values for Enterprise Java](./12-structured-concurrency-scoped-values-enterprise-java.md)
+<div class="page-nav">
+<a href="./10-completablefuture-in-jakarta-ee.md">⬅️ Part 10 — CompletableFuture in Jakarta EE Without Breaking the Container</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-structured-concurrency-scoped-values-enterprise-java.md">Part 12 — Structured Concurrency and Scoped Values for Enterprise Java ➡️</a>
+</div>

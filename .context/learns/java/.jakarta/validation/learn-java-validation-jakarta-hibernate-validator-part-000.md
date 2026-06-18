@@ -2223,6 +2223,9 @@ Status saat ini:
 Kita belum mencapai bagian terakhir.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 031 — Advanced Architecture Patterns and Final Integration](../servlet/learn-java-servlet-websocket-web-container-runtime-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Specification Landscape: Bean Validation, Jakarta Validation, `javax` vs `jakarta`](./learn-java-validation-jakarta-hibernate-validator-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-001.md">Specification Landscape: Bean Validation, Jakarta Validation, `javax` vs `jakarta` ➡️</a>
+</div>

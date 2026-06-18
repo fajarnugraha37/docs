@@ -2048,6 +2048,9 @@ Part 28 — Modularization and Codebase Governance for Large Mapper Systems
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Multi-Tenancy, Data Partitioning, and Agency/Module Isolation](./26-multitenancy-data-partitioning-agency-module-isolation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Modularization and Codebase Governance for Large Mapper Systems](./28-modularization-codebase-governance-large-mapper-systems.md)
+<div class="page-nav">
+<a href="./26-multitenancy-data-partitioning-agency-module-isolation.md">⬅️ Part 26 — Multi-Tenancy, Data Partitioning, and Agency/Module Isolation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./28-modularization-codebase-governance-large-mapper-systems.md">Part 28 — Modularization and Codebase Governance for Large Mapper Systems ➡️</a>
+</div>

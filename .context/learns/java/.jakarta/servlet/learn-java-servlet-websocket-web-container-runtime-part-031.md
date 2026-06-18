@@ -2242,6 +2242,9 @@ learn-java-servlet-websocket-web-container-runtime
 Dengan ini, seri **sudah selesai**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 030 — Observability and Diagnostics for Servlet/WebSocket Runtime](./learn-java-servlet-websocket-web-container-runtime-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Validation as Contract, Boundary Defense, and Domain Integrity](../validation/learn-java-validation-jakarta-hibernate-validator-part-000.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-030.md">⬅️ Part 030 — Observability and Diagnostics for Servlet/WebSocket Runtime</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

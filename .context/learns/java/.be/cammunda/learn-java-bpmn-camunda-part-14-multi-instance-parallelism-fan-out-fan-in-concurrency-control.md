@@ -1858,6 +1858,9 @@ Part ini menjadi fondasi untuk memahami **process composition**, **saga**, dan *
 - Camunda 8 Documentation — Gateways overview: https://docs.camunda.io/docs/components/modeler/bpmn/gateways/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Timers, SLA, Timeout, Expiry, and Scheduled Process Behavior](./learn-java-bpmn-camunda-part-13-timers-sla-timeout-expiry-scheduled-process-behavior.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Subprocess, Call Activity, Reusable Process, and Process Composition](./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-13-timers-sla-timeout-expiry-scheduled-process-behavior.md">⬅️ Part 13 — Timers, SLA, Timeout, Expiry, and Scheduled Process Behavior</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md">Part 15 — Subprocess, Call Activity, Reusable Process, and Process Composition ➡️</a>
+</div>

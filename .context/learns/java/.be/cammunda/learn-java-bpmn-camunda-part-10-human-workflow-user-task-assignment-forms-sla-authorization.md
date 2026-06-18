@@ -2973,6 +2973,9 @@ Berikutnya:
 12. Part 11 — DMN and Decision Engineering: Separating Flow from Decision Logic
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — BPMN Error, Technical Failure, Incident, Escalation, and Compensation](./learn-java-bpmn-camunda-part-09-bpmn-error-technical-failure-incident-escalation-compensation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — DMN and Decision Engineering: Separating Flow from Decision Logic](./learn-java-bpmn-camunda-part-11-dmn-decision-engineering-separating-flow-from-decision-logic.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-09-bpmn-error-technical-failure-incident-escalation-compensation.md">⬅️ Part 9 — BPMN Error, Technical Failure, Incident, Escalation, and Compensation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-11-dmn-decision-engineering-separating-flow-from-decision-logic.md">Part 11 — DMN and Decision Engineering: Separating Flow from Decision Logic ➡️</a>
+</div>

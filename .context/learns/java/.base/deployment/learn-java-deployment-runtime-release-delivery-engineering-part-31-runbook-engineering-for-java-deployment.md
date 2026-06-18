@@ -2792,6 +2792,9 @@ The central mental model:
 - Oracle Java Troubleshooting Guide — Diagnostic Tools / Flight Recorder: https://docs.oracle.com/en/java/javase/25/troubleshoot/diagnostic-tools.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Failure Modeling: Deployment Incident Patterns and Root Cause Analysis](./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Enterprise Governance: Change Request, Auditability, Approval, Compliance](./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md">⬅️ Part 30 — Failure Modeling: Deployment Incident Patterns and Root Cause Analysis</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md">Part 32 — Enterprise Governance: Change Request, Auditability, Approval, Compliance ➡️</a>
+</div>

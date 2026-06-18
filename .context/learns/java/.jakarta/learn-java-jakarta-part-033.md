@@ -2527,6 +2527,9 @@ Engineer top-tier tahu bahwa SOAP bukan hanya XML string. Ia memahami envelope/h
 Bagian berikutnya akan membahas **Jakarta Activation (`jakarta.activation`)**: MIME type, `DataHandler`, `DataSource`, command map, file/mail/SOAP attachment integration, streaming binary data, content type handling, and migration from JavaBeans Activation Framework.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 32 — Jakarta XML Web Services (`jakarta.xml.ws`) / JAX-WS: SOAP, WSDL, Endpoint, Client, Handler, Fault, MTOM, dan Legacy Interoperability](./learn-java-jakarta-part-032.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 34 — Jakarta Activation (`jakarta.activation`): MIME Type, `DataHandler`, `DataSource`, Binary Content, Mail/SOAP Attachments, dan Content Handling](./learn-java-jakarta-part-034.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-032.md">⬅️ Bagian 32 — Jakarta XML Web Services (`jakarta.xml.ws`) / JAX-WS: SOAP, WSDL, Endpoint, Client, Handler, Fault, MTOM, dan Legacy Interoperability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-034.md">Bagian 34 — Jakarta Activation (`jakarta.activation`): MIME Type, `DataHandler`, `DataSource`, Binary Content, Mail/SOAP Attachments, dan Content Handling ➡️</a>
+</div>

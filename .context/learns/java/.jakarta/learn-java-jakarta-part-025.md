@@ -2883,6 +2883,9 @@ Engineer top-tier tidak hanya bisa membuat chat endpoint. Ia tahu bagaimana WebS
 Bagian berikutnya akan membahas **Jakarta Faces (`jakarta.faces`)**: component-based server-side UI, lifecycle phases, managed state, validation/conversion, Ajax, templating, security, performance, and modern relevance.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 24 — Jakarta Connectors (`jakarta.resource`): Resource Adapter, EIS Integration, Connection Management, XA, dan Message Inflow](./learn-java-jakarta-part-024.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 26 — Jakarta Faces (`jakarta.faces`): Component-Based Server-Side UI, Lifecycle, State, Validation, Ajax, dan Modern Relevance](./learn-java-jakarta-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-024.md">⬅️ Bagian 24 — Jakarta Connectors (`jakarta.resource`): Resource Adapter, EIS Integration, Connection Management, XA, dan Message Inflow</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-026.md">Bagian 26 — Jakarta Faces (`jakarta.faces`): Component-Based Server-Side UI, Lifecycle, State, Validation, Ajax, dan Modern Relevance ➡️</a>
+</div>

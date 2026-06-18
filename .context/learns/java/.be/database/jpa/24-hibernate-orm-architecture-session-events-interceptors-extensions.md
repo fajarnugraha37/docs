@@ -2171,6 +2171,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — Provider Enhancement and Weaving: Bytecode, Proxies, Lazy Fields, and Build Pipelines](./23-provider-enhancement-weaving-bytecode-proxies-build-pipelines.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 25 — EclipseLink Deep Dive: Sessions, Descriptors, Weaving, Cache, and Advanced Mappings](./25-eclipselink-sessions-descriptors-weaving-cache-advanced-mappings.md)
+<div class="page-nav">
+<a href="./23-provider-enhancement-weaving-bytecode-proxies-build-pipelines.md">⬅️ Part 23 — Provider Enhancement and Weaving: Bytecode, Proxies, Lazy Fields, and Build Pipelines</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./25-eclipselink-sessions-descriptors-weaving-cache-advanced-mappings.md">Part 25 — EclipseLink Deep Dive: Sessions, Descriptors, Weaving, Cache, and Advanced Mappings ➡️</a>
+</div>

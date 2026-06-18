@@ -1832,6 +1832,9 @@ GC Logging, JFR, JMX, Native Memory Tracking, and Observability
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Shenandoah GC Deep Dive: Concurrent Compaction and Generational Shenandoah](./learn-java-memory-byte-bit-buffer-offheap-gc-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: GC Logging, JFR, JMX, Native Memory Tracking, and Observability](./learn-java-memory-byte-bit-buffer-offheap-gc-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-023.md">⬅️ Shenandoah GC Deep Dive: Concurrent Compaction and Generational Shenandoah</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-025.md">GC Logging, JFR, JMX, Native Memory Tracking, and Observability ➡️</a>
+</div>

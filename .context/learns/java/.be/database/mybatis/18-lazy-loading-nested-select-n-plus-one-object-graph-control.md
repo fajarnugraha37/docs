@@ -2274,6 +2274,9 @@ Bagian berikutnya:
 Kita akan membahas stored procedure, database function, cursor, OUT/INOUT parameter, vendor behavior, transaction ownership, error propagation, dan kapan procedure integration sehat atau justru menjadi hidden business logic coupling.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Caching: First-Level Cache, Second-Level Cache, Invalidation](./17-caching-first-level-second-level-cache-invalidation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 19 — Stored Procedure, Function, Cursor, and OUT Parameter](./19-stored-procedure-function-cursor-out-parameter.md)
+<div class="page-nav">
+<a href="./17-caching-first-level-second-level-cache-invalidation.md">⬅️ Part 17 — Caching: First-Level Cache, Second-Level Cache, Invalidation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./19-stored-procedure-function-cursor-out-parameter.md">Part 19 — Stored Procedure, Function, Cursor, and OUT Parameter ➡️</a>
+</div>

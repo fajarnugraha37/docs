@@ -2436,6 +2436,9 @@ Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Jackson Security: Over-Posting, Polymorphic Attacks, Data Exposure](./13-jackson-security-overposting-polymorphic-attacks-data-exposure.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment](./15-json-schema-openapi-runtime-contract-alignment.md)
+<div class="page-nav">
+<a href="./13-jackson-security-overposting-polymorphic-attacks-data-exposure.md">⬅️ Part 13 — Jackson Security: Over-Posting, Polymorphic Attacks, Data Exposure</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./15-json-schema-openapi-runtime-contract-alignment.md">Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment ➡️</a>
+</div>

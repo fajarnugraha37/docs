@@ -3855,6 +3855,9 @@ Di Bagian 7, kita akan turun lebih dalam ke:
 Functional pipeline sering bekerja di atas collections. Tanpa memahami collections, stream pipeline hanya terlihat cantik tetapi tidak jelas biayanya.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 005 — Modern Java Language Features](./learn-java-part-005.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 007 — Collections, Data Structures, dan Performance Semantics](./learn-java-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-part-005.md">⬅️ Learn Java Part 005 — Modern Java Language Features</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-007.md">Learn Java Part 007 — Collections, Data Structures, dan Performance Semantics ➡️</a>
+</div>

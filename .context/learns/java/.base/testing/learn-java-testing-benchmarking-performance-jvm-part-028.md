@@ -1928,6 +1928,9 @@ Part 029 — Performance Engineering for Services: Thread Pool, Connection Pool,
 - FasterXML Jackson: https://github.com/FasterXML/jackson
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Profiling & Diagnostics II: async-profiler, Flame Graph, Allocation Profile, Wall-Clock Profile](./learn-java-testing-benchmarking-performance-jvm-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Performance Engineering for Services: Thread Pool, Connection Pool, Backpressure, Timeout](./learn-java-testing-benchmarking-performance-jvm-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-027.md">⬅️ Profiling & Diagnostics II: async-profiler, Flame Graph, Allocation Profile, Wall-Clock Profile</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-029.md">Performance Engineering for Services: Thread Pool, Connection Pool, Backpressure, Timeout ➡️</a>
+</div>

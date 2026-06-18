@@ -2194,6 +2194,9 @@ Top-tier Java engineer melihat `Integer` bukan hanya “object version of int”
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/DoubleStream.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 007](./learn-java-data-types-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 009](./learn-java-data-types-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-007.md">⬅️ Java Data Types — Part 007</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-009.md">Java Data Types — Part 009 ➡️</a>
+</div>

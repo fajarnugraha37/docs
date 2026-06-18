@@ -2006,8 +2006,10 @@ Berikutnya:
 Part 16 — Logs + Traces + Metrics Correlation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — Manual Tracing: Span Design, Boundaries, Attributes, Events, Errors](./14-manual-tracing-span-design-boundaries-attributes-events-errors.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Logs + Traces + Metrics Correlation](./16-logs-traces-metrics-correlation.md)
+<div class="page-nav">
+<a href="./14-manual-tracing-span-design-boundaries-attributes-events-errors.md">⬅️ Part 14 — Manual Tracing: Span Design, Boundaries, Attributes, Events, Errors</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./16-logs-traces-metrics-correlation.md">Part 16 — Logs + Traces + Metrics Correlation ➡️</a>
+</div>

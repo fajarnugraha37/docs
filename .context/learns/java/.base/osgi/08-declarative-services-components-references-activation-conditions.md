@@ -2000,6 +2000,9 @@ Kita akan membahas:
 Part 8 selesai. Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Service Layer Fundamentals: Registry, References, Dynamics, and Contracts](./07-service-layer-fundamentals-registry-references-dynamics-contracts.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Advanced Declarative Services Patterns: Dynamic Topologies Without Chaos](./09-advanced-declarative-services-patterns-dynamic-topologies-without-chaos.md)
+<div class="page-nav">
+<a href="./07-service-layer-fundamentals-registry-references-dynamics-contracts.md">⬅️ Part 7 — Service Layer Fundamentals: Registry, References, Dynamics, and Contracts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./09-advanced-declarative-services-patterns-dynamic-topologies-without-chaos.md">Part 9 — Advanced Declarative Services Patterns: Dynamic Topologies Without Chaos ➡️</a>
+</div>

@@ -3565,6 +3565,9 @@ Apa yang harus dicegah database?
 Engineer Java yang kuat tidak hanya menulis service yang “jalan”. Ia membuat model yang bisa dipahami oleh manusia, dibuktikan oleh test, dijaga oleh compiler, dipertahankan oleh database, dan dijelaskan saat audit/incident.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 21 — Framework Internals: Kenapa Framework Java Bisa Bekerja](./learn-java-part-021.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 23 — Migration: Java 8 → 11 → 17 → 21 → 25](./learn-java-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-part-021.md">⬅️ Bagian 21 — Framework Internals: Kenapa Framework Java Bisa Bekerja</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-023.md">Bagian 23 — Migration: Java 8 → 11 → 17 → 21 → 25 ➡️</a>
+</div>

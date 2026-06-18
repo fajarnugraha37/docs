@@ -2651,6 +2651,9 @@ Part 23 — ClassValue, Cleaner, Runtime-Attached Metadata, and Resource Cleanup
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Annotations in `java.lang`: Compiler Contracts, Source/Binary Behavior, and API Evolution](./21-java-lang-annotations-compiler-contracts-source-binary-behavior.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — `ClassValue`, `Cleaner`, Runtime-Attached Metadata, and Resource Cleanup](./23-classvalue-cleaner-runtime-attached-metadata-resource-cleanup.md)
+<div class="page-nav">
+<a href="./21-java-lang-annotations-compiler-contracts-source-binary-behavior.md">⬅️ Part 21 — Annotations in `java.lang`: Compiler Contracts, Source/Binary Behavior, and API Evolution</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./23-classvalue-cleaner-runtime-attached-metadata-resource-cleanup.md">Part 23 — `ClassValue`, `Cleaner`, Runtime-Attached Metadata, and Resource Cleanup ➡️</a>
+</div>

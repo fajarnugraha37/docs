@@ -1660,6 +1660,9 @@ Series belum selesai.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Eclipse Equinox Runtime: Eclipse Platform, p2, Extension Registry, Enterprise Lessons](./13-eclipse-equinox-runtime-eclipse-platform-p2-extension-registry-enterprise-lessons.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Web and HTTP in OSGi: Http Service, HTTP Whiteboard, Servlets, REST](./15-web-http-osgi-http-service-whiteboard-servlets-rest.md)
+<div class="page-nav">
+<a href="./13-eclipse-equinox-runtime-eclipse-platform-p2-extension-registry-enterprise-lessons.md">⬅️ Part 13 — Eclipse Equinox Runtime: Eclipse Platform, p2, Extension Registry, Enterprise Lessons</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./15-web-http-osgi-http-service-whiteboard-servlets-rest.md">Part 15 — Web and HTTP in OSGi: Http Service, HTTP Whiteboard, Servlets, REST ➡️</a>
+</div>

@@ -1867,6 +1867,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Faces Performance and Scalability: Lifecycle Cost, State Size, Component Trees](./26-faces-performance-and-scalability-lifecycle-cost-state-size-component-trees.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Migration Playbook: Java EE/JSP/JSF Legacy to Jakarta Pages/Faces](./28-migration-playbook-java-ee-jsp-jsf-legacy-to-jakarta-pages-faces.md)
+<div class="page-nav">
+<a href="./26-faces-performance-and-scalability-lifecycle-cost-state-size-component-trees.md">⬅️ Part 26 — Faces Performance and Scalability: Lifecycle Cost, State Size, Component Trees</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-migration-playbook-java-ee-jsp-jsf-legacy-to-jakarta-pages-faces.md">Part 28 — Migration Playbook: Java EE/JSP/JSF Legacy to Jakarta Pages/Faces ➡️</a>
+</div>

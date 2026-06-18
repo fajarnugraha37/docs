@@ -3825,6 +3825,9 @@ Next:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 012 — Qualifiers, Alternatives, Specialization, and Priority](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-012.md">⬅️ Part 012 — Qualifiers, Alternatives, Specialization, and Priority</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-014.md">Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity ➡️</a>
+</div>

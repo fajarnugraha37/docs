@@ -2289,6 +2289,9 @@ Belum selesai. Lanjut ke:
 **Part 23 — CI/CD Pipeline for Java Deployment**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Observability-Ready Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-21-observability-ready-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — CI/CD Pipeline for Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-23-cicd-pipeline-for-java-deployment.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-21-observability-ready-deployment.md">⬅️ Part 21 — Observability-Ready Deployment</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-23-cicd-pipeline-for-java-deployment.md">Part 23 — CI/CD Pipeline for Java Deployment ➡️</a>
+</div>

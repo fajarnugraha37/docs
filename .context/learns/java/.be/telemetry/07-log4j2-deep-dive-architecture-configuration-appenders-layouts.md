@@ -2204,8 +2204,10 @@ Di sana kita akan membahas AsyncLogger, Disruptor, queue/ring buffer, wait strat
 - Spring Boot Logging Documentation.
 - SLF4J Manual.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Logback Deep Dive II: AsyncAppender, MDC, Sifting, Filtering, JSON](./06-logback-deep-dive-asyncappender-mdc-sifting-filtering-json.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Log4j2 Deep Dive II: Async Logger, Garbage-Free Logging, Routing, Security](./08-log4j2-deep-dive-async-logger-garbage-free-routing-security.md)
+<div class="page-nav">
+<a href="./06-logback-deep-dive-asyncappender-mdc-sifting-filtering-json.md">⬅️ Part 6 — Logback Deep Dive II: AsyncAppender, MDC, Sifting, Filtering, JSON</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./08-log4j2-deep-dive-async-logger-garbage-free-routing-security.md">Part 8 — Log4j2 Deep Dive II: Async Logger, Garbage-Free Logging, Routing, Security ➡️</a>
+</div>

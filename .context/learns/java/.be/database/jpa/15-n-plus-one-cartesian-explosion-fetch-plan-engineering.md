@@ -2276,6 +2276,9 @@ Suggested experiments:
 5. Convert listing endpoint from entity mapping to DTO projection and compare persistence context size.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — Fetching Mental Model: Lazy, Eager, Proxies, Enhancement, and Load Plans](./14-fetching-mental-model-lazy-eager-proxies-enhancement-load-plans.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — JPQL, HQL, Criteria, Native Query, and Query Plan Discipline](./16-jpql-hql-criteria-native-query-query-plan-discipline.md)
+<div class="page-nav">
+<a href="./14-fetching-mental-model-lazy-eager-proxies-enhancement-load-plans.md">⬅️ Part 14 — Fetching Mental Model: Lazy, Eager, Proxies, Enhancement, and Load Plans</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./16-jpql-hql-criteria-native-query-query-plan-discipline.md">Part 16 — JPQL, HQL, Criteria, Native Query, and Query Plan Discipline ➡️</a>
+</div>

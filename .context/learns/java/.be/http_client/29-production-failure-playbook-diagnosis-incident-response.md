@@ -2440,6 +2440,9 @@ File: 30-migration-patterns-legacy-client-to-modern-client.md
 Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Client Configuration Management: Environment, Tenant, Endpoint, Secret, Feature Flag](./28-client-configuration-management-environment-tenant-endpoint-secret-featureflag.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Migration Patterns: Legacy Client ke Modern Client](./30-migration-patterns-legacy-client-to-modern-client.md)
+<div class="page-nav">
+<a href="./28-client-configuration-management-environment-tenant-endpoint-secret-featureflag.md">⬅️ Part 28 — Client Configuration Management: Environment, Tenant, Endpoint, Secret, Feature Flag</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./30-migration-patterns-legacy-client-to-modern-client.md">Part 30 — Migration Patterns: Legacy Client ke Modern Client ➡️</a>
+</div>

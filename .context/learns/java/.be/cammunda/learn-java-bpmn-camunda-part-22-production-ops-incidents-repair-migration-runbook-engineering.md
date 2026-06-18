@@ -2089,6 +2089,9 @@ Kita akan membahas:
 - worker impersonation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Observability: Logs, Metrics, Tracing, Audit, and Operability](./learn-java-bpmn-camunda-part-21-observability-logs-metrics-tracing-audit-operability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Security, Identity, Authorization, and Data Protection](./learn-java-bpmn-camunda-part-23-security-identity-authorization-data-protection.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-21-observability-logs-metrics-tracing-audit-operability.md">⬅️ Part 21 — Observability: Logs, Metrics, Tracing, Audit, and Operability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-23-security-identity-authorization-data-protection.md">Part 23 — Security, Identity, Authorization, and Data Protection ➡️</a>
+</div>

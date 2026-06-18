@@ -2217,6 +2217,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — Custom Tags and Tag Files: Reusable View Components Before Component Frameworks](./09-custom-tags-and-tag-files-reusable-view-components.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — JSP Security: XSS, CSRF, Output Encoding, Session, and Headers](./11-jsp-security-xss-csrf-output-encoding-session-headers.md)
+<div class="page-nav">
+<a href="./09-custom-tags-and-tag-files-reusable-view-components.md">⬅️ Part 9 — Custom Tags and Tag Files: Reusable View Components Before Component Frameworks</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./11-jsp-security-xss-csrf-output-encoding-session-headers.md">Part 11 — JSP Security: XSS, CSRF, Output Encoding, Session, and Headers ➡️</a>
+</div>

@@ -1953,8 +1953,10 @@ Dengan kata lain:
 
 # End of Part 30
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Messaging, Batch, Scheduler, and Async Workflow Observability](./29-messaging-batch-scheduler-and-async-workflow-observability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Production Incident Playbooks for Java Systems](./31-production-incident-playbooks-for-java-systems.md)
+<div class="page-nav">
+<a href="./29-messaging-batch-scheduler-and-async-workflow-observability.md">⬅️ Part 29 — Messaging, Batch, Scheduler, and Async Workflow Observability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./31-production-incident-playbooks-for-java-systems.md">Part 31 — Production Incident Playbooks for Java Systems ➡️</a>
+</div>

@@ -2509,6 +2509,9 @@ Bagian berikutnya akan membahas:
 Di sana kita akan masuk lebih dalam ke penyebab deployment failure seperti `ClassNotFoundException`, `NoClassDefFoundError`, `NoSuchMethodError`, `LinkageError`, split package, classloader hierarchy, servlet container provided libraries, module encapsulation, dan konflik dependency production.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 9 — Dockerfile Patterns for Java 8–25](./learn-java-deployment-runtime-release-delivery-engineering-part-09-dockerfile-patterns-for-java-8-to-25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-11-classpath-modulepath-classloader-deployment-failure-modes.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-09-dockerfile-patterns-for-java-8-to-25.md">⬅️ Part 9 — Dockerfile Patterns for Java 8–25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-11-classpath-modulepath-classloader-deployment-failure-modes.md">Learn Java Deployment Runtime Release Delivery Engineering ➡️</a>
+</div>

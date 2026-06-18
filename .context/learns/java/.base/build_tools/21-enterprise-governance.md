@@ -2143,6 +2143,9 @@ Bagian ini membahas governance lintas organisasi. Part berikutnya akan masuk ke 
 Kita akan membahas bagaimana module boundary, dependency direction, API/implementation split, test fixture, generated module, cyclic dependency prevention, dan build graph smell membentuk arsitektur sistem Java besar.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Security Engineering: Dependency Vulnerability, Plugin Trust, SBOM, Signing, SLSA, Supply Chain](./20-security-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Multi-Module Architecture for Large Java Systems](./22-multi-module-architecture-large-java-systems.md)
+<div class="page-nav">
+<a href="./20-security-engineering.md">⬅️ Part 20 — Security Engineering: Dependency Vulnerability, Plugin Trust, SBOM, Signing, SLSA, Supply Chain</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./22-multi-module-architecture-large-java-systems.md">Part 22 — Multi-Module Architecture for Large Java Systems ➡️</a>
+</div>

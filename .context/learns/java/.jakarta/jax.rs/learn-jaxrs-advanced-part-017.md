@@ -2783,6 +2783,9 @@ Bagian 018 — Security in JAX-RS: Authentication, Authorization, Principal, Rol
 Kita akan membahas security boundary secara mendalam: authentication mechanisms, `SecurityContext`, principal mapping, role/scope mapping, Jakarta Security, JWT/OIDC integration, authorization architecture, tenant/data authorization, and production hardening.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 016 — Interceptors: `ReaderInterceptor`, `WriterInterceptor`, Entity Stream Pipeline, Compression, Encryption, Signature, Body Hash, Priority, Name Binding, dan Production-Safe Stream Transformation](./learn-jaxrs-advanced-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 018 — Security in JAX-RS: Authentication, Authorization, `SecurityContext`, Principal, Roles, Scopes, JWT/OIDC, Jakarta Security, Tenant/Data Authorization, dan Production Hardening](./learn-jaxrs-advanced-part-018.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-016.md">⬅️ Bagian 016 — Interceptors: `ReaderInterceptor`, `WriterInterceptor`, Entity Stream Pipeline, Compression, Encryption, Signature, Body Hash, Priority, Name Binding, dan Production-Safe Stream Transformation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-018.md">Bagian 018 — Security in JAX-RS: Authentication, Authorization, `SecurityContext`, Principal, Roles, Scopes, JWT/OIDC, Jakarta Security, Tenant/Data Authorization, dan Production Hardening ➡️</a>
+</div>

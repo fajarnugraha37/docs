@@ -1751,6 +1751,9 @@ Part berikutnya akan membahas **Spring HTTP Client Layer: RestTemplate, WebClien
 Di sana fokusnya bukan sekadar API Spring, tetapi bagaimana Spring membungkus transport client seperti JDK HttpClient, Apache HttpClient, Reactor Netty, dan Jetty; serta bagaimana memilih blocking/reactive/client connector yang tepat dalam aplikasi Spring modern.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Retrofit Deep Dive: Type-Safe API Client di Atas OkHttp](./16-retrofit-deep-dive-type-safe-api-client-over-okhttp.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — Spring HTTP Client Layer: RestTemplate, WebClient, RestClient](./18-spring-http-client-layer-resttemplate-webclient-restclient.md)
+<div class="page-nav">
+<a href="./16-retrofit-deep-dive-type-safe-api-client-over-okhttp.md">⬅️ Part 16 — Retrofit Deep Dive: Type-Safe API Client di Atas OkHttp</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./18-spring-http-client-layer-resttemplate-webclient-restclient.md">Part 18 — Spring HTTP Client Layer: RestTemplate, WebClient, RestClient ➡️</a>
+</div>

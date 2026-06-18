@@ -2170,6 +2170,9 @@ The final mindset:
 - EclipseLink releases — official release notes for Jakarta Persistence/Jakarta EE alignment.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Testing ORM Correctness: Beyond Repository Happy Path](./31-testing-orm-correctness-beyond-repository-happy-path.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 33 — Production Failure Playbook: Symptoms, Root Causes, and Fix Patterns](./33-production-failure-playbook-symptoms-root-causes-fix-patterns.md)
+<div class="page-nav">
+<a href="./31-testing-orm-correctness-beyond-repository-happy-path.md">⬅️ Part 31 — Testing ORM Correctness: Beyond Repository Happy Path</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./33-production-failure-playbook-symptoms-root-causes-fix-patterns.md">Part 33 — Production Failure Playbook: Symptoms, Root Causes, and Fix Patterns ➡️</a>
+</div>

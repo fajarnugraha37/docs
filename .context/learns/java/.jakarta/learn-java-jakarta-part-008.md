@@ -3092,6 +3092,9 @@ Engineer top-tier tidak hanya tahu cara membuat `@AroundInvoke`. Ia tahu kapan c
 Bagian berikutnya akan masuk ke **Jakarta RESTful Web Services (`jakarta.ws.rs`)**, yaitu salah satu spesifikasi Jakarta paling sering dipakai untuk membangun REST API production-grade.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 7 — CDI: `jakarta.enterprise.*` sebagai Container Programming Model](./learn-java-jakarta-part-007.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 9 — Jakarta RESTful Web Services (`jakarta.ws.rs`) Production-Grade](./learn-java-jakarta-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-007.md">⬅️ Bagian 7 — CDI: `jakarta.enterprise.*` sebagai Container Programming Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-009.md">Bagian 9 — Jakarta RESTful Web Services (`jakarta.ws.rs`) Production-Grade ➡️</a>
+</div>

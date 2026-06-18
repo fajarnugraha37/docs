@@ -2588,6 +2588,9 @@ Status seri: **belum selesai**.
 Part berikutnya: **Part 28 — Signed JARs, JAR Integrity, Classloading, and Runtime Trust**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Data Integrity in Distributed Java Systems](./learn-java-security-cryptography-integrity-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Signed JARs, JAR Integrity, Classloading, and Runtime Trust](./learn-java-security-cryptography-integrity-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-026.md">⬅️ Data Integrity in Distributed Java Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-028.md">Part 28 — Signed JARs, JAR Integrity, Classloading, and Runtime Trust ➡️</a>
+</div>

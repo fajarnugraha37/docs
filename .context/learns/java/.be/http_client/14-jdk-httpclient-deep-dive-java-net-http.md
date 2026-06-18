@@ -2281,6 +2281,9 @@ File: 15-okhttp-deep-dive-client-dispatcher-interceptor-connectionpool.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Circuit Breaker, Timeout, Retry, dan Fallback Composition](./13-circuit-breaker-timeout-retry-fallback-composition.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — OkHttp Deep Dive: Client, Dispatcher, Interceptor, ConnectionPool](./15-okhttp-deep-dive-client-dispatcher-interceptor-connectionpool.md)
+<div class="page-nav">
+<a href="./13-circuit-breaker-timeout-retry-fallback-composition.md">⬅️ Part 13 — Circuit Breaker, Timeout, Retry, dan Fallback Composition</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./15-okhttp-deep-dive-client-dispatcher-interceptor-connectionpool.md">Part 15 — OkHttp Deep Dive: Client, Dispatcher, Interceptor, ConnectionPool ➡️</a>
+</div>

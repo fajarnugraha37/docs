@@ -1579,6 +1579,9 @@ Seri **selesai**.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 33 — Real-World Case Study: Designing Build System for Enterprise Java Platform](./33-real-world-case-study-enterprise-java-platform-build-system.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 000](../collections/learn-java-collections-and-streams-part-000.md)
+<div class="page-nav">
+<a href="./33-real-world-case-study-enterprise-java-platform-build-system.md">⬅️ Part 33 — Real-World Case Study: Designing Build System for Enterprise Java Platform</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

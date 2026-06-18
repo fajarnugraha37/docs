@@ -1988,6 +1988,9 @@ Bagian berikutnya:
 Status seri: **belum selesai**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Orientation: Mental Model Server-Side UI di Java](./00-orientation-server-side-ui-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Jakarta Pages / JSP Internal Architecture: From `.jsp` to Servlet](./02-jakarta-pages-jsp-internal-architecture.md)
+<div class="page-nav">
+<a href="./00-orientation-server-side-ui-mental-model.md">⬅️ Part 0 — Orientation: Mental Model Server-Side UI di Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./02-jakarta-pages-jsp-internal-architecture.md">Jakarta Pages / JSP Internal Architecture: From `.jsp` to Servlet ➡️</a>
+</div>

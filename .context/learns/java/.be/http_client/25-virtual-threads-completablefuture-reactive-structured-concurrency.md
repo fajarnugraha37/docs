@@ -2174,6 +2174,9 @@ Maka part berikutnya bertanya:
 Concurrency membuat sistem mampu melakukan banyak hal sekaligus. Security memastikan sistem hanya melakukan hal yang memang boleh dilakukan.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — Performance Engineering: Throughput, Latency, Allocation, GC, Threading](./24-performance-engineering-throughput-latency-allocation-gc-threading.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Security Hardening for HTTP Clients](./26-security-hardening-for-http-clients.md)
+<div class="page-nav">
+<a href="./24-performance-engineering-throughput-latency-allocation-gc-threading.md">⬅️ Part 24 — Performance Engineering: Throughput, Latency, Allocation, GC, Threading</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./26-security-hardening-for-http-clients.md">Part 26 — Security Hardening for HTTP Clients ➡️</a>
+</div>

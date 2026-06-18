@@ -2701,6 +2701,9 @@ Part 4 — Request Matching Deep Dive: URI Matching, Method Selection, Media Neg
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — Jersey Mental Model: Spec, Implementation, Runtime, and Engineering Boundary](./01-jersey-mental-model-spec-implementation-runtime-engineering-boundary.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 4 — Request Matching Deep Dive: URI Matching, Method Selection, Media Negotiation](./04-request-matching-deep-dive-uri-method-media-negotiation.md)
+<div class="page-nav">
+<a href="./01-jersey-mental-model-spec-implementation-runtime-engineering-boundary.md">⬅️ Part 1 — Jersey Mental Model: Spec, Implementation, Runtime, and Engineering Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./04-request-matching-deep-dive-uri-method-media-negotiation.md">Part 4 — Request Matching Deep Dive: URI Matching, Method Selection, Media Negotiation ➡️</a>
+</div>

@@ -2020,6 +2020,9 @@ Either reject it, name it, or model it explicitly.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/Collectors.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 012](./learn-java-collections-and-streams-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 014](./learn-java-collections-and-streams-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-012.md">⬅️ Java Collections and Streams — Part 012</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-014.md">Java Collections and Streams — Part 014 ➡️</a>
+</div>

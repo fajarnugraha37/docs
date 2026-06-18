@@ -2242,6 +2242,9 @@ Jika kamu bisa menjawab pertanyaan-pertanyaan itu, kamu tidak hanya “bisa JPA�
 _Status seri: belum selesai. Lanjut ke Part 018 — Constraints, Invariants, and Validation Across Layers._
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 016 — Batch Processing and High-Volume Persistence](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Constraints, Invariants, and Validation Across Layers](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-016.md">⬅️ Part 016 — Batch Processing and High-Volume Persistence</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-018.md">Part 018 — Constraints, Invariants, and Validation Across Layers ➡️</a>
+</div>

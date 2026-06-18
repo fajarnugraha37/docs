@@ -3198,6 +3198,9 @@ Seri belum selesai.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability](./01-java-object-model-for-mapping-beans-records-pojos-immutability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — DTO Design: API DTO, Domain DTO, Persistence DTO, Event DTO](./03-dto-design-api-domain-persistence-event-dto.md)
+<div class="page-nav">
+<a href="./01-java-object-model-for-mapping-beans-records-pojos-immutability.md">⬅️ Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./03-dto-design-api-domain-persistence-event-dto.md">Part 3 — DTO Design: API DTO, Domain DTO, Persistence DTO, Event DTO ➡️</a>
+</div>

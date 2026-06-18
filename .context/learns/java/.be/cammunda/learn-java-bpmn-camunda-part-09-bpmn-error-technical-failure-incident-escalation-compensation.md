@@ -2080,6 +2080,9 @@ Berikutnya:
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java BPMN & Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-08-process-variables-data-contract-scope-serialization-governance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Human Workflow: User Task, Assignment, Forms, SLA, and Authorization](./learn-java-bpmn-camunda-part-10-human-workflow-user-task-assignment-forms-sla-authorization.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-08-process-variables-data-contract-scope-serialization-governance.md">⬅️ Learn Java BPMN & Camunda Process Orchestration Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-10-human-workflow-user-task-assignment-forms-sla-authorization.md">Part 10 — Human Workflow: User Task, Assignment, Forms, SLA, and Authorization ➡️</a>
+</div>

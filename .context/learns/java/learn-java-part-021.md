@@ -3445,6 +3445,9 @@ Mengapa native image butuh reflection config?
 Engineer yang kuat tidak takut framework, tetapi juga tidak tunduk buta pada framework. Ia memahami bahwa framework adalah layer mekanisme, convention, dan trade-off yang bisa dibaca, diuji, dikonfigurasi, dan jika perlu, diganti.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 20 — Advanced Performance Engineering di Java](./learn-java-part-020.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 22 — Design Principles dan Domain Modeling dengan Java](./learn-java-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-part-020.md">⬅️ Bagian 20 — Advanced Performance Engineering di Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-022.md">Bagian 22 — Design Principles dan Domain Modeling dengan Java ➡️</a>
+</div>

@@ -2106,6 +2106,9 @@ Serialization adalah boundary architecture, bukan annotation convenience.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Optional.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 023](./learn-java-data-types-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 025](./learn-java-data-types-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-023.md">⬅️ Java Data Types — Part 023</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-025.md">Java Data Types — Part 025 ➡️</a>
+</div>

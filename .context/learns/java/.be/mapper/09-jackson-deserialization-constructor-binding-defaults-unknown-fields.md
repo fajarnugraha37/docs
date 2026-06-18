@@ -2725,6 +2725,9 @@ Part berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — Jackson Serialization: Shape Control, Inclusion, Naming, Formatting](./08-jackson-serialization-shape-control-inclusion-naming-formatting.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Jackson Advanced Type Handling: Generic, Polymorphism, Sealed Classes](./10-jackson-advanced-type-handling-generic-polymorphism-sealed-classes.md)
+<div class="page-nav">
+<a href="./08-jackson-serialization-shape-control-inclusion-naming-formatting.md">⬅️ Part 8 — Jackson Serialization: Shape Control, Inclusion, Naming, Formatting</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./10-jackson-advanced-type-handling-generic-polymorphism-sealed-classes.md">Part 10 — Jackson Advanced Type Handling: Generic, Polymorphism, Sealed Classes ➡️</a>
+</div>

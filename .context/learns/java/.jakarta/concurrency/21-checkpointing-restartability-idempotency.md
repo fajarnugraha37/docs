@@ -2108,6 +2108,9 @@ File: 22-skip-retry-rollback-exception-classification.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Chunk-Oriented Processing: Reader, Processor, Writer](./20-chunk-oriented-processing-reader-processor-writer.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Skip, Retry, Rollback, and Exception Classification](./22-skip-retry-rollback-exception-classification.md)
+<div class="page-nav">
+<a href="./20-chunk-oriented-processing-reader-processor-writer.md">⬅️ Part 20 — Chunk-Oriented Processing: Reader, Processor, Writer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./22-skip-retry-rollback-exception-classification.md">Part 22 — Skip, Retry, Rollback, and Exception Classification ➡️</a>
+</div>

@@ -2769,6 +2769,9 @@ Fokus berikutnya:
 - kapan batchlet berubah menjadi anti-pattern karena menyembunyikan loop besar dan restartability manual.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Jakarta Batch Mental Model: Jobs, Steps, Executions, and State](./17-jakarta-batch-mental-model-jobs-steps-executions-state.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Batchlet Model: Task-Oriented Batch Work](./19-batchlet-model-task-oriented-batch-work.md)
+<div class="page-nav">
+<a href="./17-jakarta-batch-mental-model-jobs-steps-executions-state.md">⬅️ Part 17 — Jakarta Batch Mental Model: Jobs, Steps, Executions, and State</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./19-batchlet-model-task-oriented-batch-work.md">Part 19 — Batchlet Model: Task-Oriented Batch Work ➡️</a>
+</div>

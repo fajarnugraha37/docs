@@ -3060,6 +3060,9 @@ The next part will go deeper into mapping decisions as long-term contracts:
 - and how mapping choices affect SQL, correctness, migration, and production performance.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Flush Semantics: Action Queue and SQL Ordering](./06-flush-semantics-action-queue-sql-ordering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 8 — Mapping Strategy Beyond Annotation Memorization](./08-mapping-strategy-beyond-annotation-memorization.md)
+<div class="page-nav">
+<a href="./06-flush-semantics-action-queue-sql-ordering.md">⬅️ Part 6 — Flush Semantics: Action Queue and SQL Ordering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./08-mapping-strategy-beyond-annotation-memorization.md">Part 8 — Mapping Strategy Beyond Annotation Memorization ➡️</a>
+</div>

@@ -3138,6 +3138,9 @@ Engineer Java yang kuat tidak hanya bisa menulis kode, tetapi juga bisa menjawab
 - kapan modularity memberi value, dan kapan hanya menambah complexity.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 015 — Security, Cryptography, dan Integrity di Java hingga Java 25](./learn-java-part-015.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 017 — Testing di Java](./learn-java-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-part-015.md">⬅️ Learn Java Part 015 — Security, Cryptography, dan Integrity di Java hingga Java 25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-017.md">Learn Java Part 017 — Testing di Java ➡️</a>
+</div>

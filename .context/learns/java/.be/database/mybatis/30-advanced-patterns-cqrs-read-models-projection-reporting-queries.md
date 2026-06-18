@@ -2112,6 +2112,9 @@ Kita akan membahas failure model dan troubleshooting produksi secara sistematis:
 - troubleshooting decision tree.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Plugin and Interceptor Engineering](./29-plugin-interceptor-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Failure Modeling and Production Troubleshooting](./31-failure-modeling-production-troubleshooting.md)
+<div class="page-nav">
+<a href="./29-plugin-interceptor-engineering.md">⬅️ Part 29 — Plugin and Interceptor Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./31-failure-modeling-production-troubleshooting.md">Part 31 — Failure Modeling and Production Troubleshooting ➡️</a>
+</div>

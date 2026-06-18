@@ -1484,6 +1484,9 @@ context boundaries, and observability.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/StructuredTaskScope.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 023](./learn-java-concurrency-and-reactive-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 025](./learn-java-concurrency-and-reactive-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-023.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 023</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-025.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 025 ➡️</a>
+</div>

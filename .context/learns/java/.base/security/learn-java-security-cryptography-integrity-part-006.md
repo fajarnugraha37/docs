@@ -1955,6 +1955,9 @@ Part 7 — Symmetric Encryption in Java: AES, Modes, Padding, AEAD
 Di sana kita akan mulai masuk ke encryption sungguhan: AES, mode operasi, padding oracle, GCM, nonce reuse, associated authenticated data, envelope format, dan misuse pattern Java `Cipher`.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Hashing, Digest, Fingerprint, Checksum, and Integrity Boundaries](./learn-java-security-cryptography-integrity-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Symmetric Encryption in Java: AES, Modes, Padding, AEAD](./learn-java-security-cryptography-integrity-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-005.md">⬅️ Hashing, Digest, Fingerprint, Checksum, and Integrity Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-007.md">Part 7 — Symmetric Encryption in Java: AES, Modes, Padding, AEAD ➡️</a>
+</div>

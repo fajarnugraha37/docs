@@ -1974,6 +1974,9 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-024.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Timeout Design: Connection Timeout, Query Timeout, Socket Timeout, Transaction Timeout](./learn-java-sql-jdbc-hikaricp-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Metrics, Logs, Traces, and Database Correlation](./learn-java-sql-jdbc-hikaricp-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-022.md">⬅️ Timeout Design: Connection Timeout, Query Timeout, Socket Timeout, Transaction Timeout</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-024.md">Metrics, Logs, Traces, and Database Correlation ➡️</a>
+</div>

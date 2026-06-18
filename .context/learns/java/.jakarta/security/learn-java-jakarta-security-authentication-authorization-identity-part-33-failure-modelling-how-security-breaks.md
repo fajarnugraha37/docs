@@ -1639,6 +1639,9 @@ Part 34 — Capstone Architecture: Designing an Enterprise Jakarta Security Plat
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Production Hardening Checklist for Jakarta Security Systems](./learn-java-jakarta-security-authentication-authorization-identity-part-32-production-hardening-checklist.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Capstone Architecture: Designing an Enterprise Jakarta Security Platform](./learn-java-jakarta-security-authentication-authorization-identity-part-34-capstone-enterprise-jakarta-security-platform.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-32-production-hardening-checklist.md">⬅️ Part 32 — Production Hardening Checklist for Jakarta Security Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-34-capstone-enterprise-jakarta-security-platform.md">Part 34 — Capstone Architecture: Designing an Enterprise Jakarta Security Platform ➡️</a>
+</div>

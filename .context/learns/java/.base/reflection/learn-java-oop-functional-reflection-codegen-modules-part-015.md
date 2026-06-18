@@ -2729,6 +2729,9 @@ Functional Interfaces and Higher-Order API Design
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Functional Java Mental Model: Functions, Effects, and Referential Transparency](./learn-java-oop-functional-reflection-codegen-modules-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Functional Interfaces and Higher-Order API Design](./learn-java-oop-functional-reflection-codegen-modules-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-014.md">⬅️ Functional Java Mental Model: Functions, Effects, and Referential Transparency</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-016.md">Functional Interfaces and Higher-Order API Design ➡️</a>
+</div>

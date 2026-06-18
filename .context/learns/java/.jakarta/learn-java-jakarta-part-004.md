@@ -2727,6 +2727,9 @@ Apakah resource lifecycle dikelola container?
 Jika kamu bisa menjawab pertanyaan itu, kamu sudah jauh melampaui level “bisa pakai annotation”. Kamu mulai memahami Jakarta EE sebagai runtime platform.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 3 — Dependency Management: API, Implementation, Runtime, dan BOM](./learn-java-jakarta-part-003.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 5 — `jakarta.annotation` dan Common Annotations](./learn-java-jakarta-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-003.md">⬅️ Bagian 3 — Dependency Management: API, Implementation, Runtime, dan BOM</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-005.md">Bagian 5 — `jakarta.annotation` dan Common Annotations ➡️</a>
+</div>

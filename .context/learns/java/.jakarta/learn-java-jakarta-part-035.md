@@ -2539,6 +2539,9 @@ Engineer top-tier memahami bahwa deployment bukan hanya “copy WAR”. Ia melib
 Bagian berikutnya akan membahas **Jakarta Management (`jakarta.management.j2ee`)**: JSR-77 management model, managed objects, server/module/resource monitoring, JMX relation, why it is legacy/tooling-oriented, and how modern observability differs from classic Jakarta Management.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 34 — Jakarta Activation (`jakarta.activation`): MIME Type, `DataHandler`, `DataSource`, Binary Content, Mail/SOAP Attachments, dan Content Handling](./learn-java-jakarta-part-034.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 36 — Jakarta Management (`javax.management.j2ee`): MEJB, JSR-77 Management Model, Managed Objects, JMX Bridge, dan Observability Legacy](./learn-java-jakarta-part-036.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-034.md">⬅️ Bagian 34 — Jakarta Activation (`jakarta.activation`): MIME Type, `DataHandler`, `DataSource`, Binary Content, Mail/SOAP Attachments, dan Content Handling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-036.md">Bagian 36 — Jakarta Management (`javax.management.j2ee`): MEJB, JSR-77 Management Model, Managed Objects, JMX Bridge, dan Observability Legacy ➡️</a>
+</div>

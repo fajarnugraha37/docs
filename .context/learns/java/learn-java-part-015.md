@@ -3123,6 +3123,9 @@ Threat model
 Pada bagian berikutnya, kita akan masuk ke **Modules, Packaging, dan Runtime Images**, yang sangat terkait dengan integrity juga: bagaimana Java membatasi module boundary, membuat custom runtime image, mengemas aplikasi, dan mengurangi attack surface deployment.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java Part 014 — Observability, Profiling, dan Troubleshooting di Java hingga Java 25](./learn-java-part-014.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 016 — Modules, Packaging, dan Runtime Images](./learn-java-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-part-014.md">⬅️ Learn Java Part 014 — Observability, Profiling, dan Troubleshooting di Java hingga Java 25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-016.md">Learn Java Part 016 — Modules, Packaging, dan Runtime Images ➡️</a>
+</div>

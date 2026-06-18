@@ -2440,6 +2440,9 @@ Referensi utama untuk pendalaman:
 10. Cloud-native observability references for container CPU throttling and memory metrics.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 024 — JVM Arguments & Configuration I: Java Launcher, Standard Flags, `-X`, `-XX`](./learn-java-testing-benchmarking-performance-jvm-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Profiling & Diagnostics I: JDK Tools, Thread Dump, Heap Dump, JFR, JMC](./learn-java-testing-benchmarking-performance-jvm-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-024.md">⬅️ Part 024 — JVM Arguments & Configuration I: Java Launcher, Standard Flags, `-X`, `-XX`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-026.md">Profiling & Diagnostics I: JDK Tools, Thread Dump, Heap Dump, JFR, JMC ➡️</a>
+</div>

@@ -2707,6 +2707,9 @@ Engineer top-tier tidak hanya tahu `executor.submit`. Ia tahu kenapa unmanaged t
 Bagian berikutnya akan membahas **Jakarta Enterprise Beans (`jakarta.ejb`)**: stateless/stateful/singleton beans, transaction/security/interceptor model, timer service, concurrency, MDB, legacy relevance, and how to reason about EJB in modern Jakarta EE.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 21 — Jakarta Batch (`jakarta.batch`): Job, Step, Chunk, Checkpoint, Restartability, dan Production Batch Processing](./learn-java-jakarta-part-021.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 23 — Jakarta Enterprise Beans (`jakarta.ejb`): Session Bean, MDB, Transaction, Security, Timer, dan Legacy-Modern Boundary](./learn-java-jakarta-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-021.md">⬅️ Bagian 21 — Jakarta Batch (`jakarta.batch`): Job, Step, Chunk, Checkpoint, Restartability, dan Production Batch Processing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-023.md">Bagian 23 — Jakarta Enterprise Beans (`jakarta.ejb`): Session Bean, MDB, Transaction, Security, Timer, dan Legacy-Modern Boundary ➡️</a>
+</div>

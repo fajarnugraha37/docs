@@ -1664,6 +1664,9 @@ Bagian 052 — Building a Production-Grade JAX-RS API from Scratch
 Kita akan membangun desain API production-grade dari nol: package structure, resource design, DTOs, validation, error contract, security, persistence, client integration, observability, OpenAPI, tests, deployment, and operational checklist.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 050 — JAX-RS and Jakarta Security / OAuth2 / OIDC / JWT: Authentication, Authorization, Token Validation, Scopes, Roles, Claims, SecurityContext, Method Security, Tenant-Aware Authorization, and Production Identity Architecture](./learn-jaxrs-advanced-part-050.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 052 — Building a Production-Grade JAX-RS API from Scratch: Package Structure, Resource Design, DTOs, Validation, Error Contract, Security, Persistence, Client Integration, Observability, OpenAPI, Tests, Deployment, and Operational Checklist](./learn-jaxrs-advanced-part-052.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-050.md">⬅️ Bagian 050 — JAX-RS and Jakarta Security / OAuth2 / OIDC / JWT: Authentication, Authorization, Token Validation, Scopes, Roles, Claims, SecurityContext, Method Security, Tenant-Aware Authorization, and Production Identity Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-052.md">Bagian 052 — Building a Production-Grade JAX-RS API from Scratch: Package Structure, Resource Design, DTOs, Validation, Error Contract, Security, Persistence, Client Integration, Observability, OpenAPI, Tests, Deployment, and Operational Checklist ➡️</a>
+</div>

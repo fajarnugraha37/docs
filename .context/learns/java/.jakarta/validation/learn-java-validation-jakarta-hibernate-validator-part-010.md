@@ -2689,6 +2689,9 @@ Cross-Parameter and Executable Validation: Methods, Constructors, Return Values
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Custom Constraint Design: Annotation, Validator, Message, Target, Repeatable](./learn-java-validation-jakarta-hibernate-validator-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Parameter and Executable Validation: Methods, Constructors, Return Values](./learn-java-validation-jakarta-hibernate-validator-part-011.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-009.md">⬅️ Custom Constraint Design: Annotation, Validator, Message, Target, Repeatable</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-011.md">Parameter and Executable Validation: Methods, Constructors, Return Values ➡️</a>
+</div>

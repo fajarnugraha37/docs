@@ -2532,8 +2532,10 @@ Current progress:
 - Remaining: Part 19–35
 - Series status: **belum selesai**
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Logging Performance: Cost Model, Allocation, Locking, IO, Backpressure](./17-logging-performance-cost-model-allocation-locking-io-backpressure.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Exception Logging and Error Taxonomy](./19-exception-logging-and-error-taxonomy.md)
+<div class="page-nav">
+<a href="./17-logging-performance-cost-model-allocation-locking-io-backpressure.md">⬅️ Part 17 — Logging Performance: Cost Model, Allocation, Locking, IO, Backpressure</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./19-exception-logging-and-error-taxonomy.md">Part 19 — Exception Logging and Error Taxonomy ➡️</a>
+</div>

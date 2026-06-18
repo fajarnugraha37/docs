@@ -2993,6 +2993,9 @@ Bagian 011 — Content Negotiation Deep Dive: @Consumes, @Produces, MediaType, V
 Kita akan membedah negotiation secara sangat detail: request `Content-Type`, response `Accept`, `@Consumes`, `@Produces`, media type specificity, `q`, `qs`, `Variant`, `Vary`, JSON/XML/CSV/PDF strategy, and production negotiation testing.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 009 — Request Entity Binding: Input Entity, Streams, Readers, DTO Boundary, Payload Safety, dan `MessageBodyReader`](./learn-jaxrs-advanced-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 011 — Content Negotiation Deep Dive: `@Consumes`, `@Produces`, `MediaType`, `Variant`, `Accept`, `Content-Type`, `q/qs`, `Vary`, dan Debugging `406/415`](./learn-jaxrs-advanced-part-011.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-009.md">⬅️ Bagian 009 — Request Entity Binding: Input Entity, Streams, Readers, DTO Boundary, Payload Safety, dan `MessageBodyReader`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-011.md">Bagian 011 — Content Negotiation Deep Dive: `@Consumes`, `@Produces`, `MediaType`, `Variant`, `Accept`, `Content-Type`, `q/qs`, `Vary`, dan Debugging `406/415` ➡️</a>
+</div>

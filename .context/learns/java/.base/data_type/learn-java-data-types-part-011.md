@@ -2374,6 +2374,9 @@ Senior Java engineer tidak memakai enum hanya sebagai “daftar konstanta”, te
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Currency.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 010](./learn-java-data-types-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 012](./learn-java-data-types-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-010.md">⬅️ Java Data Types — Part 010</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-012.md">Java Data Types — Part 012 ➡️</a>
+</div>

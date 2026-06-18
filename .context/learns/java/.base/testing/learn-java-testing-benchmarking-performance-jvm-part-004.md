@@ -2888,6 +2888,9 @@ Jika part sebelumnya menjawab “bagaimana mendesain test yang jelas”, part in
 - Takebayashi et al., “An Exploratory Study on the Usage and Readability of Messages Within Assertion Methods of Test Cases”: https://arxiv.org/abs/2303.00169
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Test Design: Arrange-Act-Assert, Given-When-Then, dan Behavioral Clarity](./learn-java-testing-benchmarking-performance-jvm-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Test Data Engineering: Fixture, Builder, Mother, Factory, Randomized Data](./learn-java-testing-benchmarking-performance-jvm-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-003.md">⬅️ Test Design: Arrange-Act-Assert, Given-When-Then, dan Behavioral Clarity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-005.md">Test Data Engineering: Fixture, Builder, Mother, Factory, Randomized Data ➡️</a>
+</div>

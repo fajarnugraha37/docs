@@ -2870,6 +2870,9 @@ Bagian 020 — Pagination, Sorting, Filtering, Search, and Query Contract Design
 Kita akan membahas desain query contract enterprise: pagination offset vs cursor, sorting allowlist, filtering grammar, search semantics, query DTO, index-aware design, stable ordering, consistency, and performance.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 018 — Security in JAX-RS: Authentication, Authorization, `SecurityContext`, Principal, Roles, Scopes, JWT/OIDC, Jakarta Security, Tenant/Data Authorization, dan Production Hardening](./learn-jaxrs-advanced-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 020 — Pagination, Sorting, Filtering, Search, and Query Contract Design: Offset vs Cursor, Stable Ordering, Allowlist, Query DTO, Index-Aware API, dan Enterprise Search Semantics](./learn-jaxrs-advanced-part-020.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-018.md">⬅️ Bagian 018 — Security in JAX-RS: Authentication, Authorization, `SecurityContext`, Principal, Roles, Scopes, JWT/OIDC, Jakarta Security, Tenant/Data Authorization, dan Production Hardening</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-020.md">Bagian 020 — Pagination, Sorting, Filtering, Search, and Query Contract Design: Offset vs Cursor, Stable Ordering, Allowlist, Query DTO, Index-Aware API, dan Enterprise Search Semantics ➡️</a>
+</div>

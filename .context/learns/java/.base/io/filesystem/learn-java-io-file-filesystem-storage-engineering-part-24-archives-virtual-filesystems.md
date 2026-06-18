@@ -2385,6 +2385,9 @@ Production archive workflow needs staging, validation, limits, and atomic publis
 Bagian berikutnya akan masuk ke **Custom FileSystemProvider and Pluggable Filesystem Mental Model**, yaitu bagaimana NIO.2 memungkinkan filesystem tidak selalu berarti local disk, dan bagaimana menulis kode yang benar terhadap provider abstraction.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — File Naming, Extension, MIME, Charset, and Content Detection](./learn-java-io-file-filesystem-storage-engineering-part-23-file-naming-extension-mime-charset-content-detection.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 25 — Custom `FileSystemProvider` and Pluggable Filesystem Mental Model](./learn-java-io-file-filesystem-storage-engineering-part-25-custom-filesystemprovider-pluggable-filesystem.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-23-file-naming-extension-mime-charset-content-detection.md">⬅️ Part 23 — File Naming, Extension, MIME, Charset, and Content Detection</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-25-custom-filesystemprovider-pluggable-filesystem.md">Part 25 — Custom `FileSystemProvider` and Pluggable Filesystem Mental Model ➡️</a>
+</div>

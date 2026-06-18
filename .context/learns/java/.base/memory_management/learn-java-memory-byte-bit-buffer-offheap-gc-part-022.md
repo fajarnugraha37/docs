@@ -2106,6 +2106,9 @@ Shenandoah GC Deep Dive: Concurrent Compaction and Generational Shenandoah
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: G1 GC Deep Dive: Regions, SATB, Remembered Sets, Mixed Collections](./learn-java-memory-byte-bit-buffer-offheap-gc-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Shenandoah GC Deep Dive: Concurrent Compaction and Generational Shenandoah](./learn-java-memory-byte-bit-buffer-offheap-gc-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-021.md">⬅️ G1 GC Deep Dive: Regions, SATB, Remembered Sets, Mixed Collections</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-023.md">Shenandoah GC Deep Dive: Concurrent Compaction and Generational Shenandoah ➡️</a>
+</div>

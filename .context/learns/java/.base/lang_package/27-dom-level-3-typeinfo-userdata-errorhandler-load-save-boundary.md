@@ -1669,6 +1669,9 @@ File: 28-sax-mental-model-push-events-handler-contracts.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — DOM Querying: Traversal, Namespaces, NodeList, Element APIs](./26-dom-querying-traversal-namespaces-nodelist-element-apis.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — SAX Mental Model: Push Events, Stateless Parsing, Handler Contracts](./28-sax-mental-model-push-events-handler-contracts.md)
+<div class="page-nav">
+<a href="./26-dom-querying-traversal-namespaces-nodelist-element-apis.md">⬅️ Part 26 — DOM Querying: Traversal, Namespaces, NodeList, Element APIs</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-sax-mental-model-push-events-handler-contracts.md">Part 28 — SAX Mental Model: Push Events, Stateless Parsing, Handler Contracts ➡️</a>
+</div>

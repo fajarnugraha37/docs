@@ -2824,6 +2824,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — Facelets and XHTML View Authoring: Templates, Composition, and Components](./15-facelets-xhtml-view-authoring-templates-composition-components.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Faces Lifecycle Deep Dive: Phase-by-Phase Execution and Failure Modeling](./17-faces-lifecycle-deep-dive-phase-by-phase-failure-modeling.md)
+<div class="page-nav">
+<a href="./15-facelets-xhtml-view-authoring-templates-composition-components.md">⬅️ Part 15 — Facelets and XHTML View Authoring: Templates, Composition, and Components</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./17-faces-lifecycle-deep-dive-phase-by-phase-failure-modeling.md">Part 17 — Faces Lifecycle Deep Dive: Phase-by-Phase Execution and Failure Modeling ➡️</a>
+</div>

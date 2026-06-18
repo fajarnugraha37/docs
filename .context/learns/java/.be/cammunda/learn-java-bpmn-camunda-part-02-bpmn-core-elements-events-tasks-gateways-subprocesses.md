@@ -3019,6 +3019,9 @@ Berikutnya:
 - Part 3 — BPMN Modeling Discipline: Membuat Process Model yang Bisa Hidup di Production
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — BPMN 2.0 Deep Semantics: Bukan Diagram, Tapi Execution Contract](./learn-java-bpmn-camunda-part-01-bpmn-20-deep-semantics-execution-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — BPMN Modeling Discipline: Membuat Process Model yang Bisa Hidup di Production](./learn-java-bpmn-camunda-part-03-bpmn-modeling-discipline-production-ready-models.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-01-bpmn-20-deep-semantics-execution-contract.md">⬅️ Part 1 — BPMN 2.0 Deep Semantics: Bukan Diagram, Tapi Execution Contract</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-03-bpmn-modeling-discipline-production-ready-models.md">Part 3 — BPMN Modeling Discipline: Membuat Process Model yang Bisa Hidup di Production ➡️</a>
+</div>

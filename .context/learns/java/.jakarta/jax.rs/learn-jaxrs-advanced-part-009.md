@@ -3054,6 +3054,9 @@ Bagian 010 — Response Entity Writing: Response, GenericEntity, StreamingOutput
 Kita akan membahas sisi sebaliknya: bagaimana Java return value menjadi HTTP response entity, bagaimana `MessageBodyWriter` dipilih, kapan return DTO vs `Response`, bagaimana streaming response, headers/cookies/link, and production response contract design.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 008 — Context Injection: `@Context`, `UriInfo`, `HttpHeaders`, `Request`, `SecurityContext`, `Providers`, `ResourceContext`, dan Runtime Metadata Boundary](./learn-jaxrs-advanced-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 010 — Response Entity Writing: `Response`, `GenericEntity`, `StreamingOutput`, Headers, Cookies, Links, Cache, dan `MessageBodyWriter`](./learn-jaxrs-advanced-part-010.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-008.md">⬅️ Bagian 008 — Context Injection: `@Context`, `UriInfo`, `HttpHeaders`, `Request`, `SecurityContext`, `Providers`, `ResourceContext`, dan Runtime Metadata Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-010.md">Bagian 010 — Response Entity Writing: `Response`, `GenericEntity`, `StreamingOutput`, Headers, Cookies, Links, Cache, dan `MessageBodyWriter` ➡️</a>
+</div>

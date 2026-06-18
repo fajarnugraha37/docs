@@ -2867,6 +2867,9 @@ Progress: 014 dari 031.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Mutation Testing dan Test Quality Measurement](./learn-java-testing-benchmarking-performance-jvm-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Test Runtime Architecture: Build Tool, Parallel Test, Flakiness, dan CI Optimization](./learn-java-testing-benchmarking-performance-jvm-part-015.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-013.md">⬅️ Mutation Testing dan Test Quality Measurement</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-015.md">Test Runtime Architecture: Build Tool, Parallel Test, Flakiness, dan CI Optimization ➡️</a>
+</div>

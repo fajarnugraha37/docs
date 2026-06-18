@@ -1897,6 +1897,9 @@ Secure type design makes dangerous operations harder to express and safe operati
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/net/URI.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 027](./learn-java-data-types-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 029](./learn-java-data-types-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-027.md">⬅️ Java Data Types — Part 027</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-029.md">Java Data Types — Part 029 ➡️</a>
+</div>

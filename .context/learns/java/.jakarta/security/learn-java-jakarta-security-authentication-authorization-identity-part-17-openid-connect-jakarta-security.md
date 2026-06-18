@@ -2751,6 +2751,9 @@ Part 18 — OAuth2 Resource Server Pattern for JAX-RS and Servlet APIs
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Token-Based Security in Jakarta Applications](./learn-java-jakarta-security-authentication-authorization-identity-part-16-token-based-security.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — OAuth2 Resource Server Pattern for JAX-RS and Servlet APIs](./learn-java-jakarta-security-authentication-authorization-identity-part-18-oauth2-resource-server-jaxrs-servlet.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-16-token-based-security.md">⬅️ Part 16 — Token-Based Security in Jakarta Applications</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-18-oauth2-resource-server-jaxrs-servlet.md">Part 18 — OAuth2 Resource Server Pattern for JAX-RS and Servlet APIs ➡️</a>
+</div>

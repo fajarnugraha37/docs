@@ -3185,6 +3185,9 @@ Part 1 — Java Deployment Evolution: Java 8 to Java 25
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 034](../data_type/learn-java-data-types-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Java Deployment Evolution: Java 8 to Java 25](./learn-java-deployment-runtime-release-delivery-engineering-part-01-java-deployment-evolution-java-8-to-25.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-01-java-deployment-evolution-java-8-to-25.md">Part 1 — Java Deployment Evolution: Java 8 to Java 25 ➡️</a>
+</div>

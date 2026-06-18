@@ -2843,6 +2843,9 @@ Berikutnya:
 - Part 2 — BPMN Core Elements: Events, Tasks, Gateways, Subprocesses
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Orientation: Dari CRUD Engineer ke Process Orchestration Engineer](./learn-java-bpmn-camunda-part-00-orientation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — BPMN Core Elements: Events, Tasks, Gateways, Subprocesses](./learn-java-bpmn-camunda-part-02-bpmn-core-elements-events-tasks-gateways-subprocesses.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-00-orientation.md">⬅️ Part 0 — Orientation: Dari CRUD Engineer ke Process Orchestration Engineer</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-02-bpmn-core-elements-events-tasks-gateways-subprocesses.md">Part 2 — BPMN Core Elements: Events, Tasks, Gateways, Subprocesses ➡️</a>
+</div>

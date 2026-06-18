@@ -1945,6 +1945,9 @@ Part berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — Database Versioning Models](./03-database-versioning-models.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 5 — Flyway Setup in Java 8–25 Projects](./05-flyway-setup-java-8-to-25.md)
+<div class="page-nav">
+<a href="./03-database-versioning-models.md">⬅️ Part 3 — Database Versioning Models</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./05-flyway-setup-java-8-to-25.md">Part 5 — Flyway Setup in Java 8–25 Projects ➡️</a>
+</div>

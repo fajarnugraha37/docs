@@ -2744,6 +2744,9 @@ The next topic continues naturally from flush:
 > Once flush decides SQL must be executed, how does provider generate SQL, choose dialect behavior, handle pagination/locking/LOB/timestamp/identifier differences, and why can the same JPQL produce different SQL across databases and provider versions?
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Dirty Checking Internals and Change Detection](./05-dirty-checking-internals-change-detection.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — SQL Generation Pipeline and Dialect Behavior](./07-sql-generation-pipeline-dialect-behavior.md)
+<div class="page-nav">
+<a href="./05-dirty-checking-internals-change-detection.md">⬅️ Part 5 — Dirty Checking Internals and Change Detection</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./07-sql-generation-pipeline-dialect-behavior.md">Part 7 — SQL Generation Pipeline and Dialect Behavior ➡️</a>
+</div>

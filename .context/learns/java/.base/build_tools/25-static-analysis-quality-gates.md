@@ -2747,6 +2747,9 @@ Part 26 — Dependency Conflict Case Studies: Logging, Jackson, Netty, Guava, Ja
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — Code Generation Pipelines: OpenAPI, JAXB, Protobuf, gRPC, jOOQ, QueryDSL](./24-code-generation-pipelines.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Dependency Conflict Case Studies: Logging, Jackson, Netty, Guava, Jakarta/Javax Split](./26-dependency-conflict-case-studies.md)
+<div class="page-nav">
+<a href="./24-code-generation-pipelines.md">⬅️ Part 24 — Code Generation Pipelines: OpenAPI, JAXB, Protobuf, gRPC, jOOQ, QueryDSL</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./26-dependency-conflict-case-studies.md">Part 26 — Dependency Conflict Case Studies: Logging, Jackson, Netty, Guava, Jakarta/Javax Split ➡️</a>
+</div>

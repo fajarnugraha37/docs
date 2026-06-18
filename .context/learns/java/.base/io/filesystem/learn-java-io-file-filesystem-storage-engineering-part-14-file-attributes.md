@@ -2064,6 +2064,9 @@ least privilege file layout
 Dengan kata lain, Part 14 memberi kita **API dan metadata vocabulary**. Part 15 akan membangun **security and runtime permission mental model** di atasnya.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Path Traversal Security: User Input, Uploads, Archives, and Sandboxes](./learn-java-io-file-filesystem-storage-engineering-part-13-path-traversal-security.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — Permissions Model: POSIX, Windows ACL, Containers, and Runtime Identity](./learn-java-io-file-filesystem-storage-engineering-part-15-permissions-model.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-13-path-traversal-security.md">⬅️ Part 13 — Path Traversal Security: User Input, Uploads, Archives, and Sandboxes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-15-permissions-model.md">Part 15 — Permissions Model: POSIX, Windows ACL, Containers, and Runtime Identity ➡️</a>
+</div>

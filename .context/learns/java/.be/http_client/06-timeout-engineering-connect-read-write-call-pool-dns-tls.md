@@ -3096,6 +3096,9 @@ Part 7 — Connection Pooling, Keep-Alive, HTTP/2 Multiplexing, dan Resource Reu
 Di sana kita akan membahas mengapa timeout tidak bisa dipisahkan dari pooling, connection reuse, HTTP/2 multiplexing, body lifecycle, stale connection, load balancer idle timeout, dan resource leak.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 5 — Body Handling: JSON, Form, Multipart, Streaming, File Upload/Download](./05-request-response-body-json-form-multipart-streaming.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Connection Pooling, Keep-Alive, HTTP/2 Multiplexing, dan Resource Reuse](./07-connection-pooling-keepalive-http2-multiplexing-resource-reuse.md)
+<div class="page-nav">
+<a href="./05-request-response-body-json-form-multipart-streaming.md">⬅️ Part 5 — Body Handling: JSON, Form, Multipart, Streaming, File Upload/Download</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./07-connection-pooling-keepalive-http2-multiplexing-resource-reuse.md">Part 7 — Connection Pooling, Keep-Alive, HTTP/2 Multiplexing, dan Resource Reuse ➡️</a>
+</div>

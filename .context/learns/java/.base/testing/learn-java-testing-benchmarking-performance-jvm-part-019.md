@@ -2709,6 +2709,9 @@ JVM Execution Model: Interpreter, JIT, Tiered Compilation, Code Cache, Deoptimiz
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: JMH Deep Dive II: Benchmark Pitfalls dan Benchmark Design Patterns](./learn-java-testing-benchmarking-performance-jvm-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — JVM Execution Model: Interpreter, JIT, Tiered Compilation, Code Cache, Deoptimization](./learn-java-testing-benchmarking-performance-jvm-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-018.md">⬅️ JMH Deep Dive II: Benchmark Pitfalls dan Benchmark Design Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-020.md">Part 020 — JVM Execution Model: Interpreter, JIT, Tiered Compilation, Code Cache, Deoptimization ➡️</a>
+</div>

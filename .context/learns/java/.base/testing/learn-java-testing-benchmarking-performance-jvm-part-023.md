@@ -2659,6 +2659,9 @@ JVM Arguments & Configuration I: Java Launcher, Standard Flags, -X, -XX
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Garbage Collection Engineering I: GC Theory dan Collector Evolution Java 8–25](./learn-java-testing-benchmarking-performance-jvm-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 024 — JVM Arguments & Configuration I: Java Launcher, Standard Flags, `-X`, `-XX`](./learn-java-testing-benchmarking-performance-jvm-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-022.md">⬅️ Garbage Collection Engineering I: GC Theory dan Collector Evolution Java 8–25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-024.md">Part 024 — JVM Arguments & Configuration I: Java Launcher, Standard Flags, `-X`, `-XX` ➡️</a>
+</div>

@@ -1,21 +1,17 @@
 # Backend
 
-> Materi backend engineering dengan Java: framework, database, observability, integration, dan production patterns.
+> Materi Java backend: framework, database, integration, observability, dan production patterns.
 
-## Kategori utama
+Tersedia **0 artikel** dan **6 subkategori** pada bagian ini.
 
-- [Database](database/index.md)
-- [Framework](framework/index.md)
-- [HTTP Client](http_client/index.md)
-- [Mapper](mapper/index.md)
-- [Telemetry](telemetry/index.md)
-- [Cammunda](cammunda/index.md)
-
-## Saran membaca
-
-- Masuk ke `Framework` jika Anda sedang memilih atau mempelajari stack aplikasi.
-- Masuk ke `Database` dan `Telemetry` jika fokus Anda production readiness.
+## Subkategori
+- [Cammunda](./cammunda/index.md)
+- [Database](./database/index.md)
+- [Framework](./framework/index.md)
+- [HTTP Client](./http_client/index.md)
+- [Mapper](./mapper/index.md)
+- [Telemetry](./telemetry/index.md)
 
 ---
 
-[🏠 Kembali ke Java](../index.md)
+[🏠 Kembali ke Home](../../index.md)

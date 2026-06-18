@@ -1952,6 +1952,9 @@ Only share mutable state when ownership and synchronization are explicit.
     https://openjdk.org/jeps/506
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 010](./learn-java-concurrency-and-reactive-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 012](./learn-java-concurrency-and-reactive-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-010.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 010</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-012.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 012 ➡️</a>
+</div>

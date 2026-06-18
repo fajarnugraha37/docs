@@ -5074,6 +5074,9 @@ Topik:
 **Enums as Type-Safe State, Strategy, Registry, and Domain Model**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Sealed Classes and Controlled Hierarchies](./learn-java-oop-functional-reflection-codegen-modules-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Enums as Type-Safe State, Strategy, Registry, and Domain Model](./learn-java-oop-functional-reflection-codegen-modules-part-009.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-007.md">⬅️ Sealed Classes and Controlled Hierarchies</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-009.md">Enums as Type-Safe State, Strategy, Registry, and Domain Model ➡️</a>
+</div>

@@ -2156,6 +2156,9 @@ Dari pertanyaan itu, type yang benar akan terlihat.
     https://docs.oracle.com/javase/tutorial/datetime/iso/overview.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 017](./learn-java-data-types-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 019](./learn-java-data-types-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-017.md">⬅️ Java Data Types — Part 017</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-019.md">Java Data Types — Part 019 ➡️</a>
+</div>

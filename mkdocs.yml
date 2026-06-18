@@ -52,8 +52,6 @@ markdown_extensions:
   - toc:
       permalink: true
   - pymdownx.details
-  - pymdownx.highlight
-  - pymdownx.inlinehilite
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -69,17 +67,45 @@ nav:
   - Home: index.md
   - Notebook: README.md
   - Katalog Lengkap: all-notes.md
-  - General:
-      - Overview: general/index.md
-      - Git: general/git/index.md
-  - Java:
-      - Overview: java/index.md
-      - Base:
-          - Overview: java/.base/index.md
-          - Build Tools: java/.base/build_tools/index.md
-          - Collections: java/.base/collections/index.md
-          - Concurrency: java/.base/concurrency/index.md
-          - Data Type: java/.base/data_type/index.md
-          - Deployment: java/.base/deployment/index.md
-      - Backend: java/.be/index.md
-      - Jakarta: java/.jakarta/index.md
+  - "General":
+      - "Overview": "general/index.md"
+      - "Git": "general/git/index.md"
+  - "Java":
+      - "Overview": "java/index.md"
+      - "Base":
+          - "Overview": "java/.base/index.md"
+          - "Build Tools": "java/.base/build_tools/index.md"
+          - "Collections": "java/.base/collections/index.md"
+          - "Concurrency": "java/.base/concurrency/index.md"
+          - "Data Type": "java/.base/data_type/index.md"
+          - "Deployment": "java/.base/deployment/index.md"
+          - "Dsa": "java/.base/dsa/index.md"
+          - "Error Handling": "java/.base/error_handling/index.md"
+          - "Io": [{"Overview":"java/.base/io/index.md"},{"Filesystem":"java/.base/io/filesystem/index.md"},{"Network":"java/.base/io/network/index.md"}]
+          - "Language & Packages": "java/.base/lang_package/index.md"
+          - "Memory Management": "java/.base/memory_management/index.md"
+          - "Osgi": "java/.base/osgi/index.md"
+          - "Reflection": "java/.base/reflection/index.md"
+          - "Security": "java/.base/security/index.md"
+          - "Sql": "java/.base/sql/index.md"
+          - "Testing": "java/.base/testing/index.md"
+      - "Backend":
+          - "Overview": "java/.be/index.md"
+          - "Cammunda": "java/.be/cammunda/index.md"
+          - "Database": [{"Overview":"java/.be/database/index.md"},{"Jpa":"java/.be/database/jpa/index.md"},{"Migration":"java/.be/database/migration/index.md"},{"Mybatis":"java/.be/database/mybatis/index.md"}]
+          - "Framework": [{"Overview":"java/.be/framework/index.md"},{"Jersey":"java/.be/framework/jersey/index.md"}]
+          - "HTTP Client": "java/.be/http_client/index.md"
+          - "Mapper": "java/.be/mapper/index.md"
+          - "Telemetry": "java/.be/telemetry/index.md"
+      - "Jakarta":
+          - "Overview": "java/.jakarta/index.md"
+          - "Concurrency": "java/.jakarta/concurrency/index.md"
+          - "Dependency": "java/.jakarta/dependency/index.md"
+          - "Jax Rs": "java/.jakarta/jax.rs/index.md"
+          - "Jsp": "java/.jakarta/jsp/index.md"
+          - "Mail": "java/.jakarta/mail/index.md"
+          - "Mapper": "java/.jakarta/mapper/index.md"
+          - "Persistence": "java/.jakarta/persistence/index.md"
+          - "Security": "java/.jakarta/security/index.md"
+          - "Servlet": "java/.jakarta/servlet/index.md"
+          - "Validation": "java/.jakarta/validation/index.md"

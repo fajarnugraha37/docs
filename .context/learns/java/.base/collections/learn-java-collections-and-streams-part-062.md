@@ -2152,6 +2152,9 @@ Pakai checklist part 061 untuk review implementasi final.
     https://spec.openapis.org/oas/latest.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 061](./learn-java-collections-and-streams-part-061.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 000](../concurrency/learn-java-concurrency-and-reactive-part-000.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-061.md">⬅️ Java Collections and Streams — Part 061</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

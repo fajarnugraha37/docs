@@ -1829,9 +1829,10 @@ We will move from JVM-internal behavior to external dependency behavior:
 - retry/circuit breaker observability,
 - dependency latency as memory/GC amplifier.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Heap Dump and Memory Troubleshooting: Leak, Retention, Allocation, Native Memory](./26-heap-dump-and-memory-troubleshooting-leak-retention-allocation-native-memory.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Database and External Dependency Troubleshooting with Logs, Metrics, Traces](./28-database-and-external-dependency-troubleshooting-with-logs-metrics-traces.md)
+<div class="page-nav">
+<a href="./26-heap-dump-and-memory-troubleshooting-leak-retention-allocation-native-memory.md">⬅️ Part 26 — Heap Dump and Memory Troubleshooting: Leak, Retention, Allocation, Native Memory</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-database-and-external-dependency-troubleshooting-with-logs-metrics-traces.md">Part 28 — Database and External Dependency Troubleshooting with Logs, Metrics, Traces ➡️</a>
+</div>

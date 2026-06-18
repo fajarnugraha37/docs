@@ -2456,6 +2456,9 @@ Make performance measured.
 Jika kebiasaan ini konsisten, data type bukan lagi detail kecil. Data type menjadi fondasi correctness, maintainability, security, dan evolvability.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 033](./learn-java-data-types-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Deployment Mental Model: From Source Code to Running Production System](../deployment/learn-java-deployment-runtime-release-delivery-engineering-part-00-deployment-mental-model.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-033.md">⬅️ Java Data Types — Part 033</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

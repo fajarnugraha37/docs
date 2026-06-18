@@ -3245,6 +3245,9 @@ Part 012 — Property-Based Testing dan Generative Testing untuk Java
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Testing HTTP API, REST Resource, Serialization, Validation, dan Compatibility](./learn-java-testing-benchmarking-performance-jvm-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Based Testing dan Generative Testing untuk Java](./learn-java-testing-benchmarking-performance-jvm-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-010.md">⬅️ Testing HTTP API, REST Resource, Serialization, Validation, dan Compatibility</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-testing-benchmarking-performance-jvm-part-012.md">Based Testing dan Generative Testing untuk Java ➡️</a>
+</div>

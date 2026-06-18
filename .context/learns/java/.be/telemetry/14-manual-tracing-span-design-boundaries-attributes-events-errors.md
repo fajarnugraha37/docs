@@ -3025,8 +3025,10 @@ Part 15 — Metrics Engineering: RED, USE, JVM, Application, Business Metrics
 
 Di sana kita akan membahas metric bukan sebagai angka dashboard, tetapi sebagai **aggregate truth** untuk reliability engineering: rate, error, duration, saturation, JVM metrics, DB pool metrics, queue metrics, business metrics, SLI/SLO, histogram, cardinality, dan metric governance.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — OpenTelemetry Java Agent: Zero-Code Instrumentation for Java 8+](./13-opentelemetry-java-agent-zero-code-instrumentation-java-8-plus.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Metrics Engineering: RED, USE, JVM, Application, Business Metrics](./15-metrics-engineering-red-use-jvm-application-business-metrics.md)
+<div class="page-nav">
+<a href="./13-opentelemetry-java-agent-zero-code-instrumentation-java-8-plus.md">⬅️ Part 13 — OpenTelemetry Java Agent: Zero-Code Instrumentation for Java 8+</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./15-metrics-engineering-red-use-jvm-application-business-metrics.md">Part 15 — Metrics Engineering: RED, USE, JVM, Application, Business Metrics ➡️</a>
+</div>

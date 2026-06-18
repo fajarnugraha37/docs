@@ -2302,8 +2302,10 @@ The starter kit turns observability from personal craftsmanship into an engineer
 - Log4j2 JSON Template Layout: https://logging.apache.org/log4j/2.x/manual/json-template-layout.html
 - Log4j2 asynchronous loggers: https://logging.apache.org/log4j/2.x/manual/async.html
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 33 — Observability Governance: Standards, Cost, Cardinality, Retention, Ownership](./33-observability-governance-standards-cost-cardinality-retention-ownership.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 35 — Capstone: Diagnose a Complex Java Production Incident End-to-End](./35-capstone-diagnose-complex-java-production-incident-end-to-end.md)
+<div class="page-nav">
+<a href="./33-observability-governance-standards-cost-cardinality-retention-ownership.md">⬅️ Part 33 — Observability Governance: Standards, Cost, Cardinality, Retention, Ownership</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./35-capstone-diagnose-complex-java-production-incident-end-to-end.md">Part 35 — Capstone: Diagnose a Complex Java Production Incident End-to-End ➡️</a>
+</div>

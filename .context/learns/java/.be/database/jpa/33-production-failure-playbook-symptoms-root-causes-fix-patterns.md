@@ -1876,6 +1876,9 @@ Primary references for further reading:
 - Database vendor documentation for locks, execution plans, wait events, indexing, and transaction isolation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Migration Engineering: Javax to Jakarta, Hibernate 5 to 6/7, EclipseLink 2 to 4/5](./32-migration-engineering-javax-jakarta-hibernate-eclipselink.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 34 — Capstone: Designing a Production-Grade Persistence Layer for Complex Case Management](./34-capstone-production-grade-persistence-layer-complex-case-management.md)
+<div class="page-nav">
+<a href="./32-migration-engineering-javax-jakarta-hibernate-eclipselink.md">⬅️ Part 32 — Migration Engineering: Javax to Jakarta, Hibernate 5 to 6/7, EclipseLink 2 to 4/5</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./34-capstone-production-grade-persistence-layer-complex-case-management.md">Part 34 — Capstone: Designing a Production-Grade Persistence Layer for Complex Case Management ➡️</a>
+</div>

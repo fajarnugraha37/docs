@@ -2148,6 +2148,9 @@ Bagian 037 — Implementation Deep Dive: Jersey, RESTEasy, Apache CXF, Open Libe
 Kita akan membahas perbedaan implementasi JAX-RS/Jakarta REST: provider discovery, CDI integration, client connector, multipart, SSE, async, config, testing tools, performance knobs, and migration/runtime selection.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 035 — Testing JAX-RS Server: Unit Test, Integration Test, Runtime Pipeline, Filters, Providers, Exception Mappers, Validation, Security, Async, Streaming, Multipart, Contract Tests, and Production-Grade Test Strategy](./learn-jaxrs-advanced-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 037 — Implementation Deep Dive: Jersey, RESTEasy, Apache CXF, Open Liberty, Quarkus REST, Provider Discovery, CDI Integration, Client Connector, Multipart, SSE, Async, Testing Tools, Performance Knobs, and Migration Strategy](./learn-jaxrs-advanced-part-037.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-035.md">⬅️ Bagian 035 — Testing JAX-RS Server: Unit Test, Integration Test, Runtime Pipeline, Filters, Providers, Exception Mappers, Validation, Security, Async, Streaming, Multipart, Contract Tests, and Production-Grade Test Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-037.md">Bagian 037 — Implementation Deep Dive: Jersey, RESTEasy, Apache CXF, Open Liberty, Quarkus REST, Provider Discovery, CDI Integration, Client Connector, Multipart, SSE, Async, Testing Tools, Performance Knobs, and Migration Strategy ➡️</a>
+</div>

@@ -2531,6 +2531,9 @@ Referensi yang relevan untuk part ini:
 10. Oracle Java security, JSSE, JCA, JDK diagnostic, and secure coding documentation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Security Testing: Unit, Property, Fuzzing, SAST, DAST, IAST](./learn-java-security-cryptography-integrity-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Secure Design Patterns and Anti-Patterns for Java Enterprise Systems](./learn-java-security-cryptography-integrity-part-033.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-031.md">⬅️ Security Testing: Unit, Property, Fuzzing, SAST, DAST, IAST</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-033.md">Secure Design Patterns and Anti-Patterns for Java Enterprise Systems ➡️</a>
+</div>

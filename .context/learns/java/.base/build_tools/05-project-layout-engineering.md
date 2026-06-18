@@ -2786,6 +2786,9 @@ Part 6 — Dependency Graph Fundamentals: Direct, Transitive, Scope, Configurati
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 4 — Maven vs Gradle: Bukan Mana yang Lebih Bagus, Tapi Mana yang Cocok untuk Constraint Tertentu](./04-maven-vs-gradle-decision-framework.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Dependency Graph Fundamentals: Direct, Transitive, Scope, Configuration, Variant](./06-dependency-graph-fundamentals.md)
+<div class="page-nav">
+<a href="./04-maven-vs-gradle-decision-framework.md">⬅️ Part 4 — Maven vs Gradle: Bukan Mana yang Lebih Bagus, Tapi Mana yang Cocok untuk Constraint Tertentu</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./06-dependency-graph-fundamentals.md">Part 6 — Dependency Graph Fundamentals: Direct, Transitive, Scope, Configuration, Variant ➡️</a>
+</div>

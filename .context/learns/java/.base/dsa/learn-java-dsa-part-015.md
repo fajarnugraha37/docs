@@ -1980,6 +1980,9 @@ Part 016 — String Algorithms II: Trie, Prefix Index, Suffix Thinking
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 014 — Graph II: Shortest Path, Topological Sort, Dependency Resolution](./learn-java-dsa-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 016 — String Algorithms II: Trie, Prefix Index, Suffix Thinking](./learn-java-dsa-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-014.md">⬅️ Part 014 — Graph II: Shortest Path, Topological Sort, Dependency Resolution</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-016.md">Part 016 — String Algorithms II: Trie, Prefix Index, Suffix Thinking ➡️</a>
+</div>

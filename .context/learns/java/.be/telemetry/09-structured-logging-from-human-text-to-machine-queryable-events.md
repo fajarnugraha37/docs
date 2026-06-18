@@ -3038,8 +3038,10 @@ Berikutnya:
 
 Seri belum selesai. Target akhir tetap Part 35.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 8 — Log4j2 Deep Dive II: Async Logger, Garbage-Free Logging, Routing, Security](./08-log4j2-deep-dive-async-logger-garbage-free-routing-security.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Context Propagation: MDC, ThreadLocal, Virtual Threads, Scoped Values](./10-context-propagation-mdc-threadlocal-virtual-threads-scoped-values.md)
+<div class="page-nav">
+<a href="./08-log4j2-deep-dive-async-logger-garbage-free-routing-security.md">⬅️ Part 8 — Log4j2 Deep Dive II: Async Logger, Garbage-Free Logging, Routing, Security</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./10-context-propagation-mdc-threadlocal-virtual-threads-scoped-values.md">Part 10 — Context Propagation: MDC, ThreadLocal, Virtual Threads, Scoped Values ➡️</a>
+</div>

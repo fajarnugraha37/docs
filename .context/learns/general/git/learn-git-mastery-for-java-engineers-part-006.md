@@ -2908,6 +2908,9 @@ Bagian terakhir yang direncanakan: learn-git-mastery-for-java-engineers-part-032
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 005 — Membaca History secara Efektif](./learn-git-mastery-for-java-engineers-part-005.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 007 — Branching: Isolasi Perubahan dan Eksperimen Aman](./learn-git-mastery-for-java-engineers-part-007.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Membaca History secara Efektif</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-007.md">Part 007 — Branching: Isolasi Perubahan dan Eksperimen Aman ➡️</a>
+</div>

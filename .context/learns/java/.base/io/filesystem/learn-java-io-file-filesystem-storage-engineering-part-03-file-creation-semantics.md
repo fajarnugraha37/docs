@@ -1729,6 +1729,9 @@ Part 04 — Open Options and File Handles: How Java Opens Files
 Kita akan masuk ke cara Java membuka file: `READ`, `WRITE`, `APPEND`, `CREATE`, `CREATE_NEW`, `TRUNCATE_EXISTING`, `DELETE_ON_CLOSE`, `SYNC`, `DSYNC`, serta relasi antara Java stream/channel dengan OS file descriptor/handle.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 02 — File Existence, Type, and Identity: `exists` Is Not a Lock](./learn-java-io-file-filesystem-storage-engineering-part-02-file-existence-type-identity.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 04 — Open Options and File Handles: How Java Opens Files](./learn-java-io-file-filesystem-storage-engineering-part-04-open-options-file-handles.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-02-file-existence-type-identity.md">⬅️ Part 02 — File Existence, Type, and Identity: `exists` Is Not a Lock</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-04-open-options-file-handles.md">Part 04 — Open Options and File Handles: How Java Opens Files ➡️</a>
+</div>

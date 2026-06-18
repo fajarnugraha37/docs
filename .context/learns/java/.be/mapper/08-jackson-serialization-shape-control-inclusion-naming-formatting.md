@@ -3191,6 +3191,9 @@ Kita akan membahas:
 - dan bagaimana mendesain input boundary yang aman.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — ObjectMapper Engineering: Configuration, Lifecycle, Thread Safety, Modules](./07-objectmapper-engineering-configuration-lifecycle-thread-safety-modules.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Jackson Deserialization: Constructor Binding, Defaults, Unknown Fields](./09-jackson-deserialization-constructor-binding-defaults-unknown-fields.md)
+<div class="page-nav">
+<a href="./07-objectmapper-engineering-configuration-lifecycle-thread-safety-modules.md">⬅️ Part 7 — ObjectMapper Engineering: Configuration, Lifecycle, Thread Safety, Modules</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./09-jackson-deserialization-constructor-binding-defaults-unknown-fields.md">Part 9 — Jackson Deserialization: Constructor Binding, Defaults, Unknown Fields ➡️</a>
+</div>

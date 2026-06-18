@@ -2709,6 +2709,9 @@ Part 08 — IdentityStore Deep Dive
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 06 — Jakarta Security API Core](./learn-java-jakarta-security-authentication-authorization-identity-part-06-jakarta-security-api-core.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 08 — IdentityStore Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-08-identitystore-deep-dive.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-06-jakarta-security-api-core.md">⬅️ Part 06 — Jakarta Security API Core</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-08-identitystore-deep-dive.md">Part 08 — IdentityStore Deep Dive ➡️</a>
+</div>

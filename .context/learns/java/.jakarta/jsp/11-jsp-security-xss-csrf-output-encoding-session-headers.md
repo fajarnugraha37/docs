@@ -2680,6 +2680,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — JSP Layouting: Includes, Templates, Composition, and Maintainability](./10-jsp-layouting-includes-templates-composition-maintainability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — JSP Performance and Operations: Compilation, Buffering, Caching, and Production Diagnostics](./12-jsp-performance-operations-compilation-buffering-caching-diagnostics.md)
+<div class="page-nav">
+<a href="./10-jsp-layouting-includes-templates-composition-maintainability.md">⬅️ Part 10 — JSP Layouting: Includes, Templates, Composition, and Maintainability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-jsp-performance-operations-compilation-buffering-caching-diagnostics.md">Part 12 — JSP Performance and Operations: Compilation, Buffering, Caching, and Production Diagnostics ➡️</a>
+</div>

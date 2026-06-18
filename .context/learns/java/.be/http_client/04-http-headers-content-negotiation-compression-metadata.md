@@ -2461,6 +2461,9 @@ Part 4 — Headers, Content Negotiation, Compression, dan Metadata Contract
 Belum selesai. Masih lanjut ke part berikutnya.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — URI, URL, Encoding, Query Parameter, dan Canonical Request](./03-uri-url-encoding-query-and-canonical-request.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Body Handling: JSON, Form, Multipart, Streaming, File Upload/Download](./05-request-response-body-json-form-multipart-streaming.md)
+<div class="page-nav">
+<a href="./03-uri-url-encoding-query-and-canonical-request.md">⬅️ Part 3 — URI, URL, Encoding, Query Parameter, dan Canonical Request</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./05-request-response-body-json-form-multipart-streaming.md">Part 5 — Body Handling: JSON, Form, Multipart, Streaming, File Upload/Download ➡️</a>
+</div>

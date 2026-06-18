@@ -2177,6 +2177,9 @@ Fokus Bagian 1:
 - project layout production-grade.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Designing a Production-Grade Validation Framework for a Case Management Platform](.jakarta/validation/learn-java-validation-jakarta-hibernate-validator-part-030.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 001 — Setup, Toolchain, dan Cara Kerja Build Java Modern hingga Java 25](./learn-java-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-001.md">Learn Java Part 001 — Setup, Toolchain, dan Cara Kerja Build Java Modern hingga Java 25 ➡️</a>
+</div>

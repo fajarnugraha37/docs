@@ -2472,6 +2472,9 @@ Dengan kata lain, setelah input valid, kita akan membahas bagaimana aplikasi mem
 - Implementation references: Eclipse Mojarra, Apache MyFaces, Hibernate Validator.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — Faces Components: Input, Output, Command, Data, Message, and Metadata](./18-faces-components-input-output-command-data-message-metadata.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Navigation, Actions, Events, and Application Flow in Faces](./20-navigation-actions-events-application-flow-in-faces.md)
+<div class="page-nav">
+<a href="./18-faces-components-input-output-command-data-message-metadata.md">⬅️ Part 18 — Faces Components: Input, Output, Command, Data, Message, and Metadata</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./20-navigation-actions-events-application-flow-in-faces.md">Part 20 — Navigation, Actions, Events, and Application Flow in Faces ➡️</a>
+</div>

@@ -3110,6 +3110,9 @@ Bagian 021 — PATCH, JSON Patch, JSON Merge Patch, and Partial Update Semantics
 Kita akan membahas partial update secara mendalam: PUT vs PATCH, JSON Merge Patch, JSON Patch, null vs missing, validation, optimistic locking, idempotency, field authorization, audit, and domain state semantics.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 019 — CORS, CSRF, Cookies, Browser Security, and REST APIs: Preflight, Credentialed Requests, SameSite, Token Storage, XSS Interaction, Security Headers, dan JAX-RS Implementation](./learn-jaxrs-advanced-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 021 — PATCH, JSON Patch, JSON Merge Patch, and Partial Update Semantics: PUT vs PATCH, Null vs Missing, Field Authorization, Validation, Optimistic Locking, Idempotency, Audit, dan Domain State Semantics](./learn-jaxrs-advanced-part-021.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-019.md">⬅️ Bagian 019 — CORS, CSRF, Cookies, Browser Security, and REST APIs: Preflight, Credentialed Requests, SameSite, Token Storage, XSS Interaction, Security Headers, dan JAX-RS Implementation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-021.md">Bagian 021 — PATCH, JSON Patch, JSON Merge Patch, and Partial Update Semantics: PUT vs PATCH, Null vs Missing, Field Authorization, Validation, Optimistic Locking, Idempotency, Audit, dan Domain State Semantics ➡️</a>
+</div>

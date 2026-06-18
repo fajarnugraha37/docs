@@ -2901,6 +2901,9 @@ Part berikutnya:
 **Part 010 — Class-Level and Cross-Field Validation: Consistency inside One Object**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Group Sequence and Dynamic Group Sequence: Ordered Validation and Short-Circuiting](./learn-java-validation-jakarta-hibernate-validator-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Level and Cross-Field Validation: Consistency inside One Object](./learn-java-validation-jakarta-hibernate-validator-part-010.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-008.md">⬅️ Group Sequence and Dynamic Group Sequence: Ordered Validation and Short-Circuiting</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-010.md">Level and Cross-Field Validation: Consistency inside One Object ➡️</a>
+</div>

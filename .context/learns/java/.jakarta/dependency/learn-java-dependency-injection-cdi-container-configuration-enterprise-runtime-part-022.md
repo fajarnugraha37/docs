@@ -2277,6 +2277,9 @@ Series status: not finished.
 Next: Part 023 — Jakarta Common Annotations and Resource Injection.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 021 — Stateless, Stateful, Singleton Beans and Pooling Semantics](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — Jakarta Common Annotations and Resource Injection](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-021.md">⬅️ Part 021 — Stateless, Stateful, Singleton Beans and Pooling Semantics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-023.md">Part 023 — Jakarta Common Annotations and Resource Injection ➡️</a>
+</div>

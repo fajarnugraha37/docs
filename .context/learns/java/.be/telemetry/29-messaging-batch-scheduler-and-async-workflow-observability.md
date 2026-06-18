@@ -2017,8 +2017,10 @@ Seri belum selesai. Lanjut ke:
 
 **Part 30 — Troubleshooting Methodology: From Symptom to Root Cause**
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Database and External Dependency Troubleshooting with Logs, Metrics, Traces](./28-database-and-external-dependency-troubleshooting-with-logs-metrics-traces.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Troubleshooting Methodology: From Symptom to Root Cause](./30-troubleshooting-methodology-from-symptom-to-root-cause.md)
+<div class="page-nav">
+<a href="./28-database-and-external-dependency-troubleshooting-with-logs-metrics-traces.md">⬅️ Part 28 — Database and External Dependency Troubleshooting with Logs, Metrics, Traces</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./30-troubleshooting-methodology-from-symptom-to-root-cause.md">Part 30 — Troubleshooting Methodology: From Symptom to Root Cause ➡️</a>
+</div>

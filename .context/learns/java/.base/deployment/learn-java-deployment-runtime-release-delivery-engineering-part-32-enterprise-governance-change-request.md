@@ -2488,6 +2488,9 @@ For regulated, stateful, distributed Java systems, governance is part of the arc
 - SPDX: https://spdx.dev/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Runbook Engineering for Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-31-runbook-engineering-for-java-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — Deployment Architecture Decision Records and Checklists](./learn-java-deployment-runtime-release-delivery-engineering-part-33-deployment-architecture-decision-records-and-checklists.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-31-runbook-engineering-for-java-deployment.md">⬅️ Part 31 — Runbook Engineering for Java Deployment</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-33-deployment-architecture-decision-records-and-checklists.md">Part 33 — Deployment Architecture Decision Records and Checklists ➡️</a>
+</div>

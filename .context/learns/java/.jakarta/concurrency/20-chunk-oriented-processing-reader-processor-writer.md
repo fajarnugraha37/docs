@@ -2461,6 +2461,9 @@ Pertanyaan:
 - Open Liberty Jakarta Batch 2.1 documentation — contoh implementasi runtime dan feature activation.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 19 — Batchlet Model: Task-Oriented Batch Work](./19-batchlet-model-task-oriented-batch-work.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Checkpointing, Restartability, and Idempotency](./21-checkpointing-restartability-idempotency.md)
+<div class="page-nav">
+<a href="./19-batchlet-model-task-oriented-batch-work.md">⬅️ Part 19 — Batchlet Model: Task-Oriented Batch Work</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./21-checkpointing-restartability-idempotency.md">Part 21 — Checkpointing, Restartability, and Idempotency ➡️</a>
+</div>

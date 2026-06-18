@@ -3142,6 +3142,9 @@ Apakah sistem kita benar, stabil, terukur, rollbackable, dan siap menghadapi per
 Migrasi berhasil bukan saat `mvn test` hijau. Migrasi berhasil saat aplikasi berjalan di production dengan behavior yang dipahami, risiko yang dikendalikan, observability yang memadai, dan tidak ada workaround gelap yang akan meledak di upgrade berikutnya.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 22 — Design Principles dan Domain Modeling dengan Java](./learn-java-part-022.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Bagian 24 — Capstone: Java Engineering Mastery dan Production-Grade Decision Making](./learn-java-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-part-022.md">⬅️ Bagian 22 — Design Principles dan Domain Modeling dengan Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-024.md">Bagian 24 — Capstone: Java Engineering Mastery dan Production-Grade Decision Making ➡️</a>
+</div>

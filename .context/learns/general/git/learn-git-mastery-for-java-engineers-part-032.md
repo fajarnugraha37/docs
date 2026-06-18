@@ -2150,6 +2150,9 @@ Rujukan utama keseluruhan seri:
 - Praktik engineering production: trunk-based development, release governance, GitOps, CI/CD traceability, incident response, monorepo/polyrepo architecture, and compliance evidence
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 031 — Git dalam CI/CD, Release Automation, dan Compliance](./learn-git-mastery-for-java-engineers-part-031.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 0 — Build Engineering Mental Model: Dari Source Code ke Artifact yang Bisa Dipercaya](../../java/.base/build_tools/00-build-engineering-mental-model.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — Git dalam CI/CD, Release Automation, dan Compliance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<span></span>
+</div>

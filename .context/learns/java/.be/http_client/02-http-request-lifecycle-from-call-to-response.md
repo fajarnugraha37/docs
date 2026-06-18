@@ -2047,6 +2047,9 @@ File: 03-uri-url-encoding-query-and-canonical-request.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 1 — Java HTTP Client Landscape di Java 8–25](./01-java-http-client-landscape-java-8-to-25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — URI, URL, Encoding, Query Parameter, dan Canonical Request](./03-uri-url-encoding-query-and-canonical-request.md)
+<div class="page-nav">
+<a href="./01-java-http-client-landscape-java-8-to-25.md">⬅️ Part 1 — Java HTTP Client Landscape di Java 8–25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./03-uri-url-encoding-query-and-canonical-request.md">Part 3 — URI, URL, Encoding, Query Parameter, dan Canonical Request ➡️</a>
+</div>

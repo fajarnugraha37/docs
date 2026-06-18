@@ -2006,6 +2006,9 @@ Primary references used across this final integration:
   https://docs.oracle.com/en/java/javase/25/docs/api/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 029 — Memory-Aware API and System Design Patterns](./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — OSGi Mental Model: Dynamic Module System, Not Just Plugin Framework](../osgi/00-osgi-mental-model-dynamic-module-system-not-just-plugin-framework.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md">⬅️ Part 029 — Memory-Aware API and System Design Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

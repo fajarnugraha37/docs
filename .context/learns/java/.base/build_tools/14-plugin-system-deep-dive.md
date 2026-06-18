@@ -2404,6 +2404,9 @@ Simulasikan codegen plugin salah phase. Dokumentasikan:
 Seri belum selesai. Bagian berikutnya adalah **Part 15 — Maven Advanced Plugin Engineering: Custom Mojo, Parameter Injection, Lifecycle Binding**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 13 — Resource Processing, Filtering, Profiles, Properties, Environment Separation](./13-resource-processing-filtering-profiles-properties-environment-separation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Maven Advanced Plugin Engineering: Custom Mojo, Parameter Injection, Lifecycle Binding](./15-maven-advanced-plugin-engineering.md)
+<div class="page-nav">
+<a href="./13-resource-processing-filtering-profiles-properties-environment-separation.md">⬅️ Part 13 — Resource Processing, Filtering, Profiles, Properties, Environment Separation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./15-maven-advanced-plugin-engineering.md">Part 15 — Maven Advanced Plugin Engineering: Custom Mojo, Parameter Injection, Lifecycle Binding ➡️</a>
+</div>

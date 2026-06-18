@@ -3114,6 +3114,9 @@ Referensi yang relevan untuk bagian ini:
 - MicroProfile Config — configuration as runtime contract in modern enterprise Java.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 003 — Java EE to Jakarta EE Migration Model: `javax.*` to `jakarta.*`](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Classloaders, Modules, and Deployment Isolation](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-003.md">⬅️ Part 003 — Java EE to Jakarta EE Migration Model: `javax.*` to `jakarta.*`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-005.md">Part 005 — Classloaders, Modules, and Deployment Isolation ➡️</a>
+</div>

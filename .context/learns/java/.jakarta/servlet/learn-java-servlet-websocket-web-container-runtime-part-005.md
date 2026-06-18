@@ -2321,6 +2321,9 @@ Part berikutnya:
 - Part 006 — Response Object Internals: `HttpServletResponse`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 004 — Servlet Lifecycle Deep Dive](./learn-java-servlet-websocket-web-container-runtime-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 006 — Response Object Internals: `HttpServletResponse`](./learn-java-servlet-websocket-web-container-runtime-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-004.md">⬅️ Part 004 — Servlet Lifecycle Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-006.md">Part 006 — Response Object Internals: `HttpServletResponse` ➡️</a>
+</div>

@@ -2395,6 +2395,9 @@ Analisis:
 - Hibernate ORM 7 documentation
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 024 — Jakarta Data Deep Dive](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — Database Integration Patterns: Outbox, Inbox, CDC, Idempotency](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-024.md">⬅️ Part 024 — Jakarta Data Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-026.md">Part 026 — Database Integration Patterns: Outbox, Inbox, CDC, Idempotency ➡️</a>
+</div>

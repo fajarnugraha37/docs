@@ -2324,6 +2324,9 @@ Composition, Delegation, Mixins, and Object Collaboration Design
 Status seri: belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Generics for API Designers: Variance, Bounds, Erasure, and Type Tokens](./learn-java-oop-functional-reflection-codegen-modules-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Composition, Delegation, Mixins, and Object Collaboration Design](./learn-java-oop-functional-reflection-codegen-modules-part-013.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-011.md">⬅️ Generics for API Designers: Variance, Bounds, Erasure, and Type Tokens</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-013.md">Composition, Delegation, Mixins, and Object Collaboration Design ➡️</a>
+</div>

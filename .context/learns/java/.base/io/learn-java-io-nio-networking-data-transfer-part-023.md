@@ -1679,6 +1679,9 @@ TLS, Certificates, TrustStore, KeyStore, dan Secure Data Transfer
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 022 — UDP, Datagram, Multicast, dan Kapan Tidak Boleh Memakai TCP](./learn-java-io-nio-networking-data-transfer-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 024 — TLS, Certificates, TrustStore, KeyStore, dan Secure Data Transfer](./learn-java-io-nio-networking-data-transfer-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-io-nio-networking-data-transfer-part-022.md">⬅️ Part 022 — UDP, Datagram, Multicast, dan Kapan Tidak Boleh Memakai TCP</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-nio-networking-data-transfer-part-024.md">Part 024 — TLS, Certificates, TrustStore, KeyStore, dan Secure Data Transfer ➡️</a>
+</div>

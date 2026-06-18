@@ -2140,6 +2140,9 @@ Bagaimana recovery jika filesystem memberi sinyal parsial, terlambat, atau berbe
 Itulah pergeseran mental yang dibutuhkan untuk membangun sistem file workflow yang benar-benar production-grade.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Legacy `java.io.File`: Interop, Migration, and Compatibility](./learn-java-io-file-filesystem-storage-engineering-part-26-legacy-java-io-file-interop-migration-compatibility.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Containers, Cloud Runtime, Kubernetes Volumes, and Ephemeral Files](./learn-java-io-file-filesystem-storage-engineering-part-28-containers-cloud-runtime-kubernetes-volumes-ephemeral-files.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-26-legacy-java-io-file-interop-migration-compatibility.md">⬅️ Part 26 — Legacy `java.io.File`: Interop, Migration, and Compatibility</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-28-containers-cloud-runtime-kubernetes-volumes-ephemeral-files.md">Part 28 — Containers, Cloud Runtime, Kubernetes Volumes, and Ephemeral Files ➡️</a>
+</div>

@@ -2005,6 +2005,9 @@ Seri Graceful Shutdown, Error Handling, Exceptions, and Reliability selesai.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 029 — Case Study: Designing a Reliable Java Service End-to-End](./learn-java-reliability-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 00 — Orientation](../io/filesystem/learn-java-io-file-filesystem-storage-engineering-part-00-orientation.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-029.md">⬅️ Part 029 — Case Study: Designing a Reliable Java Service End-to-End</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

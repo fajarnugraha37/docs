@@ -1576,6 +1576,9 @@ It is where overload, latency, memory, and lifecycle policy become real.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/package-summary.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 020](./learn-java-collections-and-streams-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 022](./learn-java-collections-and-streams-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-020.md">⬅️ Java Collections and Streams — Part 020</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-022.md">Java Collections and Streams — Part 022 ➡️</a>
+</div>

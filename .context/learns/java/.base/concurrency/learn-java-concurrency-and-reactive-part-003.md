@@ -2255,6 +2255,9 @@ resource limits, and observability.
     https://openjdk.org/jeps/505
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 002](./learn-java-concurrency-and-reactive-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 004](./learn-java-concurrency-and-reactive-part-004.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-002.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 002</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-004.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 004 ➡️</a>
+</div>

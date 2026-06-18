@@ -2534,6 +2534,9 @@ It is that you can design a process where every state, every wait, every human d
 That is process orchestration engineering.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — Anti-patterns, Failure Modes, and Design Review Checklist](./learn-java-bpmn-camunda-part-29-anti-patterns-failure-modes-design-review-checklist.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: ORM as State Synchronization Engine, Not Just Mapping](../database/jpa/00-orientation-orm-as-state-synchronization-engine.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-29-anti-patterns-failure-modes-design-review-checklist.md">⬅️ Part 29 — Anti-patterns, Failure Modes, and Design Review Checklist</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

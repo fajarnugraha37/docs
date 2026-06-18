@@ -3227,8 +3227,10 @@ Part 1 akan membahas lebih dalam mental model runtime evidence:
 - Bagaimana cara berpikir saat production incident.
 - Bagaimana mengubah “debugging” menjadi “evidence-based investigation”.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 35 — Capstone: Designing a Production-Grade Mapping Layer](../mapper/35-capstone-designing-production-grade-mapping-layer.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Mental Model: Runtime Evidence, Not Just Logging](./01-runtime-evidence-not-just-logging.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./01-runtime-evidence-not-just-logging.md">Part 1 — Mental Model: Runtime Evidence, Not Just Logging ➡️</a>
+</div>

@@ -2061,6 +2061,9 @@ cancellation, shutdown, and observability.
     https://openjdk.org/jeps/444
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 001](./learn-java-concurrency-and-reactive-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 003](./learn-java-concurrency-and-reactive-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-001.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 001</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-003.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 003 ➡️</a>
+</div>

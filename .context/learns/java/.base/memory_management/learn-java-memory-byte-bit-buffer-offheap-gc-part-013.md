@@ -2450,6 +2450,9 @@ migration dari Unsafe/direct buffer
 - Dokumentasi dan perilaku umum OS virtual memory/page cache untuk memahami page fault, file-backed mappings, RSS, dan durability semantics.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Direct Buffer and Native Memory: What Actually Happens](./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Foreign Function & Memory API: Modern Off-Heap Memory](./learn-java-memory-byte-bit-buffer-offheap-gc-part-014.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md">⬅️ Direct Buffer and Native Memory: What Actually Happens</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-014.md">Foreign Function & Memory API: Modern Off-Heap Memory ➡️</a>
+</div>

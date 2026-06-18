@@ -1807,6 +1807,9 @@ Part 27 — Secure Error Handling, 401/403 Semantics, and User Experience
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 25 — API Gateway, Reverse Proxy, and Container Boundary Security](./learn-java-jakarta-security-authentication-authorization-identity-part-25-api-gateway-reverse-proxy-container-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Secure Error Handling, 401/403 Semantics, and User Experience](./learn-java-jakarta-security-authentication-authorization-identity-part-27-secure-error-handling-401-403-user-experience.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-25-api-gateway-reverse-proxy-container-boundary.md">⬅️ Part 25 — API Gateway, Reverse Proxy, and Container Boundary Security</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-security-authentication-authorization-identity-part-27-secure-error-handling-401-403-user-experience.md">Part 27 — Secure Error Handling, 401/403 Semantics, and User Experience ➡️</a>
+</div>

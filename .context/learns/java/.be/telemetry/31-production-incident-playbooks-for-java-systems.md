@@ -1567,9 +1567,10 @@ Part 32 will go deeper into Kubernetes-specific observability:
 - log loss during restarts,
 - node-level bottlenecks.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Troubleshooting Methodology: From Symptom to Root Cause](./30-troubleshooting-methodology-from-symptom-to-root-cause.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Observability in Containers and Kubernetes](./32-observability-in-containers-and-kubernetes.md)
+<div class="page-nav">
+<a href="./30-troubleshooting-methodology-from-symptom-to-root-cause.md">⬅️ Part 30 — Troubleshooting Methodology: From Symptom to Root Cause</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./32-observability-in-containers-and-kubernetes.md">Part 32 — Observability in Containers and Kubernetes ➡️</a>
+</div>

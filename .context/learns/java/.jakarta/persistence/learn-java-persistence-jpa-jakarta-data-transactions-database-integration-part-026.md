@@ -1925,6 +1925,9 @@ Kalimat paling penting dari bagian ini:
 - Debezium Documentation — Outbox Event Router and CDC-based event routing.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 025 — Spring Transaction + JPA Integration Deep Dive](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — Performance Engineering for JPA/Hibernate](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-027.md)
+<div class="page-nav">
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-025.md">⬅️ Part 025 — Spring Transaction + JPA Integration Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-027.md">Part 027 — Performance Engineering for JPA/Hibernate ➡️</a>
+</div>

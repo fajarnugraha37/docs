@@ -2113,6 +2113,9 @@ Bagian 043 — REST API Design for Enterprise Domains
 Kita akan membahas desain REST API untuk domain enterprise: aggregate/resource modeling, command vs resource endpoints, workflows, state machines, domain errors, idempotency, tenant/security boundaries, event/outbox integration, and long-term evolvability.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 041 — Performance Engineering JAX-RS: Request Pipeline Cost, JSON Serialization, Filters/Providers Overhead, Thread and Connection Pools, Blocking vs Async, Streaming, Multipart, Database/Downstream Latency, Benchmarking, Profiling, GC/Memory, and Capacity Planning](./learn-jaxrs-advanced-part-041.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 043 — REST API Design for Enterprise Domains: Aggregate and Resource Modeling, Command vs Resource Endpoints, Workflows, State Machines, Domain Errors, Idempotency, Tenant/Security Boundaries, Event/Outbox Integration, and Long-Term Evolvability](./learn-jaxrs-advanced-part-043.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-041.md">⬅️ Bagian 041 — Performance Engineering JAX-RS: Request Pipeline Cost, JSON Serialization, Filters/Providers Overhead, Thread and Connection Pools, Blocking vs Async, Streaming, Multipart, Database/Downstream Latency, Benchmarking, Profiling, GC/Memory, and Capacity Planning</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-043.md">Bagian 043 — REST API Design for Enterprise Domains: Aggregate and Resource Modeling, Command vs Resource Endpoints, Workflows, State Machines, Domain Errors, Idempotency, Tenant/Security Boundaries, Event/Outbox Integration, and Long-Term Evolvability ➡️</a>
+</div>

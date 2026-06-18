@@ -3059,6 +3059,9 @@ Masih lanjut ke part 017 sampai part 030.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 015 — `Unsafe`, `VarHandle`, Memory Access Deprecation, and Migration Strategy](./learn-java-memory-byte-bit-buffer-offheap-gc-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Memory Model vs JVM Memory Management](./learn-java-memory-byte-bit-buffer-offheap-gc-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-015.md">⬅️ Part 015 — `Unsafe`, `VarHandle`, Memory Access Deprecation, and Migration Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-017.md">Java Memory Model vs JVM Memory Management ➡️</a>
+</div>

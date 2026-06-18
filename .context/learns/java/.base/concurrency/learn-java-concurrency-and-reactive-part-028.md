@@ -1551,6 +1551,9 @@ then change one variable at a time.
     https://docs.micrometer.io/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 027](./learn-java-concurrency-and-reactive-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 029](./learn-java-concurrency-and-reactive-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-027.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 027</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-029.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 029 ➡️</a>
+</div>

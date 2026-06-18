@@ -2224,6 +2224,9 @@ Part 028 — Container Configuration: Connectors, Thread Pools, Limits, Timeouts
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 026 — Sent Events, Long Polling, and Streaming Alternatives](./learn-java-servlet-websocket-web-container-runtime-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 028 — Container Configuration: Connectors, Thread Pools, Limits, Timeouts](./learn-java-servlet-websocket-web-container-runtime-part-028.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-026.md">⬅️ Part 026 — Sent Events, Long Polling, and Streaming Alternatives</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-028.md">Part 028 — Container Configuration: Connectors, Thread Pools, Limits, Timeouts ➡️</a>
+</div>

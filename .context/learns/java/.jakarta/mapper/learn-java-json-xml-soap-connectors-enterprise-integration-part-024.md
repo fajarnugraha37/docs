@@ -2165,6 +2165,9 @@ Seri belum selesai.
 - Target akhir: Part 34.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 23 — WSDL Deep Dive: Contract, Types, Messages, Port Types, Bindings, Services, and Evolution](./learn-java-json-xml-soap-connectors-enterprise-integration-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — JAX-WS / Jakarta XML Web Services Client Side](./learn-java-json-xml-soap-connectors-enterprise-integration-part-025.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-023.md">⬅️ Part 23 — WSDL Deep Dive: Contract, Types, Messages, Port Types, Bindings, Services, and Evolution</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-025.md">Part 25 — JAX-WS / Jakarta XML Web Services Client Side ➡️</a>
+</div>

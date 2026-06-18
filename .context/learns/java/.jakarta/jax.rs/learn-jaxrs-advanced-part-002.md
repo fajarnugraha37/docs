@@ -2492,6 +2492,9 @@ Bagian 003 — Resource Class Mental Model: Class-Level Path, Method-Level Path,
 Kita akan masuk sangat detail ke desain resource class, resource method, subresource locator, lifecycle, statefulness, thin resource principle, dan boundary design.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 001 — HTTP Semantics yang Wajib Dikuasai Sebelum JAX-RS](./learn-jaxrs-advanced-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 003 — Resource Class Mental Model: Class-Level Path, Method-Level Path, Subresource, Lifecycle, dan Boundary Design](./learn-jaxrs-advanced-part-003.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-001.md">⬅️ Bagian 001 — HTTP Semantics yang Wajib Dikuasai Sebelum JAX-RS</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-003.md">Bagian 003 — Resource Class Mental Model: Class-Level Path, Method-Level Path, Subresource, Lifecycle, dan Boundary Design ➡️</a>
+</div>

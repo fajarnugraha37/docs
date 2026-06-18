@@ -2686,6 +2686,9 @@ Kita akan masuk ke Apache Felix sebagai runtime OSGi ringan:
 Part 11 selesai. Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 10 — Configuration Admin and Metatype: Runtime Configuration as First-Class Contract](./10-configuration-admin-metatype-runtime-configuration-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Apache Felix Runtime: Lightweight Framework, Gogo Shell, SCR, FileInstall](./12-apache-felix-runtime-lightweight-framework-gogo-scr-fileinstall.md)
+<div class="page-nav">
+<a href="./10-configuration-admin-metatype-runtime-configuration-contract.md">⬅️ Part 10 — Configuration Admin and Metatype: Runtime Configuration as First-Class Contract</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./12-apache-felix-runtime-lightweight-framework-gogo-scr-fileinstall.md">Part 12 — Apache Felix Runtime: Lightweight Framework, Gogo Shell, SCR, FileInstall ➡️</a>
+</div>

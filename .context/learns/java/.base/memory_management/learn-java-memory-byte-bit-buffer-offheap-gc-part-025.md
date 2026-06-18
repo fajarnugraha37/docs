@@ -2549,6 +2549,9 @@ production-safe heap dump strategy
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: GC Selection Strategy: Choosing the Right Collector by Workload](./learn-java-memory-byte-bit-buffer-offheap-gc-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — Heap Dump Analysis and Leak Investigation](./learn-java-memory-byte-bit-buffer-offheap-gc-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-024.md">⬅️ GC Selection Strategy: Choosing the Right Collector by Workload</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-026.md">Part 026 — Heap Dump Analysis and Leak Investigation ➡️</a>
+</div>

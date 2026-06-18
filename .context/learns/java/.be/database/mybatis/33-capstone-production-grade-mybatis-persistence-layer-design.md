@@ -1694,6 +1694,9 @@ Seri `learn-java-mybatis-sql-mapper-persistence-engineering` **selesai**.
 Total bagian: **34 part**, dari Part 0 sampai Part 33.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 32 — Refactoring Legacy MyBatis Systems](./32-refactoring-legacy-mybatis-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientasi Seri Java Jersey: Scope, Mental Model, Versi, dan Cara Belajar](../../framework/jersey/00-orientasi-seri-java-jersey-runtime-resource-client-extension-engineering.md)
+<div class="page-nav">
+<a href="./32-refactoring-legacy-mybatis-systems.md">⬅️ Part 32 — Refactoring Legacy MyBatis Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<span></span>
+</div>

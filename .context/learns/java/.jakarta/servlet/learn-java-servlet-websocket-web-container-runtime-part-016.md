@@ -2548,6 +2548,9 @@ Part berikutnya akan membahas error handling secara sistematis:
 - observability dan taxonomy error produksi.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 015 — Servlet Non-Blocking I/O](./learn-java-servlet-websocket-web-container-runtime-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Error Handling and Failure Semantics in Servlet Apps](./learn-java-servlet-websocket-web-container-runtime-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-015.md">⬅️ Part 015 — Servlet Non-Blocking I/O</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-017.md">Part 017 — Error Handling and Failure Semantics in Servlet Apps ➡️</a>
+</div>

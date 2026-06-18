@@ -2296,6 +2296,9 @@ Engineer Java yang kuat tidak hanya tahu bahwa `String` immutable dan `LocalDate
 Kalau bagian ini dikuasai, kamu akan jauh lebih siap membangun sistem Java yang benar untuk data global, regulatory workflow, audit trail, dan integrasi enterprise.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Learn Java — Part 010](./learn-java-part-010.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 012 — JVM Internal: Dari Class File sampai JIT](./learn-java-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-part-010.md">⬅️ Learn Java — Part 010</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<a href="./learn-java-part-012.md">Learn Java Part 012 — JVM Internal: Dari Class File sampai JIT ➡️</a>
+</div>

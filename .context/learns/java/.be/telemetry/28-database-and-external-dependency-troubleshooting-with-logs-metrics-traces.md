@@ -2269,9 +2269,10 @@ Kita akan membahas flow yang tidak lagi request-response sederhana:
 - partial completion,
 - async workflow timeline reconstruction.
 
-
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — GC Observability and Troubleshooting Across Java 8–25](./27-gc-observability-and-troubleshooting-across-java-8-25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Messaging, Batch, Scheduler, and Async Workflow Observability](./29-messaging-batch-scheduler-and-async-workflow-observability.md)
+<div class="page-nav">
+<a href="./27-gc-observability-and-troubleshooting-across-java-8-25.md">⬅️ Part 27 — GC Observability and Troubleshooting Across Java 8–25</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./29-messaging-batch-scheduler-and-async-workflow-observability.md">Part 29 — Messaging, Batch, Scheduler, and Async Workflow Observability ➡️</a>
+</div>

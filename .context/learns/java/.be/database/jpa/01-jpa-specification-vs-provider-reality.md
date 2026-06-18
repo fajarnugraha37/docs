@@ -1853,6 +1853,9 @@ Fokus berikutnya adalah bagaimana provider benar-benar start:
 - cara membaca startup failure secara sistematis.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Orientation: ORM as State Synchronization Engine, Not Just Mapping](./00-orientation-orm-as-state-synchronization-engine.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 2 — Persistence Unit, Bootstrap, Metadata, and Provider Initialization](./02-persistence-unit-bootstrap-metadata-provider-initialization.md)
+<div class="page-nav">
+<a href="./00-orientation-orm-as-state-synchronization-engine.md">⬅️ Part 0 — Orientation: ORM as State Synchronization Engine, Not Just Mapping</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./02-persistence-unit-bootstrap-metadata-provider-initialization.md">Part 2 — Persistence Unit, Bootstrap, Metadata, and Provider Initialization ➡️</a>
+</div>

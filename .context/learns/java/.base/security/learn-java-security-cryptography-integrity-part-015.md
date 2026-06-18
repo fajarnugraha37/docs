@@ -1936,6 +1936,9 @@ Part 16 — Secure Serialization, Deserialization, and Object Integrity
 Kita akan membahas kenapa deserialization adalah trust-boundary problem, bagaimana gadget chain bekerja secara mental model, bagaimana `ObjectInputFilter` membantu, kenapa signed serialized payload tidak otomatis aman, dan bagaimana mendesain boundary DTO yang lebih defensible.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 14 — TLS/JSSE Deep Dive for Java Engineers](./learn-java-security-cryptography-integrity-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Secure Serialization, Deserialization, and Object Integrity](./learn-java-security-cryptography-integrity-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-014.md">⬅️ Part 14 — TLS/JSSE Deep Dive for Java Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-016.md">Part 16 — Secure Serialization, Deserialization, and Object Integrity ➡️</a>
+</div>

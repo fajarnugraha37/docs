@@ -1475,6 +1475,9 @@ ownership, size, lifecycle, and failure semantics.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/StreamSupport.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 047](./learn-java-collections-and-streams-part-047.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 049](./learn-java-collections-and-streams-part-049.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-047.md">⬅️ Java Collections and Streams — Part 047</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-049.md">Java Collections and Streams — Part 049 ➡️</a>
+</div>

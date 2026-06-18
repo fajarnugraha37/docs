@@ -2380,6 +2380,9 @@ Berikutnya:
 Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 6 — Dependency Graph Fundamentals: Direct, Transitive, Scope, Configuration, Variant](./06-dependency-graph-fundamentals.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Repository Engineering: Maven Central, Nexus, Artifactory, Proxy, Mirror, Credential, Offline Build](./08-repository-engineering.md)
+<div class="page-nav">
+<a href="./06-dependency-graph-fundamentals.md">⬅️ Part 6 — Dependency Graph Fundamentals: Direct, Transitive, Scope, Configuration, Variant</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./08-repository-engineering.md">Part 8 — Repository Engineering: Maven Central, Nexus, Artifactory, Proxy, Mirror, Credential, Offline Build ➡️</a>
+</div>

@@ -1779,6 +1779,9 @@ Part 31 — Advanced XML Processing Patterns: DOM/SAX Hybrid, Streaming State Ma
 Part 30 adalah security foundation. Part 31 akan memakai foundation ini untuk desain pipeline XML production-grade.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 29 — SAX Namespaces, Features, Properties, Entity Resolution, DTD Handling](./29-sax-namespaces-features-properties-entity-resolution-dtd.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Advanced XML Processing Patterns: DOM/SAX Hybrid, Streaming State Machines, Large Documents](./31-advanced-xml-processing-patterns-dom-sax-hybrid-large-documents.md)
+<div class="page-nav">
+<a href="./29-sax-namespaces-features-properties-entity-resolution-dtd.md">⬅️ Part 29 — SAX Namespaces, Features, Properties, Entity Resolution, DTD Handling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./31-advanced-xml-processing-patterns-dom-sax-hybrid-large-documents.md">Part 31 — Advanced XML Processing Patterns: DOM/SAX Hybrid, Streaming State Machines, Large Documents ➡️</a>
+</div>

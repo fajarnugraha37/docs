@@ -2752,6 +2752,9 @@ Seri ini **belum selesai**.
 - Berikutnya: **Part 20 — JAXB Advanced Mapping**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — JAXB Schema-First Workflow: XSD → Java with XJC, Binding Customization, Episode Files, and Generated-Code Hygiene](./learn-java-json-xml-soap-connectors-enterprise-integration-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — JAXB Advanced Mapping: Adapters, Polymorphism, `JAXBElement`, Wildcards, Mixed Content, and Contract-Safe XML Models](./learn-java-json-xml-soap-connectors-enterprise-integration-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-018.md">⬅️ Part 18 — JAXB Schema-First Workflow: XSD → Java with XJC, Binding Customization, Episode Files, and Generated-Code Hygiene</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-020.md">Part 20 — JAXB Advanced Mapping: Adapters, Polymorphism, `JAXBElement`, Wildcards, Mixed Content, and Contract-Safe XML Models ➡️</a>
+</div>

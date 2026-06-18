@@ -2150,6 +2150,9 @@ Setelah memahami bahwa hash membuktikan byte identity, kita akan membahas hal ya
 File bernama `invoice.pdf` belum tentu PDF. File dengan MIME `text/csv` belum tentu CSV valid. File dengan extension aman belum tentu content aman. Dan content detection sendiri penuh keterbatasan.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 21 — Append-Only Files, WAL, Journaling, and Recovery Design](./learn-java-io-file-filesystem-storage-engineering-part-21-append-only-wal-journaling-recovery-design.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 23 — File Naming, Extension, MIME, Charset, and Content Detection](./learn-java-io-file-filesystem-storage-engineering-part-23-file-naming-extension-mime-charset-content-detection.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-21-append-only-wal-journaling-recovery-design.md">⬅️ Part 21 — Append-Only Files, WAL, Journaling, and Recovery Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-23-file-naming-extension-mime-charset-content-detection.md">Part 23 — File Naming, Extension, MIME, Charset, and Content Detection ➡️</a>
+</div>

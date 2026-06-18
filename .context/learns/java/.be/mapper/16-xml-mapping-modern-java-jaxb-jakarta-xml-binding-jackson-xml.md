@@ -2662,6 +2662,9 @@ Part 17 akan menjawab:
 - OWASP XML External Entity Prevention Cheat Sheet — https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment](./15-json-schema-openapi-runtime-contract-alignment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — XML Edge Cases: Namespace, XSD, SOAP-ish Payloads, Canonicalization](./17-xml-edge-cases-namespace-xsd-soapish-payloads-canonicalization.md)
+<div class="page-nav">
+<a href="./15-json-schema-openapi-runtime-contract-alignment.md">⬅️ Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./17-xml-edge-cases-namespace-xsd-soapish-payloads-canonicalization.md">Part 17 — XML Edge Cases: Namespace, XSD, SOAP-ish Payloads, Canonicalization ➡️</a>
+</div>

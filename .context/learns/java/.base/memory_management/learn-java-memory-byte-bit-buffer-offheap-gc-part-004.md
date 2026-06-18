@@ -2696,6 +2696,9 @@ Masih lanjut ke part 005 sampai part 030.
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Object Layout in HotSpot: Header, Mark Word, Klass Pointer, Padding](./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Stack, Heap, Metaspace, Code Cache, Thread Memory](./learn-java-memory-byte-bit-buffer-offheap-gc-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md">⬅️ Object Layout in HotSpot: Header, Mark Word, Klass Pointer, Padding</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-005.md">Stack, Heap, Metaspace, Code Cache, Thread Memory ➡️</a>
+</div>

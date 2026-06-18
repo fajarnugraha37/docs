@@ -2305,6 +2305,9 @@ Part berikutnya:
 - Part 005 — Cascaded Validation: `@Valid`, Object Graphs, Aggregates, and Boundary Control
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: in Constraints Deep Dive: Semantics, Edge Cases, and Misuse](./learn-java-validation-jakarta-hibernate-validator-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Cascaded Validation: `@Valid`, Object Graphs, Aggregates, and Boundary Control](./learn-java-validation-jakarta-hibernate-validator-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-003.md">⬅️ in Constraints Deep Dive: Semantics, Edge Cases, and Misuse</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-005.md">Cascaded Validation: `@Valid`, Object Graphs, Aggregates, and Boundary Control ➡️</a>
+</div>

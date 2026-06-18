@@ -2149,6 +2149,9 @@ Next part:
 `30-multi-tenancy-security-filters-row-level-isolation-data-leakage.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 28 — Performance Engineering: Cost Model from Object Graph to Database Work](./28-performance-engineering-cost-model-object-graph-to-database-work.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 30 — Multi-Tenancy, Security, Filters, Row-Level Isolation, and Data Leakage Prevention](./30-multi-tenancy-security-filters-row-level-isolation-data-leakage.md)
+<div class="page-nav">
+<a href="./28-performance-engineering-cost-model-object-graph-to-database-work.md">⬅️ Part 28 — Performance Engineering: Cost Model from Object Graph to Database Work</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./30-multi-tenancy-security-filters-row-level-isolation-data-leakage.md">Part 30 — Multi-Tenancy, Security, Filters, Row-Level Isolation, and Data Leakage Prevention ➡️</a>
+</div>

@@ -1976,6 +1976,9 @@ Lanjut ke:
 > **Part 22 — Production Operations: Incidents, Repair, Migration, and Runbook Engineering**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 20 — Testing BPMN and Camunda Applications](./learn-java-bpmn-camunda-part-20-testing-bpmn-and-camunda-applications.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Production Operations: Incidents, Repair, Migration, and Runbook Engineering](./learn-java-bpmn-camunda-part-22-production-ops-incidents-repair-migration-runbook-engineering.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-20-testing-bpmn-and-camunda-applications.md">⬅️ Part 20 — Testing BPMN and Camunda Applications</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-22-production-ops-incidents-repair-migration-runbook-engineering.md">Part 22 — Production Operations: Incidents, Repair, Migration, and Runbook Engineering ➡️</a>
+</div>

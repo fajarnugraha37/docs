@@ -2388,6 +2388,9 @@ Optional, Nullability, Result Modeling, and Error Channels
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Lambdas Under the Hood: Capture, Target Typing, `invokedynamic`, and SAM](./learn-java-oop-functional-reflection-codegen-modules-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Optional, Nullability, Result Modeling, and Error Channels](./learn-java-oop-functional-reflection-codegen-modules-part-017.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-015.md">⬅️ Lambdas Under the Hood: Capture, Target Typing, `invokedynamic`, and SAM</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-017.md">Optional, Nullability, Result Modeling, and Error Channels ➡️</a>
+</div>

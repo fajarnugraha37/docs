@@ -2299,6 +2299,9 @@ tetapi bisa mendesain, mereview, mengoptimalkan, dan mengamankan penggunaannya.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Iterator.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 34 — Top 1% Build Engineer Playbook](../build_tools/34-top-1-percent-build-engineer-playbook.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 001](./learn-java-collections-and-streams-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-001.md">Java Collections and Streams — Part 001 ➡️</a>
+</div>

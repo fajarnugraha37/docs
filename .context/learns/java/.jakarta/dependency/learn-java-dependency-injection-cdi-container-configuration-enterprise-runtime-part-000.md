@@ -2439,6 +2439,9 @@ Part 001 — Dependency Management: From JAR Hell to Reproducible Enterprise Bui
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 35 — Final Synthesis: Choosing the Right Execution Model](../concurrency/35-final-synthesis-choosing-the-right-execution-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 001 — Dependency Management: From JAR Hell to Reproducible Enterprise Builds](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-001.md)
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-001.md">Part 001 — Dependency Management: From JAR Hell to Reproducible Enterprise Builds ➡️</a>
+</div>

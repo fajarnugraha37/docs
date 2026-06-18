@@ -1967,8 +1967,10 @@ Berikutnya:
 
 **Part 18 — Secure Logging: PII, Secrets, Injection, Compliance, Auditability**.
 
-
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 16 — Logs + Traces + Metrics Correlation](./16-logs-traces-metrics-correlation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — Secure Logging: PII, Secrets, Injection, Compliance, Auditability](./18-secure-logging-pii-secrets-injection-compliance-auditability.md)
+<div class="page-nav">
+<a href="./16-logs-traces-metrics-correlation.md">⬅️ Part 16 — Logs + Traces + Metrics Correlation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./18-secure-logging-pii-secrets-injection-compliance-auditability.md">Part 18 — Secure Logging: PII, Secrets, Injection, Compliance, Auditability ➡️</a>
+</div>

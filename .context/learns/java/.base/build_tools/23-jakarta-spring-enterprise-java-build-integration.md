@@ -2972,6 +2972,9 @@ Part 24 — Code Generation Pipelines: OpenAPI, JAXB, Protobuf, gRPC, jOOQ, Quer
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Multi-Module Architecture for Large Java Systems](./22-multi-module-architecture-large-java-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Code Generation Pipelines: OpenAPI, JAXB, Protobuf, gRPC, jOOQ, QueryDSL](./24-code-generation-pipelines.md)
+<div class="page-nav">
+<a href="./22-multi-module-architecture-large-java-systems.md">⬅️ Part 22 — Multi-Module Architecture for Large Java Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./24-code-generation-pipelines.md">Part 24 — Code Generation Pipelines: OpenAPI, JAXB, Protobuf, gRPC, jOOQ, QueryDSL ➡️</a>
+</div>

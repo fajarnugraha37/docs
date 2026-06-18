@@ -2625,6 +2625,9 @@ Next part:
 `17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — N+1, Cartesian Explosion, and Fetch Plan Engineering](./15-n-plus-one-cartesian-explosion-fetch-plan-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 17 — Bulk Operations, Batching, Stateless Sessions, and High-Volume Data Mutation](./17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md)
+<div class="page-nav">
+<a href="./15-n-plus-one-cartesian-explosion-fetch-plan-engineering.md">⬅️ Part 15 — N+1, Cartesian Explosion, and Fetch Plan Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md">Part 17 — Bulk Operations, Batching, Stateless Sessions, and High-Volume Data Mutation ➡️</a>
+</div>

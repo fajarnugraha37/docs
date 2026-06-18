@@ -2127,6 +2127,9 @@ Bagian berikutnya:
 - Part 012 — Records, Immutability, Builders, Lombok, and Modern Java Modeling
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Level and Cross-Field Validation: Consistency inside One Object](./learn-java-validation-jakarta-hibernate-validator-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Records, Immutability, Builders, Lombok, and Modern Java Modeling](./learn-java-validation-jakarta-hibernate-validator-part-012.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-010.md">⬅️ Level and Cross-Field Validation: Consistency inside One Object</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-012.md">Records, Immutability, Builders, Lombok, and Modern Java Modeling ➡️</a>
+</div>

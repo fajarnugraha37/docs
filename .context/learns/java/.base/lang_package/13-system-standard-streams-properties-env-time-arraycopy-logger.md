@@ -1701,6 +1701,9 @@ File berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — `Exception`, `RuntimeException`, `Error`: Failure Taxonomy for Serious Systems](./12-exception-runtimeexception-error-failure-taxonomy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — `Runtime`, `Process`, `ProcessBuilder`, `ProcessHandle`: OS Boundary](./14-runtime-process-processbuilder-processhandle-os-boundary.md)
+<div class="page-nav">
+<a href="./12-exception-runtimeexception-error-failure-taxonomy.md">⬅️ Part 12 — `Exception`, `RuntimeException`, `Error`: Failure Taxonomy for Serious Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./14-runtime-process-processbuilder-processhandle-os-boundary.md">Part 14 — `Runtime`, `Process`, `ProcessBuilder`, `ProcessHandle`: OS Boundary ➡️</a>
+</div>

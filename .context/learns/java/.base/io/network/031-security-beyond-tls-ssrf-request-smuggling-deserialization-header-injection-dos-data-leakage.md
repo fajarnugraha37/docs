@@ -1818,6 +1818,9 @@ centralized policy, careful observability, and tests that exercise the real path
 - Java SE 25 `HttpClient` — https://docs.oracle.com/en/java/javase/25/docs/api/java.net.http/java/net/http/HttpClient.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 30 — Large Payload and File Transfer: Upload, Download, Multipart, Range, Resume, Checksums, and Memory Safety](./030-large-payload-file-transfer-upload-download-multipart-range-resume-checksums-memory-safety.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 32 — Testing Networked Java Systems: Unit, Contract, Integration, Chaos, Fault Injection, and Replay](./032-testing-networked-java-systems-unit-contract-integration-chaos-fault-injection-replay.md)
+<div class="page-nav">
+<a href="./030-large-payload-file-transfer-upload-download-multipart-range-resume-checksums-memory-safety.md">⬅️ Part 30 — Large Payload and File Transfer: Upload, Download, Multipart, Range, Resume, Checksums, and Memory Safety</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./032-testing-networked-java-systems-unit-contract-integration-chaos-fault-injection-replay.md">Part 32 — Testing Networked Java Systems: Unit, Contract, Integration, Chaos, Fault Injection, and Replay ➡️</a>
+</div>

@@ -2735,6 +2735,9 @@ Kita akan membahas:
 Dengan kata lain, setelah tahu cara menguji Jersey, kita akan belajar cara memperluas Jersey secara aman.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Configuration Engineering: Properties, Environments, Features, and Runtime Flags](./26-configuration-engineering-properties-environments-features-runtime-flags.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Extension Engineering: Feature, DynamicFeature, Binder, Provider, and SPI Design](./28-extension-engineering-feature-dynamicfeature-binder-provider-spi-design.md)
+<div class="page-nav">
+<a href="./26-configuration-engineering-properties-environments-features-runtime-flags.md">⬅️ Part 26 — Configuration Engineering: Properties, Environments, Features, and Runtime Flags</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./28-extension-engineering-feature-dynamicfeature-binder-provider-spi-design.md">Part 28 — Extension Engineering: Feature, DynamicFeature, Binder, Provider, and SPI Design ➡️</a>
+</div>

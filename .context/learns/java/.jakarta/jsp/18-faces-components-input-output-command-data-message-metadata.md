@@ -1765,6 +1765,9 @@ Bagian berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Faces Lifecycle Deep Dive: Phase-by-Phase Execution and Failure Modeling](./17-faces-lifecycle-deep-dive-phase-by-phase-failure-modeling.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Conversion and Validation in Faces: UI-Level Integrity](./19-conversion-and-validation-in-faces-ui-level-integrity.md)
+<div class="page-nav">
+<a href="./17-faces-lifecycle-deep-dive-phase-by-phase-failure-modeling.md">⬅️ Part 17 — Faces Lifecycle Deep Dive: Phase-by-Phase Execution and Failure Modeling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./19-conversion-and-validation-in-faces-ui-level-integrity.md">Part 19 — Conversion and Validation in Faces: UI-Level Integrity ➡️</a>
+</div>

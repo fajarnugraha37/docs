@@ -2259,6 +2259,9 @@ Harus revert, reset, restore, checkout, atau cherry-pick?
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 014 — Git Workflow untuk Tim: Trunk-Based, Git Flow, GitHub Flow](./learn-git-mastery-for-java-engineers-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 016 — Cherry-Pick, Revert, Reset: Memilih Operasi Koreksi yang Tepat](./learn-git-mastery-for-java-engineers-part-016.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Git Workflow untuk Tim: Trunk-Based, Git Flow, GitHub Flow</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-016.md">Part 016 — Cherry-Pick, Revert, Reset: Memilih Operasi Koreksi yang Tepat ➡️</a>
+</div>

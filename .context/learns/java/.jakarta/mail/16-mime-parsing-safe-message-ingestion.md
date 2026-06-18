@@ -2346,6 +2346,9 @@ Progress saat ini:
 Seri belum selesai. Bagian berikutnya adalah **Part 17 — Jakarta Mail in Jakarta EE Containers**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 15 — Inbound Mail: IMAP/POP3, Store, Folder, Message Reading](./15-inbound-mail-imap-pop3-store-folder.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Jakarta Mail in Jakarta EE Containers](./17-jakarta-ee-container-managed-mail.md)
+<div class="page-nav">
+<a href="./15-inbound-mail-imap-pop3-store-folder.md">⬅️ Part 15 — Inbound Mail: IMAP/POP3, Store, Folder, Message Reading</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./17-jakarta-ee-container-managed-mail.md">Part 17 — Jakarta Mail in Jakarta EE Containers ➡️</a>
+</div>

@@ -2162,6 +2162,9 @@ File berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 0 — Orientation: HTTP Client sebagai Production Subsystem, Bukan Utility](./00-orientation-http-client-as-production-subsystem.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Request Lifecycle Deep Dive: Dari Method Call Sampai Response Body](./02-http-request-lifecycle-from-call-to-response.md)
+<div class="page-nav">
+<a href="./00-orientation-http-client-as-production-subsystem.md">⬅️ Part 0 — Orientation: HTTP Client sebagai Production Subsystem, Bukan Utility</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./02-http-request-lifecycle-from-call-to-response.md">Part 2 — Request Lifecycle Deep Dive: Dari Method Call Sampai Response Body ➡️</a>
+</div>

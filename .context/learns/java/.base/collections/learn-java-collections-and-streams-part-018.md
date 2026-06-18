@@ -1754,6 +1754,9 @@ but enum evolution and mutability must be reviewed like schema changes.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Set.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 017](./learn-java-collections-and-streams-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 019](./learn-java-collections-and-streams-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-017.md">⬅️ Java Collections and Streams — Part 017</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-019.md">Java Collections and Streams — Part 019 ➡️</a>
+</div>

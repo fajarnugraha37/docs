@@ -1741,6 +1741,9 @@ and an observable metric.
     https://openjdk.org/jeps/491
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 018](./learn-java-concurrency-and-reactive-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 020](./learn-java-concurrency-and-reactive-part-020.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-018.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 018</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-020.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 020 ➡️</a>
+</div>

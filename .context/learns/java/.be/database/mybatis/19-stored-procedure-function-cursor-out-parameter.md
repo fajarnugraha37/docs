@@ -2379,6 +2379,9 @@ Berikutnya:
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 18 — Lazy Loading, Nested Select, N+1, and Object Graph Control](./18-lazy-loading-nested-select-n-plus-one-object-graph-control.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Concurrency and Consistency: Locking, Versioning, Lost Update](./20-concurrency-consistency-locking-versioning-lost-update.md)
+<div class="page-nav">
+<a href="./18-lazy-loading-nested-select-n-plus-one-object-graph-control.md">⬅️ Part 18 — Lazy Loading, Nested Select, N+1, and Object Graph Control</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./20-concurrency-consistency-locking-versioning-lost-update.md">Part 20 — Concurrency and Consistency: Locking, Versioning, Lost Update ➡️</a>
+</div>

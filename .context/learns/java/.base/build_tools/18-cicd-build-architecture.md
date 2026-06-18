@@ -2406,6 +2406,9 @@ Di bagian ini kita membangun mental model CI/CD build architecture:
 Seri belum selesai. Bagian berikutnya: **Part 19 — Release Engineering: Semantic Versioning, Snapshot, Release, Tagging, Changelog, Publishing**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — Performance Engineering: Build Time, Configuration Cache, Daemon, Parallelism, Incrementality](./17-performance-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Release Engineering: Semantic Versioning, Snapshot, Release, Tagging, Changelog, Publishing](./19-release-engineering.md)
+<div class="page-nav">
+<a href="./17-performance-engineering.md">⬅️ Part 17 — Performance Engineering: Build Time, Configuration Cache, Daemon, Parallelism, Incrementality</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./19-release-engineering.md">Part 19 — Release Engineering: Semantic Versioning, Snapshot, Release, Tagging, Changelog, Publishing ➡️</a>
+</div>

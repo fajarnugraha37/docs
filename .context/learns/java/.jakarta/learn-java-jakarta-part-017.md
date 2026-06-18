@@ -3106,6 +3106,9 @@ Engineer top-tier tidak hanya membuat login berhasil. Ia membuktikan bahwa akses
 Bagian berikutnya akan membahas **Jakarta Authorization dan Jakarta Authentication** sebagai lower-level security specifications: kapan perlu memahami JACC/Jakarta Authorization, Jakarta Authentication/JASPIC, container security SPI, dan bagaimana mereka berhubungan dengan Jakarta Security.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 16 — Jakarta Servlet (`jakarta.servlet`): Fondasi Web Container](./learn-java-jakarta-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Bagian 18 — Jakarta Authentication dan Jakarta Authorization: Low-Level Security SPI](./learn-java-jakarta-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-jakarta-part-016.md">⬅️ Bagian 16 — Jakarta Servlet (`jakarta.servlet`): Fondasi Web Container</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-java-jakarta-part-018.md">Bagian 18 — Jakarta Authentication dan Jakarta Authorization: Low-Level Security SPI ➡️</a>
+</div>

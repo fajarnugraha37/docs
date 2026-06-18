@@ -2438,6 +2438,9 @@ Berikutnya: Part 002 — Java Object, Array, Reference, Equality, Hashing
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 000 — Orientation: Cara Berpikir Data Structure & Algorithm untuk Engineer Top-Tier](./learn-java-dsa-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 002 — Java Object, Array, Reference, Equality, Hashing](./learn-java-dsa-part-002.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-000.md">⬅️ Part 000 — Orientation: Cara Berpikir Data Structure & Algorithm untuk Engineer Top-Tier</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-002.md">Part 002 — Java Object, Array, Reference, Equality, Hashing ➡️</a>
+</div>

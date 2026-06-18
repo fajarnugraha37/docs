@@ -1804,6 +1804,9 @@ Am I reducing a value or collecting a container?
     https://dev.java/learn/api/streams/terminal-operations/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 028](./learn-java-collections-and-streams-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 030](./learn-java-collections-and-streams-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-028.md">⬅️ Java Collections and Streams — Part 028</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-030.md">Java Collections and Streams — Part 030 ➡️</a>
+</div>

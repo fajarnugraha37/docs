@@ -2530,6 +2530,9 @@ Performance dan Maintenance Repository
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 028 — Rewrite History Lanjutan: Filter-Repo, BFG, dan Migration](./learn-git-mastery-for-java-engineers-part-028.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 030 — Performance dan Maintenance Repository](./learn-git-mastery-for-java-engineers-part-030.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Rewrite History Lanjutan: Filter-Repo, BFG, dan Migration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-030.md">Part 030 — Performance dan Maintenance Repository ➡️</a>
+</div>

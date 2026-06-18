@@ -1896,6 +1896,9 @@ Part 019 — Fallback, Degradation, and Recovery Design
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 017 — Retry Engineering](./learn-java-reliability-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — Fallback, Degradation, and Recovery Design](./learn-java-reliability-part-019.md)
+<div class="page-nav">
+<a href="./learn-java-reliability-part-017.md">⬅️ Part 017 — Retry Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-reliability-part-019.md">Part 019 — Fallback, Degradation, and Recovery Design ➡️</a>
+</div>

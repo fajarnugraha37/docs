@@ -2038,6 +2038,9 @@ Part 19 — Memory-Mapped Files in File Workflows
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 17 — WatchService: Filesystem Events Are Hints, Not Truth](./learn-java-io-file-filesystem-storage-engineering-part-17-watchservice.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 19 — Memory-Mapped Files in File Workflows](./learn-java-io-file-filesystem-storage-engineering-part-19-memory-mapped-files.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-17-watchservice.md">⬅️ Part 17 — WatchService: Filesystem Events Are Hints, Not Truth</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-19-memory-mapped-files.md">Part 19 — Memory-Mapped Files in File Workflows ➡️</a>
+</div>

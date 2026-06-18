@@ -2860,6 +2860,9 @@ Berikutnya:
 **Part 5 — Configuration Deployment: Config Files, Env Vars, System Properties, Secrets, Profiles**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 3 — Runtime Selection Engineering: JDK, JRE, OpenJDK Distributions, Vendor Choice](./learn-java-deployment-runtime-release-delivery-engineering-part-03-runtime-selection-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Configuration Deployment: Config Files, Env Vars, System Properties, Secrets, Profiles](./learn-java-deployment-runtime-release-delivery-engineering-part-05-configuration-deployment.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-03-runtime-selection-engineering.md">⬅️ Part 3 — Runtime Selection Engineering: JDK, JRE, OpenJDK Distributions, Vendor Choice</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-05-configuration-deployment.md">Part 5 — Configuration Deployment: Config Files, Env Vars, System Properties, Secrets, Profiles ➡️</a>
+</div>

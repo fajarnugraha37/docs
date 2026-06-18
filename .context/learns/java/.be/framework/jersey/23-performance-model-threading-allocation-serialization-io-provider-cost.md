@@ -2391,6 +2391,9 @@ Seri belum selesai. Berikutnya:
 > Part 24 — Virtual Threads, Modern Java, and Jersey Runtime Compatibility Thinking
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Observability in Jersey: Logs, Metrics, Traces, Correlation, and Profiling](./22-observability-in-jersey-logs-metrics-traces-correlation-profiling.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — Virtual Threads, Modern Java, and Jersey Runtime Compatibility Thinking](./24-virtual-threads-modern-java-jersey-runtime-compatibility-thinking.md)
+<div class="page-nav">
+<a href="./22-observability-in-jersey-logs-metrics-traces-correlation-profiling.md">⬅️ Part 22 — Observability in Jersey: Logs, Metrics, Traces, Correlation, and Profiling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./24-virtual-threads-modern-java-jersey-runtime-compatibility-thinking.md">Part 24 — Virtual Threads, Modern Java, and Jersey Runtime Compatibility Thinking ➡️</a>
+</div>

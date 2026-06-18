@@ -2263,6 +2263,9 @@ JPMS Deep Dive I: Modules, Descriptors, Readability, Exports, Requires
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Dynamic Proxy, Bytecode Libraries, Agents, and Instrumentation Concepts](./learn-java-oop-functional-reflection-codegen-modules-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: JPMS Deep Dive I: Modules, Descriptors, Readability, Exports, Requires](./learn-java-oop-functional-reflection-codegen-modules-part-026.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-024.md">⬅️ Dynamic Proxy, Bytecode Libraries, Agents, and Instrumentation Concepts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-026.md">JPMS Deep Dive I: Modules, Descriptors, Readability, Exports, Requires ➡️</a>
+</div>

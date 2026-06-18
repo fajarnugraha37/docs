@@ -2052,6 +2052,9 @@ Type modeling yang baik membuat codebase terasa seperti bahasa domain yang aman,
     https://docs.oracle.com/javase/specs/jls/se25/html/index.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 029](./learn-java-data-types-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 031](./learn-java-data-types-part-031.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-029.md">⬅️ Java Data Types — Part 029</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-031.md">Java Data Types — Part 031 ➡️</a>
+</div>

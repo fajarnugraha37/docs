@@ -1999,6 +1999,9 @@ Di bagian ini kita membangun boundary mental model:
 Part berikutnya akan membahas **Error Handling and Diagnostics in Mapping Pipelines**, yaitu bagaimana membuat mapping failure bisa ditelusuri dengan field path, JSON pointer/XML location, correlation id, safe logging, replayability, dan dead-letter strategy.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 26 — Records, Builders, and Modern Java DTO Strategy](./26-records-builders-modern-java-dto-strategy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Error Handling and Diagnostics in Mapping Pipelines](./28-error-handling-diagnostics-mapping-pipelines.md)
+<div class="page-nav">
+<a href="./26-records-builders-modern-java-dto-strategy.md">⬅️ Part 26 — Records, Builders, and Modern Java DTO Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./28-error-handling-diagnostics-mapping-pipelines.md">Part 28 — Error Handling and Diagnostics in Mapping Pipelines ➡️</a>
+</div>

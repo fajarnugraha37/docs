@@ -2316,6 +2316,9 @@ Part 005 berikutnya
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 003 — Servlet Container Architecture](./learn-java-servlet-websocket-web-container-runtime-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Request Object Internals: `HttpServletRequest`](./learn-java-servlet-websocket-web-container-runtime-part-005.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-003.md">⬅️ Part 003 — Servlet Container Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-005.md">Part 005 — Request Object Internals: `HttpServletRequest` ➡️</a>
+</div>

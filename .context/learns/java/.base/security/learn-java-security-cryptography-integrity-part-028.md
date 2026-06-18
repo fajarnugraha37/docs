@@ -3361,6 +3361,9 @@ Part 29 - Secure Build, CI/CD, and Release Integrity for Java
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 27 — Supply Chain Security for Java: Maven, Gradle, SBOM, Provenance](./learn-java-security-cryptography-integrity-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Secure Build, CI/CD, and Release Integrity for Java](./learn-java-security-cryptography-integrity-part-029.md)
+<div class="page-nav">
+<a href="./learn-java-security-cryptography-integrity-part-027.md">⬅️ Part 27 — Supply Chain Security for Java: Maven, Gradle, SBOM, Provenance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-security-cryptography-integrity-part-029.md">Part 29 — Secure Build, CI/CD, and Release Integrity for Java ➡️</a>
+</div>

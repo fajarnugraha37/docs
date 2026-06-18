@@ -1778,6 +1778,9 @@ Seri **belum selesai**. Berikutnya:
 **Part 003 — Arrays, Dynamic Arrays, ArrayList, dan Cost Model-nya**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 001 — Complexity Analysis yang Realistis di Java](./learn-java-dsa-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Arrays, Dynamic Arrays, `ArrayList`, dan Cost Model-nya](./learn-java-dsa-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-001.md">⬅️ Part 001 — Complexity Analysis yang Realistis di Java</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-003.md">Part 003 — Arrays, Dynamic Arrays, `ArrayList`, dan Cost Model-nya ➡️</a>
+</div>

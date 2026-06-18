@@ -3207,6 +3207,9 @@ Belum selesai. Bagian berikutnya:
 **Part 26 — Records, Builders, and Modern Java DTO Strategy**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 24 — Lombok Practical: Getter, Setter, Builder, Value, Equals, HashCode](./24-lombok-practical-getter-setter-builder-value-equals-hashcode.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Records, Builders, and Modern Java DTO Strategy](./26-records-builders-modern-java-dto-strategy.md)
+<div class="page-nav">
+<a href="./24-lombok-practical-getter-setter-builder-value-equals-hashcode.md">⬅️ Part 24 — Lombok Practical: Getter, Setter, Builder, Value, Equals, HashCode</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./26-records-builders-modern-java-dto-strategy.md">Part 26 — Records, Builders, and Modern Java DTO Strategy ➡️</a>
+</div>

@@ -2103,6 +2103,9 @@ Part yang sudah dibuat:
 4. `03-jsp-syntax-directives-scriptlets-actions.md`
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Jakarta Pages / JSP Internal Architecture: From `.jsp` to Servlet](./02-jakarta-pages-jsp-internal-architecture.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Request, Session, Application Scope: View Data Flow and State Boundaries](./04-request-session-application-scope-view-data-flow.md)
+<div class="page-nav">
+<a href="./02-jakarta-pages-jsp-internal-architecture.md">⬅️ Jakarta Pages / JSP Internal Architecture: From `.jsp` to Servlet</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./04-request-session-application-scope-view-data-flow.md">Part 4 — Request, Session, Application Scope: View Data Flow and State Boundaries ➡️</a>
+</div>

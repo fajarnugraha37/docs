@@ -1644,6 +1644,9 @@ and document the failure mode.
     https://docs.oracle.com/en/java/javase/25/jfapi/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 029](./learn-java-concurrency-and-reactive-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 031](./learn-java-concurrency-and-reactive-part-031.md)
+<div class="page-nav">
+<a href="./learn-java-concurrency-and-reactive-part-029.md">⬅️ Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 029</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-concurrency-and-reactive-part-031.md">Java Thread, Virtual Threads, Concurrency, Parallelism, and Reactive Programming — Part 031 ➡️</a>
+</div>

@@ -2422,6 +2422,9 @@ domain audit trail
 Jika kamu bisa membaca semua sinyal itu dan menghubungkannya dengan domain serta arsitektur, kamu tidak hanya “bisa Java”. Kamu bisa mengoperasikan sistem Java nyata.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 24 — Capstone: Java Engineering Mastery dan Production-Grade Decision Making](./learn-java-part-024.md) | [🏠 Daftar Isi](../index.md)
+<div class="page-nav">
+<a href="./learn-java-part-024.md">⬅️ Bagian 24 — Capstone: Java Engineering Mastery dan Production-Grade Decision Making</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../index.md">🏠 Home</a>
+<span></span>
+</div>

@@ -2719,6 +2719,9 @@ Kita akan membahas bagaimana menjalankan Flyway/Liquibase di luar Spring Boot:
 - dan operational ownership di enterprise runtime non-Spring.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Migration Testing Strategy](./23-migration-testing-strategy.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 25 — Migration in Jakarta EE, Plain Java, and Non-Spring Systems](./25-migration-in-jakarta-ee-plain-java-non-spring.md)
+<div class="page-nav">
+<a href="./23-migration-testing-strategy.md">⬅️ Migration Testing Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./25-migration-in-jakarta-ee-plain-java-non-spring.md">Part 25 — Migration in Jakarta EE, Plain Java, and Non-Spring Systems ➡️</a>
+</div>

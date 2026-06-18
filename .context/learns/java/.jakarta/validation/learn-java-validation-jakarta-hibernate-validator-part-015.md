@@ -2342,6 +2342,9 @@ Jika lima hal ini tidak dicampur sembarangan, validation layer akan menjadi jela
 - Bean Validation 2.0 / JSR 380 — type-use constraints, container element constraints, Java 8 support.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Payload, Severity, Error Codes, and Machine-Readable Violations](./learn-java-validation-jakarta-hibernate-validator-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Constraint Composition: Reusable Higher-Level Constraints](./learn-java-validation-jakarta-hibernate-validator-part-016.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-014.md">⬅️ Payload, Severity, Error Codes, and Machine-Readable Violations</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-016.md">Constraint Composition: Reusable Higher-Level Constraints ➡️</a>
+</div>

@@ -2218,6 +2218,9 @@ Dari jawaban itu, type yang tepat akan terlihat.
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/ConcurrentHashMap.html
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Data Types — Part 016](./learn-java-data-types-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Data Types — Part 018](./learn-java-data-types-part-018.md)
+<div class="page-nav">
+<a href="./learn-java-data-types-part-016.md">⬅️ Java Data Types — Part 016</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-data-types-part-018.md">Java Data Types — Part 018 ➡️</a>
+</div>

@@ -2222,6 +2222,9 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-023.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Pool Sizing: From Guesswork to Capacity Model](./learn-java-sql-jdbc-hikaricp-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Transaction and Pool Interaction](./learn-java-sql-jdbc-hikaricp-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-sql-jdbc-hikaricp-part-021.md">⬅️ Pool Sizing: From Guesswork to Capacity Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-sql-jdbc-hikaricp-part-023.md">Transaction and Pool Interaction ➡️</a>
+</div>

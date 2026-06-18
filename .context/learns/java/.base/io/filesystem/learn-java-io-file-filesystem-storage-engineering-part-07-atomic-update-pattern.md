@@ -1886,6 +1886,9 @@ Part 08 will broaden from atomic update into the complete semantics of `Files.co
 - Oracle Java Tutorials — Moving a File or Directory
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 06 — Writing Files Correctly: Replace, Append, Flush, Durability](./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 08 — Copy and Move Semantics: Replace, Attributes, Links, Cross-Device Behavior](./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md">⬅️ Part 06 — Writing Files Correctly: Replace, Append, Flush, Durability</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md">Part 08 — Copy and Move Semantics: Replace, Attributes, Links, Cross-Device Behavior ➡️</a>
+</div>

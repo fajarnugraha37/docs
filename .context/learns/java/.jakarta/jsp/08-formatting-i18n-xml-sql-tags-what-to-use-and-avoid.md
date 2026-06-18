@@ -2066,6 +2066,9 @@ Dengan kata lain: bukan hanya memakai tag bawaan, tetapi mulai mendesain tag lib
 - Jakarta Expression Language 6.0 — https://jakarta.ee/specifications/expression-language/6.0/
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 7 — Jakarta Standard Tag Library Core Tags: View Control Abstraction](./07-jakarta-standard-tag-library-core-tags-view-control-abstraction.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Custom Tags and Tag Files: Reusable View Components Before Component Frameworks](./09-custom-tags-and-tag-files-reusable-view-components.md)
+<div class="page-nav">
+<a href="./07-jakarta-standard-tag-library-core-tags-view-control-abstraction.md">⬅️ Part 7 — Jakarta Standard Tag Library Core Tags: View Control Abstraction</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./09-custom-tags-and-tag-files-reusable-view-components.md">Part 9 — Custom Tags and Tag Files: Reusable View Components Before Component Frameworks ➡️</a>
+</div>

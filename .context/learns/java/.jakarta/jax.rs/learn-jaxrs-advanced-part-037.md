@@ -1858,6 +1858,9 @@ Bagian 038 — Migration: javax.ws.rs to jakarta.ws.rs
 Kita akan membahas migrasi namespace dan ekosistem secara mendalam: dependency alignment, Servlet/CDI/Validation/Persistence namespace, JSON provider, app server versions, test strategy, OpenRewrite, build tooling, and migration failure modes.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Bagian 036 — Testing JAX-RS Client: Mock Server, Request Verification, Timeout/Retry/Circuit Tests, Problem Details Decoder, Streaming Download, Upload, SSE Client, Contract Tests, and Resilience Fault Injection](./learn-jaxrs-advanced-part-036.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Bagian 038 — Migration: `javax.ws.rs` to `jakarta.ws.rs`: Namespace Shift, Dependency Alignment, Runtime Upgrade, OpenRewrite, Eclipse Transformer, CDI/Servlet/Validation/Persistence Ecosystem, Testing Strategy, and Migration Failure Modes](./learn-jaxrs-advanced-part-038.md)
+<div class="page-nav">
+<a href="./learn-jaxrs-advanced-part-036.md">⬅️ Bagian 036 — Testing JAX-RS Client: Mock Server, Request Verification, Timeout/Retry/Circuit Tests, Problem Details Decoder, Streaming Download, Upload, SSE Client, Contract Tests, and Resilience Fault Injection</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-jaxrs-advanced-part-038.md">Bagian 038 — Migration: `javax.ws.rs` to `jakarta.ws.rs`: Namespace Shift, Dependency Alignment, Runtime Upgrade, OpenRewrite, Eclipse Transformer, CDI/Servlet/Validation/Persistence Ecosystem, Testing Strategy, and Migration Failure Modes ➡️</a>
+</div>

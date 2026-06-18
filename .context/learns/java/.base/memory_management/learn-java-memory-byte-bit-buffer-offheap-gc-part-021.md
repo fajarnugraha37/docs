@@ -1846,6 +1846,9 @@ ZGC Deep Dive: Colored Pointers, Load Barriers, Relocation, Generational ZGC
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Serial, Parallel, CMS: Legacy Collectors You Still Need to Understand](./learn-java-memory-byte-bit-buffer-offheap-gc-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: ZGC Deep Dive: Colored Pointers, Load Barriers, Relocation, Generational ZGC](./learn-java-memory-byte-bit-buffer-offheap-gc-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-020.md">⬅️ Serial, Parallel, CMS: Legacy Collectors You Still Need to Understand</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-022.md">ZGC Deep Dive: Colored Pointers, Load Barriers, Relocation, Generational ZGC ➡️</a>
+</div>

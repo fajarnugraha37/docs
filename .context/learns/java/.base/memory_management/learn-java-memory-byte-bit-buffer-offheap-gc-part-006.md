@@ -2544,6 +2544,9 @@ Object Lifetime Engineering: Young, Middle-lived, Long-lived Objects
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Stack, Heap, Metaspace, Code Cache, Thread Memory](./learn-java-memory-byte-bit-buffer-offheap-gc-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Object Lifetime Engineering: Young, Middle-Lived, Long-Lived Objects](./learn-java-memory-byte-bit-buffer-offheap-gc-part-007.md)
+<div class="page-nav">
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-005.md">⬅️ Stack, Heap, Metaspace, Code Cache, Thread Memory</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-memory-byte-bit-buffer-offheap-gc-part-007.md">Object Lifetime Engineering: Young, Middle-Lived, Long-Lived Objects ➡️</a>
+</div>

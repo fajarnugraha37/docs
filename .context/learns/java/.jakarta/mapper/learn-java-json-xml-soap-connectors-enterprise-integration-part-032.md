@@ -2653,6 +2653,9 @@ Part berikutnya akan masuk ke area yang paling menentukan correctness enterprise
 Di sana kita akan membahas XA vs local transaction, transaction inflow, credential propagation, recovery, poison messages, backpressure, duplicate handling, dan observability secara lebih dalam.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 31 — Jakarta Connectors / JCA Mental Model](./learn-java-json-xml-soap-connectors-enterprise-integration-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — JCA Transactions, Security & Reliability](./learn-java-json-xml-soap-connectors-enterprise-integration-part-033.md)
+<div class="page-nav">
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-031.md">⬅️ Part 31 — Jakarta Connectors / JCA Mental Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-json-xml-soap-connectors-enterprise-integration-part-033.md">Part 33 — JCA Transactions, Security & Reliability ➡️</a>
+</div>

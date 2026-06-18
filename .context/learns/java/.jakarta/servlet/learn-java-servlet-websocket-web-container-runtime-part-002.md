@@ -2635,6 +2635,9 @@ Di sana kita akan membedah bagaimana container menerima connection, memetakan re
 - MDN — HTTP headers: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 001 — Evolution: Java EE `javax.*` ke Jakarta EE `jakarta.*`](./learn-java-servlet-websocket-web-container-runtime-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Servlet Container Architecture](./learn-java-servlet-websocket-web-container-runtime-part-003.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-001.md">⬅️ Part 001 — Evolution: Java EE `javax.*` ke Jakarta EE `jakarta.*`</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-003.md">Part 003 — Servlet Container Architecture ➡️</a>
+</div>

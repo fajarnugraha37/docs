@@ -3047,6 +3047,9 @@ Belum selesai. Lanjut ke:
 **Part 24 — Supply Chain Security for Java Deployment**
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 22 — Deployment Verification: Smoke Test, Health Gate, Synthetic Check, Contract Check](./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Supply Chain Security for Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-24-supply-chain-security-for-java-deployment.md)
+<div class="page-nav">
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md">⬅️ Part 22 — Deployment Verification: Smoke Test, Health Gate, Synthetic Check, Contract Check</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-deployment-runtime-release-delivery-engineering-part-24-supply-chain-security-for-java-deployment.md">Part 24 — Supply Chain Security for Java Deployment ➡️</a>
+</div>

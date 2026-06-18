@@ -2877,6 +2877,9 @@ Bagian berikutnya:
 `learn-java-validation-jakarta-hibernate-validator-part-023.md` — **Advanced Domain Rule Modeling: Specification Pattern, Policy Objects, and Validators**.
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Validation in Event-Driven and Async Systems](./learn-java-validation-jakarta-hibernate-validator-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Advanced Domain Rule Modeling: Specification Pattern, Policy Objects, and Validators](./learn-java-validation-jakarta-hibernate-validator-part-023.md)
+<div class="page-nav">
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-021.md">⬅️ Validation in Event-Driven and Async Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-validation-jakarta-hibernate-validator-part-023.md">Advanced Domain Rule Modeling: Specification Pattern, Policy Objects, and Validators ➡️</a>
+</div>

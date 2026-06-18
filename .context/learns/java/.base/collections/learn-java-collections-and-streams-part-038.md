@@ -1593,6 +1593,9 @@ and partial results are combined.
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Java Collections and Streams — Part 037](./learn-java-collections-and-streams-part-037.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Java Collections and Streams — Part 039](./learn-java-collections-and-streams-part-039.md)
+<div class="page-nav">
+<a href="./learn-java-collections-and-streams-part-037.md">⬅️ Java Collections and Streams — Part 037</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-collections-and-streams-part-039.md">Java Collections and Streams — Part 039 ➡️</a>
+</div>

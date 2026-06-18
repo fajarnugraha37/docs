@@ -2368,6 +2368,9 @@ Annotation Processing: Compile-Time Metaprogramming
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: MethodHandles and VarHandles: Safer, Faster, Lower-Level Dynamic Access](./learn-java-oop-functional-reflection-codegen-modules-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Annotation Processing: Compile-Time Metaprogramming](./learn-java-oop-functional-reflection-codegen-modules-part-022.md)
+<div class="page-nav">
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-020.md">⬅️ MethodHandles and VarHandles: Safer, Faster, Lower-Level Dynamic Access</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-oop-functional-reflection-codegen-modules-part-022.md">Annotation Processing: Compile-Time Metaprogramming ➡️</a>
+</div>

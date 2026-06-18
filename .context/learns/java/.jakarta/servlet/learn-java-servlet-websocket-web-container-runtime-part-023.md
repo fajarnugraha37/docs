@@ -2311,6 +2311,9 @@ Part 024 — WebSocket Reliability Patterns
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 022 — Jakarta WebSocket Server Endpoint Model](./learn-java-servlet-websocket-web-container-runtime-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 024 — WebSocket Reliability Patterns](./learn-java-servlet-websocket-web-container-runtime-part-024.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-022.md">⬅️ Part 022 — Jakarta WebSocket Server Endpoint Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-024.md">Part 024 — WebSocket Reliability Patterns ➡️</a>
+</div>

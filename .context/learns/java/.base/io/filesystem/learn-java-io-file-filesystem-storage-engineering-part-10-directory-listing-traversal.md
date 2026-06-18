@@ -2518,6 +2518,9 @@ The top 1% skill here is not memorizing APIs. It is knowing when the filesystem 
 - dev.java — Listing the Content of a Directory
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 09 — Delete Semantics: Delete, Recursive Delete, Tombstone, and Safe Cleanup](./learn-java-io-file-filesystem-storage-engineering-part-09-delete-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — FileVisitor and Tree Algorithms: Robust Recursive Operations](./learn-java-io-file-filesystem-storage-engineering-part-11-filevisitor-tree-algorithms.md)
+<div class="page-nav">
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-09-delete-semantics.md">⬅️ Part 09 — Delete Semantics: Delete, Recursive Delete, Tombstone, and Safe Cleanup</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../../index.md">🏠 Home</a>
+<a href="./learn-java-io-file-filesystem-storage-engineering-part-11-filevisitor-tree-algorithms.md">Part 11 — FileVisitor and Tree Algorithms: Robust Recursive Operations ➡️</a>
+</div>

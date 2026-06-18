@@ -2405,6 +2405,9 @@ Part 030 — Observability and Diagnostics for Servlet/WebSocket Runtime
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 028 — Container Configuration: Connectors, Thread Pools, Limits, Timeouts](./learn-java-servlet-websocket-web-container-runtime-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Observability and Diagnostics for Servlet/WebSocket Runtime](./learn-java-servlet-websocket-web-container-runtime-part-030.md)
+<div class="page-nav">
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-028.md">⬅️ Part 028 — Container Configuration: Connectors, Thread Pools, Limits, Timeouts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-servlet-websocket-web-container-runtime-part-030.md">Part 030 — Observability and Diagnostics for Servlet/WebSocket Runtime ➡️</a>
+</div>

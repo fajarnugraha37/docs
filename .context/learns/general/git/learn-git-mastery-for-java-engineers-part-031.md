@@ -2216,6 +2216,9 @@ Capstone: Mendesain Git Workflow untuk Java Engineering Team
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 030 — Performance dan Maintenance Repository](./learn-git-mastery-for-java-engineers-part-030.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 032 — Capstone: Mendesain Git Workflow untuk Java Engineering Team](./learn-git-mastery-for-java-engineers-part-032.md)
+<div class="page-nav">
+<a href="./learn-git-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Performance dan Maintenance Repository</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-git-mastery-for-java-engineers-part-032.md">Part 032 — Capstone: Mendesain Git Workflow untuk Java Engineering Team ➡️</a>
+</div>

@@ -2186,6 +2186,9 @@ File: 13-circuit-breaker-timeout-retry-fallback-composition.md
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 11 — Retry Engineering: Idempotency, Backoff, Jitter, Retry Budget, dan Hedging](./11-retry-engineering-idempotency-backoff-jitter-budget-hedging.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Circuit Breaker, Timeout, Retry, dan Fallback Composition](./13-circuit-breaker-timeout-retry-fallback-composition.md)
+<div class="page-nav">
+<a href="./11-retry-engineering-idempotency-backoff-jitter-budget-hedging.md">⬅️ Part 11 — Retry Engineering: Idempotency, Backoff, Jitter, Retry Budget, dan Hedging</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./13-circuit-breaker-timeout-retry-fallback-composition.md">Part 13 — Circuit Breaker, Timeout, Retry, dan Fallback Composition ➡️</a>
+</div>

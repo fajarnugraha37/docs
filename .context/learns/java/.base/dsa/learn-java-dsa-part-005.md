@@ -1699,6 +1699,9 @@ learn-java-dsa-part-006 — Hash Table Fundamentals
 ```
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 004 — Linked Structures: LinkedList, Node Chain, Pointer Chasing](./learn-java-dsa-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java DSA — Part 006: Hash Table Fundamentals](./learn-java-dsa-part-006.md)
+<div class="page-nav">
+<a href="./learn-java-dsa-part-004.md">⬅️ Part 004 — Linked Structures: LinkedList, Node Chain, Pointer Chasing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-dsa-part-006.md">Learn Java DSA — Part 006: Hash Table Fundamentals ➡️</a>
+</div>

@@ -2109,6 +2109,9 @@ Belum selesai. Berikutnya:
 - Part 14 — Multi-instance, Parallelism, Fan-out/Fan-in, and Concurrency Control
 
 <!-- NAVIGATION_FOOTER -->
----
-
-[⬅️ Sebelumnya: Part 12 — Message Correlation and Event-driven Process Design](./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Multi-instance, Parallelism, Fan-out/Fan-in, and Concurrency Control](./learn-java-bpmn-camunda-part-14-multi-instance-parallelism-fan-out-fan-in-concurrency-control.md)
+<div class="page-nav">
+<a href="./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md">⬅️ Part 12 — Message Correlation and Event-driven Process Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-bpmn-camunda-part-14-multi-instance-parallelism-fan-out-fan-in-concurrency-control.md">Part 14 — Multi-instance, Parallelism, Fan-out/Fan-in, and Concurrency Control ➡️</a>
+</div>
