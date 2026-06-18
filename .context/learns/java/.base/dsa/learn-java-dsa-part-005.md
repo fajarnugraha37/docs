@@ -1697,3 +1697,11 @@ Part berikutnya:
 ```text
 learn-java-dsa-part-006 — Hash Table Fundamentals
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dsa-part-004 — Linked Structures: LinkedList, Node Chain, Pointer Chasing](./learn-java-dsa-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java DSA — Part 006: Hash Table Fundamentals](./learn-java-dsa-part-006.md)
+
+</div>

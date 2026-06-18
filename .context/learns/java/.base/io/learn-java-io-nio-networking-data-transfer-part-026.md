@@ -1628,3 +1628,11 @@ Seri **belum selesai**.
 
 Part yang sedang diselesaikan: **Part 026**.  
 Part berikutnya: **Part 027 — Performance Engineering for I/O: Syscall, Page Cache, GC, Direct Memory, Benchmark, dan Profiling**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 025 — Data Transfer Reliability: Retry, Resume, Checksum, Idempotency, Chunking, dan Exactly-Once Myth](./learn-java-io-nio-networking-data-transfer-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — Performance Engineering for I/O: Syscall, Page Cache, GC, Direct Memory, Benchmark, dan Profiling](./learn-java-io-nio-networking-data-transfer-part-027.md)
+
+</div>

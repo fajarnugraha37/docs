@@ -1915,3 +1915,10 @@ Kita belum selesai.
 - Berikutnya: **Part 30 — Legacy SOAP Modernization Patterns**
 - Target akhir seri: **Part 34**
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 28  ](./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 30](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md)
+
+</div>

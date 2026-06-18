@@ -2923,3 +2923,11 @@ Selesai:
 Berikutnya:
 - Part 003 — Connection Is a Database Session, Not Just a Pipe
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-001](./learn-java-sql-jdbc-hikaricp-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-003](./learn-java-sql-jdbc-hikaricp-part-003.md)
+
+</div>

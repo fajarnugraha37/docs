@@ -2286,3 +2286,11 @@ Part 007 selesai
 Part 008 selesai
 Part 009 berikutnya: Testing Persistence: JDBC, JPA, Transaction, Isolation, Locking, dan Migration
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-007](./learn-java-testing-benchmarking-performance-jvm-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-009](./learn-java-testing-benchmarking-performance-jvm-part-009.md)
+
+</div>

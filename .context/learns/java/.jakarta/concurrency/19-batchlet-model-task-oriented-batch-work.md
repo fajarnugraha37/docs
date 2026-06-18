@@ -2535,3 +2535,10 @@ many items processed through reader -> processor -> writer with checkpoint, tran
 - Jakarta Batch project page — overview of Java API and XML-based Job Specification Language.
 - Jakarta Batch 2.2 / Jakarta EE 12 — under development; treat as future-facing, not production baseline unless using compatible implementation knowingly.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 18 — JSL Deep Dive: Job XML as Execution Graph](./18-jsl-job-specification-language-execution-graph.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Chunk-Oriented Processing: Reader, Processor, Writer](./20-chunk-oriented-processing-reader-processor-writer.md)
+
+</div>

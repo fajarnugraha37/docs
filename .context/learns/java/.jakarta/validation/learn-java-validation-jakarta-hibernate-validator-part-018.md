@@ -1990,3 +1990,11 @@ Seri belum selesai.
 Part berikutnya:
 
 `learn-java-validation-jakarta-hibernate-validator-part-019.md` — **Validation in REST APIs: JAX-RS, Spring MVC, Error Mapping, and Problem Details**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-017](./learn-java-validation-jakarta-hibernate-validator-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-019](./learn-java-validation-jakarta-hibernate-validator-part-019.md)
+
+</div>

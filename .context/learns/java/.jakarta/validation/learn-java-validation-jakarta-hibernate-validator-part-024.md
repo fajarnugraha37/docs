@@ -1852,3 +1852,11 @@ Topik berikutnya:
 ```text
 Security and Abuse Resistance: Validation Is Not Sanitization
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-023](./learn-java-validation-jakarta-hibernate-validator-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-025](./learn-java-validation-jakarta-hibernate-validator-part-025.md)
+
+</div>

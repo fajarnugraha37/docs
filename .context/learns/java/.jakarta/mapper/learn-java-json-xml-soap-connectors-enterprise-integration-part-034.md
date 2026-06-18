@@ -1905,3 +1905,10 @@ This is **Part 34 of 34**.
 
 The series **learn-java-json-xml-soap-connectors-enterprise-integration** is now complete.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-033](./learn-java-json-xml-soap-connectors-enterprise-integration-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 000 — Big Picture: Persistence as a Boundary, Not a CRUD Layer](../persistence/learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-000.md)
+
+</div>

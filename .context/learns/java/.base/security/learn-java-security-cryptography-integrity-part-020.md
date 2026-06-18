@@ -1959,3 +1959,10 @@ Pertanyaan berikutnya:
 
 > “Bagaimana memastikan user/service yang sudah authenticated hanya bisa melakukan aksi yang benar terhadap object yang benar pada state yang benar, tanpa confused deputy dan privilege escalation?”
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-019](./learn-java-security-cryptography-integrity-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-021](./learn-java-security-cryptography-integrity-part-021.md)
+
+</div>

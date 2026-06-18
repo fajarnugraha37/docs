@@ -2289,3 +2289,11 @@ This is how deployment knowledge becomes durable team capability.
 - Spring Boot Documentation — Production-ready Features / Actuator: https://docs.spring.io/spring-boot/reference/actuator/index.html
 - Spring Blog — Liveness and Readiness Probes with Spring Boot: https://spring.io/blog/2020/03/25/liveness-and-readiness-probes-with-spring-boot
 - NIST Secure Software Development Framework SP 800-218: https://csrc.nist.gov/pubs/sp/800/218/final
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering — Part 32](./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering — Part 34](./learn-java-deployment-runtime-release-delivery-engineering-part-34-capstone-designing-java-deployment-platform.md)
+
+</div>

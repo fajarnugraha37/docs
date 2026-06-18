@@ -2547,3 +2547,11 @@ Bagian berikutnya:
 ```text
 Part 026 — Server-Sent Events, Long Polling, and Streaming Alternatives
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 024](./learn-java-servlet-websocket-web-container-runtime-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 026](./learn-java-servlet-websocket-web-container-runtime-part-026.md)
+
+</div>

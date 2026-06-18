@@ -2438,3 +2438,11 @@ Referensi utama untuk pendalaman:
 8. OpenJDK JFR and `jcmd` documentation.
 9. Java Native Memory Tracking documentation.
 10. Cloud-native observability references for container CPU throttling and memory metrics.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-024.md](./learn-java-testing-benchmarking-performance-jvm-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-026](./learn-java-testing-benchmarking-performance-jvm-part-026.md)
+
+</div>

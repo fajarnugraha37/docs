@@ -2275,3 +2275,11 @@ That will connect EJB/CDI lifecycle with external container-managed resources.
 Status: Part 022 completed.  
 Series status: not finished.  
 Next: Part 023 — Jakarta Common Annotations and Resource Injection.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 021 — Stateless, Stateful, Singleton Beans and Pooling Semantics](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — Jakarta Common Annotations and Resource Injection](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-023.md)
+
+</div>

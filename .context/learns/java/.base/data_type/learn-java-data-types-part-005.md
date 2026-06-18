@@ -2148,3 +2148,11 @@ Itulah level ketelitian yang dibutuhkan untuk production-grade text handling.
 
 12. Unicode Standard Annex #29 — Unicode Text Segmentation  
     https://unicode.org/reports/tr29/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-004.md](./learn-java-data-types-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-006.md](./learn-java-data-types-part-006.md)
+
+</div>

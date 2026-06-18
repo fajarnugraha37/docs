@@ -2211,3 +2211,11 @@ Kita akan masuk ke API Java/Jakarta:
 - Jakarta EE Tutorial — Jakarta WebSocket.
 - Apache Tomcat 11 WebSocket How-To and WebSocket API documentation.
 - MDN WebSocket API documentation, especially close event/code and protocol usage.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 020](./learn-java-servlet-websocket-web-container-runtime-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 022](./learn-java-servlet-websocket-web-container-runtime-part-022.md)
+
+</div>

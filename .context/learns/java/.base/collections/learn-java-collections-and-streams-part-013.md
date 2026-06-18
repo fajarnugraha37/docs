@@ -2018,3 +2018,11 @@ Either reject it, name it, or model it explicitly.
 
 10. Java SE 25 — `Collectors`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/Collectors.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-012.md](./learn-java-collections-and-streams-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-014.md](./learn-java-collections-and-streams-part-014.md)
+
+</div>

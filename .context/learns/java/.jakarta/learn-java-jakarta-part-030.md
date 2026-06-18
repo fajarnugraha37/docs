@@ -2301,3 +2301,11 @@ If it can fail, it must be debuggable.
 Engineer top-tier tidak hanya tahu cara memakai framework. Ia juga tahu bagaimana framework menghasilkan kode, bagaimana stack trace dan debugger menemukan source asli, kenapa JSP error bisa menunjuk generated servlet, kenapa source path di CI bisa merusak debugging, dan kenapa setiap DSL/code generator harus memikirkan source mapping sejak awal.
 
 Bagian berikutnya akan membahas **Jakarta XML Binding (`jakarta.xml.bind`) / JAXB**: object-XML mapping, schema binding, marshalling/unmarshalling, adapters, validation, namespaces, security, performance, and migration from `javax.xml.bind` to `jakarta.xml.bind`.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-029.md](./learn-java-jakarta-part-029.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-031.md](./learn-java-jakarta-part-031.md)
+
+</div>

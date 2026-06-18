@@ -1928,3 +1928,11 @@ Berikutnya:
 ```text
 Part 26 — Configuration Engineering: Properties, Environments, Features, and Runtime Flags
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 24 — Virtual Threads, Modern Java, and Jersey Runtime Compatibility Thinking](./24-virtual-threads-modern-java-jersey-runtime-compatibility-thinking.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 26 — Configuration Engineering: Properties, Environments, Features, and Runtime Flags](./26-configuration-engineering-properties-environments-features-runtime-flags.md)
+
+</div>

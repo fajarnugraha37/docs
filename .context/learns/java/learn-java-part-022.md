@@ -3563,3 +3563,11 @@ Apa yang harus dicegah database?
 ```
 
 Engineer Java yang kuat tidak hanya menulis service yang “jalan”. Ia membuat model yang bisa dipahami oleh manusia, dibuktikan oleh test, dijaga oleh compiler, dipertahankan oleh database, dan dijelaskan saat audit/incident.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-part-021.md](./learn-java-part-021.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-023.md](./learn-java-part-023.md)
+
+</div>

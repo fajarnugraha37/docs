@@ -2713,3 +2713,11 @@ Part yang sudah selesai:
 Berikutnya:
 
 - **Part 023 — Code Generation Strategy: Source Generation, Runtime Generation, Bytecode Generation**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-021.md](./learn-java-oop-functional-reflection-codegen-modules-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-023](./learn-java-oop-functional-reflection-codegen-modules-part-023.md)
+
+</div>

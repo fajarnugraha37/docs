@@ -1845,3 +1845,10 @@ Kita akan masuk lebih jauh ke:
 6. Kubernetes/EKS concern,
 7. kapan Jakarta Batch cocok dan kapan Kubernetes Job/CronJob lebih tepat.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 28 — File, CSV, XML, JSON, and Large Payload Batch Processing](./28-file-csv-xml-json-large-payload-batch-processing.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Clustered Jakarta Batch and Distributed Execution Concerns](./30-clustered-jakarta-batch-distributed-execution.md)
+
+</div>

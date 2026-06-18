@@ -2354,3 +2354,11 @@ Untuk membangun sistem aman, hash harus dipasang pada boundary yang benar dan se
 Pada Part 6, kita akan masuk ke topik yang sering disalahpahami: **Password Storage, Password Verification, and Secret-Derived Keys**.
 
 Status seri: **belum selesai**. Ini adalah **Part 5 dari 35**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-004](./learn-java-security-cryptography-integrity-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-006](./learn-java-security-cryptography-integrity-part-006.md)
+
+</div>

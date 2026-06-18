@@ -2125,3 +2125,11 @@ Performance engineering with Hibernate/EclipseLink is not about memorizing provi
 - EclipseLink project documentation: https://eclipse.dev/eclipselink/
 - EclipseLink query hints: https://eclipse.dev/eclipselink/documentation/2.7/jpa/extensions/queryhints.htm
 - EclipseLink performance features: https://eclipse.dev/eclipselink/documentation/2.6/solutions/performance001.htm
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 27 — Observability: SQL Logging, Statistics, Metrics, Tracing, and Production Diagnosis](./27-observability-sql-logging-statistics-metrics-tracing-production-diagnosis.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Domain Modeling with ORM: Aggregates, Invariants, State Machines, and Regulatory Workflows](./29-domain-modeling-with-orm-aggregates-invariants-state-machines-regulatory-workflows.md)
+
+</div>

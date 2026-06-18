@@ -2853,3 +2853,11 @@ Part 23 — Performance Model: Threading, Allocation, Serialization, IO, and Pro
 
 6. OpenTelemetry Java Instrumentation  
    <https://github.com/open-telemetry/opentelemetry-java-instrumentation>
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 21 — Hypermedia, Links, URI Building, and REST Maturity Pragmatism](./21-hypermedia-links-uri-building-rest-maturity-pragmatism.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 23 — Performance Model: Threading, Allocation, Serialization, IO, and Provider Cost](./23-performance-model-threading-allocation-serialization-io-provider-cost.md)
+
+</div>

@@ -2478,3 +2478,11 @@ Engineer senior tidak melihat array sebagai sekadar “list sederhana”, tetapi
 
 11. Java Language Specification SE 25 — Heap Pollution  
     https://docs.oracle.com/javase/specs/jls/se25/html/jls-4.html#jls-4.12.2
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-008.md](./learn-java-data-types-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-010.md](./learn-java-data-types-part-010.md)
+
+</div>

@@ -2800,3 +2800,11 @@ Bagian berikutnya:
 ```text
 31-testing-orm-correctness-beyond-repository-happy-path.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 29 — Domain Modeling with ORM: Aggregates, Invariants, State Machines, and Regulatory Workflows](./29-domain-modeling-with-orm-aggregates-invariants-state-machines-regulatory-workflows.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Testing ORM Correctness: Beyond Repository Happy Path](./31-testing-orm-correctness-beyond-repository-happy-path.md)
+
+</div>

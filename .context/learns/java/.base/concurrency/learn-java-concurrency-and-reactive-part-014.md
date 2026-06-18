@@ -1450,3 +1450,11 @@ and when external capacity is explicitly governed.
 
 10. Oracle JDK 25 Core Libraries Developer Guide  
     https://docs.oracle.com/en/java/javase/25/core/java-core-libraries-developer-guide.pdf
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-013.md](./learn-java-concurrency-and-reactive-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-015.md](./learn-java-concurrency-and-reactive-part-015.md)
+
+</div>

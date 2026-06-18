@@ -3096,3 +3096,11 @@ Bagian 002 — Anatomy of JAX-RS Application: Application, Base Path, Deployment
 ```
 
 Kita akan masuk ke bagaimana JAX-RS application dibootstrap, bagaimana `Application` dan `@ApplicationPath` bekerja, bagaimana resource/provider ditemukan, dan bagaimana runtime berbeda mempengaruhi deployment.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-000.md](./learn-jaxrs-advanced-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-002.md](./learn-jaxrs-advanced-part-002.md)
+
+</div>

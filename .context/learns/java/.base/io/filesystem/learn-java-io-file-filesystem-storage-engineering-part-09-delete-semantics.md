@@ -1947,3 +1947,10 @@ Part 10 akan memperdalam traversal sebagai primitive fundamental untuk filesyste
 - Oracle Java SE 25 API — `java.io.File`
 - Inside Java — JDK 25 Windows `File.delete` behavior change note
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 08](./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md)
+
+</div>

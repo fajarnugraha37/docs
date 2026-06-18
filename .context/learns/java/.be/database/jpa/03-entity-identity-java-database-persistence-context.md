@@ -2488,3 +2488,11 @@ That question prevents a large class of ORM bugs before they enter production.
 [^eclipselink-cache]: EclipseLink JPA extension documentation for `@Cache` explains EclipseLink object cache behavior and per-class cache configuration. https://eclipse.dev/eclipselink/documentation/2.4/jpa/extensions/a_cache.htm
 
 [^eclipselink-uow]: EclipseLink UnitOfWork API documentation describes UnitOfWork operating on its own object space and using clones for editing. https://eclipse.dev/eclipselink/api/4.0/org.eclipse.persistence.core/org/eclipse/persistence/internal/sessions/UnitOfWorkImpl.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 2 — Persistence Unit, Bootstrap, Metadata, and Provider Initialization](./02-persistence-unit-bootstrap-metadata-provider-initialization.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 4 — Persistence Context, Unit of Work, and First-Level Cache](./04-persistence-context-unit-of-work-first-level-cache.md)
+
+</div>

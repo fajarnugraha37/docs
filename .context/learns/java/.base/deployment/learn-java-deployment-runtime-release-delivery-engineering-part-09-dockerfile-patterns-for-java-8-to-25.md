@@ -2267,3 +2267,10 @@ Belum selesai. Lanjut ke:
 
 > Part 10 — jlink, jdeps, jpackage, and Custom Runtime Images
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-08-containerizing-java-applications-correctly.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-10-jlink-jdeps-jpackage-custom-runtime-images.md)
+
+</div>

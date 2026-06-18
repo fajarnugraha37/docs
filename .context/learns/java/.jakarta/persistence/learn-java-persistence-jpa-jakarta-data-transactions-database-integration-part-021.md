@@ -2454,3 +2454,11 @@ Bagian berikutnya:
 ```text
 Part 022 — Multi-Tenancy, Multi-Schema, Multi-Database, and Data Partitioning
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 020 — Advanced Mapping: Inheritance, Polymorphism, JSON, LOB, Custom Types](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 022 — Multi-Tenancy, Multi-Schema, Multi-Database, and Data Partitioning](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-022.md)
+
+</div>

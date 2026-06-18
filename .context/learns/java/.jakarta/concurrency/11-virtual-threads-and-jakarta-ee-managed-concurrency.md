@@ -1941,3 +1941,10 @@ Fokus berikutnya:
 - scoped values sebagai alternatif mental model untuk context immutable,
 - bagaimana semua ini relevan untuk Jakarta EE, meskipun sebagian masih preview/berkembang di Java modern.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 10 — CompletableFuture in Jakarta EE Without Breaking the Container](./10-completablefuture-in-jakarta-ee.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Structured Concurrency and Scoped Values for Enterprise Java](./12-structured-concurrency-scoped-values-enterprise-java.md)
+
+</div>

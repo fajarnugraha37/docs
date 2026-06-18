@@ -2620,3 +2620,11 @@ Part 009 — Bean Discovery and Archive Model
 - Open Liberty CDI Documentation
 - WildFly Developer Guide CDI Integration
 - Quarkus CDI Reference Guide
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 007 — JSR-330 / Jakarta Inject: Minimal DI Vocabulary](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009.md)
+
+</div>

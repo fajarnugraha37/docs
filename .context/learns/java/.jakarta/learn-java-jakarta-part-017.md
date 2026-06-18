@@ -1,4 +1,3 @@
-
 # learn-java-jakarta-part-017.md
 
 # Bagian 17 — Jakarta Security (`jakarta.security.enterprise`): Authentication, Identity Store, dan Security Boundary
@@ -3105,3 +3104,11 @@ Gunakan Jakarta Security untuk membangun authentication dan identity integration
 Engineer top-tier tidak hanya membuat login berhasil. Ia membuktikan bahwa akses yang tidak sah gagal, bahwa data tidak bocor antar tenant, bahwa token divalidasi benar, bahwa role mapping jelas, dan bahwa setiap keputusan security penting dapat diaudit.
 
 Bagian berikutnya akan membahas **Jakarta Authorization dan Jakarta Authentication** sebagai lower-level security specifications: kapan perlu memahami JACC/Jakarta Authorization, Jakarta Authentication/JASPIC, container security SPI, dan bagaimana mereka berhubungan dengan Jakarta Security.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-016.md](./learn-java-jakarta-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-018.md](./learn-java-jakarta-part-018.md)
+
+</div>

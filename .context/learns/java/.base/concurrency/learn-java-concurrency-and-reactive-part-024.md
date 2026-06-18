@@ -1482,3 +1482,11 @@ context boundaries, and observability.
 
 10. Java SE 25 — `StructuredTaskScope`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/StructuredTaskScope.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-023.md](./learn-java-concurrency-and-reactive-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-025.md](./learn-java-concurrency-and-reactive-part-025.md)
+
+</div>

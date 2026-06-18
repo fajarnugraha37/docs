@@ -1462,3 +1462,11 @@ Bagian berikutnya:
 ```text
 22-ajax-and-partial-rendering-in-faces.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 20 — Navigation, Actions, Events, and Application Flow in Faces](./20-navigation-actions-events-application-flow-in-faces.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Ajax and Partial Rendering in Jakarta Faces](./22-ajax-and-partial-rendering-in-faces.md)
+
+</div>

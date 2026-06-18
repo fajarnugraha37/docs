@@ -2061,3 +2061,11 @@ Bagian berikutnya:
 ```text
 15-facelets-xhtml-view-authoring-templates-composition-components.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 13 — Testing JSP and Tag Libraries](./13-testing-jsp-and-tag-libraries.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Facelets and XHTML View Authoring: Templates, Composition, and Components](./15-facelets-xhtml-view-authoring-templates-composition-components.md)
+
+</div>

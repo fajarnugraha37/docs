@@ -2378,3 +2378,10 @@ Berikutnya:
 20-concurrency-consistency-locking-versioning-lost-update.md
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 18 — Lazy Loading, Nested Select, N+1, and Object Graph Control](./18-lazy-loading-nested-select-n-plus-one-object-graph-control.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Concurrency and Consistency: Locking, Versioning, Lost Update](./20-concurrency-consistency-locking-versioning-lost-update.md)
+
+</div>

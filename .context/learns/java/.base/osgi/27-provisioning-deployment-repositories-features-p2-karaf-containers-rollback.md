@@ -3227,3 +3227,11 @@ Poin paling penting:
 - Supply-chain governance menjadi semakin penting karena OSGi runtime terdiri dari banyak artifact.
 
 Part berikutnya akan masuk ke **designing plugin platforms with OSGi**: extension contracts, isolation, plugin governance, compatibility, certification, versioned extension points, dan bagaimana merancang OSGi sebagai platform ekstensi yang serius, bukan sekadar dynamic class loading.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 26 — Performance Engineering: Startup, Resolver Cost, Service Lookup, Classloading, Memory](./26-performance-engineering-startup-resolver-service-lookup-classloading-memory.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Designing Plugin Platforms with OSGi: Extension Contracts, Isolation, Governance](./28-designing-plugin-platforms-extension-contracts-isolation-governance.md)
+
+</div>

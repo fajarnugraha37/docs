@@ -1915,3 +1915,10 @@ Part 33 - Secure Design Patterns and Anti-Patterns
 Part 34 - Capstone Regulatory Case Management Platform
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-033](./learn-java-security-cryptography-integrity-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-000.md](../sql/learn-java-sql-jdbc-hikaricp-part-000.md)
+
+</div>

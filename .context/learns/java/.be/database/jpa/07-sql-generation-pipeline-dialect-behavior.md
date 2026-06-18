@@ -3059,3 +3059,10 @@ The next part will go deeper into mapping decisions as long-term contracts:
 - provider-specific type systems,
 - and how mapping choices affect SQL, correctness, migration, and production performance.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 6 — Flush Semantics: Action Queue and SQL Ordering](./06-flush-semantics-action-queue-sql-ordering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 8 — Mapping Strategy Beyond Annotation Memorization](./08-mapping-strategy-beyond-annotation-memorization.md)
+
+</div>

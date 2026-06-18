@@ -1739,3 +1739,11 @@ and an observable metric.
 
 10. OpenJDK JEP 491 — Synchronize Virtual Threads without Pinning  
     https://openjdk.org/jeps/491
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-018.md](./learn-java-concurrency-and-reactive-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-020.md](./learn-java-concurrency-and-reactive-part-020.md)
+
+</div>

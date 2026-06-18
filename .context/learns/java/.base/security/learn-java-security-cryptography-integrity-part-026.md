@@ -2545,3 +2545,11 @@ Part berikutnya:
 ```text
 Part 27 — Supply Chain Security for Java: Maven, Gradle, SBOM, Provenance
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-025](./learn-java-security-cryptography-integrity-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-027](./learn-java-security-cryptography-integrity-part-027.md)
+
+</div>

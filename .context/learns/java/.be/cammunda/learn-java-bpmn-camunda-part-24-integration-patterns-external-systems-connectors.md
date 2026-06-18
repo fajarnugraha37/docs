@@ -2341,3 +2341,10 @@ Part berikutnya akan membahas bagaimana mendesain workflow system yang tidak han
 - load testing
 - performance anti-patterns
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-23-security-identity-authorization-data-protection.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java BPMN Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-25-performance-scaling-capacity-planning-cost-engineering.md)
+
+</div>

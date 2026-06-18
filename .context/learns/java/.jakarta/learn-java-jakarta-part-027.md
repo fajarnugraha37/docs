@@ -2912,3 +2912,11 @@ Hindari:
 Engineer top-tier tahu bahwa `#{bean.property}` bukan sekadar string ajaib. Ia tahu kapan getter dipanggil, kapan setter dipanggil, resolver mana yang jalan, bagaimana type coercion terjadi, kenapa `${}` dan `#{}` berbeda, kenapa action Faces bisa tidak terpanggil, dan kenapa dynamic EL perlu diperlakukan seperti code execution.
 
 Bagian berikutnya akan membahas **Jakarta Server Pages (`jakarta.servlet.jsp`) / Jakarta Pages**: JSP lifecycle, translation to servlet, tag libraries, JSTL, EL integration, implicit objects, custom tags, migration, security, and modern relevance.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-026.md](./learn-java-jakarta-part-026.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-028.md](./learn-java-jakarta-part-028.md)
+
+</div>

@@ -2459,3 +2459,11 @@ Part berikutnya:
 ```text
 Part 19 — Stateful Java Deployment: Sessions, Caches, Queues, Schedulers, and Jobs
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-17-release-strategy-rolling-bluegreen-canary-shadow-ring.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-19-stateful-java-deployment.md)
+
+</div>

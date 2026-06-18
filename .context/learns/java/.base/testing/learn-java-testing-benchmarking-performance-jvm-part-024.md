@@ -2547,3 +2547,11 @@ Seri belum selesai.
 Progress saat ini: Part 024 dari 031 selesai.
 Berikutnya: Part 025 — JVM Arguments & Configuration II: Production Profiles for Containers, Kubernetes, and Cloud.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-023](./learn-java-testing-benchmarking-performance-jvm-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-025](./learn-java-testing-benchmarking-performance-jvm-part-025.md)
+
+</div>

@@ -2248,3 +2248,10 @@ After this part, we can design security behavior that is not only correct when a
 
 This prepares us for the next topic: **Auditing, Accountability, Non-Repudiation, and Forensic Readiness**, because secure error handling is the entry point into serious auditability.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 26 — CSRF, CORS, Clickjacking, and Browser Security Around Authentication](./learn-java-jakarta-security-authentication-authorization-identity-part-26-browser-security-csrf-cors-clickjacking.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Auditing, Accountability, Non-Repudiation, and Forensic Readiness](./learn-java-jakarta-security-authentication-authorization-identity-part-28-auditing-accountability-non-repudiation-forensics.md)
+
+</div>

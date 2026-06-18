@@ -2393,3 +2393,11 @@ Analisis:
 - Jakarta Transactions 2.0 Specification
 - Hibernate ORM User Guide — transactions, persistence context, flushing
 - Hibernate ORM 7 documentation
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 024 — Jakarta Data Deep Dive](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — Database Integration Patterns: Outbox, Inbox, CDC, Idempotency](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-026.md)
+
+</div>

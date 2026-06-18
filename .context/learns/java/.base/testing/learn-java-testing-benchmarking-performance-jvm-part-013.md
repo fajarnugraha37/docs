@@ -2483,3 +2483,11 @@ Part berikutnya:
 ```text
 Part 014 — Concurrency Testing: Race, Visibility, Atomicity, Deadlock, dan jcstress
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-012](./learn-java-testing-benchmarking-performance-jvm-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-014](./learn-java-testing-benchmarking-performance-jvm-part-014.md)
+
+</div>

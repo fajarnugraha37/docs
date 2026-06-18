@@ -2989,3 +2989,11 @@ Production-grade batch harus menjawab:
 Engineer top-tier tidak hanya membuat job berjalan. Ia mendesain batch agar aman saat job mati, node restart, DB deadlock, file corrupt, external API timeout, dan operator perlu restart jam 2 pagi tanpa merusak data.
 
 Bagian berikutnya akan membahas **Jakarta Concurrency (`jakarta.enterprise.concurrent`)**: managed executor, managed scheduled executor, context propagation, async tasks, thread ownership, virtual threads, cancellation, timeout, and production concurrency design.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-020.md](./learn-java-jakarta-part-020.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-022.md](./learn-java-jakarta-part-022.md)
+
+</div>

@@ -2222,3 +2222,10 @@ NIO Core: Buffer, Channel, Selector, dan Perubahan Mental Model dari Stream
 - Oracle Java SE 25 API — `java.io.PrintStream`
 - Oracle Java SE 25 API — `java.io.PrintWriter`
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 005 — Character I/O: Reader, Writer, Line Processing, Large Text File, dan Text Pipeline](./learn-java-io-nio-networking-data-transfer-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — NIO Core: Buffer, Channel, Selector, dan Perubahan Mental Model dari Stream](./learn-java-io-nio-networking-data-transfer-part-007.md)
+
+</div>

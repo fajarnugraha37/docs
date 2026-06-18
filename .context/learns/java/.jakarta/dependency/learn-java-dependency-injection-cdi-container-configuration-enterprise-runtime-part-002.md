@@ -2507,3 +2507,11 @@ Di sana kita akan membahas:
 ```
 
 Seri belum selesai. Ini adalah bagian 002 dari 035.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime — Part 001](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Java EE to Jakarta EE Migration Model: `javax.*` to `jakarta.*`](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-003.md)
+
+</div>

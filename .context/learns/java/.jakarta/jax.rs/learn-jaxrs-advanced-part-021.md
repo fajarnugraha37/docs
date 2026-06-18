@@ -2893,3 +2893,11 @@ Bagian 022 — Conditional Requests, ETag, Last-Modified, Optimistic Concurrency
 ```
 
 Kita akan membahas HTTP conditional requests secara mendalam: validators, strong/weak ETags, Last-Modified, If-Match, If-None-Match, If-Unmodified-Since, 304, 412, 428, caching, and lost update prevention.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-020.md](./learn-jaxrs-advanced-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-022.md](./learn-jaxrs-advanced-part-022.md)
+
+</div>

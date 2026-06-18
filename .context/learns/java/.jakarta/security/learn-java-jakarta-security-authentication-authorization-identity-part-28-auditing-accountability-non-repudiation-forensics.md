@@ -2208,3 +2208,11 @@ Part 29 — Testing Security: Unit, Integration, Container, Attack Simulation
 ```
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 27 — Secure Error Handling, 401/403 Semantics, and User Experience](./learn-java-jakarta-security-authentication-authorization-identity-part-27-secure-error-handling-401-403-user-experience.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Testing Security: Unit, Integration, Container, Attack Simulation](./learn-java-jakarta-security-authentication-authorization-identity-part-29-testing-security.md)
+
+</div>

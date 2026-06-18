@@ -2705,3 +2705,11 @@ Jangan gunakan async hanya untuk “biar cepat”. Gunakan async jika boundary-n
 Engineer top-tier tidak hanya tahu `executor.submit`. Ia tahu kenapa unmanaged thread berbahaya di container, kenapa transaction submitter tidak ikut ke task, kenapa common pool bermasalah, kenapa virtual thread bukan solusi capacity, dan kapan harus memilih messaging/batch/outbox daripada transient async executor.
 
 Bagian berikutnya akan membahas **Jakarta Enterprise Beans (`jakarta.ejb`)**: stateless/stateful/singleton beans, transaction/security/interceptor model, timer service, concurrency, MDB, legacy relevance, and how to reason about EJB in modern Jakarta EE.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-021.md](./learn-java-jakarta-part-021.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-023.md](./learn-java-jakarta-part-023.md)
+
+</div>

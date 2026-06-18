@@ -2533,3 +2533,10 @@ Bagian berikutnya:
 
 - Part 006 — Container Element Constraints: Lists, Maps, Optional, Custom Containers
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-004](./learn-java-validation-jakarta-hibernate-validator-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-006](./learn-java-validation-jakarta-hibernate-validator-part-006.md)
+
+</div>

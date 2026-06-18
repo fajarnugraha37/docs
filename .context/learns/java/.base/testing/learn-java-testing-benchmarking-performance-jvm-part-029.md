@@ -1843,3 +1843,11 @@ Progress: **Part 029 dari 031 selesai**.
 - Little's Law / queueing theory references.
 - Martin Thompson / Mechanical Sympathy discussions on latency, queueing, and coordinated omission.
 - Brendan Gregg — Systems performance and latency analysis concepts.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-028](./learn-java-testing-benchmarking-performance-jvm-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-030](./learn-java-testing-benchmarking-performance-jvm-part-030.md)
+
+</div>

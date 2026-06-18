@@ -2372,3 +2372,11 @@ Senior Java engineer tidak memakai enum hanya sebagai “daftar konstanta”, te
 
 7. Java SE 25 API — `Currency`  
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Currency.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-010.md](./learn-java-data-types-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-012.md](./learn-java-data-types-part-012.md)
+
+</div>

@@ -2396,3 +2396,10 @@ If earlier parts taught how ORM works, this part teaches how to prove what ORM d
 - Connection pool metrics practices, especially HikariCP-style active/idle/pending/acquisition metrics.
 - Database execution plan and wait-event tooling for Oracle, PostgreSQL, MySQL/MariaDB, and SQL Server.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 26 — Hibernate vs EclipseLink: Behavioral Differences That Matter](./26-hibernate-vs-eclipselink-behavioral-differences-that-matter.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 28 — Performance Engineering: Cost Model from Object Graph to Database Work](./28-performance-engineering-cost-model-object-graph-to-database-work.md)
+
+</div>

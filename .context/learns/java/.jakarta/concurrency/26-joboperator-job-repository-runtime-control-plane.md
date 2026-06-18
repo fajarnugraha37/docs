@@ -2401,3 +2401,11 @@ Seri belum selesai. Bagian berikutnya:
 Part 27 — Batch Listeners and Cross-Cutting Behavior
 File: 27-batch-listeners-cross-cutting-behavior.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 25 — Split, Flow, Decision, and Complex Job Graphs](./25-split-flow-decision-complex-job-graphs.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Batch Listeners and Cross-Cutting Behavior](./27-batch-listeners-cross-cutting-behavior.md)
+
+</div>

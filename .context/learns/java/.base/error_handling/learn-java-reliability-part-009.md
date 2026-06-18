@@ -2140,3 +2140,11 @@ Di sana kita akan membahas:
 Part 009 / 030 completed
 Seri belum selesai.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-008.md](./learn-java-reliability-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-010.md](./learn-java-reliability-part-010.md)
+
+</div>

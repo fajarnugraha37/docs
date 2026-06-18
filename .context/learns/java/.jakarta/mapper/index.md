@@ -1,0 +1,46 @@
+# Daftar Isi: Mapper
+
+## Artikel
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-000](learn-java-json-xml-soap-connectors-enterprise-integration-part-000.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 1](learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-002](learn-java-json-xml-soap-connectors-enterprise-integration-part-002.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-003](learn-java-json-xml-soap-connectors-enterprise-integration-part-003.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-004](learn-java-json-xml-soap-connectors-enterprise-integration-part-004.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 005](learn-java-json-xml-soap-connectors-enterprise-integration-part-005.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 6](learn-java-json-xml-soap-connectors-enterprise-integration-part-006.md)
+- [📄 Part 7 — JSON-B Core Model](learn-java-json-xml-soap-connectors-enterprise-integration-part-007.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 008](learn-java-json-xml-soap-connectors-enterprise-integration-part-008.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-009](learn-java-json-xml-soap-connectors-enterprise-integration-part-009.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 10](learn-java-json-xml-soap-connectors-enterprise-integration-part-010.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 011](learn-java-json-xml-soap-connectors-enterprise-integration-part-011.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 12](learn-java-json-xml-soap-connectors-enterprise-integration-part-012.md)
+- [📄 Learn Java JSON/XML/SOAP/Connectors Enterprise Integration — Part 13](learn-java-json-xml-soap-connectors-enterprise-integration-part-013.md)
+- [📄 Part 14 — XML Schema / XSD Deep Dive](learn-java-json-xml-soap-connectors-enterprise-integration-part-014.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 15](learn-java-json-xml-soap-connectors-enterprise-integration-part-015.md)
+- [📄 Part 16 — JAXB / Jakarta XML Binding Core](learn-java-json-xml-soap-connectors-enterprise-integration-part-016.md)
+- [📄 Part 17 — JAXB / Jakarta XML Binding Annotation Deep Dive](learn-java-json-xml-soap-connectors-enterprise-integration-part-017.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 18](learn-java-json-xml-soap-connectors-enterprise-integration-part-018.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 19](learn-java-json-xml-soap-connectors-enterprise-integration-part-019.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 20](learn-java-json-xml-soap-connectors-enterprise-integration-part-020.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 21](learn-java-json-xml-soap-connectors-enterprise-integration-part-021.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 22](learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 23](learn-java-json-xml-soap-connectors-enterprise-integration-part-023.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 24](learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-025](learn-java-json-xml-soap-connectors-enterprise-integration-part-025.md)
+- [📄 Part 26 — SOAP Faults, Errors & Resilience](learn-java-json-xml-soap-connectors-enterprise-integration-part-026.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-027](learn-java-json-xml-soap-connectors-enterprise-integration-part-027.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 28  ](learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 29](learn-java-json-xml-soap-connectors-enterprise-integration-part-029.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 30](learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-031](learn-java-json-xml-soap-connectors-enterprise-integration-part-031.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 032](learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration-part-033](learn-java-json-xml-soap-connectors-enterprise-integration-part-033.md)
+- [📄 learn-java-json-xml-soap-connectors-enterprise-integration — Part 34](learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md)
+
+
+---
+<div align="center">
+
+[🏠 Kembali ke Daftar Isi Utama](../../../index.md)
+
+</div>

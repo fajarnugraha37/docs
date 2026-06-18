@@ -2143,3 +2143,11 @@ Bagian 039 — Legacy JAX-RS 2.1 Features: Async, SSE, Reactive Client
 ```
 
 Kita akan membahas fitur era JAX-RS 2.1 yang masih penting untuk maintenance legacy system: async server, SSE, reactive client, compatibility behavior, migration to Jakarta REST 4.0, and how to modernize without breaking old clients.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-037.md](./learn-jaxrs-advanced-part-037.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-039.md](./learn-jaxrs-advanced-part-039.md)
+
+</div>

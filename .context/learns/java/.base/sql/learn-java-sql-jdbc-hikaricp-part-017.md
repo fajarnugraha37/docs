@@ -1847,3 +1847,10 @@ Part 018 — Connection Pooling Fundamentals
 
 Di sana kita akan membahas pool sebagai concurrency governor: active, idle, pending, max size, min idle, validation, eviction, idle timeout, max lifetime, leak detection, database session budget, dan kenapa connection pool bisa menyelamatkan atau justru menghancurkan sistem production.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-016](./learn-java-sql-jdbc-hikaricp-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-018](./learn-java-sql-jdbc-hikaricp-part-018.md)
+
+</div>

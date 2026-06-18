@@ -2580,3 +2580,11 @@ Dengan ini, seri mencapai bagian terakhir.
 - OpenJDK JEP 238 — Multi-Release JAR Files: https://openjdk.org/jeps/238
 - OpenJDK JEP 322 — Time-Based Release Versioning: https://openjdk.org/jeps/322
 - OpenJDK JEP 185 — Restrict Fetching of External XML Resources: https://openjdk.org/jeps/185
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 31 — Advanced XML Processing Patterns: DOM/SAX Hybrid, Streaming State Machines, Large Documents](./31-advanced-xml-processing-patterns-dom-sax-hybrid-large-documents.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-000](../memory_management/learn-java-memory-byte-bit-buffer-offheap-gc-part-000.md)
+
+</div>

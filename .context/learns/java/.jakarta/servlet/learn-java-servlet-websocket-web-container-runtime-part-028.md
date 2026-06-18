@@ -2196,3 +2196,11 @@ Part berikutnya akan naik satu layer keluar dari container: **reverse proxy, loa
 - Undertow Options API Documentation — https://undertow.io/javadoc/2.0.x/io/undertow/UndertowOptions.html
 - Kubernetes Probes Documentation — https://kubernetes.io/docs/tasks/configure-pod-container/configure-liveness-readiness-startup-probes/
 - RFC 9110 — HTTP Semantics — https://www.rfc-editor.org/rfc/rfc9110.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 027](./learn-java-servlet-websocket-web-container-runtime-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 029](./learn-java-servlet-websocket-web-container-runtime-part-029.md)
+
+</div>

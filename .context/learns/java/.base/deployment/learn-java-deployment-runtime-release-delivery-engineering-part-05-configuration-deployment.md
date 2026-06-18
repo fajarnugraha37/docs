@@ -2745,3 +2745,10 @@ Part 6 — JVM Options as Deployment Contract
 
 Di sana kita akan memperlakukan JVM options bukan sebagai tuning random, tetapi sebagai kontrak deployment yang menentukan memory boundary, CPU behavior, diagnostics, crash evidence, TLS behavior, timezone, encoding, module access, dan compatibility Java 8–25.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-04-java-runtime-layout-filesystem-process-user-permissions-os.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-06-jvm-options-as-deployment-contract.md)
+
+</div>

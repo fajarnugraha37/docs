@@ -1736,3 +1736,11 @@ Bagian berikutnya:
 ```text
 Part 009 — JVM Shutdown Mechanics
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-007.md](./learn-java-reliability-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-009.md](./learn-java-reliability-part-009.md)
+
+</div>

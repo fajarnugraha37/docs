@@ -2886,3 +2886,11 @@ Jika part sebelumnya menjawab “bagaimana mendesain test yang jelas”, part in
 - Hamcrest matchers Javadoc: https://hamcrest.org/JavaHamcrest/javadoc/
 - Google Testing Blog, “Test Failures Should Be Actionable”: https://testing.googleblog.com/2024/05/test-failures-should-be-actionable.html
 - Takebayashi et al., “An Exploratory Study on the Usage and Readability of Messages Within Assertion Methods of Test Cases”: https://arxiv.org/abs/2303.00169
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-003](./learn-java-testing-benchmarking-performance-jvm-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-005](./learn-java-testing-benchmarking-performance-jvm-part-005.md)
+
+</div>

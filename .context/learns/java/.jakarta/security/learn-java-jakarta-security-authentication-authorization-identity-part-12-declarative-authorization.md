@@ -2211,3 +2211,11 @@ Part 13 — Programmatic Authorization and Domain Permission Design
 ```
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 11 — Jakarta Authorization / JACC Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-11-jakarta-authorization-jacc-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Programmatic Authorization and Domain Permission Design](./learn-java-jakarta-security-authentication-authorization-identity-part-13-programmatic-authorization-domain-permissions.md)
+
+</div>

@@ -1916,3 +1916,11 @@ Di sana kita akan membahas bagaimana method mapper harus menyatakan contract sec
 - MyBatis Dynamic SQL Extending / Rendering Strategy — https://mybatis.org/mybatis-dynamic-sql/docs/extending.html
 - MyBatis 3 Dynamic SQL XML — https://mybatis.org/mybatis-3/dynamic-sql.html
 - MyBatis 3 Mapper XML — https://mybatis.org/mybatis-3/sqlmap-xml.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 8 — Dynamic SQL XML: `if`, `choose`, `where`, `set`, `trim`, `foreach`](./08-dynamic-sql-xml-if-choose-where-set-trim-foreach.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 10 — Mapper Method API Design: Return Type, Optional, List, Cursor, Stream](./10-mapper-method-api-design-return-type-optional-list-cursor-stream.md)
+
+</div>

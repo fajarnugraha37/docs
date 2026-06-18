@@ -2460,3 +2460,11 @@ Part 18 membangun mental model MapStruct sebagai compile-time generated mapper. 
 - mapper composition.
 
 Part 19 akan lebih praktikal, tetapi tetap dengan reasoning dan failure model.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 17 — XML Edge Cases: Namespace, XSD, SOAP-ish Payloads, Canonicalization](./17-xml-edge-cases-namespace-xsd-soapish-payloads-canonicalization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — MapStruct Core: Field Mapping, Nested Mapping, Collection Mapping](./19-mapstruct-core-field-nested-collection-mapping.md)
+
+</div>

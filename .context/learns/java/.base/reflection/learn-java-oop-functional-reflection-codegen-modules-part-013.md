@@ -2646,3 +2646,11 @@ Bagian yang sudah selesai:
 Berikutnya:
 
 - Part 014 — Functional Java Mental Model: Functions, Effects, and Referential Transparency
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-012](./learn-java-oop-functional-reflection-codegen-modules-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-014](./learn-java-oop-functional-reflection-codegen-modules-part-014.md)
+
+</div>

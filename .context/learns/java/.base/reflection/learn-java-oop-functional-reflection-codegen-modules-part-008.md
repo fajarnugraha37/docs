@@ -5072,3 +5072,11 @@ Part berikutnya:
 Topik:
 
 **Enums as Type-Safe State, Strategy, Registry, and Domain Model**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-007](./learn-java-oop-functional-reflection-codegen-modules-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-009](./learn-java-oop-functional-reflection-codegen-modules-part-009.md)
+
+</div>

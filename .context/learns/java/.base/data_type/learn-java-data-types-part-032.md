@@ -1946,3 +1946,11 @@ This mindset turns bugs into stronger type design.
 
 10. RFC 9457 — Problem Details for HTTP APIs  
     https://www.rfc-editor.org/rfc/rfc9457.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-031.md](./learn-java-data-types-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-033.md](./learn-java-data-types-part-033.md)
+
+</div>

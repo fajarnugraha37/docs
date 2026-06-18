@@ -2131,3 +2131,11 @@ Part yang sudah dibuat:
 Berikutnya:
 
 - Part 020 — Packaging Models: WAR, Embedded Container, Executable JAR, Native-ish Deployments
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-018](./learn-java-servlet-websocket-web-container-runtime-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 020](./learn-java-servlet-websocket-web-container-runtime-part-020.md)
+
+</div>

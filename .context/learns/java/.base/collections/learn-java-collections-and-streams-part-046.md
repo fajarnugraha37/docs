@@ -1506,3 +1506,11 @@ are all honest and tested.
 
 10. OpenJDK — Spliterators source  
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/Spliterators.java
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-045.md](./learn-java-collections-and-streams-part-045.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-047.md](./learn-java-collections-and-streams-part-047.md)
+
+</div>

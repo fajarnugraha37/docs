@@ -2449,3 +2449,11 @@ Jika pertanyaan itu bisa dijawab, tuning GC menjadi aktivitas engineering, bukan
 - Java Virtual Machine Specification SE 25, runtime data areas and object/reference model.
 - OpenJDK HotSpot documentation and source concepts around storage management, barriers, safepoints, and collectors.
 - OpenJDK JEPs related to modern GC evolution, especially G1, ZGC, and Shenandoah changes across Java 8–25.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-017](./learn-java-memory-byte-bit-buffer-offheap-gc-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-019](./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md)
+
+</div>

@@ -2915,3 +2915,11 @@ Itulah tujuan akhir dari seri ini: bukan membuat kamu “tahu Java”, tetapi me
 Jika harus diringkas menjadi satu kalimat:
 
 > Java top-tier engineering adalah disiplin membuat keputusan teknis yang benar, terukur, dapat dijelaskan, dapat dioperasikan, dan dapat diwariskan ke engineer berikutnya.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-part-023.md](./learn-java-part-023.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-025.md](./learn-java-part-025.md)
+
+</div>

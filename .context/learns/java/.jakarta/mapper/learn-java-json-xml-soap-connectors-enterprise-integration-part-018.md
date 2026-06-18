@@ -2765,3 +2765,10 @@ Berikutnya:
 
 **Part 19 — JAXB Code-First Workflow: Java → XSD, Contract Drift Risk, Schema Generation, Compatibility Testing, and When Code-First Is Acceptable**.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 17 — JAXB / Jakarta XML Binding Annotation Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 19](./learn-java-json-xml-soap-connectors-enterprise-integration-part-019.md)
+
+</div>

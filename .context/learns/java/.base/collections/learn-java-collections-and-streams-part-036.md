@@ -1466,3 +1466,11 @@ Use explicit workflows to make important things happen.
 
 10. OpenJDK — `Stream.java` Source  
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/stream/Stream.java
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-035.md](./learn-java-collections-and-streams-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-037.md](./learn-java-collections-and-streams-part-037.md)
+
+</div>

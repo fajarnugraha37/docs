@@ -2782,3 +2782,11 @@ Part 010 — Transaction Fundamentals: ACID, Local Transactions, JTA, Resource M
 ```
 
 Di Part 010 kita akan masuk ke fondasi transaksi: bukan hanya `@Transactional`, tetapi transaction sebagai boundary consistency, hubungan antara database transaction, JPA transaction, JDBC transaction, JTA/Jakarta Transactions, resource manager, transaction manager, rollback rules, timeout, dan synchronization.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 008 — Query Model: JPQL, HQL, Criteria, Native SQL, QuerySpecification](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 010 — Transaction Fundamentals: ACID, Local Transactions, JTA, Resource Managers](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-010.md)
+
+</div>

@@ -1684,3 +1684,10 @@ Bagian ini membahas deployment legacy. Part berikutnya akan membahas sisi sebali
 
 Di sana kita akan melihat bagaimana deployment berubah pada Java modern: container-aware runtime, Java 17/21/25 baseline, virtual threads, observability agent, jlink, native image, modern TLS defaults, structured concurrency implications, dan cloud-native runtime contracts.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-27-multi-service-distributed-java-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-29-java-17-21-25-containers-virtual-threads-cloud-native.md)
+
+</div>

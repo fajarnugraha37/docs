@@ -1431,3 +1431,11 @@ If yes, is that exactly what the algorithm needs?
 
 10. OpenJDK — `IdentityHashMap.java` Source  
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/IdentityHashMap.java
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-022.md](./learn-java-collections-and-streams-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-024.md](./learn-java-collections-and-streams-part-024.md)
+
+</div>

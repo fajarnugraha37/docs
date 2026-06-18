@@ -2542,3 +2542,11 @@ Topik berikutnya:
 ```text
 Object Lifetime Engineering: Young, Middle-lived, Long-lived Objects
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-005](./learn-java-memory-byte-bit-buffer-offheap-gc-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-007](./learn-java-memory-byte-bit-buffer-offheap-gc-part-007.md)
+
+</div>

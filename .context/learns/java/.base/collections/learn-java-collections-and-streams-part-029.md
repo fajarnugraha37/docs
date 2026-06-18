@@ -1802,3 +1802,11 @@ Am I reducing a value or collecting a container?
 
 10. dev.java — Terminal Operations  
     https://dev.java/learn/api/streams/terminal-operations/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-028.md](./learn-java-collections-and-streams-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-030.md](./learn-java-collections-and-streams-part-030.md)
+
+</div>

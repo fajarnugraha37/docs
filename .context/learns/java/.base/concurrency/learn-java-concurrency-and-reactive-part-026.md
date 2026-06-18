@@ -1676,3 +1676,11 @@ atomic outbox/inbox, bounded retries, and observable coordination.
 
 10. Spring Boot Reference — Task Execution and Scheduling  
     https://docs.spring.io/spring-boot/reference/features/task-execution-and-scheduling.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-025.md](./learn-java-concurrency-and-reactive-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-027.md](./learn-java-concurrency-and-reactive-part-027.md)
+
+</div>

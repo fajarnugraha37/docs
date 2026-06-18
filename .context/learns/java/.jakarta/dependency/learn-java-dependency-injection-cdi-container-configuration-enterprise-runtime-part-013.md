@@ -3823,3 +3823,11 @@ Next:
 ```text
 [ ] Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-012](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-014.md)
+
+</div>

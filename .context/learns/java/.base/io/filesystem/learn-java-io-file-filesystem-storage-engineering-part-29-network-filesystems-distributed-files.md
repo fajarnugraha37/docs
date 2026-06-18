@@ -2026,3 +2026,11 @@ Jika kamu memahami boundary ini, kamu akan jauh lebih siap membangun file-proces
 - AWS — Amazon EFS performance tips: https://docs.aws.amazon.com/efs/latest/ug/performance-tips.html
 - AWS — Amazon S3 overview: https://docs.aws.amazon.com/AmazonS3/latest/userguide/Welcome.html
 - AWS — Amazon S3 strong consistency: https://aws.amazon.com/s3/consistency/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 28 — Containers, Cloud Runtime, Kubernetes Volumes, and Ephemeral Files](./learn-java-io-file-filesystem-storage-engineering-part-28-containers-cloud-runtime-kubernetes-volumes-ephemeral-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 30](./learn-java-io-file-filesystem-storage-engineering-part-30-performance-engineering.md)
+
+</div>

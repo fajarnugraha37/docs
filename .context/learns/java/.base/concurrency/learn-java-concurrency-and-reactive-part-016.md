@@ -1633,3 +1633,11 @@ It gives virtual-thread fan-out a lifecycle, failure policy, and cancellation bo
 
 10. Oracle Java SE 25 Guide — Virtual Threads  
     https://docs.oracle.com/en/java/javase/25/core/virtual-threads.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-015.md](./learn-java-concurrency-and-reactive-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-017.md](./learn-java-concurrency-and-reactive-part-017.md)
+
+</div>

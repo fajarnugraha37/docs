@@ -3836,3 +3836,11 @@ Buat counter non-thread-safe dan counter atomic. Bandingkan behavior dengan stre
 12. Awaitility — https://www.awaitility.org/
 13. Java SE 25 Documentation — https://docs.oracle.com/en/java/javase/25/
 14. Java SE 25 API Documentation — https://docs.oracle.com/en/java/javase/25/docs/api/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 016 — Modules, Packaging, dan Runtime Images](./learn-java-part-016.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-018 — Enterprise Java dan Backend Engineering](./learn-java-part-018.md)
+
+</div>

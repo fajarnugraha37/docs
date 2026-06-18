@@ -2437,3 +2437,11 @@ It does not validate, secure, store, or govern that content for you.
 Engineer top-tier tahu bahwa attachment bukan cuma `byte[]`. Ia memikirkan MIME type, filename safety, stream repeatability, memory, temp file lifecycle, malware scanning, content sniffing, Jakarta/Javax mismatch, Docker runtime packaging, dan bagaimana Jakarta Mail/SOAP menggunakan `DataHandler` sebagai common content abstraction.
 
 Bagian berikutnya akan membahas **Jakarta Deployment (`jakarta.enterprise.deploy`)**: deployment SPI, deployer/container contract, TargetModuleID, ProgressObject, application server tooling, why it is mostly vendor/tooling-level, and how modern cloud-native deployment differs from classic Jakarta Deployment.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-033.md](./learn-java-jakarta-part-033.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-035.md](./learn-java-jakarta-part-035.md)
+
+</div>

@@ -2657,3 +2657,11 @@ Topik berikutnya:
 ```text
 JVM Arguments & Configuration I: Java Launcher, Standard Flags, -X, -XX
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-022](./learn-java-testing-benchmarking-performance-jvm-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-024.md](./learn-java-testing-benchmarking-performance-jvm-part-024.md)
+
+</div>

@@ -2608,3 +2608,11 @@ Engineer top-tier menggunakan type bukan hanya untuk membuat code compile, tetap
 
 8. Oracle Java SE 25 Tool Specifications  
    https://docs.oracle.com/en/java/javase/25/docs/specs/man/index.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-034.md](../concurrency/learn-java-concurrency-and-reactive-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-001.md](./learn-java-data-types-part-001.md)
+
+</div>

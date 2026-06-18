@@ -2588,3 +2588,11 @@ Bagian 017 — Name Binding, DynamicFeature, Priorities, and Provider Lifecycle
 ```
 
 Kita akan membahas extension binding secara sangat mendalam: global vs name-bound vs dynamic providers, multiple name bindings, priority ordering, provider lifecycle/thread safety, CDI integration, registration strategy, and production extension architecture.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-015.md](./learn-jaxrs-advanced-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-017.md](./learn-jaxrs-advanced-part-017.md)
+
+</div>

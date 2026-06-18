@@ -2448,3 +2448,11 @@ Progress saat ini:
 ...
 [ ] Part 030 — Capstone: Designing a Modular, Reflective, Generated-Code Friendly Java Library
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: 34 — Top 1% OSGi Engineering: Design Reviews, Invariants, Checklists, and Decision Framework](../osgi/34-top-1-percent-osgi-engineering-design-reviews-invariants-checklists-decision-framework.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-001](./learn-java-oop-functional-reflection-codegen-modules-part-001.md)
+
+</div>

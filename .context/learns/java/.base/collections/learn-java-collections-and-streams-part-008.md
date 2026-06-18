@@ -1786,3 +1786,11 @@ It is the contract that tells Stream how to traverse, split, and optimize a sour
 
 10. Java SE 25 — `java.util.stream` Package Summary  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/package-summary.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-007.md](./learn-java-collections-and-streams-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-009.md](./learn-java-collections-and-streams-part-009.md)
+
+</div>

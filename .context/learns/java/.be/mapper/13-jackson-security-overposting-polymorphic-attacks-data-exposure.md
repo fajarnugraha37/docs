@@ -1943,3 +1943,11 @@ and what information may leave the system.
 - OWASP Web Security Testing Guide — Testing for Mass Assignment: https://owasp.org/www-project-web-security-testing-guide/latest/4-Web_Application_Security_Testing/07-Input_Validation_Testing/20-Testing_for_Mass_Assignment
 - OWASP Proactive Controls — Validate All Input and Handle Exceptions: https://top10proactive.owasp.org/the-top-10/c3-validate-input-and-handle-exceptions/
 - Spring Security Advisory CVE-2017-4995: https://spring.io/security/cve-2017-4995
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 12 — Jackson for Enterprise API Contracts: Strictness, Compatibility, Evolution](./12-jackson-enterprise-api-contracts-strictness-compatibility-evolution.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Jackson Performance: Allocation, Streaming, Large Payloads, Hot Paths](./14-jackson-performance-allocation-streaming-large-payloads-hot-paths.md)
+
+</div>

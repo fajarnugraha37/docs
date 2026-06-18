@@ -3668,3 +3668,10 @@ Seri belum selesai. Bagian berikutnya:
 
 > Part 8 — Response Engineering: Status, Headers, Entities, Streaming, Caching, Conditional Requests
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 6 — Entity Provider Pipeline: `MessageBodyReader`, `MessageBodyWriter`, and Provider Selection](./06-entity-provider-pipeline-messagebodyreader-messagebodywriter-provider-selection.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 8 — Response Engineering: Status, Headers, Entities, Streaming, Caching, Conditional Requests](./08-response-engineering-status-headers-entities-streaming-caching-conditional-requests.md)
+
+</div>

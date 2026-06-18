@@ -2147,3 +2147,11 @@ Kita akan membahas:
 - Eclipse Jetty Operations Guide — Server/Thread Pooling: https://jetty.org/docs/jetty/12.1/operations-guide/server/index.html
 - WildFly Undertow Subsystem Model Reference: https://docs.wildfly.org/25/wildscribe/subsystem/undertow/servlet-container/index.html
 - Red Hat JBoss EAP Undertow Configuration Guide: https://docs.redhat.com/en/documentation/red_hat_jboss_enterprise_application_platform/7.0/html/configuration_guide/configuring_the_web_server_undertow
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 002](./learn-java-servlet-websocket-web-container-runtime-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-004](./learn-java-servlet-websocket-web-container-runtime-part-004.md)
+
+</div>

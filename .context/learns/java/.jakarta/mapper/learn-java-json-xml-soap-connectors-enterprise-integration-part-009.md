@@ -3105,3 +3105,11 @@ Pada part berikutnya, kita akan masuk ke desain DTO enterprise yang lebih sistem
 **Status seri:** belum selesai.  
 **Part saat ini:** Part 9 dari 34.  
 **Part berikutnya:** Part 10 — JSON-B for Enterprise DTO Design.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 008](./learn-java-json-xml-soap-connectors-enterprise-integration-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 10](./learn-java-json-xml-soap-connectors-enterprise-integration-part-010.md)
+
+</div>

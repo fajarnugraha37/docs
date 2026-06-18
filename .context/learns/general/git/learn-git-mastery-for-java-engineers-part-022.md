@@ -2265,3 +2265,11 @@ Topik:
 ```text
 Git Hooks: Automasi Lokal dan Guardrails
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-021.md](./learn-git-mastery-for-java-engineers-part-021.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-023.md](./learn-git-mastery-for-java-engineers-part-023.md)
+
+</div>

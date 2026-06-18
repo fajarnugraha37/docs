@@ -1906,3 +1906,11 @@ Part berikutnya:
 ```text
 Part 016 — Serialization I: Java Object Serialization Architecture, Object Graph, Identity, dan Format
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 014 — Temporary File, Atomic File Write, File Replacement, dan Crash-Safe Persistence](./learn-java-io-nio-networking-data-transfer-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 016 — Serialization I: Java Object Serialization Architecture, Object Graph, Identity, dan Format](./learn-java-io-nio-networking-data-transfer-part-016.md)
+
+</div>

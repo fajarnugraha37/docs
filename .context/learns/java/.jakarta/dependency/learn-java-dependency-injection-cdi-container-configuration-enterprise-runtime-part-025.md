@@ -2866,3 +2866,10 @@ Jika configuration didesain baik, deployment lebih aman, incident lebih mudah di
 - The Twelve-Factor App — Config: environment-based externalized configuration principle.
 - Vendor runtime documentation seperti Open Liberty, WildFly, Payara, Quarkus untuk detail implementasi config source dan deployment environment.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 024 — Naming, JNDI, Environment Entries, and Externalized Resources](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — MicroProfile Config Deep Dive](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-026.md)
+
+</div>

@@ -2001,3 +2001,11 @@ Jika dipakai dengan benar, async servlet adalah alat runtime yang kuat. Jika dip
 - Jakarta EE Tutorial — asynchronous servlet and non-blocking I/O concepts.
 - Apache Tomcat Servlet API documentation — historical `javax.servlet` async semantics for Servlet 3.x/4.x and migration context.
 - OpenJDK Java 21+ documentation — virtual threads as modern server-side concurrency option.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-013](./learn-java-servlet-websocket-web-container-runtime-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 015](./learn-java-servlet-websocket-web-container-runtime-part-015.md)
+
+</div>

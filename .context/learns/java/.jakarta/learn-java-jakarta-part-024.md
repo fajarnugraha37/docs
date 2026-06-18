@@ -2998,3 +2998,11 @@ Application code should consume it through a clean gateway and respect container
 Engineer top-tier tidak harus selalu menulis resource adapter, tetapi harus bisa membaca arsitekturnya, men-debug pool exhaustion, memahami XA recovery risk, mengerti message inflow ke MDB, dan tahu kapan custom client library cukup versus kapan resource adapter memang diperlukan.
 
 Bagian berikutnya akan membahas **Jakarta WebSocket (`jakarta.websocket`)**: full-duplex communication, endpoint lifecycle, session, encoder/decoder, backpressure, scaling, authentication, and production real-time messaging.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-023.md](./learn-java-jakarta-part-023.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-025.md](./learn-java-jakarta-part-025.md)
+
+</div>

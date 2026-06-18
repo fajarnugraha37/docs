@@ -2068,3 +2068,11 @@ immutable snapshots for read-mostly shared state.
 
 12. OpenJDK jcstress  
     https://openjdk.org/projects/code-tools/jcstress/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-007.md](./learn-java-concurrency-and-reactive-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-009.md](./learn-java-concurrency-and-reactive-part-009.md)
+
+</div>

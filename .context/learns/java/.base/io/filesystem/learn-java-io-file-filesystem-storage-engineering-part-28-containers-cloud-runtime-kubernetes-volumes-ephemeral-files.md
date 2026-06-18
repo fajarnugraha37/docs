@@ -2773,3 +2773,11 @@ Part 28 menempatkan file/filesystem Java dalam runtime modern. Kesimpulan besarn
 > **Di container dan Kubernetes, pertanyaan “file ini ditulis ke path apa?” tidak cukup. Yang penting adalah “path itu dimount dari mana, lifecycle-nya apa, siapa owner-nya, berapa limit-nya, bagaimana recovery-nya, dan apa yang terjadi saat pod mati?”**
 
 Bagian berikutnya akan masuk ke **Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS](./learn-java-io-file-filesystem-storage-engineering-part-27-cross-platform-filesystem-behavior.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary](./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md)
+
+</div>

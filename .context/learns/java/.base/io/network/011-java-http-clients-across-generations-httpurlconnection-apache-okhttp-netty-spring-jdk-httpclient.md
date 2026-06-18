@@ -2272,3 +2272,11 @@ Part 11 of 35 complete.
 Series is not complete.
 Next part: Part 12 — JDK java.net.http.HttpClient: Architecture, Usage, and Production Patterns
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 10 — HTTP/3 and QUIC for Java Engineers: What Changes, What Does Not](./010-http3-quic-for-java-engineers-what-changes-what-does-not.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — JDK `java.net.http.HttpClient`: Architecture, Usage, and Production Patterns](./012-jdk-java-net-http-httpclient-architecture-usage-production-patterns.md)
+
+</div>

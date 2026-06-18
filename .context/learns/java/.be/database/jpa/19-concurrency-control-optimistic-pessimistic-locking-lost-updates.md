@@ -2050,3 +2050,11 @@ Once you answer that, `@Version`, `LockModeType`, transaction isolation, databas
 - Hibernate ORM 7 Introduction — concurrency approaches using `@Version` and database-level pessimistic locking. citeturn439875search12
 - EclipseLink Documentation — entities and locking; optimistic/pessimistic locking support and default consistency stance. citeturn439875search5
 - EclipseLink JPA Extensions — `@OptimisticLocking`. citeturn439875search15
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 18 — Transaction Integration: Resource Local, JTA, Spring, Jakarta EE, and Boundary Design](./18-transaction-integration-resource-local-jta-spring-jakarta-ee-boundary.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Merge, Detach, DTO Mapping, and API Boundary Safety](./20-merge-detach-dto-mapping-api-boundary-safety.md)
+
+</div>

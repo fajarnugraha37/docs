@@ -2416,3 +2416,10 @@ Bagian berikutnya:
 
 > **Part 20 — Configuration, Secret Rotation, Certificate Rotation, and Truststore Deployment**
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-18-database-aware-deployment-schema-migration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md)
+
+</div>

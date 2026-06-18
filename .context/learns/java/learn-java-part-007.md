@@ -3344,3 +3344,11 @@ Top-tier Java engineer memilih collection bukan karena familiar, tetapi karena c
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Collections.html
 8. OpenJDK JEP 431 — Sequenced Collections  
    https://openjdk.org/jeps/431
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 006 — Functional Programming di Java](./learn-java-part-006.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 008 — Error Handling, Exceptions, dan Reliability Engineering](./learn-java-part-008.md)
+
+</div>

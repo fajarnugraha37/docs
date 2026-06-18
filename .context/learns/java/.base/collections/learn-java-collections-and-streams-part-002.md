@@ -2035,3 +2035,11 @@ Do not use List just because you need “many values”.
 
 10. Java SE 25 — Collections Framework Overview  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/doc-files/coll-overview.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-001.md](./learn-java-collections-and-streams-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-003.md](./learn-java-collections-and-streams-part-003.md)
+
+</div>

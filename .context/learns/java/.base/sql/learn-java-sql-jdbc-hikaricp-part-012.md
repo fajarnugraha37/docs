@@ -2127,3 +2127,10 @@ Referensi utama untuk part ini:
 - Seri belum selesai.
 - Lanjut ke Part 013: `Large Objects and Streaming: Blob, Clob, NClob, SQLXML`.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-011](./learn-java-sql-jdbc-hikaricp-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-013](./learn-java-sql-jdbc-hikaricp-part-013.md)
+
+</div>

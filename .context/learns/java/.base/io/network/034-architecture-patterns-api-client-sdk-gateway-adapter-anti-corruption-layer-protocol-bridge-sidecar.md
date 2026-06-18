@@ -2204,3 +2204,11 @@ Part 34 of 35 selesai.
 Seri belum selesai.
 Part berikutnya: Part 35 — Capstone: Building a Production-Grade Java Network Client and Service Platform
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 33 — Production Failure Catalogue: Diagnosing Real Incidents](./033-production-failure-catalogue-diagnosing-real-incidents.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 35 — Capstone: Building a Production-Grade Java Network Client and Service Platform](./035-capstone-production-grade-java-network-client-and-service-platform.md)
+
+</div>

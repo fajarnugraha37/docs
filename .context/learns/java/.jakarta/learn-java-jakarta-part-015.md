@@ -3227,3 +3227,11 @@ Jika semua dicampur ke custom annotation, sistem menjadi lambat, sulit dites, re
 Engineer top-tier menggunakan Jakarta Validation untuk membuat API dan object contract eksplisit, tetapi tetap tahu kapan harus berhenti dan memindahkan rule ke application/domain/database layer.
 
 Bagian berikutnya akan membahas **Jakarta Security (`jakarta.security.enterprise`)**: authentication, identity store, security context, role mapping, authorization boundary, integration dengan Jakarta REST/CDI, dan bagaimana membedakan framework security dari domain authorization.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-014.md](./learn-java-jakarta-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-016.md](./learn-java-jakarta-part-016.md)
+
+</div>

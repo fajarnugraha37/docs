@@ -2314,3 +2314,10 @@ Java punya GC yang sangat canggih, tetapi performa dan reliability tetap ditentu
 
 Engineer Java yang kuat tidak menebak-nebak GC. Ia membangun baseline, membaca evidence, memahami runtime trade-off, lalu mengubah kode atau konfigurasi dengan alasan yang bisa dipertanggungjawabkan.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 012 — JVM Internal: Dari Class File sampai JIT](./learn-java-part-012.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 014 — Observability, Profiling, dan Troubleshooting di Java hingga Java 25](./learn-java-part-014.md)
+
+</div>

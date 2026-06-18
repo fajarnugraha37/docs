@@ -2898,3 +2898,11 @@ Pada part berikutnya, kita akan naik ke kemampuan transformasi JSON yang lebih s
 
 Status seri: **belum selesai**.  
 Part ini adalah **Part 4 dari 34**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-003](./learn-java-json-xml-soap-connectors-enterprise-integration-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 005](./learn-java-json-xml-soap-connectors-enterprise-integration-part-005.md)
+
+</div>

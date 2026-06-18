@@ -3303,3 +3303,11 @@ Bagian 005 — Path Template, Regex, Matrix Param, and URI Design
 ```
 
 Kita akan membahas URI design dan path template secara jauh lebih detail: canonical resource identity, nested resources, matrix parameters, reserved literals, regex constraints, versioning, trailing slash policy, and gateway-aware URI design.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-003.md](./learn-jaxrs-advanced-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-005.md](./learn-jaxrs-advanced-part-005.md)
+
+</div>

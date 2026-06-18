@@ -2004,3 +2004,11 @@ Part 28 of 35 selesai.
 Seri belum selesai.
 Part berikutnya: Part 29 — Performance Engineering: Latency, Throughput, Tail Latency, Allocation, GC, and Kernel Effects
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 27 — Backpressure, Rate Limiting, Bulkhead, Circuit Breaker, and Adaptive Protection](./027-backpressure-rate-limiting-bulkhead-circuit-breaker-adaptive-protection.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Performance Engineering: Latency, Throughput, Tail Latency, Allocation, GC, and Kernel Effects](./029-performance-engineering-latency-throughput-tail-latency-allocation-gc-kernel-effects.md)
+
+</div>

@@ -2462,3 +2462,11 @@ Part 11 will go deeper into:
 - MyBatis 3 Mapper XML documentation: `select`, `insert`, `update`, `delete`, result mapping, statement attributes such as `useCache`, `flushCache`, `fetchSize`, `resultOrdered`.
 - MyBatis Cursor API documentation: lazy fetching and large result handling.
 - MyBatis-Spring documentation: `SqlSessionTemplate`, transaction-aware session handling, thread-safety, mapper integration.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: 09 — MyBatis Dynamic SQL Library: Type-Safe Query Generation](./09-mybatis-dynamic-sql-library-type-safe-query-generation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — Transaction Integration: Spring, SqlSession, Propagation, Rollback](./11-transaction-integration-spring-sqlsession-propagation-rollback.md)
+
+</div>

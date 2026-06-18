@@ -1873,3 +1873,11 @@ Berikutnya:
 - Part 32 — Monorepo, Polyrepo, and Enterprise Build Topologies
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 30 — Advanced Maven: Reactor, Effective Model, Resolver, Enforcer, Extensions](./30-advanced-maven-reactor-effective-model-resolver-enforcer-extensions.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Monorepo, Polyrepo, and Enterprise Build Topologies](./32-monorepo-polyrepo-enterprise-build-topologies.md)
+
+</div>

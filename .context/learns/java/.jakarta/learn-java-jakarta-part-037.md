@@ -2018,3 +2018,11 @@ jakarta.inject.Named                  // CDI named bean for EL
 Engineer top-tier tidak hanya mengganti annotation. Ia memahami perubahan component model, scope, lifecycle, injection, proxy, serialization, interceptor activation, EL naming, startup behavior, dan resource boundary.
 
 Bagian berikutnya akan membahas **Jakarta Config / Configuration-related model** bila relevan terhadap stack Jakarta modern, lalu dilanjutkan ke bagian synthesis tentang **Jakarta EE application architecture, migration strategy, runtime selection, and production readiness**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-036.md](./learn-java-jakarta-part-036.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-038.md](./learn-java-jakarta-part-038.md)
+
+</div>

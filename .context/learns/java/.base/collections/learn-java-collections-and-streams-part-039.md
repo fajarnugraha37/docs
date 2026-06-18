@@ -1434,3 +1434,11 @@ Use it only when source splits well, work is heavy enough, reduction is correct,
 
 10. OpenJDK — Stream package source  
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-038.md](./learn-java-collections-and-streams-part-038.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-040.md](./learn-java-collections-and-streams-part-040.md)
+
+</div>

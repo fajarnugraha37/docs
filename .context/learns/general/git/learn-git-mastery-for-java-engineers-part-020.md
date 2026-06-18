@@ -2724,3 +2724,11 @@ Topik:
 ```text
 Git untuk Java Projects: Maven, Gradle, IDE, dan Generated Files
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-019.md](./learn-git-mastery-for-java-engineers-part-019.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-021.md](./learn-git-mastery-for-java-engineers-part-021.md)
+
+</div>

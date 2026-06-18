@@ -1629,3 +1629,11 @@ First define: key cardinality, output value type, ordering, memory budget, dupli
 
 10. Java SE 25 — `BinaryOperator`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/function/BinaryOperator.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-031.md](./learn-java-collections-and-streams-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-033.md](./learn-java-collections-and-streams-part-033.md)
+
+</div>

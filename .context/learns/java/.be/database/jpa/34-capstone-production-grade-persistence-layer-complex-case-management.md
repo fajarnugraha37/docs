@@ -2431,3 +2431,11 @@ The series is now complete.
 - EclipseLink Documentation — official EclipseLink documentation covering sessions, descriptors, weaving, cache, query hints, and JPA extensions.
 - Hibernate ORM release documentation — official source for stable/development version context and migration guides.
 - EclipseLink release documentation — official source for Jakarta Persistence 3.2 / Jakarta EE 11 modernization context.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 33 — Production Failure Playbook: Symptoms, Root Causes, and Fix Patterns](./33-production-failure-playbook-symptoms-root-causes-fix-patterns.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Database Change as Engineering Discipline](../migration/00-orientation-database-change-engineering.md)
+
+</div>

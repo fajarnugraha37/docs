@@ -2639,3 +2639,11 @@ File: 16-production-failure-modes-jakarta-concurrency.md
 ```
 
 Bagian berikutnya akan membahas failure modes secara lebih eksplisit: redeploy leak, classloader leak, executor exhaustion, queue explosion, deadlock/starvation, lost context, duplicate execution, zombie task, cluster duplicate schedule, slow downstream collapse, dan diagnostic playbook.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 14 — Cancellation, Timeout, Retry, and Interruption Semantics](./14-cancellation-timeout-retry-interruption-semantics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Production Failure Modes in Jakarta Concurrency](./16-production-failure-modes-jakarta-concurrency.md)
+
+</div>

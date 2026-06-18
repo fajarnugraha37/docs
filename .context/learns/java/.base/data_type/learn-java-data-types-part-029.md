@@ -1847,3 +1847,11 @@ Reflection is a sharp tool: essential for frameworks, dangerous as a shortcut fo
 
 10. Java SE 25 API — `Type`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/reflect/Type.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-028.md](./learn-java-data-types-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-030.md](./learn-java-data-types-part-030.md)
+
+</div>

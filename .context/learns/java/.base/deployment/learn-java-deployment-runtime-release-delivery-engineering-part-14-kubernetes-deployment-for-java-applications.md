@@ -2796,3 +2796,11 @@ Bagian berikutnya akan memperbesar satu topik yang paling sering menjadi sumber 
 Di sana kita akan membedah secara jauh lebih detail bagaimana startup/readiness/liveness, endpoint removal, SIGTERM, preStop, load balancer propagation, servlet shutdown, message consumer drain, dan transaction boundary bekerja bersama.
 
 **Status series:** belum selesai. Saat ini selesai sampai **Part 14 dari 35**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-13-spring-boot-deployment-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-15-kubernetes-probes-graceful-shutdown-traffic-draining.md)
+
+</div>

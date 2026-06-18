@@ -2263,3 +2263,11 @@ Prinsip paling penting:
 > Pilih profile terkecil yang memenuhi requirement dengan jelas, tetapi jangan memaksa profile kecil sampai kamu harus menciptakan ulang platform sendiri secara ad-hoc.
 
 Dengan mental model ini, bagian berikutnya—dependency management API/implementation/runtime/BOM—akan jauh lebih masuk akal.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-001.md](./learn-java-jakarta-part-001.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-003.md](./learn-java-jakarta-part-003.md)
+
+</div>

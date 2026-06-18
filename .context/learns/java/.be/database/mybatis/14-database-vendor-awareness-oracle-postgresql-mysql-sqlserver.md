@@ -2125,3 +2125,10 @@ Lalu tuliskan refactoring plan.
 - MySQL documentation — InnoDB locking reads, `NOWAIT`, `SKIP LOCKED`, `ON DUPLICATE KEY UPDATE`.
 - SQL Server documentation — `OFFSET FETCH`, `TOP`, locking hints, identity/output behavior.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 13 — TypeHandler Engineering: Domain Types, Enum, JSON, Array, Vendor Types](./13-typehandler-engineering-domain-types-enum-json-array-vendor-types.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — Pagination, Sorting, Search Query, and Count Strategy](./15-pagination-sorting-search-query-and-count-strategy.md)
+
+</div>

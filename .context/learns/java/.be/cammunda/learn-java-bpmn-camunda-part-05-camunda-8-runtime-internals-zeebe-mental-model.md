@@ -2459,3 +2459,11 @@ Berikutnya:
 - Part 6 — Java Client Engineering: From API Call to Production-grade Worker
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-04-camunda-landscape-camunda-7-vs-camunda-8.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-06-java-client-engineering-production-grade-worker.md)
+
+</div>

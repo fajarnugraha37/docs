@@ -2358,3 +2358,10 @@ Part 031 — Production Operations: Observability, Debugging, Tuning, and Incide
 
 Setelah bisa menguji persistence dengan benar, tahap berikutnya adalah mengoperasikan persistence layer di production: membaca metric, log, query plan, connection pool, lock wait, deadlock, slow query, transaction leak, persistence context bloat, dan membuat incident playbook yang aman.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 029 — Error Handling, Exception Translation, and Failure Classification](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 031 — Production Operations: Observability, Debugging, Tuning, and Incident Response](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-031.md)
+
+</div>

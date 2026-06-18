@@ -3063,3 +3063,11 @@ Appendix/lanjutan opsional yang masih bisa dibuat setelah ini:
 - Appendix D — Observability Dashboard & Alert Catalog.
 - Appendix E — Migration Automation Scripts.
 - Appendix F — Capstone Implementation Plan.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-039.md](./learn-java-jakarta-part-039.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-000](./mapper/learn-java-json-xml-soap-connectors-enterprise-integration-part-000.md)
+
+</div>

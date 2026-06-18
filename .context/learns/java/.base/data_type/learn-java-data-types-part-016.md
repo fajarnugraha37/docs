@@ -2436,3 +2436,11 @@ Senior Java engineer memilih collection bukan karena kebiasaan, tetapi karena se
 
 15. Java SE 25 API — `java.util.concurrent` package summary  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/package-summary.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-015.md](./learn-java-data-types-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-017.md](./learn-java-data-types-part-017.md)
+
+</div>

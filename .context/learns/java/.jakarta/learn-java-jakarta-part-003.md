@@ -2501,3 +2501,11 @@ Engineer top-tier tidak hanya menambahkan dependency sampai compile hijau. Ia me
 - decision didokumentasikan.
 
 Bagian berikutnya akan membahas **Runtime / Container Model** lebih dalam: bagaimana Jakarta EE container membuat object, mengelola lifecycle, injection, transaction, security, classloading, deployment, dan kenapa behavior container-managed berbeda dari plain Java object.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-002.md](./learn-java-jakarta-part-002.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-004.md](./learn-java-jakarta-part-004.md)
+
+</div>

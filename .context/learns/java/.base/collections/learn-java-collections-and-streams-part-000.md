@@ -2297,3 +2297,11 @@ tetapi bisa mendesain, mereview, mengoptimalkan, dan mengamankan penggunaannya.
 
 10. Java SE 25 — `Iterator`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Iterator.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 34 — Top 1% Build Engineer Playbook](../build_tools/34-top-1-percent-build-engineer-playbook.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-001.md](./learn-java-collections-and-streams-part-001.md)
+
+</div>

@@ -1675,3 +1675,11 @@ Jika kamu sudah memahami bagian ini, kamu tidak hanya tahu cara zip/unzip file. 
 - Oracle Java API Documentation — `ZipInputStream`, `ZipOutputStream`, `ZipFile`, `ZipEntry`.
 - Oracle Java API Documentation — `Deflater`, `Inflater`, `DeflaterOutputStream`, `InflaterInputStream`.
 - Oracle Java Security Developer guidance dan secure coding guidance terkait path canonicalization/resource handling.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 017 — Serialization II: Versioning, Compatibility, Security, dan Kenapa Deserialization Berbahaya](./learn-java-io-nio-networking-data-transfer-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — Networking I: `java.net` Foundation, Address, DNS, URI, URL, Socket Basics](./learn-java-io-nio-networking-data-transfer-part-019.md)
+
+</div>

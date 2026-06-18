@@ -2633,3 +2633,11 @@ Di sana kita akan membedah bagaimana container menerima connection, memetakan re
 - MDN — Overview of HTTP: https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Overview
 - MDN — HTTP response status codes: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
 - MDN — HTTP headers: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-001](./learn-java-servlet-websocket-web-container-runtime-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-003](./learn-java-servlet-websocket-web-container-runtime-part-003.md)
+
+</div>

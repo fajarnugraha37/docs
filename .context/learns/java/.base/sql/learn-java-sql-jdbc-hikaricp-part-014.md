@@ -2462,3 +2462,11 @@ Seri belum selesai.
 Part berikutnya: Part 015 — Advanced JDBC Features: Savepoint, Array, Struct, Ref, RowId, SQLData
 File berikutnya: learn-java-sql-jdbc-hikaricp-part-015.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-013](./learn-java-sql-jdbc-hikaricp-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-015](./learn-java-sql-jdbc-hikaricp-part-015.md)
+
+</div>

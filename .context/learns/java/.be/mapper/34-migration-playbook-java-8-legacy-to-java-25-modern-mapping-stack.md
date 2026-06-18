@@ -2293,3 +2293,11 @@ Records, MapStruct, Jackson 3, Lombok upgrade, dan Java 25 semuanya bisa memberi
 
 - OpenRewrite Jackson 2 to 3 Migration Recipe  
   https://docs.openrewrite.org/recipes/java/jackson/upgradejackson_2_3
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 33 — Mapping Governance: Standards, Reviews, Compatibility Policy](./33-mapping-governance-standards-reviews-compatibility-policy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 35 — Capstone: Designing a Production-Grade Mapping Layer](./35-capstone-designing-production-grade-mapping-layer.md)
+
+</div>

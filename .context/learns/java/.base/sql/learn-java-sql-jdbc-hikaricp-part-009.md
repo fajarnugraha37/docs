@@ -2114,3 +2114,11 @@ Seri belum selesai.
 Part berikutnya: Part 010 — Resource Lifecycle: Closing, Try-With-Resources, Leaks, and Ownership
 File berikutnya: learn-java-sql-jdbc-hikaricp-part-010.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-008](./learn-java-sql-jdbc-hikaricp-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-010](./learn-java-sql-jdbc-hikaricp-part-010.md)
+
+</div>

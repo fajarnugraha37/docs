@@ -2859,3 +2859,11 @@ resources, security, observability, and deployment model are designed together.
 Engineer top-tier tidak hanya tahu `@Inject`, `@Path`, atau `@Entity`. Ia tahu runtime mana yang harus dipilih, kenapa Web Profile cukup, kapan Full Platform dibutuhkan, bagaimana menghindari classpath conflict, bagaimana config di-validate, bagaimana secrets tidak bocor, bagaimana ConfigMap update bekerja, bagaimana rollback dilakukan, dan bagaimana migration Java EE/Jakarta EE direncanakan secara evidence-based.
 
 Bagian berikutnya akan membahas **Jakarta EE Migration & Modernization Playbook**: step-by-step migration dari Java EE/Jakarta EE legacy ke Jakarta EE 11/modern runtime, termasuk namespace migration, removed specs, testing strategy, dependency cleanup, runtime certification, observability uplift, and safe rollout.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-037.md](./learn-java-jakarta-part-037.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-039.md](./learn-java-jakarta-part-039.md)
+
+</div>

@@ -1999,3 +1999,10 @@ Part berikutnya:
 Part 22 — Extender Pattern Internals: How OSGi Frameworks Add Runtime Semantics
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 20 — Java 8 to 25 Compatibility Engineering for OSGi Systems](./20-java-8-to-25-compatibility-engineering-osgi-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Extender Pattern Internals: How OSGi Frameworks Add Runtime Semantics](./22-extender-pattern-internals-runtime-semantics.md)
+
+</div>

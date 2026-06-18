@@ -1656,3 +1656,11 @@ but make capacity limits explicit.
 
 10. Java SE 25 — `ThreadLocal`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/ThreadLocal.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-012.md](./learn-java-concurrency-and-reactive-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-014.md](./learn-java-concurrency-and-reactive-part-014.md)
+
+</div>

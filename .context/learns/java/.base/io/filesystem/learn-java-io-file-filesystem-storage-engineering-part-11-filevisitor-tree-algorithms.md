@@ -2529,3 +2529,11 @@ We will go deeper into links as filesystem identity indirection:
 - Windows junction/reparse-point caveats;
 - safe extraction and upload handling;
 - containment validation under hostile filesystem mutation.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-10-directory-listing-traversal.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Symbolic Links, Hard Links, Junctions, and Link-Safe Programming](./learn-java-io-file-filesystem-storage-engineering-part-12-symbolic-links-hard-links-junctions.md)
+
+</div>

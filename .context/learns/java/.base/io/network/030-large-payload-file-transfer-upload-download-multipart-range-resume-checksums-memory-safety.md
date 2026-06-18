@@ -2091,3 +2091,11 @@ Part 30 of 35 selesai.
 Seri belum selesai.
 Part berikutnya: Part 31 — Security Beyond TLS: SSRF, Request Smuggling, Deserialization, Header Injection, DoS, and Data Leakage
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 29 — Performance Engineering: Latency, Throughput, Tail Latency, Allocation, GC, and Kernel Effects](./029-performance-engineering-latency-throughput-tail-latency-allocation-gc-kernel-effects.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Security Beyond TLS: SSRF, Request Smuggling, Deserialization, Header Injection, DoS, and Data Leakage](./031-security-beyond-tls-ssrf-request-smuggling-deserialization-header-injection-dos-data-leakage.md)
+
+</div>

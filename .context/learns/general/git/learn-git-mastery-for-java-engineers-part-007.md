@@ -2796,3 +2796,11 @@ Itulah perbedaan antara memakai Git sebagai command-line tool dan memakai Git se
 **Status seri:** belum selesai.  
 **Progress:** 007 / 032.  
 **Bagian berikutnya:** `learn-git-mastery-for-java-engineers-part-008.md`.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-006.md](./learn-git-mastery-for-java-engineers-part-006.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-008.md](./learn-git-mastery-for-java-engineers-part-008.md)
+
+</div>

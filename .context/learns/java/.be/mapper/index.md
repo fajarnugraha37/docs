@@ -1,0 +1,47 @@
+# Daftar Isi: Mapper
+
+## Artikel
+- [📄 00 — Orientation: Data Transformation as Software Boundary](00-orientation-data-transformation-as-software-boundary.md)
+- [📄 Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability](01-java-object-model-for-mapping-beans-records-pojos-immutability.md)
+- [📄 Part 2 — Transformation Taxonomy: Copy, Convert, Normalize, Enrich, Redact, Project](02-transformation-taxonomy-copy-convert-normalize-enrich-redact-project.md)
+- [📄 Part 3 — DTO Design: API DTO, Domain DTO, Persistence DTO, Event DTO](03-dto-design-api-domain-persistence-event-dto.md)
+- [📄 Part 4 — Manual Mapping: The Baseline Every Senior Engineer Must Master](04-manual-mapping-baseline-every-senior-engineer-must-master.md)
+- [📄 Part 5 — Mapping Architecture: Mapper Placement, Ownership, and Dependency Direction](05-mapping-architecture-placement-ownership-dependency-direction.md)
+- [📄 Part 6 — Jackson Mental Model: Streaming, Tree Model, Data Binding](06-jackson-mental-model-streaming-tree-model-data-binding.md)
+- [📄 Part 7 — ObjectMapper Engineering: Configuration, Lifecycle, Thread Safety, Modules](07-objectmapper-engineering-configuration-lifecycle-thread-safety-modules.md)
+- [📄 Part 8 — Jackson Serialization: Shape Control, Inclusion, Naming, Formatting](08-jackson-serialization-shape-control-inclusion-naming-formatting.md)
+- [📄 Part 9 — Jackson Deserialization: Constructor Binding, Defaults, Unknown Fields](09-jackson-deserialization-constructor-binding-defaults-unknown-fields.md)
+- [📄 Part 10 — Jackson Advanced Type Handling: Generic, Polymorphism, Sealed Classes](10-jackson-advanced-type-handling-generic-polymorphism-sealed-classes.md)
+- [📄 Part 11 — Jackson Custom Serializer/Deserializer Deep Dive](11-jackson-custom-serializer-deserializer-deep-dive.md)
+- [📄 Part 12 — Jackson for Enterprise API Contracts: Strictness, Compatibility, Evolution](12-jackson-enterprise-api-contracts-strictness-compatibility-evolution.md)
+- [📄 Part 13 — Jackson Security: Over-Posting, Polymorphic Attacks, Data Exposure](13-jackson-security-overposting-polymorphic-attacks-data-exposure.md)
+- [📄 Part 14 — Jackson Performance: Allocation, Streaming, Large Payloads, Hot Paths](14-jackson-performance-allocation-streaming-large-payloads-hot-paths.md)
+- [📄 Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment](15-json-schema-openapi-runtime-contract-alignment.md)
+- [📄 Part 16 — XML Mapping in Modern Java: JAXB/Jakarta XML Binding and Jackson XML](16-xml-mapping-modern-java-jaxb-jakarta-xml-binding-jackson-xml.md)
+- [📄 Part 17 — XML Edge Cases: Namespace, XSD, SOAP-ish Payloads, Canonicalization](17-xml-edge-cases-namespace-xsd-soapish-payloads-canonicalization.md)
+- [📄 Part 18 — MapStruct Mental Model: Compile-Time Mapping and Generated Code](18-mapstruct-mental-model-compile-time-mapping-generated-code.md)
+- [📄 Part 19 — MapStruct Core: Field Mapping, Nested Mapping, Collection Mapping](19-mapstruct-core-field-nested-collection-mapping.md)
+- [📄 Part 20 — MapStruct Update Mapping: Patch, Merge, Partial Update, Null Strategy](20-mapstruct-update-mapping-patch-merge-partial-update-null-strategy.md)
+- [📄 Part 21 — MapStruct Advanced: Qualifiers, Context, Lifecycle Hooks, Object Factory](21-mapstruct-advanced-qualifiers-context-lifecycle-hooks-object-factory.md)
+- [📄 Part 22 — MapStruct for Domain Boundaries: Entity DTO Event Projection](22-mapstruct-domain-boundaries-entity-dto-event-projection.md)
+- [📄 Part 23 — Lombok Mental Model: Annotation Processing, Bytecode Shape, IDE Coupling](23-lombok-mental-model-annotation-processing-bytecode-shape-ide-coupling.md)
+- [📄 Part 24 — Lombok Practical: Getter, Setter, Builder, Value, Equals, HashCode](24-lombok-practical-getter-setter-builder-value-equals-hashcode.md)
+- [📄 Part 25 — Lombok with Jackson and MapStruct: Builders, Records, Immutability](25-lombok-with-jackson-mapstruct-builders-records-immutability.md)
+- [📄 Part 26 — Records, Builders, and Modern Java DTO Strategy](26-records-builders-modern-java-dto-strategy.md)
+- [📄 Part 27 — Mapping Validation Boundary: Bean Validation, Invariants, and Normalization](27-mapping-validation-boundary-bean-validation-invariants-normalization.md)
+- [📄 Part 28 — Error Handling and Diagnostics in Mapping Pipelines](28-error-handling-diagnostics-mapping-pipelines.md)
+- [📄 Part 29 — Testing Strategy: Unit, Golden Payload, Property-Based, Contract Tests](29-testing-strategy-unit-golden-payload-property-based-contract-tests.md)
+- [📄 Part 30 — Performance and Memory Engineering for Mapping Layers](30-performance-memory-engineering-mapping-layers.md)
+- [📄 Part 31 — Persistence Mapping Pitfalls: JPA Entities, Lazy Loading, Proxies, Cycles](31-persistence-mapping-pitfalls-jpa-entities-lazy-loading-proxies-cycles.md)
+- [📄 Part 32 — Integration Mapping: External API, Legacy Payload, Anti-Corruption Layer](32-integration-mapping-external-api-legacy-payload-anti-corruption-layer.md)
+- [📄 Part 33 — Mapping Governance: Standards, Reviews, Compatibility Policy](33-mapping-governance-standards-reviews-compatibility-policy.md)
+- [📄 Part 34 — Migration Playbook: Java 8 Legacy to Java 25 Modern Mapping Stack](34-migration-playbook-java-8-legacy-to-java-25-modern-mapping-stack.md)
+- [📄 Part 35 — Capstone: Designing a Production-Grade Mapping Layer](35-capstone-designing-production-grade-mapping-layer.md)
+
+
+---
+<div align="center">
+
+[🏠 Kembali ke Daftar Isi Utama](../../../index.md)
+
+</div>

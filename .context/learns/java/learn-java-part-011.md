@@ -2294,3 +2294,11 @@ Engineer Java yang kuat tidak hanya tahu bahwa `String` immutable dan `LocalDate
 - kapan `Clock` wajib untuk testable design.
 
 Kalau bagian ini dikuasai, kamu akan jauh lebih siap membangun sistem Java yang benar untuk data global, regulatory workflow, audit trail, dan integrasi enterprise.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java — Part 010](./learn-java-part-010.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 012 — JVM Internal: Dari Class File sampai JIT](./learn-java-part-012.md)
+
+</div>

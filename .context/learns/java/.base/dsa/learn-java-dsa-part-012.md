@@ -2912,3 +2912,11 @@ Part 013 — Graph I: Graph Mental Model, Representation, Traversal
 ```
 
 Seri belum selesai. Kita masih akan lanjut ke graph, shortest path, string algorithms, recursion/backtracking, dynamic programming, greedy, sliding window, bit manipulation, caching structures, concurrent data structures, immutable snapshots, workflow/state-machine DSA, benchmarking, anti-patterns, dan capstone production design.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dsa-part-011 — Trees II: BST, Balanced Tree, Segment Tree, Fenwick Tree](./learn-java-dsa-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-013.md](./learn-java-dsa-part-013.md)
+
+</div>

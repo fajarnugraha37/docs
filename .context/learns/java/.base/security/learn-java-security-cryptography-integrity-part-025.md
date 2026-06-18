@@ -2844,3 +2844,11 @@ Key takeaways:
 # End of Part 25
 
 Seri belum selesai. Lanjut ke Part 26: **Data Integrity in Distributed Java Systems**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-024](./learn-java-security-cryptography-integrity-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-026](./learn-java-security-cryptography-integrity-part-026.md)
+
+</div>

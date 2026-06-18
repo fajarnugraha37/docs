@@ -2006,3 +2006,11 @@ File berikutnya:
 ```text
 05-charsequence-stringbuilder-stringbuffer-text-construction.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 3 — `Class<T>` and Runtime Type Tokens](./03-class-type-token-runtime-type-metadata.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — `StringBuilder`, `StringBuffer`, `CharSequence`, and Text Construction Contracts](./05-charsequence-stringbuilder-stringbuffer-text-construction.md)
+
+</div>

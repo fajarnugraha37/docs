@@ -2509,3 +2509,11 @@ Berikutnya:
 - Part 2 — Transformation Taxonomy: Copy, Convert, Normalize, Enrich, Redact, Project
 
 Seri belum selesai. Ini adalah Part 1 dari 35.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: 00 — Orientation: Data Transformation as Software Boundary](./00-orientation-data-transformation-as-software-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Transformation Taxonomy: Copy, Convert, Normalize, Enrich, Redact, Project](./02-transformation-taxonomy-copy-convert-normalize-enrich-redact-project.md)
+
+</div>

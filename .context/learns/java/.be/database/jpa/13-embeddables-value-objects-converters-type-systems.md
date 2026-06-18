@@ -2898,3 +2898,11 @@ That part will explain how ORM materializes object graphs, why lazy/eager is not
 - EclipseLink 4.0 JPA Extensions Reference: https://eclipse.dev/eclipselink/documentation/4.0/jpa/extensions/jpa-extensions.html
 - EclipseLink `ObjectTypeConverter` documentation: https://eclipse.dev/eclipselink/documentation/2.4/jpa/extensions/a_objecttypeconverter.htm
 - EclipseLink `SerializedObjectConverter` API: https://eclipse.dev/eclipselink/api/4.0/org.eclipse.persistence.core/org/eclipse/persistence/mappings/converters/SerializedObjectConverter.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 12 — Inheritance Mapping: Object Hierarchy vs Relational Shape](./12-inheritance-mapping-object-hierarchy-relational-shape.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 14 — Fetching Mental Model: Lazy, Eager, Proxies, Enhancement, and Load Plans](./14-fetching-mental-model-lazy-eager-proxies-enhancement-load-plans.md)
+
+</div>

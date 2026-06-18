@@ -3155,3 +3155,11 @@ Bagian 013 — Error Handling Architecture: Exceptions, Mappers, Problem Details
 ```
 
 Kita akan membahas arsitektur error handling lengkap: checked vs unchecked exception, `WebApplicationException`, `ExceptionMapper`, mapper specificity, RFC 9457 Problem Details, validation errors, conversion errors, domain errors, observability, and enterprise error taxonomy.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-011.md](./learn-jaxrs-advanced-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-013.md](./learn-jaxrs-advanced-part-013.md)
+
+</div>

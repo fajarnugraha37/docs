@@ -1791,3 +1791,11 @@ Berikutnya:
 ```text
 Part 24 — Lombok Practical: Getter Setter Builder Value With Equals HashCode
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 22 — MapStruct for Domain Boundaries: Entity DTO Event Projection](./22-mapstruct-domain-boundaries-entity-dto-event-projection.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Lombok Practical: Getter, Setter, Builder, Value, Equals, HashCode](./24-lombok-practical-getter-setter-builder-value-equals-hashcode.md)
+
+</div>

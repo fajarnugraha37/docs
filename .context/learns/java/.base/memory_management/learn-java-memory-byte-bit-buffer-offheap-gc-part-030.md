@@ -2004,3 +2004,11 @@ Primary references used across this final integration:
 
 - Java SE 25 API: `ByteBuffer`, `MappedByteBuffer`, `MemorySegment`, `Arena`, `Cleaner`, `VarHandle`  
   https://docs.oracle.com/en/java/javase/25/docs/api/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — OSGi Mental Model: Dynamic Module System, Not Just Plugin Framework](../osgi/00-osgi-mental-model-dynamic-module-system-not-just-plugin-framework.md)
+
+</div>

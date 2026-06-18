@@ -2335,3 +2335,11 @@ contract -> wire format -> parser -> memory -> storage -> integrity -> security 
 Di part berikutnya kita akan masuk ke **WS-* Interoperability Field Guide**: WS-Addressing, WS-Security, WS-Policy, WS-ReliableMessaging overview, serta batas antara standar dan vendor-specific behavior.
 
 Status seri: belum selesai. Part ini adalah Part 27 dari 34.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 26 — SOAP Faults, Errors & Resilience](./learn-java-json-xml-soap-connectors-enterprise-integration-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 28  ](./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md)
+
+</div>

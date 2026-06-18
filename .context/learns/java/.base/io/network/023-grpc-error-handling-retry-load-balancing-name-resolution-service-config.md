@@ -2129,3 +2129,11 @@ Part 23 of 35 selesai.
 Seri belum selesai.
 Part berikutnya: Part 24 — gRPC Streaming and Backpressure: Designing High-Volume Bidirectional Systems
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 22 — gRPC Transport Internals: HTTP/2, Netty, Flow Control, Keepalive, Deadlines, and Metadata](./022-grpc-transport-internals-http2-netty-flow-control-keepalive-deadlines-metadata.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — gRPC Streaming and Backpressure: Designing High-Volume Bidirectional Systems](./024-grpc-streaming-and-backpressure-designing-high-volume-bidirectional-systems.md)
+
+</div>

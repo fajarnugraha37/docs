@@ -2769,3 +2769,11 @@ one-to-many mapping
 duplicate row collapse
 object graph explosion
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 5 — Parameter Binding: `#{}`, `${}`, TypeHandler, and SQL Injection Boundary](./05-parameter-binding-placeholder-typehandler-and-sql-injection-boundary.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — Advanced Result Mapping: Constructor, Record, Immutable DTO, Nested Object](./07-advanced-result-mapping-constructor-record-immutable-dto-nested-object.md)
+
+</div>

@@ -2480,3 +2480,10 @@ last sequence: 12345
 - Java SE 25 documentation: `java.nio.channels.SeekableByteChannel`.
 - Java documentation: `FileChannel.force`, `FileChannel.truncate`, `StandardOpenOption.SYNC`, `StandardOpenOption.DSYNC`, `StandardOpenOption.APPEND`.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-22-checksums-hashes-integrity-deduplication.md)
+
+</div>

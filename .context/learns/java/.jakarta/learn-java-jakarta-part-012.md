@@ -3054,3 +3054,11 @@ Prinsip utama:
 > Treat Jakarta Persistence as a persistence engine with lifecycle, identity, transaction, and query semantics—not as a magic object saver.
 
 Bagian berikutnya akan membahas **Jakarta Data**, yaitu repository abstraction standard di Jakarta EE 11 yang berada di atas persistence/data access layer dan perlu dipahami relasinya dengan JPA, repository pattern, dan Spring Data-style programming.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-011.md](./learn-java-jakarta-part-011.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-013.md](./learn-java-jakarta-part-013.md)
+
+</div>

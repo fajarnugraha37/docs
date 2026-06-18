@@ -2264,3 +2264,11 @@ Bagian tersebut penting karena banyak sistem enterprise Java modern memakai Spri
 - async/virtual thread boundary.
 
 Status seri: **belum selesai**. Part 024 dari 032 selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 023 — Repository Patterns: DAO, Repository, Spring Data JPA, Jakarta Data](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 025 — Spring Transaction + JPA Integration Deep Dive](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-025.md)
+
+</div>

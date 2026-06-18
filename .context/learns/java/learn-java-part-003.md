@@ -3351,3 +3351,11 @@ Sebelum masuk Bagian 4 tentang type system dan generics, pastikan kamu bisa menj
 14. Bagaimana object model memengaruhi Spring, Hibernate, Jackson, Mockito.
 
 Jika semua ini masuk akal, kamu sudah punya fondasi object model yang jauh lebih kuat daripada mayoritas engineer yang hanya memakai Java sebagai “bahasa Spring Boot”.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 002 — Fondasi Bahasa Java: Dari Syntax ke Semantics](./learn-java-part-002.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java hingga Java 25 — Part 004](./learn-java-part-004.md)
+
+</div>

@@ -2726,3 +2726,11 @@ Progress saat ini:
 [ ] Part 32 - Case Studies: Realistic Production Scenarios
 [ ] Part 33 - Capstone: Designing a Production-Grade Migration Platform
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 1 — Taxonomy of Database Changes](./01-taxonomy-of-database-changes.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 3 — Database Versioning Models](./03-database-versioning-models.md)
+
+</div>

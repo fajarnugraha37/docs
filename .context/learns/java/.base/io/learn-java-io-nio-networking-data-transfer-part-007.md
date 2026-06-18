@@ -1757,3 +1757,11 @@ Part berikutnya:
 ```text
 Part 008 — ByteBuffer Deep Dive: Heap, Direct, Mapped, Slice, Duplicate, View Buffer
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 006 — Console I/O: `System.in/out/err`, `Console`, Password Input, dan CLI Interaction](./learn-java-io-nio-networking-data-transfer-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 008 — ByteBuffer Deep Dive: Heap, Direct, Mapped, Slice, Duplicate, View Buffer](./learn-java-io-nio-networking-data-transfer-part-008.md)
+
+</div>

@@ -2171,3 +2171,10 @@ Seri belum selesai. Berikutnya:
 Part 25 — Secure Logging, Audit Trail Integrity, Evidence, and Non-Repudiation
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-023](./learn-java-security-cryptography-integrity-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-025](./learn-java-security-cryptography-integrity-part-025.md)
+
+</div>

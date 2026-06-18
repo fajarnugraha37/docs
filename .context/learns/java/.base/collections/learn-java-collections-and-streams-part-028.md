@@ -1434,3 +1434,11 @@ and leave it only when you need objects again.
 
 10. Java SE 25 — `BigDecimal`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/math/BigDecimal.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-027.md](./learn-java-collections-and-streams-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-029.md](./learn-java-collections-and-streams-part-029.md)
+
+</div>

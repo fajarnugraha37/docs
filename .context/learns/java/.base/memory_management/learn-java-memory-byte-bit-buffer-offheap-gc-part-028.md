@@ -2448,3 +2448,11 @@ Memory-Aware API and System Design Patterns
 ```
 
 Di bagian berikutnya kita akan naik dari tuning runtime ke desain sistem dan API: bagaimana membuat API, cache, batch, stream, queue, DTO, serialization, dan memory budget yang tidak menciptakan pressure berlebihan ke heap/off-heap/container.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md)
+
+</div>

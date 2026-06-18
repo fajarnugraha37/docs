@@ -2790,3 +2790,11 @@ The central mental model:
 - Spring Boot Documentation — Shutdown Actuator Endpoint: https://docs.spring.io/spring-boot/api/rest/actuator/shutdown.html
 - Oracle Java 25 Documentation — `jdk.jcmd` module and diagnostic tools: https://docs.oracle.com/en/java/javase/25/docs/api/jdk.jcmd/module-summary.html
 - Oracle Java Troubleshooting Guide — Diagnostic Tools / Flight Recorder: https://docs.oracle.com/en/java/javase/25/troubleshoot/diagnostic-tools.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering — Part 32](./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md)
+
+</div>

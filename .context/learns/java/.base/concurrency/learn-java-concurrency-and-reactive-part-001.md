@@ -1693,3 +1693,11 @@ blocking operations, and external resource limits.
 
 8. Java SE 25 — `Thread.Builder`  
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/Thread.Builder.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-000.md](./learn-java-concurrency-and-reactive-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-002.md](./learn-java-concurrency-and-reactive-part-002.md)
+
+</div>

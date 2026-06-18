@@ -2137,3 +2137,11 @@ Part 19 of 35 selesai.
 Seri belum selesai.
 Part berikutnya: Part 20 — WebSocket Revisited as a Network Protocol
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 18 — REST Over HTTP: Contract Design, Evolution, Compatibility, and Error Model](./018-rest-over-http-contract-design-evolution-compatibility-error-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — WebSocket Revisited as a Network Protocol](./020-websocket-revisited-as-a-network-protocol.md)
+
+</div>

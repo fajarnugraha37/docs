@@ -1595,3 +1595,11 @@ Part 004 — Statement, PreparedStatement, CallableStatement: Execution Model
 File berikutnya:
 learn-java-sql-jdbc-hikaricp-part-004.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-002](./learn-java-sql-jdbc-hikaricp-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-004.md](./learn-java-sql-jdbc-hikaricp-part-004.md)
+
+</div>

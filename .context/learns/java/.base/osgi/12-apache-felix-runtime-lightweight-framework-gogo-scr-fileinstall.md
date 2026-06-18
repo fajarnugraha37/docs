@@ -2091,3 +2091,11 @@ Di part berikutnya, kita akan membahas **Eclipse Equinox Runtime**: framework ya
 Part 12 dari 35 selesai.
 Series belum selesai.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 11 — bnd and Bndtools: Build Intelligence for OSGi Engineering](./11-bnd-bndtools-build-intelligence-osgi-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Eclipse Equinox Runtime: Eclipse Platform, p2, Extension Registry, Enterprise Lessons](./13-eclipse-equinox-runtime-eclipse-platform-p2-extension-registry-enterprise-lessons.md)
+
+</div>

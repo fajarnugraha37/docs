@@ -2534,3 +2534,11 @@ Referensi yang relevan untuk part ini:
 - RFC 9111 — HTTP Caching
 - RFC 7807 — Problem Details for HTTP APIs
 - RFC 9457 — Problem Details update
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 7 — JSON in Jersey: Jackson, JSON-B, MOXy, and Production Serialization Strategy](./07-json-in-jersey-jackson-jsonb-moxy-production-serialization-strategy.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 9 — Exception Mapping Architecture: Failure Taxonomy, Mapper Resolution, and Error Contracts](./09-exception-mapping-architecture-failure-taxonomy-mapper-resolution-error-contracts.md)
+
+</div>

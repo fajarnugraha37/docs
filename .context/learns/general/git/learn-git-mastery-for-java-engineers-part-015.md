@@ -2258,3 +2258,10 @@ Saya ingin membatalkan perubahan.
 Harus revert, reset, restore, checkout, atau cherry-pick?
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-014.md](./learn-git-mastery-for-java-engineers-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-016.md](./learn-git-mastery-for-java-engineers-part-016.md)
+
+</div>

@@ -2694,3 +2694,11 @@ Part 004 selesai.
 Seri belum selesai.
 Masih lanjut ke part 005 sampai part 030.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-003](./learn-java-memory-byte-bit-buffer-offheap-gc-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-005](./learn-java-memory-byte-bit-buffer-offheap-gc-part-005.md)
+
+</div>

@@ -4036,3 +4036,11 @@ Bagian 006 — Parameter Injection: @PathParam, @QueryParam, @HeaderParam, @Cook
 ```
 
 Kita akan membedah semua mekanisme parameter injection, conversion, default values, collection params, error behavior, lifecycle constraints, and production patterns.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-004.md](./learn-jaxrs-advanced-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-006.md](./learn-jaxrs-advanced-part-006.md)
+
+</div>

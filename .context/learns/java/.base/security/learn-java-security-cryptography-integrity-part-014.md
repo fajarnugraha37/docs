@@ -2106,3 +2106,11 @@ Berikutnya:
 ```text
 Part 15 — TLS Hardening, Disabled Algorithms, and Runtime Security Properties
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-013](./learn-java-security-cryptography-integrity-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-015](./learn-java-security-cryptography-integrity-part-015.md)
+
+</div>

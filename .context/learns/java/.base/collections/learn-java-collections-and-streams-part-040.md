@@ -1370,3 +1370,11 @@ If it is just a view over in-memory data, do not add resource-management noise.
 
 10. OpenJDK — Files API source  
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/nio/file/Files.java
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-039.md](./learn-java-collections-and-streams-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-041.md](./learn-java-collections-and-streams-part-041.md)
+
+</div>

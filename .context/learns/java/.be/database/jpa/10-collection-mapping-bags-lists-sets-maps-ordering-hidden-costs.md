@@ -2573,3 +2573,11 @@ That is the mindset that separates annotation-level JPA usage from production-gr
 
 Selesai: Part 10 dari 34.  
 Berikutnya: `11-cascades-orphan-removal-lifecycle-aggregate-boundaries.md`.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 9 — Association Mapping: Ownership, Foreign Keys, Join Tables, and Graph Mutation](./09-association-mapping-ownership-foreign-keys-join-tables.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — Cascades, Orphan Removal, Lifecycle Propagation, and Aggregate Boundaries](./11-cascades-orphan-removal-lifecycle-aggregate-boundaries.md)
+
+</div>

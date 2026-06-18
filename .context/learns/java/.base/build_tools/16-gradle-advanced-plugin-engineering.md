@@ -1935,3 +1935,11 @@ Yang harus dibawa ke part berikutnya:
 9. configuration cache compatibility harus dianggap requirement modern, bukan bonus.
 
 Part berikutnya akan masuk ke **Performance Engineering**: build time, configuration cache, daemon, parallelism, incrementality, build cache, profiling, dan cara berpikir seperti engineer yang mampu memangkas build enterprise dari puluhan menit menjadi beberapa menit tanpa mengorbankan correctness.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 15 — Maven Advanced Plugin Engineering: Custom Mojo, Parameter Injection, Lifecycle Binding](./15-maven-advanced-plugin-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Performance Engineering: Build Time, Configuration Cache, Daemon, Parallelism, Incrementality](./17-performance-engineering.md)
+
+</div>

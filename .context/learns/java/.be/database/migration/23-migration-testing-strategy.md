@@ -2069,3 +2069,11 @@ Seri belum selesai. Part berikutnya:
 ```text
 24-migration-in-spring-boot-applications.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 22 — Vendor-Specific Migration Engineering](./22-vendor-specific-migration-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — Migration in Spring Boot Applications](./24-migration-in-spring-boot-applications.md)
+
+</div>

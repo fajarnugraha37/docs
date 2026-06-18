@@ -2150,3 +2150,11 @@ Pakai checklist part 061 untuk review implementasi final.
 
 10. OpenAPI Specification  
     https://spec.openapis.org/oas/latest.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-061.md](./learn-java-collections-and-streams-part-061.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-000.md](../concurrency/learn-java-concurrency-and-reactive-part-000.md)
+
+</div>

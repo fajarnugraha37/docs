@@ -2875,3 +2875,11 @@ Seri belum selesai.
 Bagian berikutnya:
 
 `learn-java-validation-jakarta-hibernate-validator-part-023.md` — **Advanced Domain Rule Modeling: Specification Pattern, Policy Objects, and Validators**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-021](./learn-java-validation-jakarta-hibernate-validator-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-023](./learn-java-validation-jakarta-hibernate-validator-part-023.md)
+
+</div>

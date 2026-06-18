@@ -2243,3 +2243,11 @@ Part 32 — Capstone — target akhir
 ```
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 8 — Response Engineering: Status, Headers, Entities, Streaming, Caching, Conditional Requests](./08-response-engineering-status-headers-entities-streaming-caching-conditional-requests.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 10 — Filters and Interceptors: Request/Response Pipeline Control](./10-filters-and-interceptors-request-response-pipeline-control.md)
+
+</div>

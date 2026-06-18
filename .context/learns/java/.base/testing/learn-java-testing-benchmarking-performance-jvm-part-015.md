@@ -2067,3 +2067,10 @@ and with failure signals that engineers trust.
 - Testcontainers documentation: https://testcontainers.com/
 - Awaitility documentation: https://www.awaitility.org/
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-014](./learn-java-testing-benchmarking-performance-jvm-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-016](./learn-java-testing-benchmarking-performance-jvm-part-016.md)
+
+</div>

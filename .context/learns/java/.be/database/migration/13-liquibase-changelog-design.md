@@ -3983,3 +3983,10 @@ Di Part 14, kita akan masuk ke fitur Liquibase yang sering membedakan migration 
 - tenant-specific migration,
 - dan anti-pattern branching changelog yang membuat dev/test/prod drift.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 12 — Liquibase Setup in Java 8–25 Projects](./12-liquibase-setup-java-8-to-25.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 14 — Liquibase Preconditions, Contexts, and Labels](./14-liquibase-preconditions-contexts-labels.md)
+
+</div>

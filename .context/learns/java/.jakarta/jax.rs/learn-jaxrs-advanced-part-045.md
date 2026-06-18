@@ -2131,3 +2131,11 @@ Bagian 046 — Multi-Tenancy and Data Authorization in JAX-RS
 ```
 
 Kita akan membahas tenant context propagation, tenant-aware resource design, data authorization, row-level security, repository safeguards, DTO redaction, cross-tenant leakage prevention, testing, and observability.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-044.md](./learn-jaxrs-advanced-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-046.md](./learn-jaxrs-advanced-part-046.md)
+
+</div>

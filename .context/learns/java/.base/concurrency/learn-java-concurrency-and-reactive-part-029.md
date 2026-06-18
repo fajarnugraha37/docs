@@ -1478,3 +1478,11 @@ messages duplicate, and failures occur?”
 
 10. JUnit 5 User Guide
     https://junit.org/junit5/docs/current/user-guide/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-028.md](./learn-java-concurrency-and-reactive-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-030.md](./learn-java-concurrency-and-reactive-part-030.md)
+
+</div>

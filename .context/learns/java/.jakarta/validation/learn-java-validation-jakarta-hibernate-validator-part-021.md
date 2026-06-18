@@ -2100,3 +2100,11 @@ Bagian berikutnya:
 ```text
 022 - Validation for Workflow, State Machines, and Regulatory Case Management
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-020](./learn-java-validation-jakarta-hibernate-validator-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-022](./learn-java-validation-jakarta-hibernate-validator-part-022.md)
+
+</div>

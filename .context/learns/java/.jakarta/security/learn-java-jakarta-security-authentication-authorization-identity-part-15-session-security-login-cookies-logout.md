@@ -2252,3 +2252,11 @@ Part 16 — Token-Based Security in Jakarta Applications
 ```
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 14 — Roles, Groups, Claims, Scopes, Authorities: Mapping Without Losing Meaning](./learn-java-jakarta-security-authentication-authorization-identity-part-14-roles-groups-claims-scopes-authorities-mapping.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Token-Based Security in Jakarta Applications](./learn-java-jakarta-security-authentication-authorization-identity-part-16-token-based-security.md)
+
+</div>

@@ -2386,3 +2386,10 @@ Bagian berikutnya:
 
 - Part 002 — Core API Mental Model: `ValidatorFactory`, `Validator`, `ConstraintViolation`, Metadata
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-000](./learn-java-validation-jakarta-hibernate-validator-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-002](./learn-java-validation-jakarta-hibernate-validator-part-002.md)
+
+</div>

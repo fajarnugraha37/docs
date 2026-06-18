@@ -2639,3 +2639,11 @@ Topik berikutnya:
 ```text
 Lifecycle Perubahan: Dari Edit File sampai Commit Berkualitas
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-002.md](./learn-git-mastery-for-java-engineers-part-002.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-004.md](./learn-git-mastery-for-java-engineers-part-004.md)
+
+</div>

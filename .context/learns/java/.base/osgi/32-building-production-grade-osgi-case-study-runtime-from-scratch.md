@@ -2002,3 +2002,11 @@ Part 32 selesai.
 Series belum selesai.
 Lanjut ke Part 33: Advanced Runtime Customization: Embedding Frameworks, Launcher Design, Hooks, Connect.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 31 — Migration Playbooks: Legacy Classpath App to OSGi, OSGi to Modern Java, and Hybrid Systems](./31-migration-playbooks-legacy-classpath-app-to-osgi-osgi-to-modern-java-hybrid-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — Advanced Runtime Customization: Embedding Frameworks, Launcher Design, Hooks, Connect](./33-advanced-runtime-customization-embedding-frameworks-launcher-hooks-connect.md)
+
+</div>

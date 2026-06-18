@@ -2724,3 +2724,11 @@ Topik berikutnya:
 ```text
 Records Deep Dive: Value-Carrying Types, Canonical Constructor, and API Design
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-006](./learn-java-oop-functional-reflection-codegen-modules-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-008](./learn-java-oop-functional-reflection-codegen-modules-part-008.md)
+
+</div>

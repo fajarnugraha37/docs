@@ -2434,3 +2434,11 @@ Part berikutnya:
 ```text
 Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 13 — Jackson Security: Over-Posting, Polymorphic Attacks, Data Exposure](./13-jackson-security-overposting-polymorphic-attacks-data-exposure.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment](./15-json-schema-openapi-runtime-contract-alignment.md)
+
+</div>

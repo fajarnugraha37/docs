@@ -2256,3 +2256,11 @@ Those must be designed, documented, tested, and often wrapped in domain types.
 
 10. Oracle Java 21 Guide — Creating Sequenced Collections, Sets, and Maps  
     https://docs.oracle.com/en/java/javase/21/core/creating-sequenced-collections-sets-and-maps.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-000.md](./learn-java-collections-and-streams-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-002.md](./learn-java-collections-and-streams-part-002.md)
+
+</div>

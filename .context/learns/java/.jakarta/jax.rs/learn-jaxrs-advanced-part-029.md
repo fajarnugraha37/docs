@@ -2394,3 +2394,11 @@ Bagian 030 — Client Resilience: Timeout, Retry, Circuit Breaker, Bulkhead, Ide
 ```
 
 Kita akan membahas outbound resilience secara mendalam: timeout budget, deadline propagation, retry policy, exponential backoff, jitter, circuit breaker, bulkhead, rate limit, idempotency key, fallback, and failure taxonomy.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-028.md](./learn-jaxrs-advanced-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-030.md](./learn-jaxrs-advanced-part-030.md)
+
+</div>

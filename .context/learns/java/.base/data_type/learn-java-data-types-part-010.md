@@ -2356,3 +2356,11 @@ Itulah cara menjadikan `String` safe data type, bukan sumber bug production ters
 
 13. Java Language Specification SE 25 — String Concatenation Operator  
     https://docs.oracle.com/javase/specs/jls/se25/html/jls-15.html#jls-15.18.1
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-009.md](./learn-java-data-types-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-011.md](./learn-java-data-types-part-011.md)
+
+</div>

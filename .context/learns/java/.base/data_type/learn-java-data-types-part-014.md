@@ -1844,3 +1844,11 @@ Senior Java engineer uses pattern matching not as syntax sugar, but as a compile
 
 8. Java Language Specification SE 25 Preview Spec — Primitive Types in Patterns, instanceof, and switch  
    https://docs.oracle.com/javase/specs/jls/se25/preview/specs/primitive-types-in-patterns-instanceof-switch-jls.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-013.md](./learn-java-data-types-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-015.md](./learn-java-data-types-part-015.md)
+
+</div>

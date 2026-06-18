@@ -2800,3 +2800,11 @@ Bagian 016 — Interceptors: ReaderInterceptor and WriterInterceptor
 ```
 
 Kita akan membahas entity stream interception: reader/writer interceptor pipeline, compression/encryption/signature, body hash, logging pitfalls, priority, name binding, interaction with MessageBodyReader/Writer, and production-safe stream transformation.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-014.md](./learn-jaxrs-advanced-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-016.md](./learn-jaxrs-advanced-part-016.md)
+
+</div>

@@ -2508,3 +2508,11 @@ Part 016 selesai.
 Seri belum selesai.  
 Part berikutnya: **Part 017 — Performance Model of JDBC Calls**.  
 File berikutnya: `learn-java-sql-jdbc-hikaricp-part-017.md`.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-015](./learn-java-sql-jdbc-hikaricp-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-017](./learn-java-sql-jdbc-hikaricp-part-017.md)
+
+</div>

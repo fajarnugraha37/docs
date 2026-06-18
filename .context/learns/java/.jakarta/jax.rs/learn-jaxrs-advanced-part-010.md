@@ -2991,3 +2991,11 @@ Bagian 011 — Content Negotiation Deep Dive: @Consumes, @Produces, MediaType, V
 ```
 
 Kita akan membedah negotiation secara sangat detail: request `Content-Type`, response `Accept`, `@Consumes`, `@Produces`, media type specificity, `q`, `qs`, `Variant`, `Vary`, JSON/XML/CSV/PDF strategy, and production negotiation testing.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-009.md](./learn-jaxrs-advanced-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-011.md](./learn-jaxrs-advanced-part-011.md)
+
+</div>

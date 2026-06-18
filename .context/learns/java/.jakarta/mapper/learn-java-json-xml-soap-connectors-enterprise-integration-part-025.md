@@ -2179,3 +2179,11 @@ Bagian berikutnya akan memperdalam sisi error: **Part 26 — SOAP Faults, Errors
 
 Status seri: **belum selesai**.  
 Part ini adalah **Part 25 dari 34**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 24](./learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — SOAP Faults, Errors & Resilience](./learn-java-json-xml-soap-connectors-enterprise-integration-part-026.md)
+
+</div>

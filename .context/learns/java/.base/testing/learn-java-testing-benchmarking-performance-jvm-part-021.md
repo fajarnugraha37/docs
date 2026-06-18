@@ -2332,3 +2332,11 @@ Part 021 selesai.
 Seri belum selesai.
 Next: Part 022 — Garbage Collection Engineering I: GC Theory dan Collector Evolution Java 8–25.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-020](./learn-java-testing-benchmarking-performance-jvm-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-022](./learn-java-testing-benchmarking-performance-jvm-part-022.md)
+
+</div>

@@ -1365,3 +1365,11 @@ which operations must be atomic, and what iteration semantics are acceptable.
 
 10. OpenJDK jcstress  
     https://openjdk.org/projects/code-tools/jcstress/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-052.md](./learn-java-collections-and-streams-part-052.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-054.md](./learn-java-collections-and-streams-part-054.md)
+
+</div>

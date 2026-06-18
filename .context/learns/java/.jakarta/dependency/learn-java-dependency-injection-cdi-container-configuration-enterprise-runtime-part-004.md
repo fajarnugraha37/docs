@@ -3113,3 +3113,10 @@ Referensi yang relevan untuk bagian ini:
 - Jakarta Servlet 6.1 — web container model for HTTP request/response handling.
 - MicroProfile Config — configuration as runtime contract in modern enterprise Java.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 003 — Java EE to Jakarta EE Migration Model: `javax.*` to `jakarta.*`](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 005 — Classloaders, Modules, and Deployment Isolation](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-005.md)
+
+</div>

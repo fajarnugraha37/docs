@@ -1875,3 +1875,11 @@ Bagian 048 — Advanced HTTP Client and Service-to-Service Communication
 ```
 
 Kita akan membahas service-to-service HTTP secara mendalam: client lifecycle, connection pools, DNS, TLS/mTLS, auth token propagation, timeout budget, retries, circuit breaker, request signing, idempotency, schema compatibility, and safe downstream consumption.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-046.md](./learn-jaxrs-advanced-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-048.md](./learn-jaxrs-advanced-part-048.md)
+
+</div>

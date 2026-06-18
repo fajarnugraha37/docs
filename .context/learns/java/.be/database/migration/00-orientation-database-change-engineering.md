@@ -2068,3 +2068,10 @@ Part berikutnya:
 01-taxonomy-of-database-changes.md
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 34 — Capstone: Designing a Production-Grade Persistence Layer for Complex Case Management](../jpa/34-capstone-production-grade-persistence-layer-complex-case-management.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 1 — Taxonomy of Database Changes](./01-taxonomy-of-database-changes.md)
+
+</div>

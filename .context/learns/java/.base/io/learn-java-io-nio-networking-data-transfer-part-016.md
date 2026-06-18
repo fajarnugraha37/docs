@@ -2290,3 +2290,11 @@ Topik utama Part 017:
 - `ObjectInputFilter`,
 - allowlist vs denylist,
 - migrasi dari Java serialization ke format aman.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 015 — WatchService: File Change Detection, Event Coalescing, dan Reliability Limit](./learn-java-io-nio-networking-data-transfer-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Serialization II: Versioning, Compatibility, Security, dan Kenapa Deserialization Berbahaya](./learn-java-io-nio-networking-data-transfer-part-017.md)
+
+</div>

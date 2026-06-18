@@ -2509,3 +2509,11 @@ and every important message must have a recovery story.
 - gRPC Java Javadoc — `ServerCallStreamObserver`: https://grpc.github.io/grpc-java/javadoc/io/grpc/stub/ServerCallStreamObserver.html
 - RFC 9113 — HTTP/2: https://www.rfc-editor.org/rfc/rfc9113.html
 - Protocol Buffers Language Guide: https://protobuf.dev/programming-guides/proto3/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 23 — gRPC Error Handling, Retry, Load Balancing, Name Resolution, and Service Config](./023-grpc-error-handling-retry-load-balancing-name-resolution-service-config.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 25 — Netty for Java Network Engineers: Event Loop, Channel Pipeline, ByteBuf, and Zero-Copy](./025-netty-for-java-network-engineers-event-loop-channel-pipeline-bytebuf-zero-copy.md)
+
+</div>

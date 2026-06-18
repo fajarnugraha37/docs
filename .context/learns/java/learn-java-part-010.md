@@ -3524,3 +3524,11 @@ Ia bertanya:
 > Apa boundary-nya, berapa ukurannya, apakah blocking, apakah bounded, bagaimana timeout-nya, bagaimana cancellation-nya, bagaimana encoding-nya, bagaimana failure mode-nya, bagaimana retry-nya, bagaimana integrity-nya, dan bagaimana kita tahu ketika rusak di production?
 
 Itulah perbedaan antara “bisa memakai I/O API” dan “bisa mendesain data transfer system”.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 009 — Java Memory Model dan Concurrency Fundamental](./learn-java-part-009.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-011.md](./learn-java-part-011.md)
+
+</div>

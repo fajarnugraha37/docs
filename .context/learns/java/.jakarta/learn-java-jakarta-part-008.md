@@ -3090,3 +3090,11 @@ explicit code untuk domain rule
 Engineer top-tier tidak hanya tahu cara membuat `@AroundInvoke`. Ia tahu kapan cross-cutting behavior sebaiknya invisible, kapan harus explicit, bagaimana menguji ordering, bagaimana menjaga observability, dan bagaimana menghindari side effect tersembunyi.
 
 Bagian berikutnya akan masuk ke **Jakarta RESTful Web Services (`jakarta.ws.rs`)**, yaitu salah satu spesifikasi Jakarta paling sering dipakai untuk membangun REST API production-grade.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-007.md](./learn-java-jakarta-part-007.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-009.md](./learn-java-jakarta-part-009.md)
+
+</div>

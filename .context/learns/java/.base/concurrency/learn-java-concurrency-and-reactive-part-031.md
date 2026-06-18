@@ -1541,3 +1541,11 @@ and imperative code is simpler.
 
 10. Spring Blog/Docs — Reactive Programming and WebFlux Concepts  
     https://spring.io/reactive
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-030.md](./learn-java-concurrency-and-reactive-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-032.md](./learn-java-concurrency-and-reactive-part-032.md)
+
+</div>

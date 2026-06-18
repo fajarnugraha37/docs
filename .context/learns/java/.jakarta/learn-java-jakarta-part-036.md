@@ -2095,3 +2095,11 @@ Secure them like production infrastructure.
 Engineer top-tier tahu bahwa observability modern tidak cukup hanya “server running”. Ia membedakan management state, health, metrics, traces, logs, deployment state, Kubernetes state, dan business readiness. Ia juga tahu kapan harus memakai legacy JSR-77/JMX/vendor API, dan bagaimana memigrasikannya ke OpenTelemetry/Prometheus/Kubernetes secara aman.
 
 Bagian berikutnya akan membahas **Jakarta Managed Beans (`jakarta.annotation.ManagedBean` legacy / Managed Beans spec)**: historical managed bean model, why CDI replaced it, Jakarta EE 11 removal/deprecation context, migration to CDI, lifecycle annotations, injection differences, and how to reason about old code that still uses Managed Beans concepts.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-035.md](./learn-java-jakarta-part-035.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-037.md](./learn-java-jakarta-part-037.md)
+
+</div>

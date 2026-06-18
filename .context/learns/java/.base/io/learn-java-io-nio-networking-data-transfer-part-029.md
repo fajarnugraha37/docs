@@ -1904,3 +1904,11 @@ Topik berikutnya:
 ```text
 Production Design Patterns: File Ingestion, Export Job, Secure Transfer, Audit, Observability, dan Operational Runbook
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 028 — Concurrency and I/O: Thread-per-Connection, Virtual Thread, Async I/O, Locking, dan Backpressure](./learn-java-io-nio-networking-data-transfer-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Production Design Patterns: File Ingestion, Export Job, Secure Transfer, Audit, Observability, dan Operational Runbook](./learn-java-io-nio-networking-data-transfer-part-030.md)
+
+</div>

@@ -2790,3 +2790,11 @@ Jika generics membantu compiler menjaga invariant, gunakan. Jika generics membua
 
 14. Java SE 25 API — `Class`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/Class.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-014.md](./learn-java-data-types-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-016.md](./learn-java-data-types-part-016.md)
+
+</div>

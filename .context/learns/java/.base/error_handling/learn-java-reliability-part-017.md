@@ -1862,3 +1862,11 @@ Di sana kita akan melihat bagaimana sistem mencegah retry dan request biasa meng
 Part 017 / 030 completed
 Seri belum selesai.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-016.md](./learn-java-reliability-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-018.md](./learn-java-reliability-part-018.md)
+
+</div>

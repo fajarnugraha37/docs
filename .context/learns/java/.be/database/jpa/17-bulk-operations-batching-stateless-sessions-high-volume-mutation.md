@@ -1959,3 +1959,10 @@ Fokus berikutnya:
 - read-only transaction myth,
 - boundary design untuk correctness dan performance.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 16 — JPQL, HQL, Criteria, Native Query, and Query Plan Discipline](./16-jpql-hql-criteria-native-query-query-plan-discipline.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 18 — Transaction Integration: Resource Local, JTA, Spring, Jakarta EE, and Boundary Design](./18-transaction-integration-resource-local-jta-spring-jakarta-ee-boundary.md)
+
+</div>

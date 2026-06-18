@@ -1925,3 +1925,11 @@ Progress:
 ```
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 10 — Sealed Types Runtime View: `Class`, Permitted Subclasses, and Exhaustiveness](./10-sealed-types-runtime-view-permitted-subclasses-exhaustiveness.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — `Exception`, `RuntimeException`, `Error`: Failure Taxonomy for Serious Systems](./12-exception-runtimeexception-error-failure-taxonomy.md)
+
+</div>

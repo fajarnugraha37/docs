@@ -2594,3 +2594,11 @@ Topik berikutnya:
 ```text
 Interfaces Deep Dive: Contracts, Capabilities, Traits, Default Methods
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-004](./learn-java-oop-functional-reflection-codegen-modules-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-006](./learn-java-oop-functional-reflection-codegen-modules-part-006.md)
+
+</div>

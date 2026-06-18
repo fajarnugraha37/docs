@@ -2020,3 +2020,11 @@ Belum selesai.
 Berikutnya:
 Part 14 — Roles, Groups, Claims, Scopes, Authorities: Mapping Without Losing Meaning
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 12 — Declarative Authorization: URL, Method, Class, Role](./learn-java-jakarta-security-authentication-authorization-identity-part-12-declarative-authorization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Roles, Groups, Claims, Scopes, Authorities: Mapping Without Losing Meaning](./learn-java-jakarta-security-authentication-authorization-identity-part-14-roles-groups-claims-scopes-authorities-mapping.md)
+
+</div>

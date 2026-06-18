@@ -2623,3 +2623,11 @@ That is the difference between writing ORM queries and engineering a persistence
 Next part:
 
 `17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md`
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 15 — N+1, Cartesian Explosion, and Fetch Plan Engineering](./15-n-plus-one-cartesian-explosion-fetch-plan-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 17 — Bulk Operations, Batching, Stateless Sessions, and High-Volume Data Mutation](./17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md)
+
+</div>

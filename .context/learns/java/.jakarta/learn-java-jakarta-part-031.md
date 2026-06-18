@@ -3098,3 +3098,11 @@ Protect your domain model, validate your contracts, and secure your XML parser.
 Engineer top-tier tidak hanya bisa `JAXB.marshal`. Ia tahu namespace, XSD, adapters, `JAXBElement`, schema validation, XXE, streaming large XML, Java/Jakarta namespace migration, dependency/runtime split, dan bagaimana membuat XML integration aman, observable, dan evolvable.
 
 Bagian berikutnya akan membahas **Jakarta XML Web Services (`jakarta.xml.ws`) / JAX-WS**: SOAP service/client model, WSDL-first vs code-first, JAXB payload binding, handlers, faults, MTOM, WS-Security ecosystem, migration, and why SOAP/XML Web Services are legacy-but-still-important.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-030.md](./learn-java-jakarta-part-030.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-032.md](./learn-java-jakarta-part-032.md)
+
+</div>

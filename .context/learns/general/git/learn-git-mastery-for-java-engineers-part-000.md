@@ -2269,3 +2269,10 @@ Di Part 001, kita mulai dari pertanyaan paling fundamental:
 Masalah engineering apa yang sebenarnya diselesaikan oleh Git?
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-001.md](./learn-git-mastery-for-java-engineers-part-001.md)
+
+</div>

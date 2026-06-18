@@ -419,3 +419,11 @@ COM1
 case-123/decision.pdf
 case-123\decision.pdf
 file
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-016](./learn-java-security-cryptography-integrity-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-018.md](./learn-java-security-cryptography-integrity-part-018.md)
+
+</div>

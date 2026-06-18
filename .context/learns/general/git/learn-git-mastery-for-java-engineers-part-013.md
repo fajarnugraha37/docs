@@ -2482,3 +2482,11 @@ Progress: 013 / 032
 Seri belum selesai.
 Bagian terakhir yang direncanakan: learn-git-mastery-for-java-engineers-part-032.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-012.md](./learn-git-mastery-for-java-engineers-part-012.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-014.md](./learn-git-mastery-for-java-engineers-part-014.md)
+
+</div>

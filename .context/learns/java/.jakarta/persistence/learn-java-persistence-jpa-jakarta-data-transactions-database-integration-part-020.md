@@ -2298,3 +2298,10 @@ Jika bagian sebelumnya membahas mapping dasar, maka bagian ini membahas batas ke
 - Hibernate ORM 6.x/7.x documentation — `@JdbcTypeCode(SqlTypes.JSON)`, modern type system, provider-specific mapping.
 - Database documentation sesuai vendor: Oracle, PostgreSQL, MySQL/InnoDB, SQL Server untuk JSON, LOB, generated column, function-based/partial index, encryption, dan storage behavior.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 019 — Caching: First-Level Cache, Second-Level Cache, Query Cache, External Cache](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — Auditing, Temporal Data, Soft Delete, and Historical Correctness](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-021.md)
+
+</div>

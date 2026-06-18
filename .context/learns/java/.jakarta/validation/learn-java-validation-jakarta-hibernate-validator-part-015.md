@@ -2340,3 +2340,11 @@ Jika lima hal ini tidak dicampur sembarangan, validation layer akan menjadi jela
 - Hibernate Validator Reference Guide — provider-specific programmatic constraint declaration dan Hibernate Validator configuration.
 - Hibernate Validator 9.x release notes — implementation target Jakarta Validation 3.1 / Jakarta EE 11.
 - Bean Validation 2.0 / JSR 380 — type-use constraints, container element constraints, Java 8 support.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-014](./learn-java-validation-jakarta-hibernate-validator-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-016](./learn-java-validation-jakarta-hibernate-validator-part-016.md)
+
+</div>

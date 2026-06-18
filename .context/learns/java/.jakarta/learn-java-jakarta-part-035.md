@@ -2537,3 +2537,11 @@ Application code should not manage deployment lifecycle of itself.
 Engineer top-tier memahami bahwa deployment bukan hanya “copy WAR”. Ia melibatkan artifact, target, configuration plan, security role/resource mapping, progress, partial failure, rollback, audit, drift, and health verification. Ia juga tahu kapan model klasik ini harus diganti dengan immutable image, orchestrator rollout, GitOps, and platform engineering workflow.
 
 Bagian berikutnya akan membahas **Jakarta Management (`jakarta.management.j2ee`)**: JSR-77 management model, managed objects, server/module/resource monitoring, JMX relation, why it is legacy/tooling-oriented, and how modern observability differs from classic Jakarta Management.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-034.md](./learn-java-jakarta-part-034.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-036.md](./learn-java-jakarta-part-036.md)
+
+</div>

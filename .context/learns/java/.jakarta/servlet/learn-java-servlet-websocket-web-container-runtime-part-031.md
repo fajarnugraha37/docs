@@ -2241,3 +2241,10 @@ learn-java-servlet-websocket-web-container-runtime
 
 Dengan ini, seri **sudah selesai**.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-030](./learn-java-servlet-websocket-web-container-runtime-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-000](../validation/learn-java-validation-jakarta-hibernate-validator-part-000.md)
+
+</div>

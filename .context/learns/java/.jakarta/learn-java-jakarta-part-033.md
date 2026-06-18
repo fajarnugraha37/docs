@@ -2525,3 +2525,11 @@ With that power comes namespace, security, memory, and interoperability responsi
 Engineer top-tier tahu bahwa SOAP bukan hanya XML string. Ia memahami envelope/header/body/fault, attachment MIME boundary, SOAP 1.1 vs 1.2, SOAPAction, XML security, WS-Security risk, handler chain, memory cost attachment, dan kapan harus memakai SAAJ langsung versus JAX-WS.
 
 Bagian berikutnya akan membahas **Jakarta Activation (`jakarta.activation`)**: MIME type, `DataHandler`, `DataSource`, command map, file/mail/SOAP attachment integration, streaming binary data, content type handling, and migration from JavaBeans Activation Framework.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-032.md](./learn-java-jakarta-part-032.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-034.md](./learn-java-jakarta-part-034.md)
+
+</div>

@@ -2609,3 +2609,11 @@ Bagian 023 — Hypermedia and Links: Link, HATEOAS, and Practical REST Maturity
 ```
 
 Kita akan membahas `Link`, link relations, `Location`, `Content-Location`, affordances, HATEOAS pragmatis, pagination links, action links, and when hypermedia is useful vs over-engineered.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-021.md](./learn-jaxrs-advanced-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-023.md](./learn-jaxrs-advanced-part-023.md)
+
+</div>

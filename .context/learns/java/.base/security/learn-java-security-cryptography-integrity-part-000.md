@@ -2457,3 +2457,10 @@ Progress:
 [ ] Part 34 — Capstone: Designing a Secure Java Regulatory Case Management Platform
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-030](../reflection/learn-java-oop-functional-reflection-codegen-modules-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-001](./learn-java-security-cryptography-integrity-part-001.md)
+
+</div>

@@ -1763,3 +1763,11 @@ Bagian berikutnya:
 ```text
 19-conversion-and-validation-in-faces-ui-level-integrity.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 17 — Faces Lifecycle Deep Dive: Phase-by-Phase Execution and Failure Modeling](./17-faces-lifecycle-deep-dive-phase-by-phase-failure-modeling.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Conversion and Validation in Faces: UI-Level Integrity](./19-conversion-and-validation-in-faces-ui-level-integrity.md)
+
+</div>

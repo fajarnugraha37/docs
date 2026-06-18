@@ -2392,3 +2392,11 @@ Part 11 — Jakarta Authorization / JACC Deep Dive
 ```
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 09 — Credentials and Password Handling in Jakarta Applications](./learn-java-jakarta-security-authentication-authorization-identity-part-09-credentials-password-handling.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Jakarta Authorization / JACC Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-11-jakarta-authorization-jacc-deep-dive.md)
+
+</div>

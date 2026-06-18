@@ -1591,3 +1591,11 @@ and partial results are combined.
 
 10. OpenJDK — Stream package source  
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-037.md](./learn-java-collections-and-streams-part-037.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-039.md](./learn-java-collections-and-streams-part-039.md)
+
+</div>

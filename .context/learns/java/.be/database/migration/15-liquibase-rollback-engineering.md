@@ -2194,3 +2194,11 @@ Progress saat ini:
 ...
 [ ] Part 33 — Capstone: Designing a Production-Grade Migration Platform
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 14 — Liquibase Preconditions, Contexts, and Labels](./14-liquibase-preconditions-contexts-labels.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — Flyway vs Liquibase: Decision Framework](./16-flyway-vs-liquibase-decision-framework.md)
+
+</div>

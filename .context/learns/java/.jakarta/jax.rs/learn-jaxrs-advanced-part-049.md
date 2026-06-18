@@ -1769,3 +1769,11 @@ Bagian 050 — JAX-RS and Jakarta Security / OAuth2 / OIDC / JWT
 ```
 
 Kita akan membahas authentication/authorization lebih dalam: Jakarta Security, OAuth2/OIDC flows, JWT validation, token exchange, scopes/roles/claims, SecurityContext, method security, tenant-aware authorization, and production identity architecture.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-048.md](./learn-jaxrs-advanced-part-048.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-050.md](./learn-jaxrs-advanced-part-050.md)
+
+</div>

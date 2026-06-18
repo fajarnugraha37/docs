@@ -2118,3 +2118,11 @@ Bagian 041 — Performance Engineering JAX-RS
 ```
 
 Kita akan membahas performance secara mendalam: request pipeline cost, JSON serialization, filters/providers overhead, connection/thread pools, async vs blocking, streaming, multipart, database/outbound dependency latency, benchmarking, profiling, GC/memory, and capacity planning.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-039.md](./learn-jaxrs-advanced-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-041.md](./learn-jaxrs-advanced-part-041.md)
+
+</div>

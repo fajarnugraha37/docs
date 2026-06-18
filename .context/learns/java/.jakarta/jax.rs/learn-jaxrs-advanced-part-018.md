@@ -2892,3 +2892,11 @@ Bagian 019 — CORS, CSRF, Cookies, Browser Security, and REST APIs
 ```
 
 Kita akan membahas browser-facing REST security secara mendalam: CORS protocol, preflight, credentials, cookies, SameSite, CSRF patterns, token storage, XSS interaction, security headers, and gateway/browser behavior.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-017.md](./learn-jaxrs-advanced-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-019.md](./learn-jaxrs-advanced-part-019.md)
+
+</div>

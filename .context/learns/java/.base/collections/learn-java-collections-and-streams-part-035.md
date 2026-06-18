@@ -1452,3 +1452,11 @@ source, fused stateless stages, stateful barriers, short-circuit points, termina
 
 10. OpenJDK — Stream package source  
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-034.md](./learn-java-collections-and-streams-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-036.md](./learn-java-collections-and-streams-part-036.md)
+
+</div>

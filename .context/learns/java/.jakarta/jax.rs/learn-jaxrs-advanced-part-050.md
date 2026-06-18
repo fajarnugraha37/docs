@@ -1712,3 +1712,11 @@ Bagian 051 — JAX-RS Runtime Internals and Extension Points
 ```
 
 Kita akan membahas bagaimana runtime JAX-RS bekerja di dalam: bootstrap, application model, resource scanning, request matching, provider registry, injection, filters/interceptors pipeline, entity provider selection, exception mapper resolution, async internals, and extension design.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-049.md](./learn-jaxrs-advanced-part-049.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-051.md](./learn-jaxrs-advanced-part-051.md)
+
+</div>

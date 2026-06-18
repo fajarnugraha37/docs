@@ -3266,3 +3266,10 @@ Small modular demo -> module import.
 
 Jika dipakai dengan disiplin, fitur-fitur ini membuat Java lebih kuat untuk membangun sistem yang kompleks, terutama sistem dengan lifecycle, policy, audit, dan failure semantics yang harus jelas.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java hingga Java 25 — Part 004](./learn-java-part-004.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 006 — Functional Programming di Java](./learn-java-part-006.md)
+
+</div>

@@ -1724,3 +1724,11 @@ Part berikutnya:
 ```text
 Part 09 — Delete Semantics: Delete, Recursive Delete, Tombstone, and Safe Cleanup
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 07 — Atomic Update Pattern: Temp File + fsync + Atomic Move](./learn-java-io-file-filesystem-storage-engineering-part-07-atomic-update-pattern.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 09](./learn-java-io-file-filesystem-storage-engineering-part-09-delete-semantics.md)
+
+</div>

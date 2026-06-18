@@ -1433,3 +1433,11 @@ and where the aggregation should execute.
 
 10. Java SE 25 — `ZoneId`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/time/ZoneId.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-055.md](./learn-java-collections-and-streams-part-055.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-057.md](./learn-java-collections-and-streams-part-057.md)
+
+</div>

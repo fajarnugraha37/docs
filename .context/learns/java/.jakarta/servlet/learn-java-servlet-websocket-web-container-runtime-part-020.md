@@ -2477,3 +2477,11 @@ Seri belum selesai. Lanjut ke:
 ```text
 Part 021 — WebSocket Protocol Fundamentals
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-019](./learn-java-servlet-websocket-web-container-runtime-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-021](./learn-java-servlet-websocket-web-container-runtime-part-021.md)
+
+</div>

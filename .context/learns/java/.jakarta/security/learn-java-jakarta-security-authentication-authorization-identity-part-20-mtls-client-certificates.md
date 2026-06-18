@@ -1929,3 +1929,11 @@ Part 21 — Method Security with CDI, EJB, Interceptors, and Proxies
 ```
 
 Bagian berikutnya akan membahas bagaimana authorization ditegakkan di method/service layer menggunakan CDI/EJB/interceptor/proxy, termasuk problem self-invocation, annotation resolution, transaction-security ordering, custom domain annotation, dan hidden bypass patterns.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 19 — SAML, Enterprise SSO, and Legacy Federation Integration](./learn-java-jakarta-security-authentication-authorization-identity-part-19-saml-enterprise-sso-legacy-federation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Jakarta Security Authentication Authorization Identity — Part 21](./learn-java-jakarta-security-authentication-authorization-identity-part-21-method-security-cdi-ejb-interceptors-proxies.md)
+
+</div>

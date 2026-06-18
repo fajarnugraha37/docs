@@ -2648,3 +2648,11 @@ Bagian berikutnya akan masuk ke:
 Di sana kita akan membahas cara mengeksplorasi search space secara sistematis: choice, undo, pruning, branch-and-bound, recursive vs iterative implementation, dan bagaimana pola ini muncul dalam rule combination, scheduling, allocation, dan constraint search.
 
 Status seri: **belum selesai**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dsa-part-015.md](./learn-java-dsa-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-017 — Recursion, Backtracking, Search Space Pruning](./learn-java-dsa-part-017.md)
+
+</div>

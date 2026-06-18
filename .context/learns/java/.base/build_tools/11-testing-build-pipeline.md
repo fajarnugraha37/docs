@@ -3009,3 +3009,11 @@ Jika jawaban untuk pertanyaan-pertanyaan itu jelas, testing pipeline berubah dar
 - OpenJDK JMH
 - Testcontainers Documentation
 - PIT Mutation Testing Documentation
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 10 — Compiler Engineering: `javac`, Annotation Processing, Incremental Compilation, Generated Sources](./10-compiler-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Packaging Engineering: JAR, Fat JAR, Thin JAR, WAR, EAR, Modular JAR, Native Image](./12-packaging-engineering.md)
+
+</div>

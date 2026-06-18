@@ -1999,3 +1999,11 @@ Saat ini selesai: **Part 22 dari 35**.
 Total rencana: **Part 0 sampai Part 34**.
 
 Part berikutnya: **Part 23 — Secure Coding in Java: Dangerous APIs, Footguns, and Review Heuristics**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-021](./learn-java-security-cryptography-integrity-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-023](./learn-java-security-cryptography-integrity-part-023.md)
+
+</div>

@@ -2193,3 +2193,11 @@ Berikutnya:
 ```text
 Part 01 — Path Semantics Deep Dive: Name, Root, Absolute, Relative, Normalize, Resolve
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-030.md](../../error_handling/learn-java-reliability-part-030.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering-part-01-path-semantics](./learn-java-io-file-filesystem-storage-engineering-part-01-path-semantics.md)
+
+</div>

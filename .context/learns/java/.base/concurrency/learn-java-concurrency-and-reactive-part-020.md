@@ -1791,3 +1791,11 @@ mutation frequency, contention, and ownership.
 
 13. OpenJDK JEP 444 — Virtual Threads  
     https://openjdk.org/jeps/444
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-019.md](./learn-java-concurrency-and-reactive-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-021.md](./learn-java-concurrency-and-reactive-part-021.md)
+
+</div>

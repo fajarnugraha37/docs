@@ -3477,3 +3477,10 @@ Referensi utama yang digunakan untuk menyusun materi ini:
 16. RabbitMQ Documentation  
     https://www.rabbitmq.com/docs
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 017 — Testing di Java](./learn-java-part-017.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-019.md](./learn-java-part-019.md)
+
+</div>

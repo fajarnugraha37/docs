@@ -2197,3 +2197,11 @@ Referensi utama yang relevan untuk bagian ini:
 - Eclipse Jersey Documentation — Jersey runtime, resource configuration, providers, filters, and implementation behavior.
 - RFC 9110 — HTTP Semantics, termasuk method/status/header semantics.
 - RFC 8594 — Sunset HTTP Header Field untuk lifecycle deprecation/sunset.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape](./19-validation-strategy-bean-validation-request-contract-group-error-shape.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — API Versioning and Compatibility with Jersey](./20-api-versioning-and-compatibility-with-jersey.md)
+
+</div>

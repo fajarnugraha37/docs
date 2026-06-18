@@ -2380,3 +2380,11 @@ Part berikutnya:
 ```text
 15-liquibase-rollback-engineering.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 13 — Liquibase Changelog Design](./13-liquibase-changelog-design.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — Liquibase Rollback Engineering](./15-liquibase-rollback-engineering.md)
+
+</div>

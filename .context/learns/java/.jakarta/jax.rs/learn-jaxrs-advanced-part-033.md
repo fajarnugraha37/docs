@@ -2030,3 +2030,11 @@ Bagian 034 — OpenAPI and Documentation Strategy
 ```
 
 Kita akan membahas OpenAPI sebagai contract artifact: schema design, examples, error docs, generated docs, versioned specs, governance, CI validation, codegen implications, and docs-as-product.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-032.md](./learn-jaxrs-advanced-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-034.md](./learn-jaxrs-advanced-part-034.md)
+
+</div>

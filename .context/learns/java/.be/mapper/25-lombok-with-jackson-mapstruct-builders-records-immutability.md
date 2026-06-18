@@ -3205,3 +3205,11 @@ Selesai: Part 25 dari 35.
 Belum selesai. Bagian berikutnya:
 
 **Part 26 — Records, Builders, and Modern Java DTO Strategy**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 24 — Lombok Practical: Getter, Setter, Builder, Value, Equals, HashCode](./24-lombok-practical-getter-setter-builder-value-equals-hashcode.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Records, Builders, and Modern Java DTO Strategy](./26-records-builders-modern-java-dto-strategy.md)
+
+</div>

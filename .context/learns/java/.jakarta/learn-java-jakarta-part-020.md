@@ -2735,3 +2735,11 @@ Treat it as unreliable, delayed, duplicate-prone, and observable.
 Engineer top-tier tidak hanya bisa mengirim email. Ia tahu apa yang terjadi jika SMTP down, jika provider menerima message lalu app crash, jika email bounce besok, jika attachment terlalu besar, jika template mengandung unescaped input, jika suppression list diabaikan, dan jika audit harus membuktikan komunikasi sudah dikirim.
 
 Bagian berikutnya akan membahas **Jakarta Batch (`jakarta.batch`)**: job, step, chunk, batchlet, checkpoint, restartability, partitioning, retry/skip, batch transaction boundary, and production batch processing.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-019.md](./learn-java-jakarta-part-019.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-021.md](./learn-java-jakarta-part-021.md)
+
+</div>

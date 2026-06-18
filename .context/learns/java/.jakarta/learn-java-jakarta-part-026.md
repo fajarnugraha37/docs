@@ -3105,3 +3105,11 @@ Gunakan Faces dengan bijak:
 Engineer top-tier tidak hanya tahu `h:inputText`. Ia tahu kapan model value di-update, kenapa action tidak terpanggil, kenapa view state membesar, kenapa getter tidak boleh query database, kenapa `SessionScoped` berbahaya, dan kenapa authorization tidak boleh hanya berupa `rendered=false`.
 
 Bagian berikutnya akan membahas **Jakarta Expression Language (`jakarta.el`)**: expression evaluation, value/method expressions, coercion, resolvers, security, integration with Faces/CDI/JSP, and how EL works under the hood.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-025.md](./learn-java-jakarta-part-025.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-027.md](./learn-java-jakarta-part-027.md)
+
+</div>

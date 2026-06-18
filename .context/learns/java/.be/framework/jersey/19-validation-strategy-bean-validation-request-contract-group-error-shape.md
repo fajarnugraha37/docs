@@ -2358,3 +2358,11 @@ Part 20 — API Versioning and Compatibility with Jersey
 ```
 
 Series belum selesai. Target akhir tetap Part 32 — Capstone.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 18 — Security Integration: Authentication, Authorization, Principal, Roles, and Context](./18-security-integration-authentication-authorization-principal-roles-context.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — API Versioning and Compatibility with Jersey](./20-api-versioning-and-compatibility-with-jersey (1).md)
+
+</div>

@@ -2752,3 +2752,11 @@ Bagian 028 — JAX-RS Client API: Mental Model and Core Usage
 ```
 
 Kita akan membahas client-side JAX-RS secara mendalam: `Client`, `WebTarget`, `Invocation.Builder`, request/response lifecycle, entity handling, timeouts, headers, cookies, providers, and safe resource management.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-026.md](./learn-jaxrs-advanced-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-028.md](./learn-jaxrs-advanced-part-028.md)
+
+</div>

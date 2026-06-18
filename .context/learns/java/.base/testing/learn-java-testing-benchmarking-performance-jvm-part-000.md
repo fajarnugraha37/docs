@@ -2987,3 +2987,11 @@ Seri belum selesai.
 Part 000 dari 031 selesai.
 Masih ada 31 part setelah ini.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-029](../sql/learn-java-sql-jdbc-hikaricp-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-001](./learn-java-testing-benchmarking-performance-jvm-part-001.md)
+
+</div>

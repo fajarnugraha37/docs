@@ -2619,3 +2619,11 @@ Part berikutnya:
 ```text
 Part 027 — Chaos Engineering and Failure Drills
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-025.md](./learn-java-reliability-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-027.md](./learn-java-reliability-part-027.md)
+
+</div>

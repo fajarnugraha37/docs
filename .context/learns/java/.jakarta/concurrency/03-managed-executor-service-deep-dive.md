@@ -2294,3 +2294,11 @@ Fokus berikutnya:
 - Jakarta EE Tutorial: Concurrency Utilities — `https://jakarta.ee/learn/docs/jakartaee-tutorial/current/supporttechs/concurrency-utilities/concurrency-utilities.html`
 - OpenJDK JEP 444: Virtual Threads — `https://openjdk.org/jeps/444`
 - OpenJDK JEP 505: Structured Concurrency, fifth preview — `https://openjdk.org/jeps/505`
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 2 — Container Integrity: Why Managed Concurrency Exists](./02-container-integrity-and-managed-concurrency.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — ManagedScheduledExecutorService and Time-Based Workloads](./04-managed-scheduled-executor-service-time-based-workloads.md)
+
+</div>

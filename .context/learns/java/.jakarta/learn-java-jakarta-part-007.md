@@ -3143,3 +3143,11 @@ apakah runtime CDI Lite atau Full
 Dengan pemahaman ini, kamu bisa memakai CDI sebagai alat architecture yang powerful, bukan sumber magic yang sulit ditebak.
 
 Bagian berikutnya akan membahas **Interceptors dan Decorators** secara lebih mendalam: bagaimana cross-cutting concern dibuat, bagaimana invocation chain berjalan, bagaimana ordering bekerja, bagaimana self-invocation menjadi bug, dan bagaimana membedakan interceptor/decorator dari business logic biasa.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-006.md](./learn-java-jakarta-part-006.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-008.md](./learn-java-jakarta-part-008.md)
+
+</div>

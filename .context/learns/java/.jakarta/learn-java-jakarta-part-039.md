@@ -2593,3 +2593,11 @@ rollback plan
 Engineer top-tier tahu bahwa compile success bukan akhir. Ia membuktikan migration dengan runtime boot, integration tests, golden XML/SOAP samples, dependency tree, dashboards, canary metrics, and rollback readiness.
 
 Bagian berikutnya akan menjadi bagian synthesis terakhir/lanjutan: **Jakarta EE Production Readiness & Top 1% Engineering Playbook** — bagaimana mengoperasikan aplikasi Jakarta EE modern dengan reliability, security, observability, performance, cost, governance, and long-term maintainability.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-038.md](./learn-java-jakarta-part-038.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-040.md](./learn-java-jakarta-part-040.md)
+
+</div>

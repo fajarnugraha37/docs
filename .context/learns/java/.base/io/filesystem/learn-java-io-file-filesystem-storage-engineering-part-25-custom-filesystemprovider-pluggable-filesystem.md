@@ -3059,3 +3059,10 @@ Berikutnya kita akan masuk ke legacy interop:
 Part 26 — Legacy java.io.File: Interop, Migration, and Compatibility
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 24](./learn-java-io-file-filesystem-storage-engineering-part-24-archives-virtual-filesystems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 26](./learn-java-io-file-filesystem-storage-engineering-part-26-legacy-java-io-file-interop-migration-compatibility.md)
+
+</div>

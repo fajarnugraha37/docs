@@ -1603,3 +1603,11 @@ Bagian 049 — JAX-RS with MicroProfile: Config, Rest Client, Fault Tolerance, M
 ```
 
 Kita akan membahas integrasi Jakarta REST dengan MicroProfile: config-driven apps, typed REST client, fault tolerance annotations, telemetry/metrics, OpenAPI generation, JWT security, health checks, and production runtime patterns.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-047.md](./learn-jaxrs-advanced-part-047.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-049.md](./learn-jaxrs-advanced-part-049.md)
+
+</div>

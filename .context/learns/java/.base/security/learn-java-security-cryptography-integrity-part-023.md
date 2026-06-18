@@ -2555,3 +2555,11 @@ Bagian berikutnya:
 ```text
 Part 24 — Secrets Management in Java Applications
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-022](./learn-java-security-cryptography-integrity-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-024](./learn-java-security-cryptography-integrity-part-024.md)
+
+</div>

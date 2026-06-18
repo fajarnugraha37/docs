@@ -2529,3 +2529,11 @@ Referensi yang relevan untuk part ini:
 8. OWASP REST Security Cheat Sheet.
 9. OWASP Dependency-Check and Dependency-Track guidance.
 10. Oracle Java security, JSSE, JCA, JDK diagnostic, and secure coding documentation.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-031](./learn-java-security-cryptography-integrity-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-033](./learn-java-security-cryptography-integrity-part-033.md)
+
+</div>

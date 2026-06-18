@@ -2654,3 +2654,11 @@ Bagian 027 — Multipart and File Upload
 ```
 
 Kita akan membahas upload secara mendalam: multipart/form-data, `EntityPart`, streaming upload, size limits, virus scanning, content-type validation, object storage, transactional metadata, and secure file handling.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-025.md](./learn-jaxrs-advanced-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-027.md](./learn-jaxrs-advanced-part-027.md)
+
+</div>

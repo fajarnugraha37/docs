@@ -3183,3 +3183,11 @@ Berikutnya:
 ```text
 Part 1 — Java Deployment Evolution: Java 8 to Java 25
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-034.md](../data_type/learn-java-data-types-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-01-java-deployment-evolution-java-8-to-25.md)
+
+</div>

@@ -1601,3 +1601,11 @@ Bagian 054 — Capstone: Top 1% JAX-RS Reference Architecture
 ```
 
 Kita akan menutup seri dengan reference architecture komprehensif: resource design, domain model, API gateway, security, tenancy, persistence, outbox/events, clients, resilience, observability, testing, CI/CD, deployment, and operational excellence.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-052.md](./learn-jaxrs-advanced-part-052.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-054.md](./learn-jaxrs-advanced-part-054.md)
+
+</div>

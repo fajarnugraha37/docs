@@ -1722,3 +1722,11 @@ Part yang sudah selesai:
 Berikutnya:
 
 - Part 028 — Maven/Gradle Dependency Governance for Serious Java Systems
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-026](./learn-java-oop-functional-reflection-codegen-modules-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-028](./learn-java-oop-functional-reflection-codegen-modules-part-028.md)
+
+</div>

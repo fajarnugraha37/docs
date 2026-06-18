@@ -1969,3 +1969,11 @@ Berikutnya:
 ```text
 Part 33 — Failure Modelling: How Jakarta Security Systems Actually Break
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 31 — Interoperability with Spring Security, Keycloak, MicroProfile JWT, and Modern IdPs](./learn-java-jakarta-security-authentication-authorization-identity-part-31-interoperability-spring-security-keycloak.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — Failure Modelling: How Jakarta Security Systems Actually Break](./learn-java-jakarta-security-authentication-authorization-identity-part-33-failure-modelling-how-security-breaks.md)
+
+</div>

@@ -1940,3 +1940,11 @@ Bagian berikutnya:
 ```text
 Part 028 — Database-Specific Integration: Oracle, PostgreSQL, MySQL, SQL Server
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 026 — Database Integration Patterns: Outbox, Inbox, CDC, Idempotency](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 028 — Database-Specific Integration: Oracle, PostgreSQL, MySQL, SQL Server](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-028.md)
+
+</div>

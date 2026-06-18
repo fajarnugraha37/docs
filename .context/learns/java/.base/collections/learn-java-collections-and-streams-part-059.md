@@ -1361,3 +1361,11 @@ pagination, aggregation, and lifecycle.
 
 10. OpenJDK jcstress  
     https://openjdk.org/projects/code-tools/jcstress/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-058.md](./learn-java-collections-and-streams-part-058.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-060.md](./learn-java-collections-and-streams-part-060.md)
+
+</div>

@@ -2059,3 +2059,11 @@ cancellation, shutdown, and observability.
 
 10. OpenJDK JEP 444 — Virtual Threads  
     https://openjdk.org/jeps/444
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-001.md](./learn-java-concurrency-and-reactive-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-003.md](./learn-java-concurrency-and-reactive-part-003.md)
+
+</div>

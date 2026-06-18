@@ -1817,3 +1817,11 @@ Selesai:
 Belum selesai. Berikutnya:
 
 - Part 13 — Path Traversal Security: User Input, Uploads, Archives, and Sandboxes
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 11 — FileVisitor and Tree Algorithms: Robust Recursive Operations](./learn-java-io-file-filesystem-storage-engineering-part-11-filevisitor-tree-algorithms.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 13](./learn-java-io-file-filesystem-storage-engineering-part-13-path-traversal-security.md)
+
+</div>

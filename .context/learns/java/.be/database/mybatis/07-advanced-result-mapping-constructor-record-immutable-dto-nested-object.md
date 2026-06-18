@@ -2428,3 +2428,11 @@ Seri belum selesai. Bagian berikutnya adalah:
 [^mybatis-mapper-xml]: MyBatis official documentation, “Mapper XML Files”, especially `resultMap`, `constructor`, `association`, `collection`, and mapped statement documentation. https://mybatis.org/mybatis-3/sqlmap-xml.html
 
 [^mybatis-config]: MyBatis official documentation, “Configuration”, including `autoMappingBehavior`, `useActualParamName`, and `argNameBasedConstructorAutoMapping`. https://mybatis.org/mybatis-3/configuration.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 6 — Result Mapping: Auto Mapping, Explicit Mapping, and Column Discipline](./06-result-mapping-auto-explicit-mapping-column-discipline.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 8 — Dynamic SQL XML: `if`, `choose`, `where`, `set`, `trim`, `foreach`](./08-dynamic-sql-xml-if-choose-where-set-trim-foreach.md)
+
+</div>

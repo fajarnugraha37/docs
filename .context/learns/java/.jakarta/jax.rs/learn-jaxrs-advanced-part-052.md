@@ -1813,3 +1813,11 @@ Bagian 053 — Refactoring Legacy JAX-RS API
 ```
 
 Kita akan membahas cara refactor API JAX-RS legacy: strangler pattern, endpoint inventory, compatibility preservation, error contract migration, javax→jakarta, DTO extraction, security hardening, test harness, OpenAPI recovery, and incremental rollout.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-051.md](./learn-jaxrs-advanced-part-051.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-053.md](./learn-jaxrs-advanced-part-053.md)
+
+</div>

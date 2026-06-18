@@ -1765,3 +1765,10 @@ Part berikutnya akan membahas N+1, cartesian explosion, dan fetch plan engineeri
 - EclipseLink Documentation — weaving, indirection, fetch groups, lazy relationship behavior.
 - EclipseLink 4.0 Solutions and JPA Extensions documentation — weaving and advanced provider capabilities.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 13 — Embeddables, Value Objects, Attribute Converters, and Type Systems](./13-embeddables-value-objects-converters-type-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 15 — N+1, Cartesian Explosion, and Fetch Plan Engineering](./15-n-plus-one-cartesian-explosion-fetch-plan-engineering.md)
+
+</div>

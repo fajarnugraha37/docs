@@ -1887,3 +1887,11 @@ Referensi konseptual dan teknis yang relevan:
 8. W3C XML Signature 2.0 / XML Security 2.0 design considerations.
 9. Java JAXP APIs: `DocumentBuilderFactory`, `SAXParserFactory`, `XMLInputFactory`, `TransformerFactory`, `SchemaFactory`.
 10. Research and industry reports on XML Signature Wrapping attacks in SAML/SOAP systems.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-017](./learn-java-security-cryptography-integrity-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-019](./learn-java-security-cryptography-integrity-part-019.md)
+
+</div>

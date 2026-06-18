@@ -2053,3 +2053,11 @@ Seri belum selesai.
 Part berikutnya adalah part terakhir:
 Part 029 — Production Playbook: Diagnosis, Tuning, Review Checklist, and Case Studies
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-027.md](./learn-java-sql-jdbc-hikaricp-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-029](./learn-java-sql-jdbc-hikaricp-part-029.md)
+
+</div>

@@ -1950,3 +1950,11 @@ Bagian 045 — Error Contract and Enterprise Error Taxonomy
 ```
 
 Kita akan membahas desain kontrak error enterprise: Problem Details, stable error code, domain vs validation vs security vs infrastructure errors, localization, retryability, field errors, correlation ID, supportability, compatibility, and governance.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-043.md](./learn-jaxrs-advanced-part-043.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-045.md](./learn-jaxrs-advanced-part-045.md)
+
+</div>

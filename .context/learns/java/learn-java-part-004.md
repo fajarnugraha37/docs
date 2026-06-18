@@ -3077,3 +3077,11 @@ Setelah bagian ini, kamu seharusnya bisa menjelaskan tanpa menghafal:
 10. bagaimana mendesain API yang fleksibel tanpa kehilangan type safety.
 
 Jika jawabanmu untuk semua ini sudah natural, kamu bukan sekadar “bisa memakai Java generics”; kamu mulai memahami Java sebagai language designer dan library designer.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 003 — Object Model: Class, Object, Constructor, Inheritance, Interface, `Object`, dan Equality](./learn-java-part-003.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 005 — Modern Java Language Features](./learn-java-part-005.md)
+
+</div>

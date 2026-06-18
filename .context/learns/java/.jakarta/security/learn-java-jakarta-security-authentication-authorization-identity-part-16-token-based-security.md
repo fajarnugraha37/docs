@@ -2259,3 +2259,11 @@ Part 17 — OpenID Connect in Jakarta Security
 ```
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Jakarta Security Authentication Authorization Identity](./learn-java-jakarta-security-authentication-authorization-identity-part-15-session-security-login-cookies-logout.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — OpenID Connect in Jakarta Security](./learn-java-jakarta-security-authentication-authorization-identity-part-17-openid-connect-jakarta-security.md)
+
+</div>

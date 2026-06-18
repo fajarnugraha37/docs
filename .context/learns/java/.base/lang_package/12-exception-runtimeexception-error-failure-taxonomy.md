@@ -2427,3 +2427,11 @@ File: 13-system-standard-streams-properties-env-time-arraycopy-logger.md
 ```
 
 Kita akan membahas `System` sebagai gateway global JVM: standard streams, properties, environment variables, wall-clock vs monotonic time, native array copy, identity hash, logger, global state, testability, container deployment, dan security-sensitive implications.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 11 — `Throwable`: Exception Object Model, Stack Trace, Causality, Suppression](./11-throwable-exception-object-model-causality-stacktrace-suppression.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — `System`: Standard Streams, Properties, Environment, Time, Array Copy, Logger](./13-system-standard-streams-properties-env-time-arraycopy-logger.md)
+
+</div>

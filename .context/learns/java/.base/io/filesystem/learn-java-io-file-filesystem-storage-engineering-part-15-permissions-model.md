@@ -2545,3 +2545,11 @@ Berikutnya:
 ```text
 Part 16 — FileStore and Filesystem Capacity: Disk Space, Quotas, and Operational Guardrails
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 14](./learn-java-io-file-filesystem-storage-engineering-part-14-file-attributes.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — FileStore and Filesystem Capacity: Disk Space, Quotas, and Operational Guardrails](./learn-java-io-file-filesystem-storage-engineering-part-16-filestore-filesystem-capacity.md)
+
+</div>

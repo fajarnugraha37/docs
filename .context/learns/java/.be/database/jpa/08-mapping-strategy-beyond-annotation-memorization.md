@@ -2568,3 +2568,11 @@ If Part 0–7 built the mental model of ORM as a synchronization engine, Part 8 
 - Hibernate ORM User Guide — basic value mappings, enum mapping, temporal mapping, type system, and dialect-sensitive behavior.
 - EclipseLink Documentation and API Reference — standards-based persistence plus provider extensions such as descriptors, mappings, converters, transformation mapping, and weaving.
 - EclipseLink 4.x release documentation — Jakarta EE 10 / Jakarta Persistence 3.1 era baseline; newer EclipseLink lines add Jakarta Persistence 3.2 support.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 7 — SQL Generation Pipeline and Dialect Behavior](./07-sql-generation-pipeline-dialect-behavior.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 9 — Association Mapping: Ownership, Foreign Keys, Join Tables, and Graph Mutation](./09-association-mapping-ownership-foreign-keys-join-tables.md)
+
+</div>

@@ -1718,3 +1718,11 @@ Materi berikutnya:
 ```text
 Part 022 — Consistency, Compensation, and Distributed Failure
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-020.md](./learn-java-reliability-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-022.md](./learn-java-reliability-part-022.md)
+
+</div>

@@ -2453,3 +2453,11 @@ Jawaban dari pertanyaan itu adalah desain data type.
 
 10. Java SE 25 API — `Instant`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/time/Instant.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-018.md](./learn-java-data-types-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-020.md](./learn-java-data-types-part-020.md)
+
+</div>

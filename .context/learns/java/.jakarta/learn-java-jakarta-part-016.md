@@ -1,4 +1,3 @@
-
 # learn-java-jakarta-part-016.md
 
 # Bagian 16 — Jakarta Servlet (`jakarta.servlet`): Fondasi Web Container
@@ -3077,3 +3076,11 @@ Respect lifecycle, threading, response commit, and container boundaries.
 Engineer top-tier tidak hanya tahu endpoint bisa dibuat dengan annotation. Ia tahu request melewati pipeline apa, state disimpan di mana, kapan header terkunci, apa yang terjadi saat filter membaca body, dan bagaimana desain web runtime memengaruhi reliability.
 
 Bagian berikutnya akan membahas **Jakarta Security (`jakarta.security.enterprise`)**: identity store, authentication mechanism, security context, roles, authorization, integration dengan Servlet/JAX-RS/CDI, dan cara membangun security boundary yang benar.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-015.md](./learn-java-jakarta-part-015.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-017.md](./learn-java-jakarta-part-017.md)
+
+</div>

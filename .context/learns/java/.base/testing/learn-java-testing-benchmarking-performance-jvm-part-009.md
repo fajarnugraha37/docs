@@ -2826,3 +2826,11 @@ Seri belum selesai. Masih lanjut ke:
 ```text
 Part 010 — Testing HTTP API, REST Resource, Serialization, Validation, dan Compatibility
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-008](./learn-java-testing-benchmarking-performance-jvm-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-010](./learn-java-testing-benchmarking-performance-jvm-part-010.md)
+
+</div>

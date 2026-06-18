@@ -1650,3 +1650,11 @@ and parallel behavior are all explicitly correct.
 
 10. OpenJDK — Collectors source  
     https://github.com/openjdk/jdk/blob/master/src/java.base/share/classes/java/util/stream/Collectors.java
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-044.md](./learn-java-collections-and-streams-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-046.md](./learn-java-collections-and-streams-part-046.md)
+
+</div>

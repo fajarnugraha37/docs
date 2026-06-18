@@ -2913,3 +2913,11 @@ Part berikutnya:
 ```text
 07-service-layer-fundamentals-registry-references-dynamics-contracts.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 5 — Resolver Engineering: Constraint Solving, Wiring, Uses Constraints, and Failure Analysis](./05-resolver-engineering-constraint-solving-wiring-uses-constraints-failure-analysis.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Service Layer Fundamentals: Registry, References, Dynamics, and Contracts](./07-service-layer-fundamentals-registry-references-dynamics-contracts.md)
+
+</div>

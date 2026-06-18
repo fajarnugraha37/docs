@@ -2087,3 +2087,11 @@ Masih tersisa:
 - Part 34 — Top 1% OSGi Engineering: Design Reviews, Invariants, Checklists, and Decision Framework
 
 Series belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 28 — Designing Plugin Platforms with OSGi: Extension Contracts, Isolation, Governance](./28-designing-plugin-platforms-extension-contracts-isolation-governance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Anti-Patterns and Failure Modes: The Things That Make OSGi Projects Fail](./30-anti-patterns-failure-modes-things-that-make-osgi-projects-fail.md)
+
+</div>

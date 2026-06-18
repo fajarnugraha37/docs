@@ -1571,3 +1571,11 @@ Measure before claiming speedup.
 
 10. Java Microbenchmark Harness (JMH)  
     https://openjdk.org/projects/code-tools/jmh/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-021.md](./learn-java-concurrency-and-reactive-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-023.md](./learn-java-concurrency-and-reactive-part-023.md)
+
+</div>

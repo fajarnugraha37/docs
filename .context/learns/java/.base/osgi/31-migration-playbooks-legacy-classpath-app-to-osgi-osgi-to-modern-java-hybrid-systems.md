@@ -2104,3 +2104,11 @@ Part 31 of 35 complete.
 Series is not complete yet.
 Next part: 32-building-production-grade-osgi-case-study-runtime-from-scratch.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 30 — Anti-Patterns and Failure Modes: The Things That Make OSGi Projects Fail](./30-anti-patterns-failure-modes-things-that-make-osgi-projects-fail.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Building a Production-Grade OSGi Case Study Runtime from Scratch](./32-building-production-grade-osgi-case-study-runtime-from-scratch.md)
+
+</div>

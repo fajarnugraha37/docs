@@ -2577,3 +2577,10 @@ Sumber utama:
 - OpenJDK JDK 25 project page:  
   https://openjdk.org/projects/jdk/25/
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 007 — Collections, Data Structures, dan Performance Semantics](./learn-java-part-007.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 009 — Java Memory Model dan Concurrency Fundamental](./learn-java-part-009.md)
+
+</div>

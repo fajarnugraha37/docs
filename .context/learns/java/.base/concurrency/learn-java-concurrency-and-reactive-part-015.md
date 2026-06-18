@@ -1803,3 +1803,11 @@ cancellation, observability, and explicit context.
 
 10. Java SE 25 — `CompletableFuture`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/CompletableFuture.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-014.md](./learn-java-concurrency-and-reactive-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-016.md](./learn-java-concurrency-and-reactive-part-016.md)
+
+</div>

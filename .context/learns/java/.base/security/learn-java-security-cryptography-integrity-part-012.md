@@ -2624,3 +2624,11 @@ Di sana kita akan membahas lebih dalam:
 7. NIST SP 800-57 Part 1 Rev. 5 — Recommendation for Key Management.
 8. RFC 5280 — Internet X.509 Public Key Infrastructure Certificate and CRL Profile.
 9. Java Platform Security Guides and JDK security properties documentation.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-011](./learn-java-security-cryptography-integrity-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-013](./learn-java-security-cryptography-integrity-part-013.md)
+
+</div>

@@ -2738,3 +2738,10 @@ Part 019 — CDI Extensions and Portable Runtime Customization
 
 Di part berikutnya kita akan masuk ke level lebih dalam: bagaimana CDI container dapat diperluas melalui extension, bagaimana framework menambahkan bean secara synthetic, bagaimana metadata discovery bisa dimodifikasi, dan kapan custom extension menjadi arsitektur yang powerful atau justru menjadi sumber “magic” yang sulit didebug.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 017 — Stereotypes and Annotation Composition](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — CDI Extensions and Portable Runtime Customization](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-019.md)
+
+</div>

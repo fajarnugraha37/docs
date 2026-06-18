@@ -2768,3 +2768,10 @@ Part 27 will focus on **large object and large result handling**:
 - vendor-specific LOB behavior;
 - how to avoid loading millions of rows or huge payload into JVM memory accidentally.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 25 — Security Engineering: SQL Injection, Tenant Isolation, Row-Level Access](./25-security-engineering-sql-injection-tenant-isolation-row-level-access.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 27 — Large Object and Large Result Handling: CLOB, BLOB, Streaming, Cursor](./27-large-object-large-result-clob-blob-streaming-cursor.md)
+
+</div>

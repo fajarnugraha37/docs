@@ -3158,3 +3158,11 @@ views live under WEB-INF
 Engineer top-tier tidak hanya tahu tag JSP. Ia tahu JSP dikompilasi menjadi Servlet, kenapa declaration menjadi shared field, kenapa scriptlet berbahaya, kenapa direct JSP access bisa bypass controller, kenapa output escaping context-sensitive, dan bagaimana memodernisasi JSP legacy tanpa rewrite brutal.
 
 Bagian berikutnya akan membahas **Jakarta Standard Tag Library / Jakarta Tags** lebih dalam: core/fmt/functions/xml/sql tags, tag library mechanics, TLD, tag files, custom tags, tag pooling, tag lifecycle, security, and migration from old JSTL URIs to Jakarta Tags.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-027.md](./learn-java-jakarta-part-027.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-029.md](./learn-java-jakarta-part-029.md)
+
+</div>

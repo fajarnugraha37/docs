@@ -1908,3 +1908,11 @@ Use Set when uniqueness is the model, not merely because duplicates are inconven
 
 10. Java SE 25 — Collections Framework Overview  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/doc-files/coll-overview.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-002.md](./learn-java-collections-and-streams-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-004.md](./learn-java-collections-and-streams-part-004.md)
+
+</div>

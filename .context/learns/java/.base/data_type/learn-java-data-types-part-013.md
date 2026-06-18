@@ -1950,3 +1950,11 @@ Itulah kekuatan sealed types dalam Java modern.
 
 7. Java Language Specification SE 25 — Switch Statements and Expressions  
    https://docs.oracle.com/javase/specs/jls/se25/html/jls-14.html#jls-14.11
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-012.md](./learn-java-data-types-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-014.md](./learn-java-data-types-part-014.md)
+
+</div>

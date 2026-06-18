@@ -3038,3 +3038,10 @@ Setelah menyelesaikan part ini, Anda seharusnya mampu:
 - membuat compatibility gate dalam CI,
 - memperlakukan public API sebagai aset arsitektur jangka panjang.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-028](./learn-java-oop-functional-reflection-codegen-modules-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-030](./learn-java-oop-functional-reflection-codegen-modules-part-030.md)
+
+</div>

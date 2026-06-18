@@ -1889,3 +1889,11 @@ Are its elements immutable?
 
 10. Java SE 25 — `Collections.unmodifiableMap`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Collections.html#unmodifiableMap(java.util.Map)
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-009.md](./learn-java-collections-and-streams-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-011.md](./learn-java-collections-and-streams-part-011.md)
+
+</div>

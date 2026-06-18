@@ -1628,3 +1628,11 @@ Not by trend.
 
 10. Java Microbenchmark Harness (JMH)  
     https://openjdk.org/projects/code-tools/jmh/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-032.md](./learn-java-concurrency-and-reactive-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-034.md](./learn-java-concurrency-and-reactive-part-034.md)
+
+</div>

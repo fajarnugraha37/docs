@@ -1523,3 +1523,11 @@ Part berikutnya:
 ```text
 Part 015 — WatchService: File Change Detection, Event Coalescing, dan Reliability Limit
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 013 — Directory Traversal, File Tree Walking, Search, Copy, Move, Delete](./learn-java-io-nio-networking-data-transfer-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — WatchService: File Change Detection, Event Coalescing, dan Reliability Limit](./learn-java-io-nio-networking-data-transfer-part-015.md)
+
+</div>

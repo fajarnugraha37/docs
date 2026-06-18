@@ -2984,3 +2984,11 @@ Bagian 015 — Filters: ContainerRequestFilter and ContainerResponseFilter
 ```
 
 Kita akan membahas filter pipeline: pre-matching vs post-matching, auth/correlation/logging/CORS, abortWith, priorities, name binding, request/response mutation, and safe cross-cutting architecture.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-013.md](./learn-jaxrs-advanced-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-015.md](./learn-jaxrs-advanced-part-015.md)
+
+</div>

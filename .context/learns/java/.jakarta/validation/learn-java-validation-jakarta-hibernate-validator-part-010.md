@@ -2687,3 +2687,11 @@ Topik berikutnya:
 ```text
 Cross-Parameter and Executable Validation: Methods, Constructors, Return Values
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-009](./learn-java-validation-jakarta-hibernate-validator-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-011](./learn-java-validation-jakarta-hibernate-validator-part-011.md)
+
+</div>

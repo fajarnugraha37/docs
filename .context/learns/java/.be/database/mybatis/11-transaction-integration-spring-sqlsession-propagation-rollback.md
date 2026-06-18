@@ -2462,3 +2462,11 @@ Bagian berikutnya:
 ```text
 Part 12 — Spring Boot Integration: Auto Configuration, Mapper Scan, Configuration Customizer
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 10 — Mapper Method API Design: Return Type, Optional, List, Cursor, Stream](./10-mapper-method-api-design-return-type-optional-list-cursor-stream.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Spring Boot Integration: Auto Configuration, Mapper Scan, Configuration Customizer](./12-spring-boot-integration-autoconfiguration-mapperscan-customizer.md)
+
+</div>

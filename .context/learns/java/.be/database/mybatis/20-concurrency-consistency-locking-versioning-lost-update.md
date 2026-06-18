@@ -2030,3 +2030,11 @@ Seri belum selesai. Berikutnya:
 ```text
 Part 21 — SQL Performance Engineering: Execution Plan, Index, Bind Variable
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 19 — Stored Procedure, Function, Cursor, and OUT Parameter](./19-stored-procedure-function-cursor-out-parameter.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 21 — SQL Performance Engineering: Execution Plan, Index, Bind Variable](./21-sql-performance-engineering-execution-plan-index-bind-variable.md)
+
+</div>

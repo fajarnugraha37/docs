@@ -2023,3 +2023,11 @@ Jika jawaban tidak jelas, production bug tinggal menunggu waktu.
 
 12. Java SE 25 API — `Record`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/lang/Record.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-020.md](./learn-java-data-types-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-022.md](./learn-java-data-types-part-022.md)
+
+</div>

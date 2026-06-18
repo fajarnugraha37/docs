@@ -1935,3 +1935,11 @@ Jika Part 21 mengajarkan cara membuat query cepat, Part 22 mengajarkan cara meng
 - MyBatis Spring Boot Starter Autoconfigure: https://mybatis.org/spring-boot-starter/mybatis-spring-boot-autoconfigure/
 - OpenTelemetry Java Documentation: https://opentelemetry.io/docs/languages/java/
 - OpenTelemetry Java Agent: https://opentelemetry.io/docs/zero-code/java/agent/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 21 — SQL Performance Engineering: Execution Plan, Index, Bind Variable](./21-sql-performance-engineering-execution-plan-index-bind-variable.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 23 — Testing MyBatis: Unit, Slice, Integration, Testcontainers](./23-testing-mybatis-unit-slice-integration-testcontainers.md)
+
+</div>

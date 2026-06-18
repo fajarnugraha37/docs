@@ -1625,3 +1625,10 @@ Part ini menyelesaikan fondasi JCA reliability. Bagian berikutnya adalah bagian 
 - Open Liberty / application server documentation for connector configuration, connection factories, activation specs, and pooling.
 - Vendor documentation for specific resource adapter behavior, because recovery, pooling, and credential mapping can be implementation-specific.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 032](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 34](./learn-java-json-xml-soap-connectors-enterprise-integration-part-034.md)
+
+</div>

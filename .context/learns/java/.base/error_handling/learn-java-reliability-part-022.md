@@ -2775,3 +2775,11 @@ Part berikutnya:
 ```text
 Part 023 — Observability for Errors and Reliability
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-021.md](./learn-java-reliability-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-023.md](./learn-java-reliability-part-023.md)
+
+</div>

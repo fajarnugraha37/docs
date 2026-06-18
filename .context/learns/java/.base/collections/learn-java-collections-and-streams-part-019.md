@@ -1688,3 +1688,11 @@ It does not automatically give you safe workflows.
 
 10. Java SE 25 — `SynchronousQueue`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/SynchronousQueue.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-018.md](./learn-java-collections-and-streams-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-020.md](./learn-java-collections-and-streams-part-020.md)
+
+</div>

@@ -2479,3 +2479,11 @@ Topik berikutnya:
 ```text
 Class Anatomy: Fields, Methods, Constructors, Initializers, Class Loading Semantics
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-000](./learn-java-oop-functional-reflection-codegen-modules-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-002](./learn-java-oop-functional-reflection-codegen-modules-part-002.md)
+
+</div>

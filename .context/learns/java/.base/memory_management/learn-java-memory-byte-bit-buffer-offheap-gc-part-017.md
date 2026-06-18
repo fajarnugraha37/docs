@@ -2606,3 +2606,11 @@ Topik berikutnya:
 ```text
 Garbage Collection Fundamentals: Tracing, Roots, Mark, Sweep, Copy, Compact
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-016](./learn-java-memory-byte-bit-buffer-offheap-gc-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-018](./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md)
+
+</div>

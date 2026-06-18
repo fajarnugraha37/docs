@@ -2593,3 +2593,11 @@ Itulah fondasi untuk masuk ke level berikutnya: **mapping architecture placement
 - Part 5: berikutnya — Mapping Architecture: Mapper Placement, Ownership, and Dependency Direction
 
 Seri belum selesai. Ini adalah **Part 4 dari 35**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 3 — DTO Design: API DTO, Domain DTO, Persistence DTO, Event DTO](./03-dto-design-api-domain-persistence-event-dto.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Mapping Architecture: Mapper Placement, Ownership, and Dependency Direction](./05-mapping-architecture-placement-ownership-dependency-direction.md)
+
+</div>

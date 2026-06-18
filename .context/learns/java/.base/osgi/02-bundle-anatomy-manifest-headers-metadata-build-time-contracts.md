@@ -3218,3 +3218,11 @@ We will examine:
 - Apache Felix Maven Bundle Plugin documentation: https://felix.apache.org/documentation/subprojects/apache-felix-maven-bundle-plugin-bnd.html
 - Apache Felix OSGi Tutorial: https://felix.apache.org/documentation/tutorials-examples-and-presentations/apache-felix-osgi-tutorial.html
 - Equinox Execution Environment Descriptions: https://equinox.eclipseprojects.io/launcher/execution_environment_descriptions.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 1 — OSGi Core Architecture: Framework Layers and Runtime Invariants](./01-osgi-core-architecture-framework-layers-runtime-invariants.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: 03 — Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules](./03-class-loading-per-bundle-classloaders-visibility-rules.md)
+
+</div>

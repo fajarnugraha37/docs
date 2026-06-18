@@ -2253,3 +2253,11 @@ resource limits, and observability.
 
 10. OpenJDK JEP 505 — Structured Concurrency  
     https://openjdk.org/jeps/505
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-002.md](./learn-java-concurrency-and-reactive-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-004.md](./learn-java-concurrency-and-reactive-part-004.md)
+
+</div>

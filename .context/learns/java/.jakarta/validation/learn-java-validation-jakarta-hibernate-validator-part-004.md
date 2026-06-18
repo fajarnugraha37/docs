@@ -2303,3 +2303,11 @@ Part yang sudah dibuat:
 Part berikutnya:
 
 - Part 005 — Cascaded Validation: `@Valid`, Object Graphs, Aggregates, and Boundary Control
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-003](./learn-java-validation-jakarta-hibernate-validator-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-005](./learn-java-validation-jakarta-hibernate-validator-part-005.md)
+
+</div>

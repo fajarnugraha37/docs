@@ -2554,3 +2554,11 @@ Advanced Gradle: Variant-Aware Dependency Management, Capabilities, Attributes
 ```
 
 That topic matters because many “dependency conflict” problems in modern Gradle are not just version conflicts. They are variant, capability, attribute, metadata, and artifact selection problems.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 27 — Migration Engineering: Maven to Gradle, Gradle to Maven, Legacy Ant, Java 8 to 25](./27-migration-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Advanced Gradle: Variant-Aware Dependency Management, Capabilities, Attributes](./29-advanced-gradle-variant-aware-dependency-management.md)
+
+</div>

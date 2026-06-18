@@ -1895,3 +1895,11 @@ Secure type design makes dangerous operations harder to express and safe operati
 
 10. Java SE 25 API — `URI`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/net/URI.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-027.md](./learn-java-data-types-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-029.md](./learn-java-data-types-part-029.md)
+
+</div>

@@ -2033,3 +2033,11 @@ If a build cannot explain where generated code came from, it cannot be trusted.
 - Maven Build Lifecycle: https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 - Gradle Java Plugin: https://docs.gradle.org/current/userguide/java_plugin.html
 - Gradle Incremental Build: https://docs.gradle.org/current/userguide/incremental_build.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 23 — Jakarta/Spring/Enterprise Java Build Integration](./23-jakarta-spring-enterprise-java-build-integration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Static Analysis and Quality Gates: Checkstyle, PMD, SpotBugs, Error Prone, ArchUnit](./25-static-analysis-quality-gates.md)
+
+</div>

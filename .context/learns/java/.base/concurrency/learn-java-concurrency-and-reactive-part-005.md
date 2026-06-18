@@ -1897,3 +1897,11 @@ what happens when full, and how we know it is saturated.
 
 10. OpenJDK JEP 444 — Virtual Threads  
     https://openjdk.org/jeps/444
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-004.md](./learn-java-concurrency-and-reactive-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-006.md](./learn-java-concurrency-and-reactive-part-006.md)
+
+</div>

@@ -1346,3 +1346,11 @@ Jika bisa menjawab itu, kita mulai bergerak dari “user ORM” menjadi “persi
 - EclipseLink Documentation — weaving, indirection, change tracking, fetch groups.
 - EclipseLink 4.0 Release Notes — Jakarta EE 10 API support and Java 11/17 support.
 - Jakarta Persistence Specification/API — entity model, lazy/eager fetch contract, provider behavior boundaries.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 22 — Schema Generation, Validation, Migration, and DDL Discipline](./22-schema-generation-validation-migration-ddl-discipline.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — Hibernate ORM Deep Dive: Architecture, Session, Event System, Interceptors, and Extensions](./24-hibernate-orm-architecture-session-events-interceptors-extensions.md)
+
+</div>

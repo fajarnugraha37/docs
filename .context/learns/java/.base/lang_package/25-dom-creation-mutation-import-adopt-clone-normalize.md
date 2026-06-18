@@ -1682,3 +1682,11 @@ Topik berikutnya akan membahas cara membaca DOM tree secara robust:
 - Java SE 25 API — `org.w3c.dom.Attr`
 - Java SE 25 API — `org.w3c.dom.DOMConfiguration`
 - DOM Level 3 Core Specification
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 24 — DOM Mental Model: Document as Mutable Tree, Node Identity, Ownership](./24-dom-mental-model-document-node-tree-ownership.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — DOM Querying: Traversal, Namespaces, NodeList, Element APIs](./26-dom-querying-traversal-namespaces-nodelist-element-apis.md)
+
+</div>

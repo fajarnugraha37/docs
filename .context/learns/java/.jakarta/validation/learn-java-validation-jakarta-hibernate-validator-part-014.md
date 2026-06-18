@@ -3310,3 +3310,11 @@ Bagian berikutnya:
 ```text
 part-015: Programmatic Constraint Mapping and Runtime Metadata
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-013](./learn-java-validation-jakarta-hibernate-validator-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-015.md](./learn-java-validation-jakarta-hibernate-validator-part-015.md)
+
+</div>

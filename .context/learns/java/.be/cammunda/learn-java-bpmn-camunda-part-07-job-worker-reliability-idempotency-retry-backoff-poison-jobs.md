@@ -2839,3 +2839,11 @@ Seri belum selesai.
 Berikutnya:
 
 **Part 8 — Process Variables: Data Contract, Scope, Serialization, and Governance**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-06-java-client-engineering-production-grade-worker.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java BPMN & Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-08-process-variables-data-contract-scope-serialization-governance.md)
+
+</div>

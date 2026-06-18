@@ -2449,3 +2449,10 @@ migration dari Unsafe/direct buffer
 - Java SE 11 API `MappedByteBuffer` untuk memastikan konsep mapping lifecycle konsisten dari era Java 11 ke Java 25.
 - Dokumentasi dan perilaku umum OS virtual memory/page cache untuk memahami page fault, file-backed mappings, RSS, dan durability semantics.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-012](./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-014](./learn-java-memory-byte-bit-buffer-offheap-gc-part-014.md)
+
+</div>

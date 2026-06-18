@@ -1854,3 +1854,11 @@ Bagian 036 — Testing JAX-RS Client
 ```
 
 Kita akan membahas testing outbound HTTP client: mock server, timeout/retry/circuit tests, Problem Details decoder, request verification, streaming download, upload, SSE client, contract tests, and resilience fault injection.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-034.md](./learn-jaxrs-advanced-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-036.md](./learn-jaxrs-advanced-part-036.md)
+
+</div>

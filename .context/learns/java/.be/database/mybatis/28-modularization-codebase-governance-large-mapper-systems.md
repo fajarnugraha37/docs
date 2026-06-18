@@ -2157,3 +2157,11 @@ Progress: Part 0 sampai Part 28 selesai.
 Seri belum selesai.
 Next: Part 29 — Plugin and Interceptor Engineering.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 27 — Large Object and Large Result Handling: CLOB, BLOB, Streaming, Cursor](./27-large-object-large-result-clob-blob-streaming-cursor.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Plugin and Interceptor Engineering](./29-plugin-interceptor-engineering.md)
+
+</div>

@@ -2357,3 +2357,11 @@ Part: 6 dari 34
 Status: BELUM SELESAI
 Berikutnya: Part 7 — JSON-B Core Model
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 005](./learn-java-json-xml-soap-connectors-enterprise-integration-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — JSON-B Core Model](./learn-java-json-xml-soap-connectors-enterprise-integration-part-007.md)
+
+</div>

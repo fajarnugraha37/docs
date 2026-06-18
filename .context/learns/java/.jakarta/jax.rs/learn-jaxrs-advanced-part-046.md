@@ -1819,3 +1819,11 @@ Bagian 047 — API Gateway, Reverse Proxy, Load Balancer, and JAX-RS Apps
 ```
 
 Kita akan membahas bagaimana gateway/proxy/LB memengaruhi Jakarta REST apps: forwarded headers, base URI, TLS termination, path rewriting, CORS, auth offload, rate limit, request size, timeout, buffering, streaming/SSE, observability, and security boundaries.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-045.md](./learn-jaxrs-advanced-part-045.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-047.md](./learn-jaxrs-advanced-part-047.md)
+
+</div>

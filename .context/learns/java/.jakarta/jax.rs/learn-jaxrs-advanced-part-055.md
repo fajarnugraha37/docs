@@ -1112,3 +1112,11 @@ Can we rollback it?
 Use this appendix as a review muscle.
 
 Every API review should leave the system safer, clearer, more testable, and more operable.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-054.md](./learn-jaxrs-advanced-part-054.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Mental Model Server-Side UI di Java](../jsp/00-orientation-server-side-ui-mental-model.md)
+
+</div>

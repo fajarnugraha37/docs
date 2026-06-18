@@ -2951,3 +2951,11 @@ Jakarta Tags should make JSP cleaner, not make JSP become the application layer.
 Engineer top-tier tahu bahwa `c:forEach` bukan sekadar loop. Ia tahu TLD, URI migration, tag handler lifecycle, tag pooling, escaping, URL safety, why SQL tags are historical baggage, dan bagaimana memodernisasi JSP legacy dengan tags tanpa memindahkan business logic ke view.
 
 Bagian berikutnya akan membahas **Jakarta Debugging Support for Other Languages (`jakarta.debugging`)**: Source Map support, debugging non-Java languages/templates generated into Jakarta artifacts, runtime mapping, and why it matters for tooling/observability.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-028.md](./learn-java-jakarta-part-028.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-030.md](./learn-java-jakarta-part-030.md)
+
+</div>

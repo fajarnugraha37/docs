@@ -1,0 +1,63 @@
+# Daftar Isi: .Jakarta
+
+## Direktori
+- [📁 Concurrency](concurrency/index.md)
+- [📁 Dependency](dependency/index.md)
+- [📁 Jax.Rs](jax.rs/index.md)
+- [📁 Jsp](jsp/index.md)
+- [📁 Mapper](mapper/index.md)
+- [📁 Persistence](persistence/index.md)
+- [📁 Security](security/index.md)
+- [📁 Servlet](servlet/index.md)
+- [📁 Validation](validation/index.md)
+
+## Artikel
+- [📄 learn-java-jakarta-part-000.md](learn-java-jakarta-part-000.md)
+- [📄 learn-java-jakarta-part-001.md](learn-java-jakarta-part-001.md)
+- [📄 learn-java-jakarta-part-002.md](learn-java-jakarta-part-002.md)
+- [📄 learn-java-jakarta-part-003.md](learn-java-jakarta-part-003.md)
+- [📄 learn-java-jakarta-part-004.md](learn-java-jakarta-part-004.md)
+- [📄 learn-java-jakarta-part-005.md](learn-java-jakarta-part-005.md)
+- [📄 learn-java-jakarta-part-006.md](learn-java-jakarta-part-006.md)
+- [📄 learn-java-jakarta-part-007.md](learn-java-jakarta-part-007.md)
+- [📄 learn-java-jakarta-part-008.md](learn-java-jakarta-part-008.md)
+- [📄 learn-java-jakarta-part-009.md](learn-java-jakarta-part-009.md)
+- [📄 learn-java-jakarta-part-010.md](learn-java-jakarta-part-010.md)
+- [📄 learn-java-jakarta-part-011.md](learn-java-jakarta-part-011.md)
+- [📄 learn-java-jakarta-part-012.md](learn-java-jakarta-part-012.md)
+- [📄 learn-java-jakarta-part-013.md](learn-java-jakarta-part-013.md)
+- [📄 learn-java-jakarta-part-014.md](learn-java-jakarta-part-014.md)
+- [📄 learn-java-jakarta-part-015.md](learn-java-jakarta-part-015.md)
+- [📄 learn-java-jakarta-part-016.md](learn-java-jakarta-part-016.md)
+- [📄 learn-java-jakarta-part-017.md](learn-java-jakarta-part-017.md)
+- [📄 learn-java-jakarta-part-018.md](learn-java-jakarta-part-018.md)
+- [📄 learn-java-jakarta-part-019.md](learn-java-jakarta-part-019.md)
+- [📄 learn-java-jakarta-part-020.md](learn-java-jakarta-part-020.md)
+- [📄 learn-java-jakarta-part-021.md](learn-java-jakarta-part-021.md)
+- [📄 learn-java-jakarta-part-022.md](learn-java-jakarta-part-022.md)
+- [📄 learn-java-jakarta-part-023.md](learn-java-jakarta-part-023.md)
+- [📄 learn-java-jakarta-part-024.md](learn-java-jakarta-part-024.md)
+- [📄 learn-java-jakarta-part-025.md](learn-java-jakarta-part-025.md)
+- [📄 learn-java-jakarta-part-026.md](learn-java-jakarta-part-026.md)
+- [📄 learn-java-jakarta-part-027.md](learn-java-jakarta-part-027.md)
+- [📄 learn-java-jakarta-part-028.md](learn-java-jakarta-part-028.md)
+- [📄 learn-java-jakarta-part-029.md](learn-java-jakarta-part-029.md)
+- [📄 learn-java-jakarta-part-030.md](learn-java-jakarta-part-030.md)
+- [📄 learn-java-jakarta-part-031.md](learn-java-jakarta-part-031.md)
+- [📄 learn-java-jakarta-part-032.md](learn-java-jakarta-part-032.md)
+- [📄 learn-java-jakarta-part-033.md](learn-java-jakarta-part-033.md)
+- [📄 learn-java-jakarta-part-034.md](learn-java-jakarta-part-034.md)
+- [📄 learn-java-jakarta-part-035.md](learn-java-jakarta-part-035.md)
+- [📄 learn-java-jakarta-part-036.md](learn-java-jakarta-part-036.md)
+- [📄 learn-java-jakarta-part-037.md](learn-java-jakarta-part-037.md)
+- [📄 learn-java-jakarta-part-038.md](learn-java-jakarta-part-038.md)
+- [📄 learn-java-jakarta-part-039.md](learn-java-jakarta-part-039.md)
+- [📄 learn-java-jakarta-part-040.md](learn-java-jakarta-part-040.md)
+
+
+---
+<div align="center">
+
+[🏠 Kembali ke Daftar Isi Utama](../../index.md)
+
+</div>

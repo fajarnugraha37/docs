@@ -2295,3 +2295,11 @@ Belum mencapai bagian terakhir.
 Berikutnya:
 
 **Part 29 — Migration Engineering: Jersey 2 to 3 to 4, javax to jakarta, Java 8 to 25**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 27 — Testing Jersey Applications: Unit, In-Memory, Container, Contract, and Failure Tests](./27-testing-jersey-applications-unit-inmemory-container-contract-failure-tests.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Migration Engineering: Jersey 2 to 3 to 4, `javax` to `jakarta`, Java 8 to 25](./29-migration-engineering-jersey-2-to-3-to-4-javax-to-jakarta-java-8-to-25.md)
+
+</div>

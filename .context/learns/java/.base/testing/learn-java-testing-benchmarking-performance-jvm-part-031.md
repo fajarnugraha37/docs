@@ -1939,3 +1939,10 @@ Part 000 sampai Part 031 selesai.
 Total: 32 part.
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-030](./learn-java-testing-benchmarking-performance-jvm-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](../../.be/cammunda/learn-java-bpmn-camunda-part-00-orientation.md)
+
+</div>

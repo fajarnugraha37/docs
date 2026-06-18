@@ -2477,3 +2477,11 @@ Part berikutnya:
 ```text
 Part 020 — Reliability Patterns for External Integrations
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-018.md](./learn-java-reliability-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-020.md](./learn-java-reliability-part-020.md)
+
+</div>

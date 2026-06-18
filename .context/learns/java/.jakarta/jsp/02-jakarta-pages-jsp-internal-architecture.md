@@ -2817,3 +2817,11 @@ Progress saat ini:
 [ ] ...
 [ ] 30-capstone-enterprise-case-management-ui.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 1 — Historical Evolution dan Compatibility Matrix: JSP, JSTL, EL, JSF, Jakarta Faces](./01-history-compatibility-java8-to-java25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — JSP Syntax Deep Dive: Directives, Declarations, Scriptlets, Expressions, Actions](./03-jsp-syntax-directives-scriptlets-actions.md)
+
+</div>

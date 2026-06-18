@@ -1816,3 +1816,11 @@ Bagian berikutnya:
 ```text
 Part 030 — Top 1% Reliability Thinking: Heuristics, Trade-offs, and Anti-Patterns
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-028.md](./learn-java-reliability-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-030.md](./learn-java-reliability-part-030.md)
+
+</div>

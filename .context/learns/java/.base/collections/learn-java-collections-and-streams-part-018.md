@@ -1752,3 +1752,11 @@ but enum evolution and mutability must be reviewed like schema changes.
 
 10. Java SE 25 — `Set`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Set.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-017.md](./learn-java-collections-and-streams-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-019.md](./learn-java-collections-and-streams-part-019.md)
+
+</div>

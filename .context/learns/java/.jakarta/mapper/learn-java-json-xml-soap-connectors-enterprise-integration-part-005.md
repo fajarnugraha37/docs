@@ -2789,3 +2789,10 @@ Bagian berikutnya:
 Part 006 / 034 — JSON-P Advanced Production Patterns
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-004](./learn-java-json-xml-soap-connectors-enterprise-integration-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 6](./learn-java-json-xml-soap-connectors-enterprise-integration-part-006.md)
+
+</div>

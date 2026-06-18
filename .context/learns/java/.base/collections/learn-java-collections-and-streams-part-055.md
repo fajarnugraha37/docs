@@ -1400,3 +1400,11 @@ nulls, ordering, concurrency, and lifecycle.
 
 10. Java SE 25 — `Map.merge`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Map.html#merge(K,V,java.util.function.BiFunction)
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-054.md](./learn-java-collections-and-streams-part-054.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-056.md](./learn-java-collections-and-streams-part-056.md)
+
+</div>

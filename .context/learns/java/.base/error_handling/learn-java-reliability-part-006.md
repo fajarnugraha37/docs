@@ -2517,3 +2517,11 @@ Bagian berikutnya:
 ```text
 Part 007 — Validation, Preconditions, Invariants, and Illegal States
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-005.md](./learn-java-reliability-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-007.md](./learn-java-reliability-part-007.md)
+
+</div>

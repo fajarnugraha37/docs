@@ -2388,3 +2388,11 @@ Bagian berikutnya:
 ```text
 Part 003 — Exception Taxonomy for Enterprise Systems
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-001.md](./learn-java-reliability-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-003.md](./learn-java-reliability-part-003.md)
+
+</div>

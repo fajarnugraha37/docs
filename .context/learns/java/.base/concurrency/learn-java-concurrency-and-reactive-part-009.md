@@ -1947,3 +1947,11 @@ and every access to guarded mutable state under the same lock.
 
 9. OpenJDK JEP 491 — Synchronize Virtual Threads without Pinning  
    https://openjdk.org/jeps/491
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-008.md](./learn-java-concurrency-and-reactive-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-010.md](./learn-java-concurrency-and-reactive-part-010.md)
+
+</div>

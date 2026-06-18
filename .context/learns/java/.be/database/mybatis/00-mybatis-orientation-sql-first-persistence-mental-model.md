@@ -2725,3 +2725,11 @@ Progress saat ini:
 [ ] Part 32 - Refactoring Legacy MyBatis Systems
 [ ] Part 33 - Capstone Production-Grade MyBatis Persistence Layer
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 33 — Capstone: Designing a Production-Grade Migration Platform](../migration/33-capstone-production-grade-migration-platform.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 01 — MyBatis Core Runtime Architecture: `SqlSession`, `Executor`, `Configuration`](./01-mybatis-core-runtime-architecture-sqlsession-executor-configuration.md)
+
+</div>

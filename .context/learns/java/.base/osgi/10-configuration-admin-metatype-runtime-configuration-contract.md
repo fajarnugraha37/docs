@@ -3486,3 +3486,11 @@ Configuration becomes much safer when build tooling generates and validates the 
 - OSGi Compendium Release 8 — Declarative Services Specification: https://docs.osgi.org/specification/osgi.cmpn/8.0.0/service.component.html
 - Apache Felix FileInstall documentation: https://felix.apache.org/documentation/subprojects/apache-felix-file-install.html
 - Bndtools Declarative Services and Metatype documentation: https://bndtools.org/doc/217-ds.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 9 — Advanced Declarative Services Patterns: Dynamic Topologies Without Chaos](./09-advanced-declarative-services-patterns-dynamic-topologies-without-chaos.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — bnd and Bndtools: Build Intelligence for OSGi Engineering](./11-bnd-bndtools-build-intelligence-osgi-engineering.md)
+
+</div>

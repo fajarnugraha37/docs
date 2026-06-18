@@ -2009,3 +2009,11 @@ Part 22 — Security Context Propagation: Threads, Executors, Async, Virtual Thr
 ```
 
 Seri belum selesai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 20 — mTLS, Client Certificates, and Strong Caller Authentication](./learn-java-jakarta-security-authentication-authorization-identity-part-20-mtls-client-certificates.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — Security Context Propagation: Threads, Executors, Async, Virtual Threads, Reactive](./learn-java-jakarta-security-authentication-authorization-identity-part-22-security-context-propagation.md)
+
+</div>

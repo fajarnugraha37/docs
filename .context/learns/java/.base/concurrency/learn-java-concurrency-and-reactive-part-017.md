@@ -1668,3 +1668,11 @@ and never let context outlive its scope.
 
 10. Java SE 25 — Preview List  
     https://docs.oracle.com/en/java/javase/25/docs/api/preview-list.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-016.md](./learn-java-concurrency-and-reactive-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-018.md](./learn-java-concurrency-and-reactive-part-018.md)
+
+</div>

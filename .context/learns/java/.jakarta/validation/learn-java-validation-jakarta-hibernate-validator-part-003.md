@@ -2008,3 +2008,11 @@ Part yang sudah dibuat:
 Part berikutnya:
 
 - Part 004 — Nullability Strategy: `@NotNull`, Optional, Defaults, and Domain Absence
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-002](./learn-java-validation-jakarta-hibernate-validator-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-004](./learn-java-validation-jakarta-hibernate-validator-part-004.md)
+
+</div>

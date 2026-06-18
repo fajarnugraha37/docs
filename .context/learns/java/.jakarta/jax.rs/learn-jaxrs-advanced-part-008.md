@@ -3157,3 +3157,11 @@ Bagian 009 — Request Entity Binding: Input Entity, Streams, Readers, DTO Bound
 ```
 
 Kita akan membahas bagaimana request body dibaca: entity parameter, `InputStream`, JSON DTO, form body, stream one-time read, payload limits, large request strategy, DTO boundary, and `MessageBodyReader` interaction.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-007.md](./learn-jaxrs-advanced-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-009.md](./learn-jaxrs-advanced-part-009.md)
+
+</div>

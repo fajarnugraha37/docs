@@ -2167,3 +2167,10 @@ Seri belum selesai.
 Masih lanjut ke part 001 sampai part 030.
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 32 — Capstone: Build a Production-Grade Runtime/XML Utility Layer](../lang_package/32-capstone-production-grade-runtime-xml-utility-layer.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-001.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-001.md)
+
+</div>

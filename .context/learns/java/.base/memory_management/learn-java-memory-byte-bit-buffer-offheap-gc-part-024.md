@@ -1830,3 +1830,11 @@ Topik berikutnya:
 ```text
 GC Logging, JFR, JMX, Native Memory Tracking, and Observability
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-023](./learn-java-memory-byte-bit-buffer-offheap-gc-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-025](./learn-java-memory-byte-bit-buffer-offheap-gc-part-025.md)
+
+</div>

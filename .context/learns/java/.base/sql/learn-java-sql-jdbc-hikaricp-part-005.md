@@ -2793,3 +2793,11 @@ Part 006 — JDBC Type System: SQL Types, Java Types, and Conversion Traps
 File berikutnya:
 learn-java-sql-jdbc-hikaricp-part-006.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-004.md](./learn-java-sql-jdbc-hikaricp-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-006](./learn-java-sql-jdbc-hikaricp-part-006.md)
+
+</div>

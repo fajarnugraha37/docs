@@ -2644,3 +2644,11 @@ Berikutnya:
 ```text
 Part 025 — WebSocket Security Boundary
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 023 — WebSocket Session, Concurrency, and State Management](./learn-java-servlet-websocket-web-container-runtime-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-025](./learn-java-servlet-websocket-web-container-runtime-part-025.md)
+
+</div>

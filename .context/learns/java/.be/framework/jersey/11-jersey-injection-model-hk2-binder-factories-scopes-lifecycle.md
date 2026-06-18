@@ -2860,3 +2860,11 @@ Part 32 — Capstone                                         — target akhir
 Seri belum selesai. Part berikutnya adalah:
 
 > **Part 12 — CDI, Spring, and Jersey Integration: Choosing the Composition Model**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 10 — Filters and Interceptors: Request/Response Pipeline Control](./10-filters-and-interceptors-request-response-pipeline-control.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — CDI, Spring, and Jersey Integration: Choosing the Composition Model](./12-cdi-spring-and-jersey-integration-choosing-composition-model.md)
+
+</div>

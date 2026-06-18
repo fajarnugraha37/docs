@@ -2417,3 +2417,11 @@ Jika statement itu benar, record adalah pilihan sangat kuat. Jika tidak benar, g
 
 9. Java SE 25 API — `Arrays`  
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Arrays.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-011.md](./learn-java-data-types-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-013.md](./learn-java-data-types-part-013.md)
+
+</div>

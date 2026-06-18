@@ -2291,3 +2291,10 @@ Part berikutnya:
 
 - Part 031 — Advanced Architecture Patterns and Final Integration
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 029](./learn-java-servlet-websocket-web-container-runtime-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-031](./learn-java-servlet-websocket-web-container-runtime-part-031.md)
+
+</div>

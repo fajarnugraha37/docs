@@ -2053,3 +2053,10 @@ Fokusnya adalah security khusus Jakarta Faces:
 - SameSite;
 - secure Faces checklist.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 23 — Composite Components and Reusable UI Architecture](./23-composite-components-and-reusable-ui-architecture.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Faces Security: XSS, CSRF, View State, Authorization, and Secure Rendering](./25-faces-security-xss-csrf-view-state-authorization-secure-rendering.md)
+
+</div>

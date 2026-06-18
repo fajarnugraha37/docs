@@ -2749,3 +2749,11 @@ Kita akan pindah dari streaming event kecil ke payload besar:
 - auditability.
 
 SSE dan `StreamingOutput` memberi fondasi penting: body HTTP tidak selalu kecil, tidak selalu langsung selesai, dan tidak selalu aman jika lifecycle resource tidak dikendalikan.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 15 — Async Server Processing: `AsyncResponse`, Suspension, Timeout, and Cancellation](./15-async-server-processing-asyncresponse-suspension-timeout-cancellation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 17 — Multipart, File Upload, Download, and Large Payload Engineering](./17-multipart-file-upload-download-large-payload-engineering.md)
+
+</div>

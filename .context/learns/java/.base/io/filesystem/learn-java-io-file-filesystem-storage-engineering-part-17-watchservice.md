@@ -1911,3 +1911,11 @@ Jika prinsip ini dipakai, `WatchService` bisa menjadi bagian yang berguna dalam 
 - Java SE 25 Documentation — `Files`: https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/nio/file/Files.html
 - Java SE 25 Documentation — `WatchKey`: https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/nio/file/WatchKey.html
 - Java SE 25 Documentation — `StandardWatchEventKinds`: https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/nio/file/StandardWatchEventKinds.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 16 — FileStore and Filesystem Capacity: Disk Space, Quotas, and Operational Guardrails](./learn-java-io-file-filesystem-storage-engineering-part-16-filestore-filesystem-capacity.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 18 — File Locking: Advisory, Mandatory, Local, Network, and Cross-Process Coordination](./learn-java-io-file-filesystem-storage-engineering-part-18-file-locking.md)
+
+</div>

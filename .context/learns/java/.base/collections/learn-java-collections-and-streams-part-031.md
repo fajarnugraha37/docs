@@ -1684,3 +1684,11 @@ Then choose the collector that encodes that contract.
 
 10. dev.java — Reductions  
     https://dev.java/learn/api/streams/reducing/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-030.md](./learn-java-collections-and-streams-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-032.md](./learn-java-collections-and-streams-part-032.md)
+
+</div>

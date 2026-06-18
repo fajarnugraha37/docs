@@ -1909,3 +1909,11 @@ Bagian berikutnya:
 ```text
 Part 028 — Reliability Architecture Review Checklist
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-026.md](./learn-java-reliability-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-028.md](./learn-java-reliability-part-028.md)
+
+</div>

@@ -3243,3 +3243,11 @@ Part berikutnya:
 ```text
 Part 012 — Property-Based Testing dan Generative Testing untuk Java
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-010](./learn-java-testing-benchmarking-performance-jvm-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-012](./learn-java-testing-benchmarking-performance-jvm-part-012.md)
+
+</div>

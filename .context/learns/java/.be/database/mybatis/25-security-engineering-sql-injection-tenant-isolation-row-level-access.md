@@ -2199,3 +2199,10 @@ Bagian ini akan memperluas security scope menjadi desain multi-tenancy dan data 
 Security di Part 25 menjawab: “bagaimana mapper tidak bocor?”  
 Part 26 menjawab: “bagaimana desain data model dan persistence layer sejak awal agar isolation menjadi struktur, bukan tambalan?”
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 24 — Migration and Schema Evolution: Flyway, Liquibase, Backward Compatibility](./24-migration-schema-evolution-flyway-liquibase-backward-compatibility.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 26 — Multi-Tenancy, Data Partitioning, and Agency/Module Isolation](./26-multitenancy-data-partitioning-agency-module-isolation.md)
+
+</div>

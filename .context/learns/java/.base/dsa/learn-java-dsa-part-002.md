@@ -1776,3 +1776,11 @@ Part ini adalah **Part 002 dari 030**.
 Seri **belum selesai**. Berikutnya:
 
 **Part 003 — Arrays, Dynamic Arrays, ArrayList, dan Cost Model-nya**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dsa-part-001.md](./learn-java-dsa-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-003.md](./learn-java-dsa-part-003.md)
+
+</div>

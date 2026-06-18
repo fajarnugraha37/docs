@@ -2781,3 +2781,11 @@ Bagian 018 — Security in JAX-RS: Authentication, Authorization, Principal, Rol
 ```
 
 Kita akan membahas security boundary secara mendalam: authentication mechanisms, `SecurityContext`, principal mapping, role/scope mapping, Jakarta Security, JWT/OIDC integration, authorization architecture, tenant/data authorization, and production hardening.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-016.md](./learn-jaxrs-advanced-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-018.md](./learn-jaxrs-advanced-part-018.md)
+
+</div>

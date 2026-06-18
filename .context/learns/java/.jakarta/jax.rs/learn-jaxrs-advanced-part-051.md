@@ -1662,3 +1662,11 @@ Bagian 052 — Building a Production-Grade JAX-RS API from Scratch
 ```
 
 Kita akan membangun desain API production-grade dari nol: package structure, resource design, DTOs, validation, error contract, security, persistence, client integration, observability, OpenAPI, tests, deployment, and operational checklist.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-050.md](./learn-jaxrs-advanced-part-050.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-052.md](./learn-jaxrs-advanced-part-052.md)
+
+</div>

@@ -2050,3 +2050,11 @@ Type modeling yang baik membuat codebase terasa seperti bahasa domain yang aman,
 
 10. Java Language Specification SE 25  
     https://docs.oracle.com/javase/specs/jls/se25/html/index.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-029.md](./learn-java-data-types-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-031.md](./learn-java-data-types-part-031.md)
+
+</div>

@@ -1917,3 +1917,11 @@ Remaining:
   Part 32 - Case Studies: Realistic Production Scenarios
   Part 33 - Capstone: Designing a Production-Grade Migration Platform
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 20 — Expand/Contract Pattern for Zero-Downtime Migration](./20-expand-contract-zero-downtime-migration.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Vendor-Specific Migration Engineering](./22-vendor-specific-migration-engineering.md)
+
+</div>

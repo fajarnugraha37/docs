@@ -1876,3 +1876,10 @@ Cetak setiap 5 detik.
 - OpenJDK JMH — Java Microbenchmark Harness.
 - Java platform documentation for NIO channels, buffers, and file APIs.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 026 — Large File Processing: Memory Safety, Streaming Pipeline, Pagination, Split, Merge, dan External Sort](./learn-java-io-nio-networking-data-transfer-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 028 — Concurrency and I/O: Thread-per-Connection, Virtual Thread, Async I/O, Locking, dan Backpressure](./learn-java-io-nio-networking-data-transfer-part-028.md)
+
+</div>

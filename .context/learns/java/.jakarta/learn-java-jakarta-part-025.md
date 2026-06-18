@@ -2881,3 +2881,11 @@ observability
 Engineer top-tier tidak hanya bisa membuat chat endpoint. Ia tahu bagaimana WebSocket melewati proxy, kenapa Origin harus dicek, kenapa session registry bisa memory leak, kenapa slow client bisa membunuh server, kenapa cluster butuh pub/sub backplane, dan kenapa pesan penting harus tetap disimpan di database/event store.
 
 Bagian berikutnya akan membahas **Jakarta Faces (`jakarta.faces`)**: component-based server-side UI, lifecycle phases, managed state, validation/conversion, Ajax, templating, security, performance, and modern relevance.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-024.md](./learn-java-jakarta-part-024.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-026.md](./learn-java-jakarta-part-026.md)
+
+</div>

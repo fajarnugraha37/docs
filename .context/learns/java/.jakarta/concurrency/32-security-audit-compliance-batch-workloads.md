@@ -2353,3 +2353,11 @@ Berikutnya:
 Part 33 — Design Patterns and Anti-Patterns
 File: 33-design-patterns-and-anti-patterns.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 31 — Performance Engineering for Jakarta Batch](./31-performance-engineering-jakarta-batch.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — Design Patterns and Anti-Patterns](./33-design-patterns-and-anti-patterns.md)
+
+</div>

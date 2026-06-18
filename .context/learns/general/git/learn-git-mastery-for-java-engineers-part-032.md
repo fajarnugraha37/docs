@@ -2148,3 +2148,11 @@ Rujukan utama keseluruhan seri:
 - GitHub/GitLab/Bitbucket documentation: pull requests, branch protection, CODEOWNERS, CI/CD, signed commits/tags, secret scanning
 - OWASP and supply chain practices: secret management, dependency review, SBOM, provenance, artifact signing
 - Praktik engineering production: trunk-based development, release governance, GitOps, CI/CD traceability, incident response, monorepo/polyrepo architecture, and compliance evidence
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-031.md](./learn-git-mastery-for-java-engineers-part-031.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 0 — Build Engineering Mental Model: Dari Source Code ke Artifact yang Bisa Dipercaya](../../java/.base/build_tools/00-build-engineering-mental-model.md)
+
+</div>

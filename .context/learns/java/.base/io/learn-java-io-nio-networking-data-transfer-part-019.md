@@ -2338,3 +2338,11 @@ Referensi utama:
 - Oracle Java SE Documentation — `NetworkInterface`.
 
 Catatan: detail behavior networking dapat berbeda antar OS, resolver, firewall, proxy, NAT, load balancer, container runtime, dan cloud provider. Java API memberi abstraction, tetapi correctness production tetap membutuhkan pemahaman sistem di bawahnya.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 018 — Compression: ZIP, GZIP, Deflater, Inflater, Tar Concept, dan Streaming Compression](./learn-java-io-nio-networking-data-transfer-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 020 — Networking II: TCP Framing, Protocol Design, Partial Read/Write, dan Backpressure](./learn-java-io-nio-networking-data-transfer-part-020.md)
+
+</div>

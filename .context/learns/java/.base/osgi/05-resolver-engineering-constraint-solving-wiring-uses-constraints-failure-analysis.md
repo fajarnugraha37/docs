@@ -2163,3 +2163,10 @@ That is the difference between “making OSGi work” and engineering an evolvab
 - Eclipse Equinox documentation on framework/runtime and startup issues.
 - Apache Karaf documentation on bundle, package, feature, and diagnostic commands.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 4 — Dependency Model: Import-Package, Export-Package, Require-Bundle, Capabilities](./04-dependency-model-import-export-require-bundle-capabilities.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Semantic Versioning in OSGi: Package Versions, Bundle Versions, API Evolution](./06-semantic-versioning-package-versions-bundle-versions-api-evolution.md)
+
+</div>

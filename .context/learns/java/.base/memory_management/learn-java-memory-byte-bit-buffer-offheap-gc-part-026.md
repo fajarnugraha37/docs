@@ -2320,3 +2320,11 @@ Topik berikutnya:
 ```text
 Native Memory Leak and Off-Heap Investigation
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-025](./learn-java-memory-byte-bit-buffer-offheap-gc-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md)
+
+</div>

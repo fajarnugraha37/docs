@@ -1935,3 +1935,11 @@ Bagian berikutnya:
 ```text
 Part 024 — Incident-Oriented Error Handling
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-022.md](./learn-java-reliability-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-024.md](./learn-java-reliability-part-024.md)
+
+</div>

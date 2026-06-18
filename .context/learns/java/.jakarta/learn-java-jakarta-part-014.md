@@ -3394,3 +3394,11 @@ Use outbox/saga/idempotency for distributed systems and external side effects.
 Engineer top-tier tidak hanya membuat data “tersimpan”. Ia mendesain sistem agar tetap benar saat timeout, retry, crash, duplicate request, deadlock, broker down, dan partial failure.
 
 Bagian berikutnya akan membahas **Jakarta Validation (`jakarta.validation`)**, yaitu cara membuat validation contract yang benar: input validation, bean validation, method validation, groups, cascaded validation, custom constraints, error mapping, dan batas antara validation annotation vs domain invariant.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-013.md](./learn-java-jakarta-part-013.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-015.md](./learn-java-jakarta-part-015.md)
+
+</div>

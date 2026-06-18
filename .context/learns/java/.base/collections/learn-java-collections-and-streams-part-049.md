@@ -1494,3 +1494,11 @@ If the caller simply needs data, return a collection, page, cursor, or result ob
 
 10. OpenJDK — Stream API source  
     https://github.com/openjdk/jdk/tree/master/src/java.base/share/classes/java/util/stream
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-048.md](./learn-java-collections-and-streams-part-048.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-050.md](./learn-java-collections-and-streams-part-050.md)
+
+</div>

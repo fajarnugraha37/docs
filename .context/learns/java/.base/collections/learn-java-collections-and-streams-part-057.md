@@ -1480,3 +1480,11 @@ state transitions, and security-sensitive operations.
 
 10. Java SE 25 — `Comparator`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Comparator.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-056.md](./learn-java-collections-and-streams-part-056.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-058.md](./learn-java-collections-and-streams-part-058.md)
+
+</div>

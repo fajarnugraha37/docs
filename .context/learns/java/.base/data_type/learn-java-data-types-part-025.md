@@ -2387,3 +2387,11 @@ Database mapping yang baik membuat domain model tetap benar bahkan ketika data h
 
 10. Java SE 25 API — `UUID`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/UUID.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-024.md](./learn-java-data-types-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-026.md](./learn-java-data-types-part-026.md)
+
+</div>

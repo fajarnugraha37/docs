@@ -1997,3 +1997,11 @@ Di bagian ini kita membangun boundary mental model:
 11. Error taxonomy harus membedakan parse, binding, validation, mapping, semantic, invariant, authorization, dan infrastructure failure.
 
 Part berikutnya akan membahas **Error Handling and Diagnostics in Mapping Pipelines**, yaitu bagaimana membuat mapping failure bisa ditelusuri dengan field path, JSON pointer/XML location, correlation id, safe logging, replayability, dan dead-letter strategy.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 26 — Records, Builders, and Modern Java DTO Strategy](./26-records-builders-modern-java-dto-strategy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Error Handling and Diagnostics in Mapping Pipelines](./28-error-handling-diagnostics-mapping-pipelines.md)
+
+</div>

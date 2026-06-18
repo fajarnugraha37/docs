@@ -1686,3 +1686,11 @@ and how will the type/API prevent invalid states?”
 
 10. Java SE 25 — `Objects.requireNonNull`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Objects.html#requireNonNull(T)
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-046.md](./learn-java-collections-and-streams-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-048.md](./learn-java-collections-and-streams-part-048.md)
+
+</div>

@@ -1901,3 +1901,11 @@ Part berikutnya akan masuk ke **Part 023 — WebSocket Session, Concurrency, and
 - `ServerEndpointConfig.Configurator` API: https://jakarta.ee/specifications/websocket/2.0/apidocs/jakarta/websocket/server/serverendpointconfig.configurator
 - RFC 6455 — The WebSocket Protocol: https://datatracker.ietf.org/doc/html/rfc6455
 - Jetty 12.1 WebSocket Server documentation: https://jetty.org/docs/jetty/12.1/programming-guide/server/websocket.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-021](./learn-java-servlet-websocket-web-container-runtime-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — WebSocket Session, Concurrency, and State Management](./learn-java-servlet-websocket-web-container-runtime-part-023.md)
+
+</div>

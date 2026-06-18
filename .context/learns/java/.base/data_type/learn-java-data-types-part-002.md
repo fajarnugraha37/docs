@@ -2545,3 +2545,11 @@ Top-tier engineering is not choosing the “largest” or “most precise” typ
 
 11. Java Language Specification SE 25 — Chapter 5: Conversions and Contexts  
     https://docs.oracle.com/javase/specs/jls/se25/html/jls-5.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-001.md](./learn-java-data-types-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-003.md](./learn-java-data-types-part-003.md)
+
+</div>

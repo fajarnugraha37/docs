@@ -1872,3 +1872,11 @@ Topik berikutnya:
 ```text
 Java Primitive Memory Semantics: Dari boolean sampai double
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-000](./learn-java-memory-byte-bit-buffer-offheap-gc-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-002](./learn-java-memory-byte-bit-buffer-offheap-gc-part-002.md)
+
+</div>

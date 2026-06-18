@@ -1873,3 +1873,11 @@ Bagian ini menutup isu **distributed execution** untuk Jakarta Batch. Setelah me
 - audit evidence.
 
 Bagian berikutnya akan masuk ke **performance engineering for Jakarta Batch**: throughput model, commit interval tuning, partition count tuning, bottleneck isolation, JDBC fetch/batch size, GC, DB connection pressure, dan capacity planning.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 29 — External API Batch: Rate Limits, Retries, and Idempotent Integration](./29-external-api-batch-rate-limits-retries-idempotent-integration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Performance Engineering for Jakarta Batch](./31-performance-engineering-jakarta-batch.md)
+
+</div>

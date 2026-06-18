@@ -2742,3 +2742,11 @@ Belum selesai.
 Berikutnya:
 
 - Part 16 — Saga and Long-running Transaction Engineering with BPMN
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-14-multi-instance-parallelism-fan-out-fan-in-concurrency-control.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java BPMN, Camunda, and Process Orchestration Engineering](./learn-java-bpmn-camunda-part-16-saga-long-running-transaction-engineering-with-bpmn.md)
+
+</div>

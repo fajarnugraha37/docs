@@ -3137,3 +3137,10 @@ Engineer Java yang kuat tidak hanya bisa menulis kode, tetapi juga bisa menjawab
 - tool mana yang dipakai untuk membuktikan dependency graph;
 - kapan modularity memberi value, dan kapan hanya menambah complexity.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java Part 015 — Security, Cryptography, dan Integrity di Java hingga Java 25](./learn-java-part-015.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 017 — Testing di Java](./learn-java-part-017.md)
+
+</div>

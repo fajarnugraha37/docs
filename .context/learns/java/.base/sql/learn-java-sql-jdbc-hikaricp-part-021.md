@@ -2251,3 +2251,11 @@ Seri belum selesai.
 Part berikutnya: Part 022 — Timeout Design: Connection Timeout, Query Timeout, Socket Timeout, Transaction Timeout
 File berikutnya: learn-java-sql-jdbc-hikaricp-part-022.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-020](./learn-java-sql-jdbc-hikaricp-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-022](./learn-java-sql-jdbc-hikaricp-part-022.md)
+
+</div>

@@ -2104,3 +2104,11 @@ Topik berikutnya:
 ```text
 Shenandoah GC Deep Dive: Concurrent Compaction and Generational Shenandoah
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-021](./learn-java-memory-byte-bit-buffer-offheap-gc-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-023](./learn-java-memory-byte-bit-buffer-offheap-gc-part-023.md)
+
+</div>

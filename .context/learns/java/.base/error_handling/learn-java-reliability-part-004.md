@@ -2522,3 +2522,11 @@ And start asking:
 - OWASP Secure Product Design Cheat Sheet: https://cheatsheetseries.owasp.org/cheatsheets/Secure_Product_Design_Cheat_Sheet.html
 - Google SRE Book — Addressing Cascading Failures: https://sre.google/sre-book/addressing-cascading-failures/
 - Google SRE Book — Handling Overload: https://sre.google/sre-book/handling-overload/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-003.md](./learn-java-reliability-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-005.md](./learn-java-reliability-part-005.md)
+
+</div>

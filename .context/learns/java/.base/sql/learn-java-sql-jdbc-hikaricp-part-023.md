@@ -1972,3 +1972,11 @@ Seri belum selesai.
 Part berikutnya: Part 024 — Observability: Metrics, Logs, Traces, and Database Correlation
 File berikutnya: learn-java-sql-jdbc-hikaricp-part-024.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-022](./learn-java-sql-jdbc-hikaricp-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-024](./learn-java-sql-jdbc-hikaricp-part-024.md)
+
+</div>

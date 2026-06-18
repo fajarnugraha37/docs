@@ -3132,3 +3132,10 @@ Seri **belum selesai**. Masih ada part berikutnya:
 - Part 24 — JAX-WS / Jakarta XML Web Services Server Side
 - ... sampai Part 34 — Integration Architecture Capstone
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 19](./learn-java-json-xml-soap-connectors-enterprise-integration-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 21](./learn-java-json-xml-soap-connectors-enterprise-integration-part-021.md)
+
+</div>

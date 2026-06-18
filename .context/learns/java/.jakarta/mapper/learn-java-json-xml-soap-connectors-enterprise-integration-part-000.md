@@ -2104,3 +2104,11 @@ Sumber-sumber berikut dipakai untuk mengunci fakta versi/spec di Part 0 dan akan
 - Part ini: **Part 0 — Orientation & Mental Model** selesai.
 - Seri belum selesai.
 - Berikutnya: **Part 1 — Data Format as Contract: JSON vs XML sebagai boundary contract, schema-first vs code-first, backward compatibility, versioning, consumer-driven constraints, dan canonical model anti-pattern.**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-040.md](../learn-java-jakarta-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 1](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md)
+
+</div>

@@ -2168,3 +2168,11 @@ The final mindset:
 - Hibernate ORM documentation — official Hibernate documentation and user guide.
 - EclipseLink documentation — official EclipseLink documentation for sessions, descriptors, weaving, cache, and JPA extensions.
 - EclipseLink releases — official release notes for Jakarta Persistence/Jakarta EE alignment.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 31 — Testing ORM Correctness: Beyond Repository Happy Path](./31-testing-orm-correctness-beyond-repository-happy-path.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 33 — Production Failure Playbook: Symptoms, Root Causes, and Fix Patterns](./33-production-failure-playbook-symptoms-root-causes-fix-patterns.md)
+
+</div>

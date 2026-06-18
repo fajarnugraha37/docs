@@ -1574,3 +1574,11 @@ It is where overload, latency, memory, and lifecycle policy become real.
 
 10. Java SE 25 — `java.util.concurrent` Package Summary  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/package-summary.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-020.md](./learn-java-collections-and-streams-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-022.md](./learn-java-collections-and-streams-part-022.md)
+
+</div>

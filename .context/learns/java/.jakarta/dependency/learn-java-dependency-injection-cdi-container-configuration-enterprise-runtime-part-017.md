@@ -2718,3 +2718,10 @@ Belum selesai. Bagian berikutnya:
 
 - Part 018 — Lifecycle Callbacks: Construction, Initialization, Destruction
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime — Part 018](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-018.md)
+
+</div>

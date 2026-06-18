@@ -2307,3 +2307,10 @@ Part 001 — Anatomy of java.sql and javax.sql
 File: learn-java-sql-jdbc-hikaricp-part-001.md
 ```
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-034](../security/learn-java-security-cryptography-integrity-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-001](./learn-java-sql-jdbc-hikaricp-part-001.md)
+
+</div>

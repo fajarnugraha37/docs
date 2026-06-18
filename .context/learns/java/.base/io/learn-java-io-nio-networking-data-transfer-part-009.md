@@ -2347,3 +2347,10 @@ Part 010 — Memory-Mapped File: MappedByteBuffer, Page Cache, Huge Files, dan T
 
 Kita akan masuk lebih dalam ke `FileChannel.map()` dan memahami mengapa memory-mapped file bukan sekadar “cara membaca file lebih cepat”, melainkan teknik yang mengubah cara aplikasi berinteraksi dengan page cache, virtual memory, file besar, random access, dan crash consistency.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 008 — ByteBuffer Deep Dive: Heap, Direct, Mapped, Slice, Duplicate, View Buffer](./learn-java-io-nio-networking-data-transfer-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 010 — Memory-Mapped File: `MappedByteBuffer`, Page Cache, Huge Files, dan Trade-off](./learn-java-io-nio-networking-data-transfer-part-010.md)
+
+</div>

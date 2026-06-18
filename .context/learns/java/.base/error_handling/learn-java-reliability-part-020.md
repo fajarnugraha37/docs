@@ -1827,3 +1827,11 @@ Part berikutnya:
 ```text
 Part 021 — Data Reliability and Persistence Failure
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-019.md](./learn-java-reliability-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-021.md](./learn-java-reliability-part-021.md)
+
+</div>

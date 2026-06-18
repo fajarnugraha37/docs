@@ -2652,3 +2652,11 @@ Gunakan low-level SPI ketika kamu benar-benar membangun:
 Engineer top-tier tahu perbedaan antara **authenticating a caller**, **checking a container permission**, dan **deciding a business action on a specific resource**. Salah menaruh logic di layer yang salah adalah sumber banyak security bug enterprise.
 
 Bagian berikutnya akan membahas **Jakarta Messaging (`jakarta.jms`)**: queue/topic, producer/consumer, durable subscription, transaction, acknowledgment, redelivery, DLQ, ordering, idempotency, and event-driven reliability.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-017.md](./learn-java-jakarta-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-019.md](./learn-java-jakarta-part-019.md)
+
+</div>

@@ -5173,3 +5173,11 @@ Topik berikutnya:
 ```text
 Nested, Inner, Local, and Anonymous Classes
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-008](./learn-java-oop-functional-reflection-codegen-modules-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-010](./learn-java-oop-functional-reflection-codegen-modules-part-010.md)
+
+</div>

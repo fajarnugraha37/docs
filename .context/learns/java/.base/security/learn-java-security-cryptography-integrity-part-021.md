@@ -2760,3 +2760,11 @@ High-integrity systems should treat authorization as part of state integrity. Au
 - CWE-639 — Authorization Bypass Through User-Controlled Key: https://cwe.mitre.org/data/definitions/639.html
 - CWE-862 — Missing Authorization: https://cwe.mitre.org/data/definitions/862.html
 - CWE-863 — Incorrect Authorization: https://cwe.mitre.org/data/definitions/863.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-020](./learn-java-security-cryptography-integrity-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-022](./learn-java-security-cryptography-integrity-part-022.md)
+
+</div>

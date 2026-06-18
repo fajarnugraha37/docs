@@ -1976,3 +1976,10 @@ Bagian berikutnya:
 > **Part 32 — JCA Inbound/Outbound Architecture**  
 > Fokus: outbound resource adapter, inbound message endpoint, activation spec, work manager, lifecycle, classloading, deployment descriptor, dan desain implementasi adapter yang lebih konkret.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 30](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 032](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md)
+
+</div>

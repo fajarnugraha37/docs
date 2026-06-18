@@ -2285,3 +2285,11 @@ Part berikutnya akan membahas:
 ```
 
 Di sana kita akan membahas lifecycle hooks Flyway: before/after migrate, before/after each migration, error callback, session settings, audit logging, dan bagaimana callback membantu mengelola behavior migration tanpa mencampur semua logic ke dalam migration utama.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 7 — Flyway Repeatable Migrations](./07-flyway-repeatable-migrations.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 09 — Flyway Callbacks and Lifecycle Hooks](./09-flyway-callbacks-lifecycle-hooks.md)
+
+</div>

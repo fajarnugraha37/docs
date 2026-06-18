@@ -3026,3 +3026,11 @@ persistent message
 Engineer top-tier tidak hanya bisa mengirim pesan ke queue. Ia tahu apa yang terjadi saat consumer crash, saat DB commit tapi publish gagal, saat message duplicate, saat poison message masuk, saat topic subscriber offline, dan saat queue depth tumbuh tanpa batas.
 
 Bagian berikutnya akan membahas **Jakarta Mail (`jakarta.mail`)**: SMTP/IMAP, MIME message, attachment, template, retry, bounce handling, deliverability, security, and production email pipeline design.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-018.md](./learn-java-jakarta-part-018.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-020.md](./learn-java-jakarta-part-020.md)
+
+</div>

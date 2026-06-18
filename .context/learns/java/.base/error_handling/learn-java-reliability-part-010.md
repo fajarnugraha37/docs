@@ -2449,3 +2449,11 @@ Part 011 — Kubernetes, Containers, and Shutdown Reality
 ```
 
 Di sana kita akan membahas realitas container orchestration: `SIGTERM`, `preStop`, `terminationGracePeriodSeconds`, readiness propagation, service endpoint removal, ingress/load balancer delay, rolling update, sidecar, dan kenapa aplikasi yang graceful di lokal masih bisa gagal di Kubernetes.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-009.md](./learn-java-reliability-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-011.md](./learn-java-reliability-part-011.md)
+
+</div>

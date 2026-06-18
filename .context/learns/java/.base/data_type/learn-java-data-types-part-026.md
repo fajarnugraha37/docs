@@ -2053,3 +2053,11 @@ API data type design yang baik membuat client aman, evolution terkendali, dan bu
 
 10. Java SE 25 API — `Optional`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Optional.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-025.md](./learn-java-data-types-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-027.md](./learn-java-data-types-part-027.md)
+
+</div>

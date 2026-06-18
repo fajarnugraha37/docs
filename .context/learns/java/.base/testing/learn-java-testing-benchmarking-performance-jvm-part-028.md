@@ -1926,3 +1926,11 @@ Part 029 — Performance Engineering for Services: Thread Pool, Connection Pool,
 - SLF4J FAQ: https://www.slf4j.org/faq.html
 - Jackson Blackbird: https://github.com/stevenschlansker/jackson-blackbird
 - FasterXML Jackson: https://github.com/FasterXML/jackson
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-027](./learn-java-testing-benchmarking-performance-jvm-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-029](./learn-java-testing-benchmarking-performance-jvm-part-029.md)
+
+</div>

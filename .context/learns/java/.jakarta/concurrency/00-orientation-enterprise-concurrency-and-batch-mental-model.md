@@ -2267,3 +2267,11 @@ Di Part 1 kita akan membahas evolusi dari Java EE Concurrency Utilities ke Jakar
 6. JEP 444: Virtual Threads — https://openjdk.org/jeps/444
 7. JEP 505: Structured Concurrency — https://openjdk.org/jeps/505
 8. JEP 506: Scoped Values — https://openjdk.org/jeps/506
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 35 — Capstone: Designing a Production-Grade Mapping Layer](../../.be/mapper/35-capstone-designing-production-grade-mapping-layer.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Historical Map: Java EE Concurrency Utilities to Jakarta Concurrency](./01-history-java-ee-concurrency-to-jakarta-concurrency.md)
+
+</div>

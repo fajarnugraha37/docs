@@ -2366,3 +2366,11 @@ Topik berikutnya:
 ```text
 Inheritance Deep Dive: Substitutability, Fragility, and Runtime Dispatch
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-003](./learn-java-oop-functional-reflection-codegen-modules-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-005](./learn-java-oop-functional-reflection-codegen-modules-part-005.md)
+
+</div>

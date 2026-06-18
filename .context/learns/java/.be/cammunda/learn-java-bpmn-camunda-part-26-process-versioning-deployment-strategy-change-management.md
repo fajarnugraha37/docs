@@ -2012,3 +2012,11 @@ Seri belum selesai.
 Berikutnya:
 
 > Part 27 — Advanced Modeling Patterns for Regulatory and Case Management Systems
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Learn Java BPMN Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-25-performance-scaling-capacity-planning-cost-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java BPMN & Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-27-modeling-patterns-regulatory-case-management-systems.md)
+
+</div>

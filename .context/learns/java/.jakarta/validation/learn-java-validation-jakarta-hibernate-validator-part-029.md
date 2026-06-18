@@ -2971,3 +2971,11 @@ Topik:
 ```text
 Capstone: Designing a Production-Grade Validation Framework for a Case Management Platform
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-028](./learn-java-validation-jakarta-hibernate-validator-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-030](./learn-java-validation-jakarta-hibernate-validator-part-030.md)
+
+</div>

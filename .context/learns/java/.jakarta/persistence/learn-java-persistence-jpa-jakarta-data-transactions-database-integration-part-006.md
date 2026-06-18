@@ -3094,3 +3094,10 @@ Relationship mapping adalah desain ownership, lifecycle, constraint, dan perubah
 - Hibernate ORM User Guide — association mapping, bidirectional relationship, cascade, collection mapping, fetching behavior.
 - Hibernate ORM 7 Introduction — practical guidance on association mapping and preference for FK relationship using `@ManyToOne` with `@OneToMany(mappedBy=...)` when in doubt.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 005 — Mapping Fundamentals Done Correctly](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — Fetching Strategy: Lazy, Eager, N+1, Entity Graph, Fetch Join](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-007.md)
+
+</div>

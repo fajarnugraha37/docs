@@ -2505,3 +2505,11 @@ Berikutnya:
 ```text
 Part 9 - JSON-B Customization & Provider Internals
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 7 — JSON-B Core Model](./learn-java-json-xml-soap-connectors-enterprise-integration-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-009](./learn-java-json-xml-soap-connectors-enterprise-integration-part-009.md)
+
+</div>

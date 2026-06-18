@@ -2576,3 +2576,11 @@ Top-tier Java engineer tidak anti-boolean. Ia tahu bahwa boolean adalah alat yan
 
 8. Java SE 25 API — `BitSet`  
    https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/BitSet.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-003.md](./learn-java-data-types-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-005.md](./learn-java-data-types-part-005.md)
+
+</div>

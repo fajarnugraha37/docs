@@ -2288,3 +2288,11 @@ Primitive itu powerful, tetapi terlalu sering dipakai untuk konsep domain yang s
 
 11. JEP 507 — Primitive Types in Patterns, instanceof, and switch (Third Preview)  
     https://openjdk.org/jeps/507
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-000.md](./learn-java-data-types-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-002.md](./learn-java-data-types-part-002.md)
+
+</div>

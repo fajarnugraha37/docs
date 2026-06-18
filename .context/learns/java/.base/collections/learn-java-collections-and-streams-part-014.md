@@ -1756,3 +1756,11 @@ It is an algorithm + memory layout + allocation pattern + CPU behavior + semanti
 
 10. Java SE 25 — `PriorityQueue`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/PriorityQueue.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-013.md](./learn-java-collections-and-streams-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-015.md](./learn-java-collections-and-streams-part-015.md)
+
+</div>

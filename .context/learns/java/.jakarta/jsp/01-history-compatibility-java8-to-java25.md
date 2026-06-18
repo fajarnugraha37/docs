@@ -1986,3 +1986,11 @@ Bagian berikutnya:
 ```
 
 Status seri: **belum selesai**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 0 — Orientation: Mental Model Server-Side UI di Java](./00-orientation-server-side-ui-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: 02 — Jakarta Pages / JSP Internal Architecture: From `.jsp` to Servlet](./02-jakarta-pages-jsp-internal-architecture.md)
+
+</div>

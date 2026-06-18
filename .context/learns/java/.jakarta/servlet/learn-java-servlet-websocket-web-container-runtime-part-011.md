@@ -2586,3 +2586,11 @@ Part 012 — Session Management: HttpSession Deep Dive
 Kita akan membahas `HttpSession`, `JSESSIONID`, session tracking, timeout, invalidation, session fixation, sticky session, replicated session, external session store, session bloat, concurrency antar request dalam session yang sama, logout race, dan production failure model.
 
 Seri belum selesai. Ini adalah Part 011 dari 031.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 010](./learn-java-servlet-websocket-web-container-runtime-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-012](./learn-java-servlet-websocket-web-container-runtime-part-012.md)
+
+</div>

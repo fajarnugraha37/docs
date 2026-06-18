@@ -2094,3 +2094,11 @@ Use Sequenced interfaces to express order as a contract, not as an implementatio
 
 10. Java SE 25 — `NavigableMap`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/NavigableMap.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-005.md](./learn-java-collections-and-streams-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-007.md](./learn-java-collections-and-streams-part-007.md)
+
+</div>

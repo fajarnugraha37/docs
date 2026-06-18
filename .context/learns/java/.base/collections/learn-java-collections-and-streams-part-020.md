@@ -1636,3 +1636,11 @@ You still own value safety, lifecycle, invariants, and business-level atomicity.
 
 10. Java SE 25 — `ConcurrentModificationException`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/ConcurrentModificationException.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-019.md](./learn-java-collections-and-streams-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-021.md](./learn-java-collections-and-streams-part-021.md)
+
+</div>

@@ -1605,3 +1605,11 @@ Jika semua sudah masuk akal, kita siap lanjut ke observability yang lebih sistem
 - PostgreSQL Documentation — Indexes: https://www.postgresql.org/docs/current/indexes.html
 - Oracle Database SQL Tuning Guide — Explaining and Displaying Execution Plans: https://docs.oracle.com/en/database/oracle/oracle-database/26/tgsql/generating-and-displaying-execution-plans.html
 - Oracle Database SQL Tuning Guide — Optimizer Statistics Concepts: https://docs.oracle.com/en/database/oracle/oracle-database/18/tgsql/optimizer-statistics-concepts.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 20 — Concurrency and Consistency: Locking, Versioning, Lost Update](./20-concurrency-consistency-locking-versioning-lost-update.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Observability: SQL Logging, Parameter Visibility, Correlation ID, Metrics](./22-observability-sql-logging-parameter-visibility-correlation-metrics.md)
+
+</div>

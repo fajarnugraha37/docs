@@ -2077,3 +2077,11 @@ Bagian 044 — Long-Running Operations and Async API Design
 ```
 
 Kita akan membahas desain API untuk operasi panjang: 202 Accepted, operation resource, polling, callback/webhook, SSE progress, cancellation, retry, idempotency, timeout, result resources, failure recovery, and production job orchestration.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-042.md](./learn-jaxrs-advanced-part-042.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-044.md](./learn-jaxrs-advanced-part-044.md)
+
+</div>

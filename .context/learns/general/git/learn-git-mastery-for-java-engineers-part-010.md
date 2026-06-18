@@ -1948,3 +1948,11 @@ Bagian terakhir yang direncanakan: learn-git-mastery-for-java-engineers-part-032
 Bagian berikutnya: learn-git-mastery-for-java-engineers-part-011.md
 Topik berikutnya: Conflict Resolution: Dari Mekanik ke Strategi
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-009.md](./learn-git-mastery-for-java-engineers-part-009.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-011.md](./learn-git-mastery-for-java-engineers-part-011.md)
+
+</div>

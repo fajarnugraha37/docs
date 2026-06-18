@@ -2587,3 +2587,11 @@ Berikutnya:
 ```text
 Part 003 — Entity Identity: Object Identity, Database Identity, Business Identity
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 001 — Evolution Map: JDBC, JPA, Hibernate, Spring Data, Jakarta Data, Jakarta Transactions](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 003 — Entity Identity: Object Identity, Database Identity, Business Identity](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-003.md)
+
+</div>

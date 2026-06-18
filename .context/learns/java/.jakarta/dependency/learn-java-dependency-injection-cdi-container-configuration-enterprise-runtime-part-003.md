@@ -2357,3 +2357,11 @@ That part will explain what the container actually does during bootstrap, scanni
 ```
 
 Seri belum selesai. Ini adalah Part 003 dari total rencana 035 part.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Runtime / Container Model: Who Owns Your Object?](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-004.md)
+
+</div>

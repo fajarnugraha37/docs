@@ -1965,3 +1965,10 @@ Rujukan utama yang menjadi anchor seri:
 5. Kubernetes Documentation — Container Lifecycle Hooks, `PreStop`, `TERM`, dan `terminationGracePeriodSeconds`.  
    https://kubernetes.io/docs/concepts/containers/container-lifecycle-hooks/
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dsa-part-030 — Capstone: Designing a Production-Grade Rule, Workflow, and Case Indexing Engine](../dsa/learn-java-dsa-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-001.md](./learn-java-reliability-part-001.md)
+
+</div>

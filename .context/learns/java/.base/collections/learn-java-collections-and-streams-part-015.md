@@ -1752,3 +1752,11 @@ It is the result of good key design, good hash distribution, reasonable capacity
 
 10. Java SE 25 — Collections Framework Overview  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/doc-files/coll-overview.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-014.md](./learn-java-collections-and-streams-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-016.md](./learn-java-collections-and-streams-part-016.md)
+
+</div>

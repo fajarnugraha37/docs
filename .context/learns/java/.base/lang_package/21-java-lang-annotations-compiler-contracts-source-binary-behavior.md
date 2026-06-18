@@ -2013,3 +2013,10 @@ LambdaMetafactory / method handles
 
 Jadi setelah memahami `@FunctionalInterface` sebagai source-level contract, kita akan melihat bagaimana lambda sebenarnya direalisasikan di runtime dan kenapa lambda bukan sekadar anonymous inner class modern.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 20 — `Math`, `StrictMath`, Floating Point, Exact Arithmetic, and Determinism](./20-math-strictmath-floating-point-exact-arithmetic-determinism.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 22 — `FunctionalInterface`, Lambda Runtime Support, `invokedynamic`, and `java.lang.invoke` Boundary](./22-functionalinterface-lambda-runtime-support-invokedynamic-boundary.md)
+
+</div>

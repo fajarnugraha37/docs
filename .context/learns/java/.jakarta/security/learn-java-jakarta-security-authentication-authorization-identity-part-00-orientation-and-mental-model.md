@@ -2701,3 +2701,11 @@ Part berikutnya:
 ```text
 Part 01 — Identity, Principal, Subject, Caller, Group, Role, Permission
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 032 — Capstone: Designing a Production-Grade Persistence Layer for a Complex Case Management System](../persistence/learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 01 — Identity, Principal, Subject, Caller, Group, Role, Permission](./learn-java-jakarta-security-authentication-authorization-identity-part-01-identity-principal-subject-role-permission.md)
+
+</div>

@@ -2669,3 +2669,11 @@ If the system can answer those questions consistently, BPMN/Camunda is being use
 - OMG BPMN 2.0 specification and BPMN 2.0.2 overview.
 - Camunda 8 documentation on user tasks, call activities, subprocesses, events, and readable process model best practices.
 - Camunda documentation on BPMN symbols and process modeling guidance.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-26-process-versioning-deployment-strategy-change-management.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-28-workflow-engine-vs-state-machine-rules-engine-temporal.md)
+
+</div>

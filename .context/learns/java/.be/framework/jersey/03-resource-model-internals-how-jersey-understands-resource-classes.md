@@ -2699,3 +2699,11 @@ Seri belum selesai. Bagian berikutnya adalah:
 ```text
 Part 4 — Request Matching Deep Dive: URI Matching, Method Selection, Media Negotiation
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 1 — Jersey Mental Model: Spec, Implementation, Runtime, and Engineering Boundary](./01-jersey-mental-model-spec-implementation-runtime-engineering-boundary.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 4 — Request Matching Deep Dive: URI Matching, Method Selection, Media Negotiation](./04-request-matching-deep-dive-uri-method-media-negotiation.md)
+
+</div>

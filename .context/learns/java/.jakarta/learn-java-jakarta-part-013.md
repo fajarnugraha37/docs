@@ -2384,3 +2384,11 @@ Prinsip paling penting:
 Engineer top-tier tidak hanya menulis `findByStatusAndCreatedAtBetween`. Ia tahu query apa yang dihasilkan, index apa yang dibutuhkan, transaction boundary di mana, apakah method portable, dan apakah repository tersebut merepresentasikan data access atau domain contract.
 
 Bagian berikutnya akan membahas **Jakarta Transactions (`jakarta.transaction`)**, yaitu fondasi yang menentukan consistency boundary, rollback, propagation, timeout, XA, dan kapan memilih outbox/saga daripada distributed transaction.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-012.md](./learn-java-jakarta-part-012.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-014.md](./learn-java-jakarta-part-014.md)
+
+</div>

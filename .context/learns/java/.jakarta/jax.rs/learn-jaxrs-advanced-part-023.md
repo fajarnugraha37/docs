@@ -2293,3 +2293,11 @@ Bagian 024 — Asynchronous JAX-RS Server: AsyncResponse, Timeouts, Cancellation
 ```
 
 Kita akan membahas server-side async secara mendalam: `@Suspended AsyncResponse`, timeout, cancellation, executor model, backpressure, request lifecycle, error handling, and production-safe async APIs.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-022.md](./learn-jaxrs-advanced-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-024.md](./learn-jaxrs-advanced-part-024.md)
+
+</div>

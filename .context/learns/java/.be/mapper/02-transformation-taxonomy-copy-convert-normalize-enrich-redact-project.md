@@ -3196,3 +3196,11 @@ Status seri setelah bagian ini:
 Part 2 dari 35 selesai.
 Seri belum selesai.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability](./01-java-object-model-for-mapping-beans-records-pojos-immutability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — DTO Design: API DTO, Domain DTO, Persistence DTO, Event DTO](./03-dto-design-api-domain-persistence-event-dto.md)
+
+</div>

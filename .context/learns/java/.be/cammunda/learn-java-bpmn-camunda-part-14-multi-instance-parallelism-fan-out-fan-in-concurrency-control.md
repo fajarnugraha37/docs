@@ -1856,3 +1856,11 @@ Part ini menjadi fondasi untuk memahami **process composition**, **saga**, dan *
 - Camunda 8 Documentation — Java Client Job Worker: https://docs.camunda.io/docs/apis-tools/java-client/job-worker/
 - Camunda 8 Documentation — Workflow patterns: https://docs.camunda.io/docs/components/concepts/workflow-patterns/
 - Camunda 8 Documentation — Gateways overview: https://docs.camunda.io/docs/components/modeler/bpmn/gateways/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-13-timers-sla-timeout-expiry-scheduled-process-behavior.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md)
+
+</div>

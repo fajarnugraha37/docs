@@ -3140,3 +3140,11 @@ Apakah sistem kita benar, stabil, terukur, rollbackable, dan siap menghadapi per
 ```
 
 Migrasi berhasil bukan saat `mvn test` hijau. Migrasi berhasil saat aplikasi berjalan di production dengan behavior yang dipahami, risiko yang dikendalikan, observability yang memadai, dan tidak ada workaround gelap yang akan meledak di upgrade berikutnya.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-part-022.md](./learn-java-part-022.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-024.md](./learn-java-part-024.md)
+
+</div>

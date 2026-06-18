@@ -2530,3 +2530,11 @@ Seri belum selesai. Berikutnya:
 ```text
 Part 008 — Testing Error Handling, Exception Semantics, Retry, Timeout, dan Idempotency
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-006](./learn-java-testing-benchmarking-performance-jvm-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-008](./learn-java-testing-benchmarking-performance-jvm-part-008.md)
+
+</div>

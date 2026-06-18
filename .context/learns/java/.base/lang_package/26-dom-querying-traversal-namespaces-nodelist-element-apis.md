@@ -1847,3 +1847,11 @@ File berikutnya:
 ```text
 27-dom-level-3-typeinfo-userdata-errorhandler-load-save-boundary.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 25 — DOM Creation, Mutation, Import, Adopt, Clone, Normalize](./25-dom-creation-mutation-import-adopt-clone-normalize.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — DOM Level 3: TypeInfo, UserData, ErrorHandler, Load/Save Boundary](./27-dom-level-3-typeinfo-userdata-errorhandler-load-save-boundary.md)
+
+</div>

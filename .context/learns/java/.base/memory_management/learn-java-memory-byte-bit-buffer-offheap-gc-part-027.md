@@ -2390,3 +2390,11 @@ Topik berikutnya:
 ```text
 Memory Tuning in Containers and Kubernetes
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-026.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-028](./learn-java-memory-byte-bit-buffer-offheap-gc-part-028.md)
+
+</div>

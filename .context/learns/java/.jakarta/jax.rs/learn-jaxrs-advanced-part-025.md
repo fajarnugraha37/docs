@@ -2480,3 +2480,11 @@ Bagian 026 — Streaming Responses: StreamingOutput, Chunking, Large Download
 ```
 
 Kita akan membahas streaming response untuk large download dan generated content: `StreamingOutput`, chunking, content length, range requests, file streaming, backpressure, error after commit, compression, checksums, and production-safe download APIs.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-024.md](./learn-jaxrs-advanced-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-026.md](./learn-jaxrs-advanced-part-026.md)
+
+</div>

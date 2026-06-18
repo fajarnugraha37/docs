@@ -2137,3 +2137,10 @@ Dengan struktur Part 0 sampai Part 33, maka seri ini sudah mencapai bagian terak
 
 Seri ini selesai.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 32 — Case Studies: Realistic Production Scenarios](./32-case-studies-production-scenarios.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 00 — MyBatis Orientation: SQL-First Persistence Mental Model](../mybatis/00-mybatis-orientation-sql-first-persistence-mental-model.md)
+
+</div>

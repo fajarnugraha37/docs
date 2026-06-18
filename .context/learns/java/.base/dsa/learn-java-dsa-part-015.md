@@ -1978,3 +1978,11 @@ Berikutnya:
 ```text
 Part 016 — String Algorithms II: Trie, Prefix Index, Suffix Thinking
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dsa-part-014.md](./learn-java-dsa-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-016.md](./learn-java-dsa-part-016.md)
+
+</div>

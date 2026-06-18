@@ -2822,3 +2822,11 @@ Bagian berikutnya:
 ```text
 17-faces-lifecycle-deep-dive-phase-by-phase-failure-modeling.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 15 — Facelets and XHTML View Authoring: Templates, Composition, and Components](./15-facelets-xhtml-view-authoring-templates-composition-components.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Faces Lifecycle Deep Dive: Phase-by-Phase Execution and Failure Modeling](./17-faces-lifecycle-deep-dive-phase-by-phase-failure-modeling.md)
+
+</div>

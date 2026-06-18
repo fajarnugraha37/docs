@@ -1875,3 +1875,11 @@ Bagian berikutnya:
 ```text
 26-hibernate-vs-eclipselink-behavioral-differences-that-matter.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 24 — Hibernate ORM Deep Dive: Architecture, Session, Event System, Interceptors, and Extensions](./24-hibernate-orm-architecture-session-events-interceptors-extensions.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 26 — Hibernate vs EclipseLink: Behavioral Differences That Matter](./26-hibernate-vs-eclipselink-behavioral-differences-that-matter.md)
+
+</div>

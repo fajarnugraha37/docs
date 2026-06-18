@@ -2169,3 +2169,11 @@ Bagian berikutnya:
 ```text
 25-eclipselink-sessions-descriptors-weaving-cache-advanced-mappings.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 23 — Provider Enhancement and Weaving: Bytecode, Proxies, Lazy Fields, and Build Pipelines](./23-provider-enhancement-weaving-bytecode-proxies-build-pipelines.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 25 — EclipseLink Deep Dive: Sessions, Descriptors, Weaving, Cache, and Advanced Mappings](./25-eclipselink-sessions-descriptors-weaving-cache-advanced-mappings.md)
+
+</div>

@@ -2069,3 +2069,11 @@ Use Map when lookup by key is the model. Design the key like production depends 
 
 10. Java SE 25 — `WeakHashMap`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/WeakHashMap.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-003.md](./learn-java-collections-and-streams-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-005.md](./learn-java-collections-and-streams-part-005.md)
+
+</div>

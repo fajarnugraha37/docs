@@ -2192,3 +2192,11 @@ Top-tier Java engineer melihat `Integer` bukan hanya “object version of int”
 
 14. Java SE 25 API — `DoubleStream`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/DoubleStream.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-007.md](./learn-java-data-types-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-009.md](./learn-java-data-types-part-009.md)
+
+</div>

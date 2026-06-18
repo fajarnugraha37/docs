@@ -2776,3 +2776,10 @@ Part 025: configuration values and runtime contracts
 - Open Liberty documentation — server resource configuration and classloader/resource behavior: https://openliberty.io/docs/
 - WildFly documentation — datasource, naming, and module-based deployment behavior: https://docs.wildfly.org/
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 023 — Jakarta Common Annotations and Resource Injection](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 025 — Configuration Fundamentals: Values, Secrets, Environments, and Runtime Contracts](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-025.md)
+
+</div>

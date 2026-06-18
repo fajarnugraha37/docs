@@ -2523,3 +2523,11 @@ Apa yang terjadi saat service lambat, dependency gagal, pod mati, rollout terjad
 ```
 
 Di situlah Java cloud-native engineering yang sebenarnya dimulai.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-part-018 — Enterprise Java dan Backend Engineering](./learn-java-part-018.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-020.md](./learn-java-part-020.md)
+
+</div>

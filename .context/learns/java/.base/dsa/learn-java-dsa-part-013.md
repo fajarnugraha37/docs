@@ -2884,3 +2884,10 @@ Referensi yang relevan untuk bagian ini:
 4. Java `Map` API, sebagai dasar associative representation untuk adjacency list.
 5. Literatur algoritma klasik untuk BFS/DFS, adjacency list, adjacency matrix, connected component, dan traversal graph.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dsa-part-012 — Heap, PriorityQueue, Top-K, Scheduling](./learn-java-dsa-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-014.md](./learn-java-dsa-part-014.md)
+
+</div>

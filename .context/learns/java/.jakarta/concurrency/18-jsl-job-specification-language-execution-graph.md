@@ -2767,3 +2767,11 @@ Fokus berikutnya:
 - batchlet untuk file movement, report generation, external maintenance, dan system task,
 - kapan batchlet tepat,
 - kapan batchlet berubah menjadi anti-pattern karena menyembunyikan loop besar dan restartability manual.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 17 — Jakarta Batch Mental Model: Jobs, Steps, Executions, and State](./17-jakarta-batch-mental-model-jobs-steps-executions-state.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Batchlet Model: Task-Oriented Batch Work](./19-batchlet-model-task-oriented-batch-work.md)
+
+</div>

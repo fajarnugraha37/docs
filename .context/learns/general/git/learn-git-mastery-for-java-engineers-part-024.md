@@ -2249,3 +2249,11 @@ Topik:
 ```text
 Monorepo, Polyrepo, dan Repository Architecture
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-023.md](./learn-git-mastery-for-java-engineers-part-023.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-025.md](./learn-git-mastery-for-java-engineers-part-025.md)
+
+</div>

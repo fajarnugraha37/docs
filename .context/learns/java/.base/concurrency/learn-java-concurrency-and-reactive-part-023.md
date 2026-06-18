@@ -1646,3 +1646,11 @@ and common-pool impact is acceptable.
 
 10. Java SE 25 — `IntStream`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/stream/IntStream.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-022.md](./learn-java-concurrency-and-reactive-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-024.md](./learn-java-concurrency-and-reactive-part-024.md)
+
+</div>

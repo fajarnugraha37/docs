@@ -1798,3 +1798,11 @@ Selesai: **Part 21 dari 35**.
 Belum selesai. Lanjut ke:
 
 **Part 22 — Deployment Verification: Smoke Test, Health Gate, Synthetic Check, Contract Check**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-20-configuration-secret-certificate-truststore-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-22-deployment-verification-check.md)
+
+</div>

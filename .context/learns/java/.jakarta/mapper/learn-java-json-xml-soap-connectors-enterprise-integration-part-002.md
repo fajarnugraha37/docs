@@ -2610,3 +2610,11 @@ provider/runtime model, immutable tree, dan kapan object model lebih tepat darip
 
 Status seri: **belum selesai**.  
 Part ini adalah **Part 2 dari 34**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 1](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-003](./learn-java-json-xml-soap-connectors-enterprise-integration-part-003.md)
+
+</div>

@@ -1319,3 +1319,11 @@ and how its size is monitored.
 
 10. Java Flight Recorder Runtime Guide  
     https://docs.oracle.com/javacomponents/jmc-5-5/jfr-runtime-guide/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-053.md](./learn-java-collections-and-streams-part-053.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-055.md](./learn-java-collections-and-streams-part-055.md)
+
+</div>

@@ -2350,3 +2350,11 @@ Dalam sistem besar, clarity lebih penting daripada menghindari class tambahan. J
 - Hibernate Validator API Documentation.
 - Jakarta Validation API: `Default`, `GroupSequence`, `ConvertGroup`, `ConstraintViolation`.
 - Spring Framework validation integration documentation.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-006](./learn-java-validation-jakarta-hibernate-validator-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-008](./learn-java-validation-jakarta-hibernate-validator-part-008.md)
+
+</div>

@@ -1416,3 +1416,11 @@ it decides execution, result shape, ordering cost, side effects, memory allocati
 
 10. dev.java — Reductions  
     https://dev.java/learn/api/streams/reducing/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-026.md](./learn-java-collections-and-streams-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-028.md](./learn-java-collections-and-streams-part-028.md)
+
+</div>

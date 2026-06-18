@@ -2201,3 +2201,10 @@ Seri belum selesai.
 
 Lanjut ke Part 5.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 3 — Gradle Core Mental Model: Task Graph, Configuration Phase, Execution Phase, Provider API](./03-gradle-core-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Project Layout Engineering: Single Module, Multi-Module, Composite Build, Parent, BOM, Platform](./05-project-layout-engineering.md)
+
+</div>

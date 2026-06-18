@@ -2380,3 +2380,11 @@ Part 8 of 35 selesai.
 Seri belum selesai.
 Part berikutnya: Part 9 — HTTP/2 Deep Dive: Streams, Frames, Multiplexing, HPACK, Flow Control, and Prioritization
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 7 — HTTP as a Protocol: Semantics Before Frameworks](./007-http-as-a-protocol-semantics-before-frameworks.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 9 — HTTP/2 Deep Dive: Streams, Frames, Multiplexing, HPACK, Flow Control, and Prioritization](./009-http2-deep-dive-streams-frames-multiplexing-hpack-flow-control-prioritization.md)
+
+</div>

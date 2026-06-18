@@ -2737,3 +2737,11 @@ Selesai:
 ```
 
 Belum selesai. Masih lanjut ke Part 007.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 005 — Classloaders, Modules, and Deployment Isolation](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — JSR-330 / Jakarta Inject: Minimal DI Vocabulary](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-007.md)
+
+</div>

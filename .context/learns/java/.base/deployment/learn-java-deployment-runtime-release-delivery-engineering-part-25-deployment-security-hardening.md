@@ -2519,3 +2519,11 @@ That is the deployment posture expected from a top-tier Java engineer.
 - Oracle Java Tools Documentation — `java` command and `-XX:+DisableAttachMechanism`: https://docs.oracle.com/en/java/javase/11/tools/java.html
 - IBM Java Documentation — Java Attach API security notes: https://www.ibm.com/docs/en/sdk-java-technology/8?topic=documentation-java-attach-api
 - OpenJDK issue JDK-8177154 — Dynamic agent loading direction: https://bugs.openjdk.org/browse/JDK-8177154
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-24-supply-chain-security-for-java-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-26-multi-environment-deployment.md)
+
+</div>

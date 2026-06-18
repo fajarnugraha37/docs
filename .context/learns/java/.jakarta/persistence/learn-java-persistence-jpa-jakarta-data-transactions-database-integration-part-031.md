@@ -2229,3 +2229,11 @@ Bagian berikutnya adalah bagian terakhir:
 ```text
 Part 032 — Capstone: Designing a Production-Grade Persistence Layer for a Complex Case Management System
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 030 — Testing Persistence Correctly](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 032 — Capstone: Designing a Production-Grade Persistence Layer for a Complex Case Management System](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-032.md)
+
+</div>

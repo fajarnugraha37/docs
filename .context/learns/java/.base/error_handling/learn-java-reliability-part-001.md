@@ -2177,3 +2177,11 @@ Di part berikutnya kita akan masuk ke detail Java:
 Part 001 / 030 completed.
 Seri belum selesai.
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-reliability-part-000.md](./learn-java-reliability-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-002.md](./learn-java-reliability-part-002.md)
+
+</div>

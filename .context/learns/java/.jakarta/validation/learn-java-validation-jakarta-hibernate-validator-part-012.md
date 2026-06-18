@@ -1067,3 +1067,11 @@ Judul berikutnya:
 ```text
 Message Interpolation: i18n, EL, Security, and Error Message Governance
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-011](./learn-java-validation-jakarta-hibernate-validator-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-013](./learn-java-validation-jakarta-hibernate-validator-part-013.md)
+
+</div>

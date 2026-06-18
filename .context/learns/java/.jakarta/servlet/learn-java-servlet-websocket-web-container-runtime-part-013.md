@@ -1693,3 +1693,11 @@ Pemahaman cookie/header tetap relevan di async karena response commit, redirect,
 - HTTPWG RFC6265bis draft: https://httpwg.org/http-extensions/draft-ietf-httpbis-rfc6265bis.html
 - MDN `Set-Cookie`: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Headers/Set-Cookie
 - MDN HTTP Cookies Guide: https://developer.mozilla.org/en-US/docs/Web/HTTP/Guides/Cookies
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-012](./learn-java-servlet-websocket-web-container-runtime-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-014](./learn-java-servlet-websocket-web-container-runtime-part-014.md)
+
+</div>

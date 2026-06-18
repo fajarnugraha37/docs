@@ -2586,3 +2586,11 @@ Create an investigation plan:
 - Netty API, `FileRegion`. https://netty.io/4.0/api/io/netty/channel/FileRegion.html
 - gRPC Java GitHub README. https://github.com/grpc/grpc-java
 - gRPC Java Javadocs, `io.grpc.netty`. https://grpc.github.io/grpc-java/javadoc/io/grpc/netty/package-summary.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 24 — gRPC Streaming and Backpressure: Designing High-Volume Bidirectional Systems](./024-grpc-streaming-and-backpressure-designing-high-volume-bidirectional-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 26 — Reactive, Async, Virtual Threads, and Blocking I/O: Choosing the Right Concurrency Model](./026-reactive-async-virtual-threads-blocking-io-choosing-right-concurrency-model.md)
+
+</div>

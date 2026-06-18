@@ -3052,3 +3052,11 @@ Bagian 010 — Response Entity Writing: Response, GenericEntity, StreamingOutput
 ```
 
 Kita akan membahas sisi sebaliknya: bagaimana Java return value menjadi HTTP response entity, bagaimana `MessageBodyWriter` dipilih, kapan return DTO vs `Response`, bagaimana streaming response, headers/cookies/link, and production response contract design.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-008.md](./learn-jaxrs-advanced-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-010.md](./learn-jaxrs-advanced-part-010.md)
+
+</div>

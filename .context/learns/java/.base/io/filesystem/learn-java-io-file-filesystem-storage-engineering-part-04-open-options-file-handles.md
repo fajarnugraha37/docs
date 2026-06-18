@@ -1922,3 +1922,11 @@ Kita akan membahas:
 - Oracle Java SE 8 — `java.nio.file.StandardOpenOption`
 - Oracle Java SE 25 — `java.nio.file.Files`
 - Oracle Java SE 25 — `java.nio.channels.FileChannel`
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 03](./learn-java-io-file-filesystem-storage-engineering-part-03-file-creation-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 05](./learn-java-io-file-filesystem-storage-engineering-part-05-reading-files-correctly.md)
+
+</div>

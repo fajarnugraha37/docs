@@ -2692,3 +2692,11 @@ Untuk project baru tanpa requirement SOAP, REST/JSON, messaging, atau gRPC biasa
 Engineer top-tier tidak hanya bisa generate client dari WSDL. Ia tahu WSDL-first vs code-first, document/literal wrapped, JAXB binding, handler chain, SOAP faults, MTOM, WS-Security, timeout/retry/idempotency, namespace mismatch, Javax→Jakarta migration, dan bagaimana menjaga SOAP integration tetap aman, observable, dan maintainable.
 
 Bagian berikutnya akan membahas **Jakarta SOAP with Attachments (`jakarta.xml.soap`) / SAAJ**: SOAP message object model, envelope/header/body/fault manipulation, attachments, MTOM boundary, low-level SOAP processing, security risks, and when to use SAAJ directly versus JAX-WS.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-031.md](./learn-java-jakarta-part-031.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-033.md](./learn-java-jakarta-part-033.md)
+
+</div>

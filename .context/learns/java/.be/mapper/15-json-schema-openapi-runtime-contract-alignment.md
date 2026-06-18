@@ -2547,3 +2547,11 @@ Berikutnya:
 **Part 16 — XML Mapping in Modern Java: JAXB/Jakarta XML Binding and Jackson XML**
 
 Bagian berikutnya akan masuk ke XML mapping modern di Java: JAXB/Jakarta XML Binding, Jackson XML, element vs attribute, namespace, wrapper element, ordering, XML date/time, dan migrasi `javax.xml.bind` ke `jakarta.xml.bind`.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 14 — Jackson Performance: Allocation, Streaming, Large Payloads, Hot Paths](./14-jackson-performance-allocation-streaming-large-payloads-hot-paths.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — XML Mapping in Modern Java: JAXB/Jakarta XML Binding and Jackson XML](./16-xml-mapping-modern-java-jaxb-jakarta-xml-binding-jackson-xml.md)
+
+</div>

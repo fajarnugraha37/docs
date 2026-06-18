@@ -1823,3 +1823,11 @@ Topik berikutnya:
 ```text
 Arrays, Strings, Compact Strings, Charsets, and Memory Footprint
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-007](./learn-java-memory-byte-bit-buffer-offheap-gc-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-009](./learn-java-memory-byte-bit-buffer-offheap-gc-part-009.md)
+
+</div>

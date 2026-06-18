@@ -2920,3 +2920,10 @@ The next topic moves from entity inheritance to value modeling:
 - serialization consistency,
 - domain invariants inside values.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 11 — Cascades, Orphan Removal, Lifecycle Propagation, and Aggregate Boundaries](./11-cascades-orphan-removal-lifecycle-aggregate-boundaries.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — Embeddables, Value Objects, Attribute Converters, and Type Systems](./13-embeddables-value-objects-converters-type-systems.md)
+
+</div>

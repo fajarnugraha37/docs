@@ -2008,3 +2008,11 @@ Part ini menjadi fondasi untuk part berikutnya, yaitu **Temporary File, Atomic F
 - Oracle Java Documentation — `java.nio.file.SimpleFileVisitor`
 - Oracle Java Documentation — `java.nio.file.StandardCopyOption`
 - Oracle Java Tutorials — Walking the File Tree
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 012 — File Attributes, Permissions, Ownership, Metadata, dan Cross-Platform Semantics](./learn-java-io-nio-networking-data-transfer-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 014 — Temporary File, Atomic File Write, File Replacement, dan Crash-Safe Persistence](./learn-java-io-nio-networking-data-transfer-part-014.md)
+
+</div>

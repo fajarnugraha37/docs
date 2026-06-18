@@ -2784,3 +2784,11 @@ Engineer top-tier bisa melakukan dua hal sekaligus:
 2. memigrasi fitur EJB ke model modern tanpa mengubah semantics secara tidak sengaja.
 
 Bagian berikutnya akan membahas **Jakarta Connectors (`jakarta.resource`)**: resource adapter, connection management, transaction enlistment, message inflow, inbound/outbound integration, XA, and how application servers integrate with external enterprise information systems.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-022.md](./learn-java-jakarta-part-022.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-024.md](./learn-java-jakarta-part-024.md)
+
+</div>

@@ -2606,3 +2606,11 @@ Seri belum selesai. Bagian berikutnya adalah:
 ```text
 Part 8 — Jackson Serialization: Shape Control, Inclusion, Naming, Formatting
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 6 — Jackson Mental Model: Streaming, Tree Model, Data Binding](./06-jackson-mental-model-streaming-tree-model-data-binding.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Jackson Serialization: Shape Control, Inclusion, Naming, Formatting](./08-jackson-serialization-shape-control-inclusion-naming-formatting.md)
+
+</div>

@@ -1809,3 +1809,11 @@ Senior Java engineer tidak hanya bisa membuat type yang baik, tetapi juga cepat 
 
 10. Java Language Specification SE 25  
     https://docs.oracle.com/javase/specs/jls/se25/html/index.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-030.md](./learn-java-data-types-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-032.md](./learn-java-data-types-part-032.md)
+
+</div>

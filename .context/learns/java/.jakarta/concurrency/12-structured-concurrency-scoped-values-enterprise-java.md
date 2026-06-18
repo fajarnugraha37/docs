@@ -1958,3 +1958,11 @@ Part berikutnya:
 Part 13 — Concurrency Control: Capacity, Backpressure, Bulkheads, and Fairness
 File: 13-concurrency-control-capacity-backpressure-bulkheads.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 11 — Virtual Threads, Jakarta EE, and Managed Concurrency](./11-virtual-threads-and-jakarta-ee-managed-concurrency.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Concurrency Control: Capacity, Backpressure, Bulkheads, and Fairness](./13-concurrency-control-capacity-backpressure-bulkheads.md)
+
+</div>

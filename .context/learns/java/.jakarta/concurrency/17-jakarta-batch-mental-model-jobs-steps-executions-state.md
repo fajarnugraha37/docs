@@ -2628,3 +2628,10 @@ Progress saat ini:
 - **Part 17 selesai**
 - Part 18 berikutnya
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 16 — Production Failure Modes in Jakarta Concurrency](./16-production-failure-modes-jakarta-concurrency.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — JSL Deep Dive: Job XML as Execution Graph](./18-jsl-job-specification-language-execution-graph.md)
+
+</div>

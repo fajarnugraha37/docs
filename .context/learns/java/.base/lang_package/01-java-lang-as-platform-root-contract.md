@@ -2245,3 +2245,11 @@ Part yang sudah dibuat:
 Part berikutnya:
 
 - Part 2 — `Object`: Identity, Equality, Hashing, Monitor, Lifecycle
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 0 — Orientation: Why `java.lang`, DOM, and SAX Still Matter in Modern Java](./00-orientation-java-lang-dom-sax-core-runtime-platform-contracts.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — `Object`: Identity, Equality, Hashing, Monitor, Lifecycle](./02-object-identity-equality-hashing-monitor-lifecycle.md)
+
+</div>

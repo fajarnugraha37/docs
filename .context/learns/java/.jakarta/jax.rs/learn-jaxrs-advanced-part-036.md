@@ -2146,3 +2146,11 @@ Bagian 037 — Implementation Deep Dive: Jersey, RESTEasy, Apache CXF, Open Libe
 ```
 
 Kita akan membahas perbedaan implementasi JAX-RS/Jakarta REST: provider discovery, CDI integration, client connector, multipart, SSE, async, config, testing tools, performance knobs, and migration/runtime selection.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-035.md](./learn-jaxrs-advanced-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-037.md](./learn-jaxrs-advanced-part-037.md)
+
+</div>

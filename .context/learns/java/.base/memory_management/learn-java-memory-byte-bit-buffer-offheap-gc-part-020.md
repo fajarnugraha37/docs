@@ -2103,3 +2103,11 @@ Topik berikutnya:
 ```text
 G1 GC Deep Dive: Regions, SATB, Remembered Sets, Mixed Collections
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-019](./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-021](./learn-java-memory-byte-bit-buffer-offheap-gc-part-021.md)
+
+</div>

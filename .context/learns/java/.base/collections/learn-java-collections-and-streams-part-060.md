@@ -1703,3 +1703,11 @@ concurrency, lifecycle, security visibility, and observability.
 
 10. OpenJDK jcstress  
     https://openjdk.org/projects/code-tools/jcstress/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-059.md](./learn-java-collections-and-streams-part-059.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-061.md](./learn-java-collections-and-streams-part-061.md)
+
+</div>

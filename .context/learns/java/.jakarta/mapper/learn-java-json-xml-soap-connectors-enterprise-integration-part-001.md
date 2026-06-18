@@ -2145,3 +2145,11 @@ Pastikan tidak ada annotation transport di domain model.
 - Status: **selesai**.
 - Seri: **belum selesai**.
 - Berikutnya: **Part 2 — Java JSON Ecosystem Map: JSON-P, JSON-B, Jackson, Gson, Yasson, Parsson, Jakarta REST Integration, Spring/Jakarta Coexistence**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-000](./learn-java-json-xml-soap-connectors-enterprise-integration-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-002](./learn-java-json-xml-soap-connectors-enterprise-integration-part-002.md)
+
+</div>

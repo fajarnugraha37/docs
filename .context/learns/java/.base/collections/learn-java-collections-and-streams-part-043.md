@@ -1500,3 +1500,11 @@ Ask “what does this null mean, and what should the pipeline do with that meani
 
 10. NullAway paper — Practical Type-Based Null Safety for Java  
     https://arxiv.org/abs/1907.02127
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-042.md](./learn-java-collections-and-streams-part-042.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-044.md](./learn-java-collections-and-streams-part-044.md)
+
+</div>

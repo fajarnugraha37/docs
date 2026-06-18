@@ -2630,3 +2630,11 @@ Kita sudah menyelesaikan:
 Berikutnya:
 
 - Part 10 — Flyway Baseline, Repair, Validate, Clean
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 8 — Flyway Java-Based Migrations](./08-flyway-java-based-migrations.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 10 — Flyway Baseline, Repair, Validate, and Clean](./10-flyway-baseline-repair-validate-clean.md)
+
+</div>

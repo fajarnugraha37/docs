@@ -3040,3 +3040,11 @@ Dengan mental model ini, bagian berikutnya dapat masuk lebih dalam ke `ObjectMap
 - Jackson `ObjectMapper` Javadoc: fungsi read/write POJO dan tree model.
 - Jackson 3 release/migration notes: Jackson 3 adalah major version dengan perubahan API dan arah konfigurasi modern.
 - Spring Framework/Jackson 3 notes: ekosistem modern mulai mengadopsi format-specific mapper seperti `JsonMapper`.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 5 — Mapping Architecture: Mapper Placement, Ownership, and Dependency Direction](./05-mapping-architecture-placement-ownership-dependency-direction.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — ObjectMapper Engineering: Configuration, Lifecycle, Thread Safety, Modules](./07-objectmapper-engineering-configuration-lifecycle-thread-safety-modules.md)
+
+</div>

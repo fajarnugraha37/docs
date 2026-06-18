@@ -2899,3 +2899,11 @@ Part yang sudah dibuat:
 Part berikutnya:
 
 **Part 010 — Class-Level and Cross-Field Validation: Consistency inside One Object**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-008](./learn-java-validation-jakarta-hibernate-validator-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-010](./learn-java-validation-jakarta-hibernate-validator-part-010.md)
+
+</div>

@@ -2717,3 +2717,11 @@ Di sana kita akan membahas:
 - OpenJDK JEP 261, Module System.
 - OpenJDK JEP 395, Records.
 - OpenJDK JEP 409, Sealed Classes.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-017](./learn-java-oop-functional-reflection-codegen-modules-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-019](./learn-java-oop-functional-reflection-codegen-modules-part-019.md)
+
+</div>

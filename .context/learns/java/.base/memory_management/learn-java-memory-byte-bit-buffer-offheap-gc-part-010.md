@@ -2705,3 +2705,11 @@ Topik berikutnya:
 ```text
 ByteBuffer Deep Dive: Heap Buffer, Direct Buffer, Slice, Duplicate, View
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-009](./learn-java-memory-byte-bit-buffer-offheap-gc-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md)
+
+</div>

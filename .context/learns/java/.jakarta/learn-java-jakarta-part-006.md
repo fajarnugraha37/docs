@@ -2602,3 +2602,11 @@ Engineer top-tier menggunakan DI bukan untuk membuat code terlihat modern, tetap
 - tidak bocor ke domain model.
 
 Bagian berikutnya akan masuk ke **CDI (`jakarta.enterprise.*`)** sebagai DI container/model yang jauh lebih kaya: bean discovery, scopes, qualifiers, producers, disposers, interceptors, decorators, events, CDI Lite vs Full, dan extension model.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-005.md](./learn-java-jakarta-part-005.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-007.md](./learn-java-jakarta-part-007.md)
+
+</div>

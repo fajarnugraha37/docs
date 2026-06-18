@@ -3100,3 +3100,11 @@ Part 32 — target akhir / capstone
 Seri **belum selesai**. Bagian berikutnya:
 
 > **Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape**
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 17 — Multipart, File Upload, Download, and Large Payload Engineering](./17-multipart-file-upload-download-large-payload-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape](./19-validation-strategy-bean-validation-request-contract-group-error-shape.md)
+
+</div>

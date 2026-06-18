@@ -2347,3 +2347,11 @@ Part 32 of 35 selesai.
 Seri belum selesai.
 Part berikutnya: Part 33 — Production Failure Catalogue: Diagnosing Real Incidents
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 31 — Security Beyond TLS: SSRF, Request Smuggling, Deserialization, Header Injection, DoS, and Data Leakage](./031-security-beyond-tls-ssrf-request-smuggling-deserialization-header-injection-dos-data-leakage.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 33 — Production Failure Catalogue: Diagnosing Real Incidents](./033-production-failure-catalogue-diagnosing-real-incidents.md)
+
+</div>

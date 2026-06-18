@@ -1699,3 +1699,11 @@ File berikutnya:
 ```text
 14-runtime-process-processbuilder-processhandle-os-boundary.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 12 — `Exception`, `RuntimeException`, `Error`: Failure Taxonomy for Serious Systems](./12-exception-runtimeexception-error-failure-taxonomy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — `Runtime`, `Process`, `ProcessBuilder`, `ProcessHandle`: OS Boundary](./14-runtime-process-processbuilder-processhandle-os-boundary.md)
+
+</div>

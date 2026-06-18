@@ -2528,3 +2528,11 @@ Bagian berikutnya:
 ```text
 Part 027 — Migration Playbook: Javax to Jakarta, Spring Boot 2→3, HV 6→9
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-025](./learn-java-validation-jakarta-hibernate-validator-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-027](./learn-java-validation-jakarta-hibernate-validator-part-027.md)
+
+</div>

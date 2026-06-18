@@ -1827,3 +1827,11 @@ Di Part 20 kita akan membahas bagaimana mendesain file binary yang bisa diakses 
 - Oracle Java SE 25 API — `FileChannel` and `FileChannel.map`: https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/nio/channels/FileChannel.html
 - Oracle Java SE 25 API — `FileChannel.MapMode`: https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/nio/channels/FileChannel.MapMode.html
 - OpenJDK issue JDK-4724038 — discussion around explicit unmap need: https://bugs.openjdk.org/browse/JDK-4724038
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 18 — File Locking: Advisory, Mandatory, Local, Network, and Cross-Process Coordination](./learn-java-io-file-filesystem-storage-engineering-part-18-file-locking.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering](./learn-java-io-file-filesystem-storage-engineering-part-20-random-access-structured-binary-file-layout.md)
+
+</div>

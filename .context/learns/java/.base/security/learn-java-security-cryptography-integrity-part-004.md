@@ -1714,3 +1714,11 @@ Progress saat ini:
 - [ ] Part 32 — Incident Response for Java Security Failures
 - [ ] Part 33 — Secure Design Patterns and Anti-Patterns for Java Enterprise Systems
 - [ ] Part 34 — Capstone: Designing a Secure Java Regulatory Case Management Platform
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-003](./learn-java-security-cryptography-integrity-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-005](./learn-java-security-cryptography-integrity-part-005.md)
+
+</div>

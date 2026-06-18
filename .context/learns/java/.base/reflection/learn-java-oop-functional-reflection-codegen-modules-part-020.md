@@ -2101,3 +2101,11 @@ Di part berikutnya kita akan masuk ke **Annotation Design**: bagaimana mendesain
 - OpenJDK JEP 193 — Variable Handles
 - Java Language Specification Java SE 25
 - Java Virtual Machine Specification Java SE 25
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-019](./learn-java-oop-functional-reflection-codegen-modules-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-021.md](./learn-java-oop-functional-reflection-codegen-modules-part-021.md)
+
+</div>

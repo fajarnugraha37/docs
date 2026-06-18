@@ -2242,3 +2242,10 @@ Topik berikutnya akan masuk ke bagian yang lebih rendah level:
 - anti-pattern fragments,
 - kapan fragment berguna dan kapan berbahaya.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 21 — Enterprise Integration in OSGi: CDI, Blueprint, Spring, Aries, CXF, and Legacy Stacks](./21-enterprise-integration-osgi-cdi-blueprint-spring-aries-cxf-legacy-stacks.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Fragments, Extension Bundles, Native Code, and Low-Level Runtime Tricks](./23-fragments-extension-bundles-native-code-low-level-runtime-tricks.md)
+
+</div>

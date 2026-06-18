@@ -2275,3 +2275,10 @@ Suggested experiments:
 4. Enable SQL logging/statistics and compare query count.
 5. Convert listing endpoint from entity mapping to DTO projection and compare persistence context size.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 14 — Fetching Mental Model: Lazy, Eager, Proxies, Enhancement, and Load Plans](./14-fetching-mental-model-lazy-eager-proxies-enhancement-load-plans.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — JPQL, HQL, Criteria, Native Query, and Query Plan Discipline](./16-jpql-hql-criteria-native-query-query-plan-discipline.md)
+
+</div>

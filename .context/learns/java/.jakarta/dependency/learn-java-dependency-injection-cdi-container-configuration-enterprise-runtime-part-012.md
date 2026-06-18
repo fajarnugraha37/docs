@@ -2809,3 +2809,11 @@ Belum selesai. Bagian berikutnya:
 ```text
 Part 013 — Producers and Disposers: Programmatic Object Supply
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 011 — CDI Proxies, Normal Scopes, and Method Dispatch](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Producers and Disposers: Programmatic Object Supply](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-013.md)
+
+</div>

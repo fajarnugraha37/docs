@@ -2420,3 +2420,11 @@ domain audit trail
 ```
 
 Jika kamu bisa membaca semua sinyal itu dan menghubungkannya dengan domain serta arsitektur, kamu tidak hanya “bisa Java”. Kamu bisa mengoperasikan sistem Java nyata.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-part-024.md](./learn-java-part-024.md) | [🏠 Daftar Isi](../index.md)
+
+</div>

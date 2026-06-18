@@ -2277,3 +2277,11 @@ Bagian 029 — Advanced Client API: Filters, Interceptors, Features, Async, SSE 
 ```
 
 Kita akan membahas client-side extension dan advanced invocation: `ClientRequestFilter`, `ClientResponseFilter`, `ReaderInterceptor`, `WriterInterceptor`, `Feature`, async invoker, reactive invoker, SSE client, resilience hooks, and production instrumentation.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-027.md](./learn-jaxrs-advanced-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-029.md](./learn-jaxrs-advanced-part-029.md)
+
+</div>

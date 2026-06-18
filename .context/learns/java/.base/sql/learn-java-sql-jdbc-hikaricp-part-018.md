@@ -2400,3 +2400,10 @@ Fokus berikutnya:
 10. kenapa HikariCP sengaja punya sedikit knob;
 11. implikasi desain HikariCP untuk production tuning.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-017](./learn-java-sql-jdbc-hikaricp-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-019](./learn-java-sql-jdbc-hikaricp-part-019.md)
+
+</div>

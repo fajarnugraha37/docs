@@ -2055,3 +2055,10 @@ Bagian berikutnya:
 
 Mulai Part 31, kita bergeser dari SOAP/XML web service ke **Jakarta Connectors / Java Connector Architecture**, yaitu model standar enterprise untuk menghubungkan application server/Jakarta EE runtime dengan Enterprise Information Systems seperti ERP, mainframe, message system, custom protocol, dan resource adapter.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 29](./learn-java-json-xml-soap-connectors-enterprise-integration-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-031](./learn-java-json-xml-soap-connectors-enterprise-integration-part-031.md)
+
+</div>

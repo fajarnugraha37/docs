@@ -2164,3 +2164,10 @@ Seri belum selesai.
 - Berikutnya: **Part 25 — JAX-WS Client Side**.
 - Target akhir: Part 34.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 23](./learn-java-json-xml-soap-connectors-enterprise-integration-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-025](./learn-java-json-xml-soap-connectors-enterprise-integration-part-025.md)
+
+</div>

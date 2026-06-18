@@ -2216,3 +2216,11 @@ Dari jawaban itu, type yang tepat akan terlihat.
 
 10. Java SE 25 API — `ConcurrentHashMap`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/ConcurrentHashMap.html
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-016.md](./learn-java-data-types-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-018.md](./learn-java-data-types-part-018.md)
+
+</div>

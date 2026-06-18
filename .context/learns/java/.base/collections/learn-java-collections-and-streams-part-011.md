@@ -1848,3 +1848,11 @@ Choose them by contract.
 
 10. Java SE 25 — `Collections.synchronizedList`  
     https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/Collections.html#synchronizedList(java.util.List)
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-010.md](./learn-java-collections-and-streams-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-012.md](./learn-java-collections-and-streams-part-012.md)
+
+</div>

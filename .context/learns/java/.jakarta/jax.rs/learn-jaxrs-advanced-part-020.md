@@ -3108,3 +3108,11 @@ Bagian 021 — PATCH, JSON Patch, JSON Merge Patch, and Partial Update Semantics
 ```
 
 Kita akan membahas partial update secara mendalam: PUT vs PATCH, JSON Merge Patch, JSON Patch, null vs missing, validation, optimistic locking, idempotency, field authorization, audit, and domain state semantics.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-019.md](./learn-jaxrs-advanced-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-021.md](./learn-jaxrs-advanced-part-021.md)
+
+</div>

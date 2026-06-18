@@ -2949,3 +2949,11 @@ Bagian 014 — Validation Integration: Jakarta Validation at REST Boundary
 ```
 
 Kita akan membahas integrasi Jakarta Validation secara mendalam: parameter validation, entity validation, `@Valid`, cross-field constraints, validation groups, method validation, error mapping, and designing validation as boundary contract.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-012.md](./learn-jaxrs-advanced-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-014.md](./learn-jaxrs-advanced-part-014.md)
+
+</div>

@@ -1872,3 +1872,10 @@ dan bagaimana kita mengurangi cost tanpa mengubah semantics?
 - LWN — Buffered I/O, direct I/O, and page cache discussions
 - Oracle Java Tutorials — File I/O, directory walking, NIO.2 concepts
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary](./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads](./learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads.md)
+
+</div>

@@ -2209,3 +2209,11 @@ Bagian 035 — Testing JAX-RS Server
 ```
 
 Kita akan membahas testing server-side JAX-RS secara mendalam: unit test resource/service boundary, integration test runtime pipeline, filters/providers/mappers, JSON contract, validation, security, async, streaming, multipart, and contract tests.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-033.md](./learn-jaxrs-advanced-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-035.md](./learn-jaxrs-advanced-part-035.md)
+
+</div>

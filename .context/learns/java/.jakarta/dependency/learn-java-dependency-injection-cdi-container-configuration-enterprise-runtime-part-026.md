@@ -2543,3 +2543,11 @@ Series status:
 ```
 
 The series is **not finished yet**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 025 — Configuration Fundamentals: Values, Secrets, Environments, and Runtime Contracts](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — Profiles: Environment-Specific Behavior Without Code Forking](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-027.md)
+
+</div>

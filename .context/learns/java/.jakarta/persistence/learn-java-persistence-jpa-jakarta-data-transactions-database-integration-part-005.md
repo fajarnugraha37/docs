@@ -2622,3 +2622,11 @@ Part berikutnya:
 ```text
 Part 006 — Relationship Mapping: One-to-One, Many-to-One, One-to-Many, Many-to-Many
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 004 — Entity Lifecycle and Persistence Context Internals](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 006 — Relationship Mapping: One-to-One, Many-to-One, One-to-Many, Many-to-Many](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-006.md)
+
+</div>

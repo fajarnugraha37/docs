@@ -2842,3 +2842,11 @@ Fokus berikutnya adalah Jakarta Standard Tag Library/JSTL core tags sebagai cara
 Kita akan membahas `c:out`, `c:set`, `c:if`, `c:choose`, `c:forEach`, `c:url`, `c:redirect`, `c:import`, `c:param`, escaping, URL rewriting, session id risk, nested loop, dan boundary antara view logic dengan business logic.
 
 Status seri: **belum selesai**.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 5 — Expression Language Fundamentals: Value Expressions, Method Expressions, Resolver Chain](./05-expression-language-fundamentals-value-method-resolver-chain.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Jakarta Standard Tag Library Core Tags: View Control Abstraction](./07-jakarta-standard-tag-library-core-tags-view-control-abstraction.md)
+
+</div>

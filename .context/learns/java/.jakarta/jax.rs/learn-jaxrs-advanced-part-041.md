@@ -2071,3 +2071,11 @@ Bagian 042 — Production Security Hardening for JAX-RS APIs
 ```
 
 Kita akan membahas hardening production API: authentication, authorization, JWT/OIDC, token validation, CORS/CSRF, input limits, headers, rate limit, request smuggling, SSRF, deserialization safety, file upload security, audit, and security testing.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-040.md](./learn-jaxrs-advanced-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-042.md](./learn-jaxrs-advanced-part-042.md)
+
+</div>

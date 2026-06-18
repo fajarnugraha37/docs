@@ -2263,3 +2263,11 @@ Itu akan menjadi kelanjutan natural dari seri DSA ini.
 - Java `HashMap`, `TreeMap`, `NavigableMap`, `PriorityQueue`, `EnumMap`, `EnumSet`, `BitSet` API documentation.
 - OpenJDK JMH project documentation.
 - OpenJDK JOL project documentation.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-dsa-part-029.md](./learn-java-dsa-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-000.md](../error_handling/learn-java-reliability-part-000.md)
+
+</div>

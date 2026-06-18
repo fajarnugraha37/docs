@@ -1577,3 +1577,11 @@ Seri **selesai**.
 [x] Part 33 — Real-World Case Study
 [x] Part 34 — Top 1% Build Engineer Playbook
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 33 — Real-World Case Study: Designing Build System for Enterprise Java Platform](./33-real-world-case-study-enterprise-java-platform-build-system.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-000.md](../collections/learn-java-collections-and-streams-part-000.md)
+
+</div>

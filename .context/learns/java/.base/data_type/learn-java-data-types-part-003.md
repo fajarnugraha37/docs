@@ -1914,3 +1914,11 @@ The key is matching numeric representation to domain semantics.
 
 10. IEEE 754 Floating-Point Arithmetic Standard  
     https://ieeexplore.ieee.org/document/8766229
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-data-types-part-002.md](./learn-java-data-types-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-004.md](./learn-java-data-types-part-004.md)
+
+</div>

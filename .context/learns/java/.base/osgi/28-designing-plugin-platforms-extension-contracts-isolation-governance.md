@@ -3895,3 +3895,11 @@ Part berikutnya:
 ```text
 Part 29 — Architecture Patterns: Modular Monolith, Dynamic Kernel, Product Lines, and Runtime Composition
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 27 — Provisioning and Deployment: Repositories, Features, p2, Karaf, Containers, and Rollback](./27-provisioning-deployment-repositories-features-p2-karaf-containers-rollback.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Architecture Patterns: Modular Monolith, Dynamic Kernel, Product Lines, and Runtime Composition](./29-architecture-patterns-modular-monolith-dynamic-kernel-product-lines-runtime-composition.md)
+
+</div>

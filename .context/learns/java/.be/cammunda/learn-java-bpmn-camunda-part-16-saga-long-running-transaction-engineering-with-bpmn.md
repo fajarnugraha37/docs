@@ -2183,3 +2183,10 @@ Berikutnya:
 
 - Part 17 — Camunda 7 Deep Dive: Embedded Engine, Job Executor, Transactions, and Spring Boot
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering  ](./learn-java-bpmn-camunda-part-17-camunda-7-embedded-engine-job-executor-transactions-spring-boot.md)
+
+</div>

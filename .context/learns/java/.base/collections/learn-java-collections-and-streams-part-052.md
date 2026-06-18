@@ -1375,3 +1375,11 @@ authorized, defensively copied, and returned through least-privilege views.
 
 10. OWASP API Security Top 10  
     https://owasp.org/API-Security/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-050.md](./learn-java-collections-and-streams-part-050.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-053.md](./learn-java-collections-and-streams-part-053.md)
+
+</div>

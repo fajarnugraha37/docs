@@ -3307,3 +3307,11 @@ Bagian 008 — Context Injection: @Context, UriInfo, HttpHeaders, Request, Secur
 ```
 
 Kita akan membedah request/runtime context injection, conditional requests, headers negotiation, security principal, provider lookup, subresource instantiation, and how to use context without leaking HTTP details deep into the domain.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-006.md](./learn-jaxrs-advanced-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-008.md](./learn-jaxrs-advanced-part-008.md)
+
+</div>

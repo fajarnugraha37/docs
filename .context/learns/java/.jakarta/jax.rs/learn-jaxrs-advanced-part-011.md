@@ -2749,3 +2749,11 @@ Bagian 012 — JSON in JAX-RS: JSON-B, JSON-P, Jackson, Provider Selection, DTO 
 ```
 
 Kita akan membahas JSON secara sangat mendalam: JSON-B vs JSON-P vs Jackson, provider registration, records, null policy, unknown fields, date/time, enum wire values, polymorphism, security, schema, and production JSON contract design.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-010.md](./learn-jaxrs-advanced-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-012.md](./learn-jaxrs-advanced-part-012.md)
+
+</div>

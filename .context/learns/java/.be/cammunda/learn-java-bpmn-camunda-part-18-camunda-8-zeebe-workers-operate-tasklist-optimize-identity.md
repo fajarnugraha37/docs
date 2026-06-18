@@ -1809,3 +1809,10 @@ Itulah perbedaan antara “menggunakan Camunda” dan “mendesain process orche
 - Camunda 8 Docs — Connectors.
 - Camunda 8 Release Notes 8.8 and 8.9.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering  ](./learn-java-bpmn-camunda-part-17-camunda-7-embedded-engine-job-executor-transactions-spring-boot.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-19-spring-boot-camunda-8-process-application-architecture.md)
+
+</div>

@@ -1743,3 +1743,10 @@ Tentukan bagian mana yang cocok untuk Jakarta Batch dan bagian mana yang cocok u
 - Jakarta Batch API — `Decider`, `JobOperator`, `StepExecution`, batch runtime concepts.
 - Jakarta EE 11 Platform — baseline modern Jakarta EE yang memuat Batch 2.1.
 
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 24 — Partitioning: Parallel Batch at Scale](./24-partitioning-parallel-batch-at-scale.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — JobOperator, Job Repository, and Runtime Control Plane](./26-joboperator-job-repository-runtime-control-plane.md)
+
+</div>

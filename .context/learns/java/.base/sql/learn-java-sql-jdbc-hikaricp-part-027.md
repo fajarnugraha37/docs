@@ -2485,3 +2485,11 @@ Referensi utama yang relevan untuk bagian ini:
 5. JUnit User Guide — test lifecycle, tagging, dan platform model.
 6. HikariCP README — production-ready JDBC connection pool, configuration, metrics, leak detection, dan pool behavior.
 7. PostgreSQL, MySQL, Oracle, SQL Server documentation untuk SQLState/vendor-specific lock timeout, isolation, dan temporal behavior.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-026.md](./learn-java-sql-jdbc-hikaricp-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java SQL, JDBC, and HikariCP — Part 028](./learn-java-sql-jdbc-hikaricp-part-028.md)
+
+</div>

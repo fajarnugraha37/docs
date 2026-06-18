@@ -1636,3 +1636,11 @@ Part berikutnya:
 ```text
 21-java-lang-annotations-compiler-contracts-source-binary-behavior.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 19 — Global State, Properties, Environment, Locale Boundary, and Design](./19-global-state-properties-environment-locale-boundary-design.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Annotations in `java.lang`: Compiler Contracts, Source/Binary Behavior, and API Evolution](./21-java-lang-annotations-compiler-contracts-source-binary-behavior.md)
+
+</div>

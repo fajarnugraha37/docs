@@ -1756,3 +1756,11 @@ Architecture is decision-making.
 Production excellence is disciplined feedback from tests, telemetry, incidents, and consumers.
 
 That is the real mastery of JAX-RS.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-053.md](./learn-jaxrs-advanced-part-053.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-055.md](./learn-jaxrs-advanced-part-055.md)
+
+</div>

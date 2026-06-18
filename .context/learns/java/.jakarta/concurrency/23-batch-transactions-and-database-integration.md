@@ -2040,3 +2040,11 @@ Pertanyaan:
 - Jakarta Transactions 2.0 Specification — transaction manager, application server, resource manager, transactional application contracts.
 - Jakarta EE 11 Platform — baseline modern Jakarta EE platform for Batch 2.1 and related enterprise APIs.
 - Vendor/runtime documentation should always be checked for transaction timeout, cursor holdability, job repository configuration, and datasource transaction behavior.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: Part 22 — Skip, Retry, Rollback, and Exception Classification](./22-skip-retry-rollback-exception-classification.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Partitioning: Parallel Batch at Scale](./24-partitioning-parallel-batch-at-scale.md)
+
+</div>

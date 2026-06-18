@@ -1932,3 +1932,11 @@ Seri belum selesai.
 Part berikutnya: Part 011 — DataSource over DriverManager: Modern Connection Acquisition
 File berikutnya: learn-java-sql-jdbc-hikaricp-part-011.md
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-009](./learn-java-sql-jdbc-hikaricp-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-011](./learn-java-sql-jdbc-hikaricp-part-011.md)
+
+</div>

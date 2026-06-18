@@ -3808,3 +3808,11 @@ Engineer top-tier tidak hanya bisa membuat endpoint. Ia bisa merancang API yang:
 - bisa dipakai client selama bertahun-tahun.
 
 Bagian berikutnya akan membahas **JSON Processing (`jakarta.json` / JSON-P)**: object model, streaming API, JSON Pointer, JSON Patch, memory trade-off, dan kapan memilih JSON-P dibanding JSON-B/Jackson.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-jakarta-part-008.md](./learn-java-jakarta-part-008.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-010.md](./learn-java-jakarta-part-010.md)
+
+</div>

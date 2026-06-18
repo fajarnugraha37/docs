@@ -3359,3 +3359,11 @@ Berikutnya:
 ```text
 Part 29 - Secure Build, CI/CD, and Release Integrity for Java
 ```
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-027](./learn-java-security-cryptography-integrity-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-029](./learn-java-security-cryptography-integrity-part-029.md)
+
+</div>

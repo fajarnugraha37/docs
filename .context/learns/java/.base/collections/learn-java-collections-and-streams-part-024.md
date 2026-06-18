@@ -1494,3 +1494,11 @@ Use it to express data transformation, not to hide complex mutable control flow.
 
 10. dev.java — The Stream API  
     https://dev.java/learn/api/streams/
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-java-collections-and-streams-part-023.md](./learn-java-collections-and-streams-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-025.md](./learn-java-collections-and-streams-part-025.md)
+
+</div>

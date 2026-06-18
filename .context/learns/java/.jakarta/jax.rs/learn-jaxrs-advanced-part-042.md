@@ -2111,3 +2111,11 @@ Bagian 043 — REST API Design for Enterprise Domains
 ```
 
 Kita akan membahas desain REST API untuk domain enterprise: aggregate/resource modeling, command vs resource endpoints, workflows, state machines, domain errors, idempotency, tenant/security boundaries, event/outbox integration, and long-term evolvability.
+
+<!-- NAVIGATION_FOOTER -->
+---
+<div align="center">
+
+[⬅️ Sebelumnya: learn-jaxrs-advanced-part-041.md](./learn-jaxrs-advanced-part-041.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-043.md](./learn-jaxrs-advanced-part-043.md)
+
+</div>
