@@ -1918,4 +1918,4 @@ That is the end-state of this series.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 31 — Architecture Patterns: Jersey as API Boundary in Enterprise Systems](./31-architecture-patterns-jersey-as-api-boundary-enterprise-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Orientation: Data Transformation as Software Boundary](../../mapper/00-orientation-data-transformation-as-software-boundary.md)
+[⬅️ Sebelumnya: Part 31 — Architecture Patterns: Jersey as API Boundary in Enterprise Systems](./31-architecture-patterns-jersey-as-api-boundary-enterprise-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: HTTP Client sebagai Production Subsystem, Bukan Utility](../../http_client/00-orientation-http-client-as-production-subsystem.md)

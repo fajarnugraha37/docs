@@ -1762,4 +1762,4 @@ Seri **belum selesai**. Ini adalah **Part 0 dari 35**.
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 32 — Capstone: Building a Production-Grade Jersey Platform Module](../framework/jersey/32-capstone-building-production-grade-jersey-platform-module.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability](./01-java-object-model-for-mapping-beans-records-pojos-immutability.md)
+[⬅️ Sebelumnya: Part 34 — Final Synthesis: Decision Framework, Checklist, and Top 1% Engineering Heuristics](../http_client/34-final-synthesis-decision-framework-checklist-top-engineering-heuristics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability](./01-java-object-model-for-mapping-beans-records-pojos-immutability.md)
