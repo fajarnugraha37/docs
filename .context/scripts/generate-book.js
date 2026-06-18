@@ -208,10 +208,10 @@ nav:
   - Home: index.md
 ${mkdocsNav.map(group => {
     const key = Object.keys(group)[0];
-    let navStr = `  - ${key}:\n`;
+    let navStr = `  - ${JSON.stringify(key)}:\n`;
     group[key].forEach(item => {
         const itemKey = Object.keys(item)[0];
-        navStr += `      - ${itemKey}: ${item[itemKey]}\n`;
+        navStr += `      - ${JSON.stringify(itemKey)}: ${JSON.stringify(item[itemKey])}\n`;
     });
     return navStr;
 }).join('')}
