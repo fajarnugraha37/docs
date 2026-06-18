@@ -20,7 +20,6 @@ Repositori ini menyimpan catatan engineering, standar, dan materi belajar yang d
 
 Versi web dipublikasikan di [note.nugrahafajar.my.id](https://note.nugrahafajar.my.id/).
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>
