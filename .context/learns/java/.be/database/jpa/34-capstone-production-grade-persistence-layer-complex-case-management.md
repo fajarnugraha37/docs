@@ -2434,8 +2434,5 @@ The series is now complete.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 33 — Production Failure Playbook: Symptoms, Root Causes, and Fix Patterns](./33-production-failure-playbook-symptoms-root-causes-fix-patterns.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientation: Database Change as Engineering Discipline](../migration/00-orientation-database-change-engineering.md)
-
-</div>

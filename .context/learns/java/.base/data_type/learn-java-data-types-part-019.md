@@ -2456,8 +2456,5 @@ Jawaban dari pertanyaan itu adalah desain data type.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-018.md](./learn-java-data-types-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-020.md](./learn-java-data-types-part-020.md)
-
-</div>

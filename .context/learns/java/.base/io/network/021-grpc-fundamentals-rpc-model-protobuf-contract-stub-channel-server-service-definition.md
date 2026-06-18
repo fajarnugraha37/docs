@@ -2364,8 +2364,5 @@ Part 22 will go below the API into the transport machinery: HTTP/2 streams, Nett
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 20 — WebSocket Revisited as a Network Protocol](./020-websocket-revisited-as-a-network-protocol.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — gRPC Transport Internals: HTTP/2, Netty, Flow Control, Keepalive, Deadlines, and Metadata](./022-grpc-transport-internals-http2-netty-flow-control-keepalive-deadlines-metadata.md)
-
-</div>

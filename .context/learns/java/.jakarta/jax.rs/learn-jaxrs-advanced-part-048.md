@@ -1606,8 +1606,5 @@ Kita akan membahas integrasi Jakarta REST dengan MicroProfile: config-driven app
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-047.md](./learn-jaxrs-advanced-part-047.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-049.md](./learn-jaxrs-advanced-part-049.md)
-
-</div>

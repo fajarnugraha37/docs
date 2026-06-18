@@ -2759,8 +2759,5 @@ Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-05-camunda-8-runtime-internals-zeebe-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-07-job-worker-reliability-idempotency-retry-backoff-poison-jobs.md)
-
-</div>

@@ -2392,8 +2392,5 @@ Part 32 terakhir: Capstone — Building a Production-Grade Jersey Platform Modul
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 29 — Migration Engineering: Jersey 2 to 3 to 4, `javax` to `jakarta`, Java 8 to 25](./29-migration-engineering-jersey-2-to-3-to-4-javax-to-jakarta-java-8-to-25.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Architecture Patterns: Jersey as API Boundary in Enterprise Systems](./31-architecture-patterns-jersey-as-api-boundary-enterprise-systems.md)
-
-</div>

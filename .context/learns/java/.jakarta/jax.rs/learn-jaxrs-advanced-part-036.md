@@ -2149,8 +2149,5 @@ Kita akan membahas perbedaan implementasi JAX-RS/Jakarta REST: provider discover
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-035.md](./learn-jaxrs-advanced-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-037.md](./learn-jaxrs-advanced-part-037.md)
-
-</div>

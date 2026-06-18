@@ -2473,8 +2473,5 @@ Dengan kata lain, setelah input valid, kita akan membahas bagaimana aplikasi mem
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 18 — Faces Components: Input, Output, Command, Data, Message, and Metadata](./18-faces-components-input-output-command-data-message-metadata.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Navigation, Actions, Events, and Application Flow in Faces](./20-navigation-actions-events-application-flow-in-faces.md)
-
-</div>

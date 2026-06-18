@@ -1890,8 +1890,5 @@ Referensi konseptual dan teknis yang relevan:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-017](./learn-java-security-cryptography-integrity-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-019](./learn-java-security-cryptography-integrity-part-019.md)
-
-</div>

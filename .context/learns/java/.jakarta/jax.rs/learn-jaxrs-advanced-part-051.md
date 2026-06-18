@@ -1665,8 +1665,5 @@ Kita akan membangun desain API production-grade dari nol: package structure, res
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-050.md](./learn-jaxrs-advanced-part-050.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-052.md](./learn-jaxrs-advanced-part-052.md)
-
-</div>

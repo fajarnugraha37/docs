@@ -2301,8 +2301,5 @@ Part berikutnya akan menyatukan semua materi `java.lang`, DOM, dan SAX menjadi d
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 30 — Secure XML Parsing with DOM/SAX: XXE, Billion Laughs, Expansion Limits, Hardening](./30-secure-xml-parsing-dom-sax-xxe-expansion-hardening.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Capstone: Build a Production-Grade Runtime/XML Utility Layer](./32-capstone-production-grade-runtime-xml-utility-layer.md)
-
-</div>

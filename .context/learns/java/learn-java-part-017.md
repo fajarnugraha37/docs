@@ -3839,8 +3839,5 @@ Buat counter non-thread-safe dan counter atomic. Bandingkan behavior dengan stre
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Part 016 — Modules, Packaging, dan Runtime Images](./learn-java-part-016.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-018 — Enterprise Java dan Backend Engineering](./learn-java-part-018.md)
-
-</div>

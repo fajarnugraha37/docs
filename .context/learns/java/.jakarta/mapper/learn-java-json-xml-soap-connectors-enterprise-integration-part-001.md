@@ -2148,8 +2148,5 @@ Pastikan tidak ada annotation transport di domain model.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-000](./learn-java-json-xml-soap-connectors-enterprise-integration-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-002](./learn-java-json-xml-soap-connectors-enterprise-integration-part-002.md)
-
-</div>

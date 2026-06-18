@@ -1997,8 +1997,5 @@ That is the difference between using Maven/Gradle and engineering a build platfo
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 32 — Monorepo, Polyrepo, and Enterprise Build Topologies](./32-monorepo-polyrepo-enterprise-build-topologies.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — Top 1% Build Engineer Playbook](./34-top-1-percent-build-engineer-playbook.md)
-
-</div>

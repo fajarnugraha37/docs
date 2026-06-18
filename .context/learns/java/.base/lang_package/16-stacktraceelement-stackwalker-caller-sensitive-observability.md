@@ -1669,8 +1669,5 @@ Di sana kita akan masuk ke salah satu sumber bug Java paling sulit: class identi
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 15 — `Thread`, `ThreadGroup`, `ThreadLocal`, `InheritableThreadLocal`: Only the `java.lang` Angle](./15-thread-threadlocal-inheritablethreadlocal-java-lang-angle.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — `ClassLoader`, `Package`, `Module`, `Layer`: Runtime Boundaries and Encapsulation](./17-classloader-package-module-layer-runtime-boundaries.md)
-
-</div>

@@ -2104,8 +2104,5 @@ Seri belum selesai. Ini baru Part 05 dari 35.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 04 — Servlet Security Foundation Revisited for Authentication/Authorization](./learn-java-jakarta-security-authentication-authorization-identity-part-04-servlet-security-foundation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 06 — Jakarta Security API Core](./learn-java-jakarta-security-authentication-authorization-identity-part-06-jakarta-security-api-core.md)
-
-</div>

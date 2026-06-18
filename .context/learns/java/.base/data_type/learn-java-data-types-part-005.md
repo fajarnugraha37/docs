@@ -2151,8 +2151,5 @@ Itulah level ketelitian yang dibutuhkan untuk production-grade text handling.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-004.md](./learn-java-data-types-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-006.md](./learn-java-data-types-part-006.md)
-
-</div>

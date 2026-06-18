@@ -1987,8 +1987,5 @@ That is the difference between repository happy path testing and ORM correctness
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 30 — Multi-Tenancy, Security, Filters, Row-Level Isolation, and Data Leakage Prevention](./30-multi-tenancy-security-filters-row-level-isolation-data-leakage.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 32 — Migration Engineering: Javax to Jakarta, Hibernate 5 to 6/7, EclipseLink 2 to 4/5](./32-migration-engineering-javax-jakarta-hibernate-eclipselink.md)
-
-</div>

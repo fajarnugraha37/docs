@@ -2793,8 +2793,5 @@ Seri belum selesai. Ini adalah Part 6 dari rencana 32 part.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 5 — Parameter Injection Semantics: Path, Query, Header, Cookie, Matrix, BeanParam](./05-parameter-injection-semantics-path-query-header-cookie-matrix-beanparam.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — JSON in Jersey: Jackson, JSON-B, MOXy, and Production Serialization Strategy](./07-json-in-jersey-jackson-jsonb-moxy-production-serialization-strategy.md)
-
-</div>

@@ -3301,8 +3301,5 @@ Remaining:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-029](./learn-java-security-cryptography-integrity-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-031](./learn-java-security-cryptography-integrity-part-031.md)
-
-</div>

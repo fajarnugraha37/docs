@@ -2213,8 +2213,5 @@ Referensi utama yang relevan untuk bagian ini:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-002](./learn-java-memory-byte-bit-buffer-offheap-gc-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-004](./learn-java-memory-byte-bit-buffer-offheap-gc-part-004.md)
-
-</div>

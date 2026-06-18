@@ -2406,8 +2406,5 @@ Part 030 — Observability and Diagnostics for Servlet/WebSocket Runtime
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-028](./learn-java-servlet-websocket-web-container-runtime-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-030](./learn-java-servlet-websocket-web-container-runtime-part-030.md)
-
-</div>

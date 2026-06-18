@@ -2983,8 +2983,5 @@ Kita akan masuk ke bagaimana identity yang sudah di-authenticate dan role yang s
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 13 — Programmatic Authorization and Domain Permission Design](./learn-java-jakarta-security-authentication-authorization-identity-part-13-programmatic-authorization-domain-permissions.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Jakarta Security Authentication Authorization Identity](./learn-java-jakarta-security-authentication-authorization-identity-part-15-session-security-login-cookies-logout.md)
-
-</div>

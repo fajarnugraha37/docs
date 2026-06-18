@@ -2228,8 +2228,5 @@ Garbage Collection Engineering II: GC Logs, Diagnosis, Tuning, dan Failure Modes
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-021](./learn-java-testing-benchmarking-performance-jvm-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-023](./learn-java-testing-benchmarking-performance-jvm-part-023.md)
-
-</div>

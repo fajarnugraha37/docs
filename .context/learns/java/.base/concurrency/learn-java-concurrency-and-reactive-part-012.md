@@ -1766,8 +1766,5 @@ and value size, do not use it.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-011.md](./learn-java-concurrency-and-reactive-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-013.md](./learn-java-concurrency-and-reactive-part-013.md)
-
-</div>

@@ -2631,8 +2631,5 @@ Part 19 — SAML, Enterprise SSO, and Legacy Federation Integration
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 17 — OpenID Connect in Jakarta Security](./learn-java-jakarta-security-authentication-authorization-identity-part-17-openid-connect-jakarta-security.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — SAML, Enterprise SSO, and Legacy Federation Integration](./learn-java-jakarta-security-authentication-authorization-identity-part-19-saml-enterprise-sso-legacy-federation.md)
-
-</div>

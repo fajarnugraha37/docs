@@ -2036,8 +2036,5 @@ If a build cannot explain where generated code came from, it cannot be trusted.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 23 — Jakarta/Spring/Enterprise Java Build Integration](./23-jakarta-spring-enterprise-java-build-integration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Static Analysis and Quality Gates: Checkstyle, PMD, SpotBugs, Error Prone, ArchUnit](./25-static-analysis-quality-gates.md)
-
-</div>

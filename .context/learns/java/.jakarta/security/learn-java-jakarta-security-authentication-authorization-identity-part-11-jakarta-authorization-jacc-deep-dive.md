@@ -2028,8 +2028,5 @@ There we will focus on how to actually use declarative authorization constructs:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 10 — Jakarta Authentication / JASPIC Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-10-jakarta-authentication-jaspic-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 12 — Declarative Authorization: URL, Method, Class, Role](./learn-java-jakarta-security-authentication-authorization-identity-part-12-declarative-authorization.md)
-
-</div>

@@ -2275,8 +2275,5 @@ Kita akan membahas stored procedure, database function, cursor, OUT/INOUT parame
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 17 — Caching: First-Level Cache, Second-Level Cache, Invalidation](./17-caching-first-level-second-level-cache-invalidation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 19 — Stored Procedure, Function, Cursor, and OUT Parameter](./19-stored-procedure-function-cursor-out-parameter.md)
-
-</div>

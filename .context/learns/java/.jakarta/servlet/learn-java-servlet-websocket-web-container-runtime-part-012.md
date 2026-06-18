@@ -2347,8 +2347,5 @@ Part berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 011](./learn-java-servlet-websocket-web-container-runtime-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-013](./learn-java-servlet-websocket-web-container-runtime-part-013.md)
-
-</div>

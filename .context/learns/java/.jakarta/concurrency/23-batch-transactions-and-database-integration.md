@@ -2043,8 +2043,5 @@ Pertanyaan:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 22 — Skip, Retry, Rollback, and Exception Classification](./22-skip-retry-rollback-exception-classification.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Partitioning: Parallel Batch at Scale](./24-partitioning-parallel-batch-at-scale.md)
-
-</div>

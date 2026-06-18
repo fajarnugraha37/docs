@@ -1455,8 +1455,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-015.md](./learn-java-validation-jakarta-hibernate-validator-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-017](./learn-java-validation-jakarta-hibernate-validator-part-017.md)
-
-</div>

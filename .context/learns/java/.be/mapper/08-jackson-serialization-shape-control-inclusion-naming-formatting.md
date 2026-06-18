@@ -3192,8 +3192,5 @@ Kita akan membahas:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 7 — ObjectMapper Engineering: Configuration, Lifecycle, Thread Safety, Modules](./07-objectmapper-engineering-configuration-lifecycle-thread-safety-modules.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — Jackson Deserialization: Constructor Binding, Defaults, Unknown Fields](./09-jackson-deserialization-constructor-binding-defaults-unknown-fields.md)
-
-</div>

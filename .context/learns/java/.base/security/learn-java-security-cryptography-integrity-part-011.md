@@ -2403,8 +2403,5 @@ Total rencana: **35 part** (`Part 0` sampai `Part 34`).
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-010.md](./learn-java-security-cryptography-integrity-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-012](./learn-java-security-cryptography-integrity-part-012.md)
-
-</div>

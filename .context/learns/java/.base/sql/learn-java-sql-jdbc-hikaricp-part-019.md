@@ -2421,8 +2421,5 @@ Masih lanjut ke Part 020 sampai Part 029.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-018](./learn-java-sql-jdbc-hikaricp-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-020](./learn-java-sql-jdbc-hikaricp-part-020.md)
-
-</div>

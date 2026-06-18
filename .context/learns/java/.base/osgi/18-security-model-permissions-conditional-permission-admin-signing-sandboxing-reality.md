@@ -2390,8 +2390,5 @@ Part berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 17 — Messaging, Events, and Async Runtime: Event Admin, Push Streams, Reactive Bridges](./17-messaging-events-async-runtime-event-admin-push-streams-reactive-bridges.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: 19 — JPMS and OSGi: Java Module System Interop from Java 9 to 25](./19-jpms-osgi-java-module-system-interop-java-9-to-25.md)
-
-</div>

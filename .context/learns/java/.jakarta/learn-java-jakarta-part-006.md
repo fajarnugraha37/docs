@@ -2605,8 +2605,5 @@ Bagian berikutnya akan masuk ke **CDI (`jakarta.enterprise.*`)** sebagai DI cont
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-005.md](./learn-java-jakarta-part-005.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-007.md](./learn-java-jakarta-part-007.md)
-
-</div>

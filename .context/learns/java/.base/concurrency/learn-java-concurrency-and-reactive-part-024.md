@@ -1485,8 +1485,5 @@ context boundaries, and observability.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-023.md](./learn-java-concurrency-and-reactive-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-025.md](./learn-java-concurrency-and-reactive-part-025.md)
-
-</div>

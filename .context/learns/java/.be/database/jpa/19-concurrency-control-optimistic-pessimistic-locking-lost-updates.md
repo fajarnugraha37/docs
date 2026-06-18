@@ -2053,8 +2053,5 @@ Once you answer that, `@Version`, `LockModeType`, transaction isolation, databas
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 18 — Transaction Integration: Resource Local, JTA, Spring, Jakarta EE, and Boundary Design](./18-transaction-integration-resource-local-jta-spring-jakarta-ee-boundary.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — Merge, Detach, DTO Mapping, and API Boundary Safety](./20-merge-detach-dto-mapping-api-boundary-safety.md)
-
-</div>

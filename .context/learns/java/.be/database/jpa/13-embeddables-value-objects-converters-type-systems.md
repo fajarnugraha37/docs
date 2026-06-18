@@ -2901,8 +2901,5 @@ That part will explain how ORM materializes object graphs, why lazy/eager is not
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 12 — Inheritance Mapping: Object Hierarchy vs Relational Shape](./12-inheritance-mapping-object-hierarchy-relational-shape.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 14 — Fetching Mental Model: Lazy, Eager, Proxies, Enhancement, and Load Plans](./14-fetching-mental-model-lazy-eager-proxies-enhancement-load-plans.md)
-
-</div>

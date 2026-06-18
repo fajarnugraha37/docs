@@ -2394,8 +2394,5 @@ Series belum selesai. Target akhir tetap Part 32 — Capstone.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 4 — Request Matching Deep Dive: URI Matching, Method Selection, Media Negotiation](./04-request-matching-deep-dive-uri-method-media-negotiation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 6 — Entity Provider Pipeline: `MessageBodyReader`, `MessageBodyWriter`, and Provider Selection](./06-entity-provider-pipeline-messagebodyreader-messagebodywriter-provider-selection.md)
-
-</div>

@@ -1897,8 +1897,5 @@ Part 019 — Fallback, Degradation, and Recovery Design
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-017.md](./learn-java-reliability-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-019.md](./learn-java-reliability-part-019.md)
-
-</div>

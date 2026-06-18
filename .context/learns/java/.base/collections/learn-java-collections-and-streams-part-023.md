@@ -1434,8 +1434,5 @@ If yes, is that exactly what the algorithm needs?
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-022.md](./learn-java-collections-and-streams-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-024.md](./learn-java-collections-and-streams-part-024.md)
-
-</div>

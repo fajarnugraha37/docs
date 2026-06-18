@@ -1952,8 +1952,5 @@ Masih tersisa Part 026, 027, 028, dan 029.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-024](./learn-java-sql-jdbc-hikaricp-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-026.md](./learn-java-sql-jdbc-hikaricp-part-026.md)
-
-</div>

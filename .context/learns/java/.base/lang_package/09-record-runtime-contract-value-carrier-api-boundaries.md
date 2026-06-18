@@ -2945,8 +2945,5 @@ Topik berikutnya: **Sealed Types Runtime View: `Class`, Permitted Subclasses, an
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 8 — `Enum`: Constant Identity, Type Safety, Switch, Serialization, Design](./08-enum-constant-identity-type-safety-switch-serialization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Sealed Types Runtime View: `Class`, Permitted Subclasses, and Exhaustiveness](./10-sealed-types-runtime-view-permitted-subclasses-exhaustiveness.md)
-
-</div>

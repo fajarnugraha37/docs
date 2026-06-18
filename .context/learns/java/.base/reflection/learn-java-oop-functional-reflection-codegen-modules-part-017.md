@@ -2427,8 +2427,5 @@ Untuk menjadi engineer yang kuat di Java, jangan hanya menulis method yang “ja
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-016](./learn-java-oop-functional-reflection-codegen-modules-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-018](./learn-java-oop-functional-reflection-codegen-modules-part-018.md)
-
-</div>

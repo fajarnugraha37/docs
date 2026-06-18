@@ -3618,8 +3618,5 @@ Di Part 003, kita mulai masuk ke model object Java secara serius, bukan sebatas 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Part 001 — Setup, Toolchain, dan Cara Kerja Build Java Modern hingga Java 25](./learn-java-part-001.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 003 — Object Model: Class, Object, Constructor, Inheritance, Interface, `Object`, dan Equality](./learn-java-part-003.md)
-
-</div>

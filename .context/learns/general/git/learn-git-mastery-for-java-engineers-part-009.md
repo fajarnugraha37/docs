@@ -2158,8 +2158,5 @@ Seri belum mencapai bagian terakhir. Lanjutkan ke Part 010 untuk memahami intera
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-008.md](./learn-git-mastery-for-java-engineers-part-008.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-010.md](./learn-git-mastery-for-java-engineers-part-010.md)
-
-</div>

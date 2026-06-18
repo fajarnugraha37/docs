@@ -1917,8 +1917,5 @@ Primary references used throughout this final synthesis and the wider series:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 34 — End-to-End Case Study: Regulatory Case Management Workload Orchestration](./34-end-to-end-case-study-regulatory-case-management-workload-orchestration.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime — Part 000](../dependency/learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-000.md)
-
-</div>

@@ -2438,8 +2438,5 @@ Part berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 1 — JPA Specification vs Provider Reality](./01-jpa-specification-vs-provider-reality.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 3 — Entity Identity: Java Object Identity, Database Identity, Persistence Context Identity](./03-entity-identity-java-database-persistence-context.md)
-
-</div>

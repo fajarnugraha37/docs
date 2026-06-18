@@ -2888,8 +2888,5 @@ Part 007 berikutnya: Testing Domain Logic, State Machine, Workflow, dan Business
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-005](./learn-java-testing-benchmarking-performance-jvm-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-007](./learn-java-testing-benchmarking-performance-jvm-part-007.md)
-
-</div>

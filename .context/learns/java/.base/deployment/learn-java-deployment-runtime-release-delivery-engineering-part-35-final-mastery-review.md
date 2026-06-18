@@ -2054,8 +2054,5 @@ Note: Numbering in file names starts from Part 00, while the conceptual list inc
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering — Part 34](./learn-java-deployment-runtime-release-delivery-engineering-part-34-capstone-designing-java-deployment-platform.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-000.md](../dsa/learn-java-dsa-part-000.md)
-
-</div>

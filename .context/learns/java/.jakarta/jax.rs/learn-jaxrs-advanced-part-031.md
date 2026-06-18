@@ -2119,8 +2119,5 @@ Kita akan membahas bagaimana REST boundary berinteraksi dengan database transact
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-030.md](./learn-jaxrs-advanced-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-032.md](./learn-jaxrs-advanced-part-032.md)
-
-</div>

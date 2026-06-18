@@ -3221,8 +3221,5 @@ We will examine:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 1 — OSGi Core Architecture: Framework Layers and Runtime Invariants](./01-osgi-core-architecture-framework-layers-runtime-invariants.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: 03 — Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules](./03-class-loading-per-bundle-classloaders-visibility-rules.md)
-
-</div>

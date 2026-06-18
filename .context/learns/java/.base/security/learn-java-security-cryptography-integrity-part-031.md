@@ -2509,8 +2509,5 @@ Part 32 — Incident Response for Java Security Failures
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-030](./learn-java-security-cryptography-integrity-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-032.md](./learn-java-security-cryptography-integrity-part-032.md)
-
-</div>

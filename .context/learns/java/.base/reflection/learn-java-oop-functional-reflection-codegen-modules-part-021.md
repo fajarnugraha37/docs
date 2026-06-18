@@ -2369,8 +2369,5 @@ Annotation Processing: Compile-Time Metaprogramming
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-020](./learn-java-oop-functional-reflection-codegen-modules-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-022](./learn-java-oop-functional-reflection-codegen-modules-part-022.md)
-
-</div>

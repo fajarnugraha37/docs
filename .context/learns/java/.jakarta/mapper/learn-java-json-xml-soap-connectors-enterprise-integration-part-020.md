@@ -3134,8 +3134,5 @@ Seri **belum selesai**. Masih ada part berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 19](./learn-java-json-xml-soap-connectors-enterprise-integration-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 21](./learn-java-json-xml-soap-connectors-enterprise-integration-part-021.md)
-
-</div>

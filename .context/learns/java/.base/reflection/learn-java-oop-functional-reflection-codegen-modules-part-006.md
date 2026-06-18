@@ -2503,8 +2503,5 @@ Part berikutnya akan membahas **Sealed Classes and Controlled Hierarchies**, yai
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-005](./learn-java-oop-functional-reflection-codegen-modules-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-007](./learn-java-oop-functional-reflection-codegen-modules-part-007.md)
-
-</div>

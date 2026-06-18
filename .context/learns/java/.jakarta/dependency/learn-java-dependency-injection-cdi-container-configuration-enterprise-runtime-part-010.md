@@ -1990,8 +1990,5 @@ Part 011 — CDI Proxies, Normal Scopes, and Method Dispatch
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 011 — CDI Proxies, Normal Scopes, and Method Dispatch](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-011.md)
-
-</div>

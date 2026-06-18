@@ -2223,8 +2223,5 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-023.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-021](./learn-java-sql-jdbc-hikaricp-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-023](./learn-java-sql-jdbc-hikaricp-part-023.md)
-
-</div>

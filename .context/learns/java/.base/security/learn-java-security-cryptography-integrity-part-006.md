@@ -1956,8 +1956,5 @@ Di sana kita akan mulai masuk ke encryption sungguhan: AES, mode operasi, paddin
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-005](./learn-java-security-cryptography-integrity-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-007](./learn-java-security-cryptography-integrity-part-007.md)
-
-</div>

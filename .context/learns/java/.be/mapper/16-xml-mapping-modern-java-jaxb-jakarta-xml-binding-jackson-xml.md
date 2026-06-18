@@ -2663,8 +2663,5 @@ Part 17 akan menjawab:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 15 — JSON Schema, OpenAPI, and Runtime Contract Alignment](./15-json-schema-openapi-runtime-contract-alignment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — XML Edge Cases: Namespace, XSD, SOAP-ish Payloads, Canonicalization](./17-xml-edge-cases-namespace-xsd-soapish-payloads-canonicalization.md)
-
-</div>

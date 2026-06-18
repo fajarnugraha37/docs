@@ -2571,8 +2571,5 @@ Jika Part 3 fokus pada **bagaimana class terlihat**, Part 4 fokus pada **bagaima
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 2 — Bundle Anatomy: Manifest, Headers, Metadata, and Build-Time Contracts](./02-bundle-anatomy-manifest-headers-metadata-build-time-contracts.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Dependency Model: Import-Package, Export-Package, Require-Bundle, Capabilities](./04-dependency-model-import-export-require-bundle-capabilities.md)
-
-</div>

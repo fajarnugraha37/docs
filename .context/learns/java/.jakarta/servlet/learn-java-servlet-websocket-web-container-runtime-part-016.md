@@ -2549,8 +2549,5 @@ Part berikutnya akan membahas error handling secara sistematis:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 015](./learn-java-servlet-websocket-web-container-runtime-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-017](./learn-java-servlet-websocket-web-container-runtime-part-017.md)
-
-</div>

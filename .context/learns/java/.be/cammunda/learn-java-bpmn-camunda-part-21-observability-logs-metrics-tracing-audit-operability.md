@@ -1977,8 +1977,5 @@ Lanjut ke:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-20-testing-bpmn-and-camunda-applications.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-22-production-ops-incidents-repair-migration-runbook-engineering.md)
-
-</div>

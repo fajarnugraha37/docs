@@ -2121,8 +2121,5 @@ Kita akan membahas performance secara mendalam: request pipeline cost, JSON seri
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-039.md](./learn-jaxrs-advanced-part-039.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-041.md](./learn-jaxrs-advanced-part-041.md)
-
-</div>

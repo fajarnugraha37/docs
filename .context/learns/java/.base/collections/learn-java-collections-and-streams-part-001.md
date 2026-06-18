@@ -2259,8 +2259,5 @@ Those must be designed, documented, tested, and often wrapped in domain types.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-000.md](./learn-java-collections-and-streams-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-002.md](./learn-java-collections-and-streams-part-002.md)
-
-</div>

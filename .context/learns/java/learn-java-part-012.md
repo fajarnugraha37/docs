@@ -3357,8 +3357,5 @@ Kalau bagian ini sudah masuk, Bagian 13 tentang heap, object layout, allocation,
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-part-011.md](./learn-java-part-011.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 013 — Memory Management dan Garbage Collection](./learn-java-part-013.md)
-
-</div>

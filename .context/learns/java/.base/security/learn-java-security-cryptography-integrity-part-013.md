@@ -3223,8 +3223,5 @@ Status seri: **belum selesai**. Masih ada part 14 sampai part 34.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-012](./learn-java-security-cryptography-integrity-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-014](./learn-java-security-cryptography-integrity-part-014.md)
-
-</div>

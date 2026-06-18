@@ -1925,8 +1925,5 @@ Kita akan membahas:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 03](./learn-java-io-file-filesystem-storage-engineering-part-03-file-creation-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 05](./learn-java-io-file-filesystem-storage-engineering-part-05-reading-files-correctly.md)
-
-</div>

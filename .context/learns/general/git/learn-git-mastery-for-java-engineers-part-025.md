@@ -2421,8 +2421,5 @@ Large Files, Binary Assets, Git LFS, dan Repository Bloat
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-024.md](./learn-git-mastery-for-java-engineers-part-024.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-026.md](./learn-git-mastery-for-java-engineers-part-026.md)
-
-</div>

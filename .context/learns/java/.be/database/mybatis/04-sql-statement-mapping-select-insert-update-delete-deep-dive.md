@@ -2078,8 +2078,5 @@ If you can answer those clearly, you are no longer thinking of MyBatis as CRUD. 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 3 — Mapper Design: Interface, XML, Annotation, and Naming Discipline](./03-mapper-design-interface-xml-annotation-and-naming-discipline.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 5 — Parameter Binding: `#{}`, `${}`, TypeHandler, and SQL Injection Boundary](./05-parameter-binding-placeholder-typehandler-and-sql-injection-boundary.md)
-
-</div>

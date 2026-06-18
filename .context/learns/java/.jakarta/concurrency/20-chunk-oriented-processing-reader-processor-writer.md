@@ -2462,8 +2462,5 @@ Pertanyaan:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 19 — Batchlet Model: Task-Oriented Batch Work](./19-batchlet-model-task-oriented-batch-work.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Checkpointing, Restartability, and Idempotency](./21-checkpointing-restartability-idempotency.md)
-
-</div>

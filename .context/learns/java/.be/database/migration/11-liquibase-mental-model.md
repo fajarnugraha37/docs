@@ -1861,8 +1861,5 @@ Part 11 ini adalah fondasi mentalnya. Part 12 akan mengubah mental model tersebu
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 10 — Flyway Baseline, Repair, Validate, and Clean](./10-flyway-baseline-repair-validate-clean.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Liquibase Setup in Java 8–25 Projects](./12-liquibase-setup-java-8-to-25.md)
-
-</div>

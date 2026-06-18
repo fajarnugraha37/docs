@@ -2181,8 +2181,5 @@ Part 1 selesai. Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 0 — OSGi Mental Model: Dynamic Module System, Not Just Plugin Framework](./00-osgi-mental-model-dynamic-module-system-not-just-plugin-framework.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Bundle Anatomy: Manifest, Headers, Metadata, and Build-Time Contracts](./02-bundle-anatomy-manifest-headers-metadata-build-time-contracts.md)
-
-</div>

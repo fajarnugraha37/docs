@@ -2221,8 +2221,5 @@ Validation Groups: Operation-Specific Contracts without DTO Explosion
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-005](./learn-java-validation-jakarta-hibernate-validator-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-007](./learn-java-validation-jakarta-hibernate-validator-part-007.md)
-
-</div>

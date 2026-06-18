@@ -2793,8 +2793,5 @@ The central mental model:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering — Part 32](./learn-java-deployment-runtime-release-delivery-engineering-part-32-enterprise-governance-change-request.md)
-
-</div>

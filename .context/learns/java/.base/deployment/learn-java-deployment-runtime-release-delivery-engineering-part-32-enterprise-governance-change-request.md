@@ -2489,8 +2489,5 @@ For regulated, stateful, distributed Java systems, governance is part of the arc
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering — Part 31  ](./learn-java-deployment-runtime-release-delivery-engineering-part-31-runbook-engineering-for-java-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering — Part 33](./learn-java-deployment-runtime-release-delivery-engineering-part-33-deployment-architecture-decision-records-and-checklists.md)
-
-</div>

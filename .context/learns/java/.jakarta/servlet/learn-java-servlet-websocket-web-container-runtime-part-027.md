@@ -2225,8 +2225,5 @@ Part 028 — Container Configuration: Connectors, Thread Pools, Limits, Timeouts
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 026](./learn-java-servlet-websocket-web-container-runtime-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-028](./learn-java-servlet-websocket-web-container-runtime-part-028.md)
-
-</div>

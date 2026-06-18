@@ -2540,8 +2540,5 @@ Bagian berikutnya akan membahas **Jakarta Management (`jakarta.management.j2ee`)
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-034.md](./learn-java-jakarta-part-034.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-036.md](./learn-java-jakarta-part-036.md)
-
-</div>

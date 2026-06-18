@@ -2497,8 +2497,5 @@ Di sana kita akan memperdalam batch workload secara khusus:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 014 — Pessimistic Locking, Deadlocks, and High-Contention Workloads](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 016 — Batch Processing and High-Volume Persistence](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-016.md)
-
-</div>

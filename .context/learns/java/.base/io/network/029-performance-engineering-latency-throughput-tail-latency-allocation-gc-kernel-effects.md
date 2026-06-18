@@ -2407,8 +2407,5 @@ Part 30 will focus on network data movement where payload size dominates: stream
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 28 — Observability for Networked Java Systems: Logs, Metrics, Traces, Correlation, and Wire Debugging](./028-observability-for-networked-java-systems-logs-metrics-traces-correlation-wire-debugging.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 30 — Large Payload and File Transfer: Upload, Download, Multipart, Range, Resume, Checksums, and Memory Safety](./030-large-payload-file-transfer-upload-download-multipart-range-resume-checksums-memory-safety.md)
-
-</div>

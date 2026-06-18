@@ -3093,8 +3093,5 @@ Bagian berikutnya akan masuk ke **Jakarta RESTful Web Services (`jakarta.ws.rs`)
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-007.md](./learn-java-jakarta-part-007.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-009.md](./learn-java-jakarta-part-009.md)
-
-</div>

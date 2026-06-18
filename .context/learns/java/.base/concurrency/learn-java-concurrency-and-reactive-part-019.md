@@ -1742,8 +1742,5 @@ and an observable metric.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-018.md](./learn-java-concurrency-and-reactive-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-020.md](./learn-java-concurrency-and-reactive-part-020.md)
-
-</div>

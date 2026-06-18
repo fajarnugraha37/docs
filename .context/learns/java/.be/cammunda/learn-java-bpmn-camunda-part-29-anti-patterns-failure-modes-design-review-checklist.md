@@ -2505,8 +2505,5 @@ Seri belum selesai. Part berikutnya adalah bagian terakhir dari roadmap 31 part.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-28-workflow-engine-vs-state-machine-rules-engine-temporal.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-30-capstone-end-to-end-regulatory-case-management-java-camunda.md)
-
-</div>

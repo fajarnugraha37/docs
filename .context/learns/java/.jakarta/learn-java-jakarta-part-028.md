@@ -3161,8 +3161,5 @@ Bagian berikutnya akan membahas **Jakarta Standard Tag Library / Jakarta Tags** 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-027.md](./learn-java-jakarta-part-027.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-029.md](./learn-java-jakarta-part-029.md)
-
-</div>

@@ -2268,8 +2268,5 @@ Rewrite History Lanjutan: Filter-Repo, BFG, dan Migration
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-026.md](./learn-git-mastery-for-java-engineers-part-026.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-028.md](./learn-git-mastery-for-java-engineers-part-028.md)
-
-</div>

@@ -1689,8 +1689,5 @@ and how will the type/API prevent invalid states?”
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-046.md](./learn-java-collections-and-streams-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-048.md](./learn-java-collections-and-streams-part-048.md)
-
-</div>

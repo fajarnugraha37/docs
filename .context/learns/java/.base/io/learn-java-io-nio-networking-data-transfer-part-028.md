@@ -1865,8 +1865,5 @@ Kalimat kunci:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 027 — Performance Engineering for I/O: Syscall, Page Cache, GC, Direct Memory, Benchmark, dan Profiling](./learn-java-io-nio-networking-data-transfer-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 029 — Security, Robustness, dan Defensive I/O: Path Traversal, Zip Slip, Deserialization, Resource Exhaustion](./learn-java-io-nio-networking-data-transfer-part-029.md)
-
-</div>

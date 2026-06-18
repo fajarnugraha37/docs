@@ -2784,8 +2784,5 @@ Part 25 menyelesaikan boundary antara app dan gateway/proxy. Part 26 akan masuk 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 24 — Domain Authorization for Case Management and Workflow Systems](./learn-java-jakarta-security-authentication-authorization-identity-part-24-domain-authorization-case-management-workflow.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — CSRF, CORS, Clickjacking, and Browser Security Around Authentication](./learn-java-jakarta-security-authentication-authorization-identity-part-26-browser-security-csrf-cors-clickjacking.md)
-
-</div>

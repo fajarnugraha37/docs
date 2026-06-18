@@ -2195,8 +2195,5 @@ Top-tier Java engineer melihat `Integer` bukan hanya “object version of int”
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-007.md](./learn-java-data-types-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-009.md](./learn-java-data-types-part-009.md)
-
-</div>

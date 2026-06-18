@@ -2053,8 +2053,5 @@ Type modeling yang baik membuat codebase terasa seperti bahasa domain yang aman,
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-029.md](./learn-java-data-types-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-031.md](./learn-java-data-types-part-031.md)
-
-</div>

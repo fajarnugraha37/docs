@@ -1730,8 +1730,5 @@ Kita akan masuk ke cara Java membuka file: `READ`, `WRITE`, `APPEND`, `CREATE`, 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering-part-02-file-existence-type-identity](./learn-java-io-file-filesystem-storage-engineering-part-02-file-existence-type-identity.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 04  ](./learn-java-io-file-filesystem-storage-engineering-part-04-open-options-file-handles.md)
-
-</div>

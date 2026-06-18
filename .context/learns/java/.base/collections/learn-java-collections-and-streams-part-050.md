@@ -1393,8 +1393,5 @@ performance, and consistency consequences.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-049.md](./learn-java-collections-and-streams-part-049.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-052.md](./learn-java-collections-and-streams-part-052.md)
-
-</div>

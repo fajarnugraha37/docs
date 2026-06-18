@@ -2747,8 +2747,5 @@ Di sana kita akan menyatukan seluruh seri menjadi satu **production-grade migrat
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 31 — Advanced Patterns and Anti-Patterns](./31-advanced-patterns-and-anti-patterns.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 33 — Capstone: Designing a Production-Grade Migration Platform](./33-capstone-production-grade-migration-platform.md)
-
-</div>

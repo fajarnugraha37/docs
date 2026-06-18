@@ -1856,8 +1856,5 @@ If you can draw the real path, identify policy at each hop, and decide which lay
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 16 — TLS, mTLS, Certificates, Trust Stores, Key Stores, ALPN, and Java Security Runtime](./016-tls-mtls-certificates-truststores-keystores-alpn-java-security-runtime.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 18 — REST Over HTTP: Contract Design, Evolution, Compatibility, and Error Model](./018-rest-over-http-contract-design-evolution-compatibility-error-model.md)
-
-</div>

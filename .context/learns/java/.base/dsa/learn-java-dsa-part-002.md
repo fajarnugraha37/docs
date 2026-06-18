@@ -1779,8 +1779,5 @@ Seri **belum selesai**. Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-001.md](./learn-java-dsa-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-003.md](./learn-java-dsa-part-003.md)
-
-</div>

@@ -2804,8 +2804,5 @@ Di sana kita akan membahas bagaimana mengendalikan versi dependency secara siste
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 5 — Project Layout Engineering: Single Module, Multi-Module, Composite Build, Parent, BOM, Platform](./05-project-layout-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — Dependency Version Management: BOM, Platforms, Constraints, Catalogs, Locking](./07-dependency-version-management.md)
-
-</div>

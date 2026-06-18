@@ -2720,8 +2720,5 @@ Di sana kita akan membahas:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-017](./learn-java-oop-functional-reflection-codegen-modules-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-019](./learn-java-oop-functional-reflection-codegen-modules-part-019.md)
-
-</div>

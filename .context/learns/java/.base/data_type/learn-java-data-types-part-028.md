@@ -1898,8 +1898,5 @@ Secure type design makes dangerous operations harder to express and safe operati
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-027.md](./learn-java-data-types-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-029.md](./learn-java-data-types-part-029.md)
-
-</div>

@@ -2591,8 +2591,5 @@ Kita akan membahas extension binding secara sangat mendalam: global vs name-boun
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-015.md](./learn-jaxrs-advanced-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-017.md](./learn-jaxrs-advanced-part-017.md)
-
-</div>

@@ -2424,8 +2424,5 @@ File: 34-end-to-end-case-study-regulatory-case-management-workload-orchestration
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 32 — Security, Audit, and Compliance for Batch Workloads](./32-security-audit-compliance-batch-workloads.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 34 — End-to-End Case Study: Regulatory Case Management Workload Orchestration](./34-end-to-end-case-study-regulatory-case-management-workload-orchestration.md)
-
-</div>

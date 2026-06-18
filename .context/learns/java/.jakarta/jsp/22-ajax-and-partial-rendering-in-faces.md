@@ -2179,8 +2179,5 @@ Kita akan masuk lebih dalam ke bagaimana membangun reusable UI architecture di F
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 21 — Faces State Management: Server State, Client State, View Expiry, and Memory](./21-faces-state-management-server-client-view-expiry-memory.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Composite Components and Reusable UI Architecture](./23-composite-components-and-reusable-ui-architecture.md)
-
-</div>

@@ -2023,8 +2023,5 @@ Part berikutnya: Part 3 — DNS, Name Resolution, and Endpoint Discovery in Java
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 1 — Mental Model Network Stack: Application Code to Wire](./001-network-stack-mental-model-application-code-to-wire.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 3 — DNS, Name Resolution, and Endpoint Discovery in Java](./003-dns-name-resolution-endpoint-discovery-java.md)
-
-</div>

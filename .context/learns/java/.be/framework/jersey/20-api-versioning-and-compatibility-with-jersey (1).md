@@ -2200,8 +2200,5 @@ Referensi utama yang relevan untuk bagian ini:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 19 — Validation Strategy: Bean Validation, Request Contract, Group, and Error Shape](./19-validation-strategy-bean-validation-request-contract-group-error-shape.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 20 — API Versioning and Compatibility with Jersey](./20-api-versioning-and-compatibility-with-jersey.md)
-
-</div>

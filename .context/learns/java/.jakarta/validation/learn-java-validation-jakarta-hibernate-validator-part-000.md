@@ -2224,8 +2224,5 @@ Kita belum mencapai bagian terakhir.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-031](../servlet/learn-java-servlet-websocket-web-container-runtime-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-001](./learn-java-validation-jakarta-hibernate-validator-part-001.md)
-
-</div>

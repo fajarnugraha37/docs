@@ -2292,8 +2292,5 @@ Di sana kita akan membahas bagaimana MapStruct bekerja sebagai annotation proces
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 16 — XML Mapping in Modern Java: JAXB/Jakarta XML Binding and Jackson XML](./16-xml-mapping-modern-java-jaxb-jakarta-xml-binding-jackson-xml.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — MapStruct Mental Model: Compile-Time Mapping and Generated Code](./18-mapstruct-mental-model-compile-time-mapping-generated-code.md)
-
-</div>

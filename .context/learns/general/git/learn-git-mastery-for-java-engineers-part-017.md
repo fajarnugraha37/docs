@@ -2047,8 +2047,5 @@ Itulah tujuan bagian ini.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-016.md](./learn-git-mastery-for-java-engineers-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-018.md](./learn-git-mastery-for-java-engineers-part-018.md)
-
-</div>

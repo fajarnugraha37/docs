@@ -2632,8 +2632,5 @@ Next: Part 32 — Case Studies: Realistic Production Scenarios.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 30 — Observability and Operational Runbooks](./30-observability-operational-runbooks.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 32 — Case Studies: Realistic Production Scenarios](./32-case-studies-production-scenarios.md)
-
-</div>

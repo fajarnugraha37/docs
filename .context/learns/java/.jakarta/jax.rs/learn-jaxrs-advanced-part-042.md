@@ -2114,8 +2114,5 @@ Kita akan membahas desain REST API untuk domain enterprise: aggregate/resource m
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-041.md](./learn-jaxrs-advanced-part-041.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-043.md](./learn-jaxrs-advanced-part-043.md)
-
-</div>

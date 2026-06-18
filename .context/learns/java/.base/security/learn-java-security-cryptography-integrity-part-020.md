@@ -1961,8 +1961,5 @@ Pertanyaan berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-019](./learn-java-security-cryptography-integrity-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-021](./learn-java-security-cryptography-integrity-part-021.md)
-
-</div>

@@ -2403,8 +2403,5 @@ Part 32 — Integration Mapping: External API, Legacy Payload, Anti-Corruption L
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 30 — Performance and Memory Engineering for Mapping Layers](./30-performance-memory-engineering-mapping-layers.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Integration Mapping: External API, Legacy Payload, Anti-Corruption Layer](./32-integration-mapping-external-api-legacy-payload-anti-corruption-layer.md)
-
-</div>

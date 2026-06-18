@@ -2361,8 +2361,5 @@ Seri belum selesai. Ini baru Part 09 dari 35.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 08 — IdentityStore Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-08-identitystore-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — Jakarta Authentication / JASPIC Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-10-jakarta-authentication-jaspic-deep-dive.md)
-
-</div>

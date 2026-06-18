@@ -1949,8 +1949,5 @@ This mindset turns bugs into stronger type design.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-031.md](./learn-java-data-types-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-033.md](./learn-java-data-types-part-033.md)
-
-</div>

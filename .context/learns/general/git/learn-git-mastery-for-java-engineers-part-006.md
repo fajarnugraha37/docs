@@ -2909,8 +2909,5 @@ Bagian terakhir yang direncanakan: learn-git-mastery-for-java-engineers-part-032
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-005.md](./learn-git-mastery-for-java-engineers-part-005.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-007.md](./learn-git-mastery-for-java-engineers-part-007.md)
-
-</div>

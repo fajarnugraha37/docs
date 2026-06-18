@@ -2697,8 +2697,5 @@ Di sana kita akan membedakan kapan worker harus `fail job`, kapan harus `throw B
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-07-job-worker-reliability-idempotency-retry-backoff-poison-jobs.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-09-bpmn-error-technical-failure-incident-escalation-compensation.md)
-
-</div>

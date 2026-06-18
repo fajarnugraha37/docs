@@ -1671,8 +1671,5 @@ and never let context outlive its scope.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-016.md](./learn-java-concurrency-and-reactive-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-018.md](./learn-java-concurrency-and-reactive-part-018.md)
-
-</div>

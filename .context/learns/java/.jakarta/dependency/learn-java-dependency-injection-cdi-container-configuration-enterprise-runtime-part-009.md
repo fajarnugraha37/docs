@@ -2385,8 +2385,5 @@ Part 010 — CDI Scopes Deep Dive: Request, Session, Application, Dependent, Con
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 008 — CDI Core Mental Model: Bean, Type, Qualifier, Scope, Context](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 010 — CDI Scopes Deep Dive: Request, Session, Application, Dependent, Conversation](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-010.md)
-
-</div>

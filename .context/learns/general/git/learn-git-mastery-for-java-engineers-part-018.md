@@ -2364,8 +2364,5 @@ Kita akan belajar menggunakan Git bukan hanya sebagai version control, tetapi se
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-017.md](./learn-git-mastery-for-java-engineers-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-019.md](./learn-git-mastery-for-java-engineers-part-019.md)
-
-</div>

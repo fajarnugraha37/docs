@@ -1954,8 +1954,5 @@ Apa final ownership response-nya?
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-007](./learn-java-servlet-websocket-web-container-runtime-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-009](./learn-java-servlet-websocket-web-container-runtime-part-009.md)
-
-</div>

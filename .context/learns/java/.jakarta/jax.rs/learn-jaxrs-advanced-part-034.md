@@ -2212,8 +2212,5 @@ Kita akan membahas testing server-side JAX-RS secara mendalam: unit test resourc
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-033.md](./learn-jaxrs-advanced-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-035.md](./learn-jaxrs-advanced-part-035.md)
-
-</div>

@@ -2504,8 +2504,5 @@ Bagian berikutnya akan membahas **Runtime / Container Model** lebih dalam: bagai
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-002.md](./learn-java-jakarta-part-002.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-004.md](./learn-java-jakarta-part-004.md)
-
-</div>

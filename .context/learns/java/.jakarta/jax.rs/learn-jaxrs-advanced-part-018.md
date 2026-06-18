@@ -2895,8 +2895,5 @@ Kita akan membahas browser-facing REST security secara mendalam: CORS protocol, 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-017.md](./learn-jaxrs-advanced-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-019.md](./learn-jaxrs-advanced-part-019.md)
-
-</div>

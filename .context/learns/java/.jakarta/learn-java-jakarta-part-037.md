@@ -2021,8 +2021,5 @@ Bagian berikutnya akan membahas **Jakarta Config / Configuration-related model**
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-036.md](./learn-java-jakarta-part-036.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-038.md](./learn-java-jakarta-part-038.md)
-
-</div>

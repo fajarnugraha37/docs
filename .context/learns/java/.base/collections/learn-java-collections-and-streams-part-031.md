@@ -1687,8 +1687,5 @@ Then choose the collector that encodes that contract.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-030.md](./learn-java-collections-and-streams-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-032.md](./learn-java-collections-and-streams-part-032.md)
-
-</div>

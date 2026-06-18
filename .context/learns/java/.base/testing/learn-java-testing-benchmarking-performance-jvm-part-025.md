@@ -2441,8 +2441,5 @@ Referensi utama untuk pendalaman:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-024.md](./learn-java-testing-benchmarking-performance-jvm-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-026](./learn-java-testing-benchmarking-performance-jvm-part-026.md)
-
-</div>

@@ -1430,8 +1430,5 @@ Part 3 — Class<T> and Runtime Type Tokens
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 1 — `java.lang` as the Root Contract of the Java Platform](./01-java-lang-as-platform-root-contract.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — `Class<T>` and Runtime Type Tokens](./03-class-type-token-runtime-type-metadata.md)
-
-</div>

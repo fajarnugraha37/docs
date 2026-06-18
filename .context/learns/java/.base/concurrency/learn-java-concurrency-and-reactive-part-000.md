@@ -2269,8 +2269,5 @@ how cancellation works, and how we will observe saturation?
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-062.md](../collections/learn-java-collections-and-streams-part-062.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-001.md](./learn-java-concurrency-and-reactive-part-001.md)
-
-</div>

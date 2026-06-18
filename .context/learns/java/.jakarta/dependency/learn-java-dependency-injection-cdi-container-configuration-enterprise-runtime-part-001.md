@@ -2974,8 +2974,5 @@ Progress saat ini:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime — Part 000](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-002.md)
-
-</div>

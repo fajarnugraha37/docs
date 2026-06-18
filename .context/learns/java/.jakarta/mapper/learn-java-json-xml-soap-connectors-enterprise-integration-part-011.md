@@ -2803,8 +2803,5 @@ Bagian berikutnya: **Part 12 — XML Fundamentals for Java Engineers**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 10](./learn-java-json-xml-soap-connectors-enterprise-integration-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 12](./learn-java-json-xml-soap-connectors-enterprise-integration-part-012.md)
-
-</div>

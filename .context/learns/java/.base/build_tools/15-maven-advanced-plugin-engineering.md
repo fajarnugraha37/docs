@@ -2606,8 +2606,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 14 — Plugin System Deep Dive: Maven Plugin Anatomy dan Gradle Plugin Anatomy](./14-plugin-system-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Gradle Advanced Plugin Engineering: Custom Task, Extension, Provider API, Build Services](./16-gradle-advanced-plugin-engineering.md)
-
-</div>

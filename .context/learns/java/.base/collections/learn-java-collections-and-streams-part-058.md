@@ -1472,8 +1472,5 @@ What is filtered, transformed, materialized, mutated, queried, or retained?
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-057.md](./learn-java-collections-and-streams-part-057.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-059.md](./learn-java-collections-and-streams-part-059.md)
-
-</div>

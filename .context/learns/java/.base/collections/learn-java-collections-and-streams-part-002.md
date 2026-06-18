@@ -2038,8 +2038,5 @@ Do not use List just because you need “many values”.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-001.md](./learn-java-collections-and-streams-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-003.md](./learn-java-collections-and-streams-part-003.md)
-
-</div>

@@ -1880,8 +1880,5 @@ Topik berikutnya adalah **Apache Karaf**: OSGi distribution/container, features,
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 12 — Apache Felix Runtime: Lightweight Framework, Gogo Shell, SCR, FileInstall](./12-apache-felix-runtime-lightweight-framework-gogo-scr-fileinstall.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Apache Karaf: OSGi Distribution, Features, Provisioning, and Operations](./14-apache-karaf-osgi-distribution-features-provisioning-operations.md)
-
-</div>

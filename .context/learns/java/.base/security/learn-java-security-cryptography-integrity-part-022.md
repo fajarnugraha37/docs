@@ -2002,8 +2002,5 @@ Part berikutnya: **Part 23 — Secure Coding in Java: Dangerous APIs, Footguns, 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-021](./learn-java-security-cryptography-integrity-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-023](./learn-java-security-cryptography-integrity-part-023.md)
-
-</div>

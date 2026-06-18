@@ -2307,8 +2307,5 @@ Di sana kita akan memakai `ByteBuffer` sebagai alat utama untuk memahami:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 007 — NIO Core: Buffer, Channel, Selector, dan Perubahan Mental Model dari Stream](./learn-java-io-nio-networking-data-transfer-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 009 — FileChannel: Random Access, Transfer, Locking, Force, dan Zero-Copy](./learn-java-io-nio-networking-data-transfer-part-009.md)
-
-</div>

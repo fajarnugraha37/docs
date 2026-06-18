@@ -2844,8 +2844,5 @@ Topik berikutnya: Membaca History secara Efektif
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-003.md](./learn-git-mastery-for-java-engineers-part-003.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-005.md](./learn-git-mastery-for-java-engineers-part-005.md)
-
-</div>

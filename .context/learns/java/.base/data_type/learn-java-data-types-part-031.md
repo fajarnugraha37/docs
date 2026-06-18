@@ -1812,8 +1812,5 @@ Senior Java engineer tidak hanya bisa membuat type yang baik, tetapi juga cepat 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-030.md](./learn-java-data-types-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-032.md](./learn-java-data-types-part-032.md)
-
-</div>

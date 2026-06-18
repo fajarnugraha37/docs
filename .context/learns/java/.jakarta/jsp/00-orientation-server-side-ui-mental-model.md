@@ -2240,8 +2240,5 @@ Fokus Part 1 nanti:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-055.md](../jax.rs/learn-jaxrs-advanced-part-055.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Historical Evolution dan Compatibility Matrix: JSP, JSTL, EL, JSF, Jakarta Faces](./01-history-compatibility-java8-to-java25.md)
-
-</div>

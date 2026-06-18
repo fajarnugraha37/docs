@@ -2921,8 +2921,5 @@ Performance yang baik bukan hasil “micro-optimization acak”. Performance yan
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-part-019.md](./learn-java-part-019.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-021.md](./learn-java-part-021.md)
-
-</div>

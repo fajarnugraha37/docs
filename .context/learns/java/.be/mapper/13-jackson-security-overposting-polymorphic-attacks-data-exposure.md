@@ -1946,8 +1946,5 @@ and what information may leave the system.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 12 — Jackson for Enterprise API Contracts: Strictness, Compatibility, Evolution](./12-jackson-enterprise-api-contracts-strictness-compatibility-evolution.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Jackson Performance: Allocation, Streaming, Large Payloads, Hot Paths](./14-jackson-performance-allocation-streaming-large-payloads-hot-paths.md)
-
-</div>

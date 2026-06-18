@@ -2297,8 +2297,5 @@ The next part goes deeper into **dirty checking internals and change detection s
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 3 — Entity Identity: Java Object Identity, Database Identity, Persistence Context Identity](./03-entity-identity-java-database-persistence-context.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 5 — Dirty Checking Internals and Change Detection](./05-dirty-checking-internals-change-detection.md)
-
-</div>

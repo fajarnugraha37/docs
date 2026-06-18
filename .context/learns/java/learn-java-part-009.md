@@ -4126,8 +4126,5 @@ Itulah perbedaan antara engineer yang hanya bisa memakai API concurrency dan eng
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Part 008 — Error Handling, Exceptions, dan Reliability Engineering](./learn-java-part-008.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java — Part 010](./learn-java-part-010.md)
-
-</div>

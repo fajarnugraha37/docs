@@ -2107,8 +2107,5 @@ Serialization adalah boundary architecture, bukan annotation convenience.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-023.md](./learn-java-data-types-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-025.md](./learn-java-data-types-part-025.md)
-
-</div>

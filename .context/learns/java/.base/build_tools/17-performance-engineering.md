@@ -2216,8 +2216,5 @@ When you can answer those questions precisely, you are no longer just using Mave
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 16 — Gradle Advanced Plugin Engineering: Custom Task, Extension, Provider API, Build Services](./16-gradle-advanced-plugin-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — CI/CD Build Architecture: Pipeline Design, Cache Strategy, Matrix Build, Release Promotion](./18-cicd-build-architecture.md)
-
-</div>

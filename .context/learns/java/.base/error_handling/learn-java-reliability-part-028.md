@@ -2026,8 +2026,5 @@ Part 029 — Case Study: Designing a Reliable Java Service End-to-End
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-027.md](./learn-java-reliability-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-029.md](./learn-java-reliability-part-029.md)
-
-</div>

@@ -1941,8 +1941,5 @@ Di sana fokusnya bukan lagi packet datagram, tetapi data transfer berbasis HTTP:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 021 — NIO Networking: `SocketChannel`, `ServerSocketChannel`, `Selector`, dan Event Loop](./learn-java-io-nio-networking-data-transfer-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 023 — HTTP Data Transfer: Java HTTP Client, Streaming Body, Timeout, Redirect, Proxy, dan TLS](./learn-java-io-nio-networking-data-transfer-part-023.md)
-
-</div>

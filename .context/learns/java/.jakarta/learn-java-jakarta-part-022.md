@@ -2708,8 +2708,5 @@ Bagian berikutnya akan membahas **Jakarta Enterprise Beans (`jakarta.ejb`)**: st
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-021.md](./learn-java-jakarta-part-021.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-023.md](./learn-java-jakarta-part-023.md)
-
-</div>

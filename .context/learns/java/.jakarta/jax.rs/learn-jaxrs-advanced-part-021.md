@@ -2896,8 +2896,5 @@ Kita akan membahas HTTP conditional requests secara mendalam: validators, strong
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-020.md](./learn-jaxrs-advanced-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-022.md](./learn-jaxrs-advanced-part-022.md)
-
-</div>

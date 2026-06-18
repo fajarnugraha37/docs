@@ -2745,8 +2745,5 @@ The next topic continues naturally from flush:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 5 — Dirty Checking Internals and Change Detection](./05-dirty-checking-internals-change-detection.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — SQL Generation Pipeline and Dialect Behavior](./07-sql-generation-pipeline-dialect-behavior.md)
-
-</div>

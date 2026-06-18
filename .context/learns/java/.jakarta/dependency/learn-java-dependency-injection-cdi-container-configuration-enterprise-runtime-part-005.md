@@ -2368,8 +2368,5 @@ Part 006 — Dependency Injection Fundamentals: Inversion of Control Done Correc
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 004 — Runtime / Container Model: Who Owns Your Object?](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 006 — Dependency Injection Fundamentals: Inversion of Control Done Correctly](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-006.md)
-
-</div>

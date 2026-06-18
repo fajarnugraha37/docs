@@ -1969,8 +1969,5 @@ Di part berikutnya, kita akan melihat JSP/Jakarta Pages bukan sebagai “templat
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-025](./learn-java-servlet-websocket-web-container-runtime-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 027](./learn-java-servlet-websocket-web-container-runtime-part-027.md)
-
-</div>

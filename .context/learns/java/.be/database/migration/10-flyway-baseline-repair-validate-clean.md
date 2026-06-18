@@ -1979,8 +1979,5 @@ File    — 11-liquibase-mental-model.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 09 — Flyway Callbacks and Lifecycle Hooks](./09-flyway-callbacks-lifecycle-hooks.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — Liquibase Mental Model](./11-liquibase-mental-model.md)
-
-</div>

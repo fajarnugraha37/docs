@@ -2820,8 +2820,5 @@ File: 17-jakarta-batch-mental-model-jobs-steps-executions-state.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 15 — Observability for Managed Async Workloads](./15-observability-for-managed-async-workloads.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Jakarta Batch Mental Model: Jobs, Steps, Executions, and State](./17-jakarta-batch-mental-model-jobs-steps-executions-state.md)
-
-</div>

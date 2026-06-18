@@ -1911,8 +1911,5 @@ Use Set when uniqueness is the model, not merely because duplicates are inconven
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-002.md](./learn-java-collections-and-streams-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-004.md](./learn-java-collections-and-streams-part-004.md)
-
-</div>

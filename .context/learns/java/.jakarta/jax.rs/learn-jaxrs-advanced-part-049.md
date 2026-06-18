@@ -1772,8 +1772,5 @@ Kita akan membahas authentication/authorization lebih dalam: Jakarta Security, O
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-048.md](./learn-jaxrs-advanced-part-048.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-050.md](./learn-jaxrs-advanced-part-050.md)
-
-</div>

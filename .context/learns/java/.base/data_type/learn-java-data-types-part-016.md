@@ -2439,8 +2439,5 @@ Senior Java engineer memilih collection bukan karena kebiasaan, tetapi karena se
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-015.md](./learn-java-data-types-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-017.md](./learn-java-data-types-part-017.md)
-
-</div>

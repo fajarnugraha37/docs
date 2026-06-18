@@ -2222,8 +2222,5 @@ Kita akan naik dari observability ke architecture pattern:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 30](./learn-java-io-file-filesystem-storage-engineering-part-30-performance-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Learn Java IO File Filesystem Storage Engineering — Part 32](./learn-java-io-file-filesystem-storage-engineering-part-32-file-workflow-architecture-patterns.md)
-
-</div>

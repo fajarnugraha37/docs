@@ -1720,8 +1720,5 @@ Bagian ini membahas migrasi build dan Java baseline sebagai engineering discipli
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 26 — Dependency Conflict Case Studies: Logging, Jackson, Netty, Guava, Jakarta/Javax Split](./26-dependency-conflict-case-studies.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Troubleshooting Build Failures: Systematic Debugging Framework](./28-troubleshooting-build-failures.md)
-
-</div>

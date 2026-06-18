@@ -2984,8 +2984,5 @@ Encapsulation Beyond private: Invariants, State Ownership, and API Surface
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-002](./learn-java-oop-functional-reflection-codegen-modules-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-004](./learn-java-oop-functional-reflection-codegen-modules-part-004.md)
-
-</div>

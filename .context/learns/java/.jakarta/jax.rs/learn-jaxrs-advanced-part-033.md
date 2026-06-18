@@ -2033,8 +2033,5 @@ Kita akan membahas OpenAPI sebagai contract artifact: schema design, examples, e
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-032.md](./learn-jaxrs-advanced-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-034.md](./learn-jaxrs-advanced-part-034.md)
-
-</div>

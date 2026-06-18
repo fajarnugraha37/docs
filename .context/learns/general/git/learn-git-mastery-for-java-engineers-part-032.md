@@ -2151,8 +2151,5 @@ Rujukan utama keseluruhan seri:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-031.md](./learn-git-mastery-for-java-engineers-part-031.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: Part 0 — Build Engineering Mental Model: Dari Source Code ke Artifact yang Bisa Dipercaya](../../java/.base/build_tools/00-build-engineering-mental-model.md)
-
-</div>

@@ -2465,8 +2465,5 @@ File berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 8 — Formatting, I18N, XML, and SQL Tags: What to Use and What to Avoid](./08-formatting-i18n-xml-sql-tags-what-to-use-and-avoid.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — JSP Layouting: Includes, Templates, Composition, and Maintainability](./10-jsp-layouting-includes-templates-composition-maintainability.md)
-
-</div>

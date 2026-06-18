@@ -2731,8 +2731,5 @@ Part 008 — Graceful Shutdown Fundamentals
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-006.md](./learn-java-reliability-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-008.md](./learn-java-reliability-part-008.md)
-
-</div>

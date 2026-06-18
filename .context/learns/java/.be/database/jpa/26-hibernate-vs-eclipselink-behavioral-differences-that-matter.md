@@ -2180,8 +2180,5 @@ Mastering Hibernate vs EclipseLink means knowing not only what annotation to wri
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 25 — EclipseLink Deep Dive: Sessions, Descriptors, Weaving, Cache, and Advanced Mappings](./25-eclipselink-sessions-descriptors-weaving-cache-advanced-mappings.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 27 — Observability: SQL Logging, Statistics, Metrics, Tracing, and Production Diagnosis](./27-observability-sql-logging-statistics-metrics-tracing-production-diagnosis.md)
-
-</div>

@@ -2150,8 +2150,5 @@ Next part:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 28 — Performance Engineering: Cost Model from Object Graph to Database Work](./28-performance-engineering-cost-model-object-graph-to-database-work.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 30 — Multi-Tenancy, Security, Filters, Row-Level Isolation, and Data Leakage Prevention](./30-multi-tenancy-security-filters-row-level-isolation-data-leakage.md)
-
-</div>

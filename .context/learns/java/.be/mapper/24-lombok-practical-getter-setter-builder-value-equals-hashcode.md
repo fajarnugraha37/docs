@@ -2470,8 +2470,5 @@ A top-level engineer uses Lombok to reduce accidental noise while keeping semant
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 23 — Lombok Mental Model: Annotation Processing, Bytecode Shape, IDE Coupling](./23-lombok-mental-model-annotation-processing-bytecode-shape-ide-coupling.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 25 — Lombok with Jackson and MapStruct: Builders, Records, Immutability](./25-lombok-with-jackson-mapstruct-builders-records-immutability.md)
-
-</div>

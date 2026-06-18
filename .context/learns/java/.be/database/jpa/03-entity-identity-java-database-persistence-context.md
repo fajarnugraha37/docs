@@ -2491,8 +2491,5 @@ That question prevents a large class of ORM bugs before they enter production.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 2 — Persistence Unit, Bootstrap, Metadata, and Provider Initialization](./02-persistence-unit-bootstrap-metadata-provider-initialization.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 4 — Persistence Context, Unit of Work, and First-Level Cache](./04-persistence-context-unit-of-work-first-level-cache.md)
-
-</div>

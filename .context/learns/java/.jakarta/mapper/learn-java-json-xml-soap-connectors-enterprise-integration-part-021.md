@@ -2088,8 +2088,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 20](./learn-java-json-xml-soap-connectors-enterprise-integration-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 22](./learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md)
-
-</div>

@@ -2273,8 +2273,5 @@ Kita akan membahas SSE secara mendalam: event stream, `Sse`, `SseEventSink`, bro
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-023.md](./learn-jaxrs-advanced-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-025.md](./learn-jaxrs-advanced-part-025.md)
-
-</div>

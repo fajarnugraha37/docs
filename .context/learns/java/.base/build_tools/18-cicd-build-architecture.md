@@ -2407,8 +2407,5 @@ Seri belum selesai. Bagian berikutnya: **Part 19 — Release Engineering: Semant
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 17 — Performance Engineering: Build Time, Configuration Cache, Daemon, Parallelism, Incrementality](./17-performance-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 19 — Release Engineering: Semantic Versioning, Snapshot, Release, Tagging, Changelog, Publishing](./19-release-engineering.md)
-
-</div>

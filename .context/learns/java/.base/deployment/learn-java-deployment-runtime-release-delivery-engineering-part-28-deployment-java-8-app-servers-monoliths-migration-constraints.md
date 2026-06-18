@@ -1686,8 +1686,5 @@ Di sana kita akan melihat bagaimana deployment berubah pada Java modern: contain
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-27-multi-service-distributed-java-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-29-java-17-21-25-containers-virtual-threads-cloud-native.md)
-
-</div>

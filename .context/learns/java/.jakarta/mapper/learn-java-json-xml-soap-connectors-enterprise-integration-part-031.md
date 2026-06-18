@@ -1978,8 +1978,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 30](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 032](./learn-java-json-xml-soap-connectors-enterprise-integration-part-032.md)
-
-</div>

@@ -1893,8 +1893,5 @@ Status: seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads](./learn-java-io-file-filesystem-storage-engineering-part-31-observability-troubleshooting-file-workloads.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 33](./learn-java-io-file-filesystem-storage-engineering-part-33-testing-file-filesystem-code.md)
-
-</div>

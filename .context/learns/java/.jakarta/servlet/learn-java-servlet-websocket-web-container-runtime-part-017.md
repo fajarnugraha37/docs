@@ -2270,8 +2270,5 @@ Part 018 — Threading Model: Classic Servlet, Platform Threads, Virtual Threads
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-016](./learn-java-servlet-websocket-web-container-runtime-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-018](./learn-java-servlet-websocket-web-container-runtime-part-018.md)
-
-</div>

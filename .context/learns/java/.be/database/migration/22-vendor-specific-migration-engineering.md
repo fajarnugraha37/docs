@@ -2470,8 +2470,5 @@ Setelah memahami vendor-specific behavior, kita akan membahas bagaimana membukti
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 21 — Database Locking, Transactions, and Online DDL](./21-database-locking-transactions-online-ddl.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 23 — Migration Testing Strategy](./23-migration-testing-strategy.md)
-
-</div>

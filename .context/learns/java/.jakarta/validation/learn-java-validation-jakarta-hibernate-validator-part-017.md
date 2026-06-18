@@ -2414,8 +2414,5 @@ Topik:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-016](./learn-java-validation-jakarta-hibernate-validator-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-018](./learn-java-validation-jakarta-hibernate-validator-part-018.md)
-
-</div>

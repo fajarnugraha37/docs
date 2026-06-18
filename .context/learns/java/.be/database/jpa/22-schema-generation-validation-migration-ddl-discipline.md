@@ -2246,8 +2246,5 @@ That is the difference between CRUD-level ORM usage and production persistence e
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 21 — Second-Level Cache, Query Cache, Natural ID Cache, and Cache Correctness](./21-second-level-cache-query-cache-natural-id-cache-correctness.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 23 — Provider Enhancement and Weaving: Bytecode, Proxies, Lazy Fields, and Build Pipelines](./23-provider-enhancement-weaving-bytecode-proxies-build-pipelines.md)
-
-</div>

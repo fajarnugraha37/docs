@@ -2886,8 +2886,5 @@ Referensi yang relevan untuk bagian ini:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-012 — Heap, PriorityQueue, Top-K, Scheduling](./learn-java-dsa-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-014.md](./learn-java-dsa-part-014.md)
-
-</div>

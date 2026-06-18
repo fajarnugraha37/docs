@@ -1959,8 +1959,5 @@ Di sana kita akan membahas:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 05](./learn-java-io-file-filesystem-storage-engineering-part-05-reading-files-correctly.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 07 — Atomic Update Pattern: Temp File + fsync + Atomic Move](./learn-java-io-file-filesystem-storage-engineering-part-07-atomic-update-pattern.md)
-
-</div>

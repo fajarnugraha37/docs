@@ -2738,8 +2738,5 @@ Bagian berikutnya akan membahas **Jakarta Batch (`jakarta.batch`)**: job, step, 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-019.md](./learn-java-jakarta-part-019.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-021.md](./learn-java-jakarta-part-021.md)
-
-</div>

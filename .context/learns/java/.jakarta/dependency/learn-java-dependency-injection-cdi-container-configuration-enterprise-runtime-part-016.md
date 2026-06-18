@@ -2467,8 +2467,5 @@ Part 017 — Stereotypes and Annotation Composition
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 015 — Interceptors: Cross-Cutting Behavior as Runtime Boundary](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Stereotypes and Annotation Composition](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-017.md)
-
-</div>

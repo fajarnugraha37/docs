@@ -2752,8 +2752,5 @@ SSE dan `StreamingOutput` memberi fondasi penting: body HTTP tidak selalu kecil,
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 15 — Async Server Processing: `AsyncResponse`, Suspension, Timeout, and Cancellation](./15-async-server-processing-asyncresponse-suspension-timeout-cancellation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 17 — Multipart, File Upload, Download, and Large Payload Engineering](./17-multipart-file-upload-download-large-payload-engineering.md)
-
-</div>

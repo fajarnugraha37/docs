@@ -2358,8 +2358,5 @@ Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-15-kubernetes-probes-graceful-shutdown-traffic-draining.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-17-release-strategy-rolling-bluegreen-canary-shadow-ring.md)
-
-</div>

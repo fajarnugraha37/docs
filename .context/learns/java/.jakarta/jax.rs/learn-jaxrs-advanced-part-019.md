@@ -2871,8 +2871,5 @@ Kita akan membahas desain query contract enterprise: pagination offset vs cursor
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-018.md](./learn-jaxrs-advanced-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-020.md](./learn-jaxrs-advanced-part-020.md)
-
-</div>

@@ -2740,8 +2740,5 @@ Di part berikutnya kita akan masuk ke level lebih dalam: bagaimana CDI container
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 017 — Stereotypes and Annotation Composition](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — CDI Extensions and Portable Runtime Customization](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-019.md)
-
-</div>

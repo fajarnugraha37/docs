@@ -1892,8 +1892,5 @@ Are its elements immutable?
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-009.md](./learn-java-collections-and-streams-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-011.md](./learn-java-collections-and-streams-part-011.md)
-
-</div>

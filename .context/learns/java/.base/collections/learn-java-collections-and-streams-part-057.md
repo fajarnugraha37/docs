@@ -1483,8 +1483,5 @@ state transitions, and security-sensitive operations.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-056.md](./learn-java-collections-and-streams-part-056.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-058.md](./learn-java-collections-and-streams-part-058.md)
-
-</div>

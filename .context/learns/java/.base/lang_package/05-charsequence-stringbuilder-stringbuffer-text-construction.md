@@ -1801,8 +1801,5 @@ Seri belum selesai. Masih ada banyak bagian penting sampai Part 32.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 4 — `String`: Semantics, Immutability, Interning, Unicode, Performance](./04-string-semantics-immutability-interning-unicode-performance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 6 — Primitive Wrappers, Boxing, Caches, Numeric Semantics](./06-primitive-wrappers-boxing-caches-numeric-semantics.md)
-
-</div>

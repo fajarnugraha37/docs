@@ -1761,8 +1761,5 @@ Seri **belum selesai**. Ini adalah **Part 0 dari 35**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 32 — Capstone: Building a Production-Grade Jersey Platform Module](../framework/jersey/32-capstone-building-production-grade-jersey-platform-module.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Java Object Model for Mapping: Beans, Records, POJOs, Immutability](./01-java-object-model-for-mapping-beans-records-pojos-immutability.md)
-
-</div>

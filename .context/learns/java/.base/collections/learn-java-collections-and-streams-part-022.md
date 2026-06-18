@@ -1343,8 +1343,5 @@ Use other concurrent collections when mutation is frequent.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-021.md](./learn-java-collections-and-streams-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-023.md](./learn-java-collections-and-streams-part-023.md)
-
-</div>

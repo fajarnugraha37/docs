@@ -2806,8 +2806,5 @@ Masih lanjut ke part 015 sampai part 030.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-013](./learn-java-memory-byte-bit-buffer-offheap-gc-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-015.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-015.md)
-
-</div>

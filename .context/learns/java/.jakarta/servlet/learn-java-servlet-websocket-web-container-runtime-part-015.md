@@ -1598,8 +1598,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-014](./learn-java-servlet-websocket-web-container-runtime-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-016](./learn-java-servlet-websocket-web-container-runtime-part-016.md)
-
-</div>

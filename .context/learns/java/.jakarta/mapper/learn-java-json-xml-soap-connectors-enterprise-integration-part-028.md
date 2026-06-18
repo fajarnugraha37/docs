@@ -1593,8 +1593,5 @@ Bagian berikutnya akan masuk lebih dalam ke praktik security SOAP: TLS vs messag
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-027](./learn-java-json-xml-soap-connectors-enterprise-integration-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 29](./learn-java-json-xml-soap-connectors-enterprise-integration-part-029.md)
-
-</div>

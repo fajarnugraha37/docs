@@ -3376,8 +3376,5 @@ Berikutnya: **Part 18 — JAXB Schema-First Workflow**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 16 — JAXB / Jakarta XML Binding Core](./learn-java-json-xml-soap-connectors-enterprise-integration-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 18](./learn-java-json-xml-soap-connectors-enterprise-integration-part-018.md)
-
-</div>

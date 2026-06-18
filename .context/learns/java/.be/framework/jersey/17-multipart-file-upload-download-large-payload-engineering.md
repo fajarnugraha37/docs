@@ -1655,8 +1655,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 16 — Server-Sent Events and Streaming APIs with Jersey](./16-server-sent-events-and-streaming-apis-with-jersey.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 18 — Security Integration: Authentication, Authorization, Principal, Roles, and Context](./18-security-integration-authentication-authorization-principal-roles-context.md)
-
-</div>

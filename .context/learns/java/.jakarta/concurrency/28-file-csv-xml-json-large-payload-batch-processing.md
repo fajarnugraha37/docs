@@ -2033,8 +2033,5 @@ Part berikutnya akan membahas external API batch: ketika item batch bukan hanya 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 27 — Batch Listeners and Cross-Cutting Behavior](./27-batch-listeners-cross-cutting-behavior.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — External API Batch: Rate Limits, Retries, and Idempotent Integration](./29-external-api-batch-rate-limits-retries-idempotent-integration.md)
-
-</div>

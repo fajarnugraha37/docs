@@ -2915,8 +2915,5 @@ Seri belum selesai. Kita masih akan lanjut ke graph, shortest path, string algor
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-011 — Trees II: BST, Balanced Tree, Segment Tree, Fenwick Tree](./learn-java-dsa-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-013.md](./learn-java-dsa-part-013.md)
-
-</div>

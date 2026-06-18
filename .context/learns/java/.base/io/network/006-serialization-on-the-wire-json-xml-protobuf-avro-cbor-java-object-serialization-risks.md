@@ -2675,8 +2675,5 @@ protocol-level invariants
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 5 — Protocol Design Fundamentals: Framing, Length Prefix, Delimiters, Streaming, and Compatibility](./005-protocol-design-fundamentals-framing-length-prefix-delimiters-streaming-compatibility.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — HTTP as a Protocol: Semantics Before Frameworks](./007-http-as-a-protocol-semantics-before-frameworks.md)
-
-</div>

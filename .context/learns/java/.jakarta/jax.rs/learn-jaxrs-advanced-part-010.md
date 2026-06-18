@@ -2994,8 +2994,5 @@ Kita akan membedah negotiation secara sangat detail: request `Content-Type`, res
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-009.md](./learn-jaxrs-advanced-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-011.md](./learn-jaxrs-advanced-part-011.md)
-
-</div>

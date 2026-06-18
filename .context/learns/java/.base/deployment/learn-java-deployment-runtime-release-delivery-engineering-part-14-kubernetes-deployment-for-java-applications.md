@@ -2799,8 +2799,5 @@ Di sana kita akan membedah secara jauh lebih detail bagaimana startup/readiness/
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-13-spring-boot-deployment-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Deployment Runtime Release Delivery Engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-15-kubernetes-probes-graceful-shutdown-traffic-draining.md)
-
-</div>

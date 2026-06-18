@@ -2633,8 +2633,5 @@ Di part berikutnya kita akan membahas feature flag secara jauh lebih dalam:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 026 — MicroProfile Config Deep Dive](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 028 — Feature Flags: Runtime Decisioning, Risk Control, and Progressive Delivery](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-028.md)
-
-</div>

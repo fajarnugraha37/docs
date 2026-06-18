@@ -2283,8 +2283,5 @@ Part 24 — Domain Authorization for Case Management and Workflow Systems
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 22 — Security Context Propagation: Threads, Executors, Async, Virtual Threads, Reactive](./learn-java-jakarta-security-authentication-authorization-identity-part-22-security-context-propagation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Domain Authorization for Case Management and Workflow Systems](./learn-java-jakarta-security-authentication-authorization-identity-part-24-domain-authorization-case-management-workflow.md)
-
-</div>

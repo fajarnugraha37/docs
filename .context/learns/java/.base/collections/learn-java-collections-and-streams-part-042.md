@@ -1456,8 +1456,5 @@ If handling is procedural and complex, use a loop.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-041.md](./learn-java-collections-and-streams-part-041.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-043.md](./learn-java-collections-and-streams-part-043.md)
-
-</div>

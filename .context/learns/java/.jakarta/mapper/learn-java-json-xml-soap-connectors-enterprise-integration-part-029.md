@@ -1917,8 +1917,5 @@ Kita belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 28  ](./learn-java-json-xml-soap-connectors-enterprise-integration-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 30](./learn-java-json-xml-soap-connectors-enterprise-integration-part-030.md)
-
-</div>

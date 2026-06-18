@@ -3066,8 +3066,5 @@ Di sana kita akan belajar bagaimana JDBC dapat membaca informasi tentang databas
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-012.md](./learn-java-sql-jdbc-hikaricp-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-014](./learn-java-sql-jdbc-hikaricp-part-014.md)
-
-</div>

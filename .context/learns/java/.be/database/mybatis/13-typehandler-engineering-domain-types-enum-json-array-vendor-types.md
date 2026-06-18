@@ -2894,8 +2894,5 @@ Topik berikutnya akan membahas database vendor awareness: Oracle, PostgreSQL, My
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 12 — Spring Boot Integration: Auto Configuration, Mapper Scan, Configuration Customizer](./12-spring-boot-integration-autoconfiguration-mapperscan-customizer.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 14 — Database Vendor Awareness: Oracle, PostgreSQL, MySQL, SQL Server](./14-database-vendor-awareness-oracle-postgresql-mysql-sqlserver.md)
-
-</div>

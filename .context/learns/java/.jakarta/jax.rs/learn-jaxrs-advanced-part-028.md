@@ -2280,8 +2280,5 @@ Kita akan membahas client-side extension dan advanced invocation: `ClientRequest
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-027.md](./learn-jaxrs-advanced-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-029.md](./learn-jaxrs-advanced-part-029.md)
-
-</div>

@@ -2296,8 +2296,5 @@ Part 021 — Memory Model for Performance: Heap, Stack, Metaspace, Direct Memory
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-019](./learn-java-testing-benchmarking-performance-jvm-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-021](./learn-java-testing-benchmarking-performance-jvm-part-021.md)
-
-</div>

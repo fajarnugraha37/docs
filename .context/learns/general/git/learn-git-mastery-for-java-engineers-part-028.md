@@ -1905,8 +1905,5 @@ Advanced Ref Management: Refspec, Notes, Namespaces, dan Internals
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-027.md](./learn-git-mastery-for-java-engineers-part-027.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-029.md](./learn-git-mastery-for-java-engineers-part-029.md)
-
-</div>

@@ -1905,8 +1905,5 @@ Next: Part 13 — Timeout Engineering: Connect, DNS, TLS, Request, Read, Write, 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 11 — Java HTTP Clients Across Generations: `HttpURLConnection`, Apache HttpClient, OkHttp, Netty, Spring, and JDK `HttpClient`](./011-java-http-clients-across-generations-httpurlconnection-apache-okhttp-netty-spring-jdk-httpclient.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — Timeout Engineering: Connect, DNS, TLS, Request, Read, Write, Pool Acquisition, and Deadline](./013-timeout-engineering-connect-dns-tls-request-read-write-pool-acquisition-deadline.md)
-
-</div>

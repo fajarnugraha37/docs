@@ -2918,8 +2918,5 @@ Jika harus diringkas menjadi satu kalimat:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-part-023.md](./learn-java-part-023.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-025.md](./learn-java-part-025.md)
-
-</div>

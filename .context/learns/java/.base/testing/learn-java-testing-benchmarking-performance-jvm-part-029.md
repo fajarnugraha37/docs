@@ -1846,8 +1846,5 @@ Progress: **Part 029 dari 031 selesai**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-028](./learn-java-testing-benchmarking-performance-jvm-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-030](./learn-java-testing-benchmarking-performance-jvm-part-030.md)
-
-</div>

@@ -1632,8 +1632,5 @@ First define: key cardinality, output value type, ordering, memory budget, dupli
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-031.md](./learn-java-collections-and-streams-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-033.md](./learn-java-collections-and-streams-part-033.md)
-
-</div>

@@ -2431,8 +2431,5 @@ Profiling & Diagnostics II: async-profiler, Flame Graph, Allocation Profile, Wal
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-025](./learn-java-testing-benchmarking-performance-jvm-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-027](./learn-java-testing-benchmarking-performance-jvm-part-027.md)
-
-</div>

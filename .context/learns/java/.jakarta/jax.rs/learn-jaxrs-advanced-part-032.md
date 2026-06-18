@@ -2314,8 +2314,5 @@ Kita akan membahas versioning API secara mendalam: URI versioning, media type ve
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-031.md](./learn-jaxrs-advanced-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-033.md](./learn-jaxrs-advanced-part-033.md)
-
-</div>

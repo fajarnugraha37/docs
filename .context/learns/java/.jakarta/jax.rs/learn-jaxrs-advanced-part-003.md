@@ -3302,8 +3302,5 @@ Kita akan membedah bagaimana runtime memilih resource method ketika ada banyak `
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-002.md](./learn-jaxrs-advanced-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-004.md](./learn-jaxrs-advanced-part-004.md)
-
-</div>

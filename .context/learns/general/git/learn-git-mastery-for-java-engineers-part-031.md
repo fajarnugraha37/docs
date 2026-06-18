@@ -2217,8 +2217,5 @@ Capstone: Mendesain Git Workflow untuk Java Engineering Team
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-030.md](./learn-git-mastery-for-java-engineers-part-030.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-032.md](./learn-git-mastery-for-java-engineers-part-032.md)
-
-</div>

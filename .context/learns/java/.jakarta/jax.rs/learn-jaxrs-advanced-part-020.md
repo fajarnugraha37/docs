@@ -3111,8 +3111,5 @@ Kita akan membahas partial update secara mendalam: PUT vs PATCH, JSON Merge Patc
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-019.md](./learn-jaxrs-advanced-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-021.md](./learn-jaxrs-advanced-part-021.md)
-
-</div>

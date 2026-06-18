@@ -2040,8 +2040,5 @@ Di sana kita akan menggabungkan semua bagian sebelumnya menjadi desain end-to-en
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 31 — Failure Modeling and Production Troubleshooting](./31-failure-modeling-production-troubleshooting.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 33 — Capstone: Designing a Production-Grade MyBatis Persistence Layer](./33-capstone-production-grade-mybatis-persistence-layer-design.md)
-
-</div>

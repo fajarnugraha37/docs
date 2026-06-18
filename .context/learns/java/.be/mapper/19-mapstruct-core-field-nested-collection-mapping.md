@@ -2458,8 +2458,5 @@ Ini sangat penting untuk CRUD enterprise, case management, regulatory system, ap
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 18 — MapStruct Mental Model: Compile-Time Mapping and Generated Code](./18-mapstruct-mental-model-compile-time-mapping-generated-code.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — MapStruct Update Mapping: Patch, Merge, Partial Update, Null Strategy](./20-mapstruct-update-mapping-patch-merge-partial-update-null-strategy.md)
-
-</div>

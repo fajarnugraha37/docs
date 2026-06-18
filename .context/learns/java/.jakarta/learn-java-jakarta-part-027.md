@@ -2915,8 +2915,5 @@ Bagian berikutnya akan membahas **Jakarta Server Pages (`jakarta.servlet.jsp`) /
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-026.md](./learn-java-jakarta-part-026.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-028.md](./learn-java-jakarta-part-028.md)
-
-</div>

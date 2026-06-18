@@ -1754,8 +1754,5 @@ File: 23-batch-transactions-and-database-integration.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 21 — Checkpointing, Restartability, and Idempotency](./21-checkpointing-restartability-idempotency.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Batch Transactions and Database Integration](./23-batch-transactions-and-database-integration.md)
-
-</div>

@@ -1878,8 +1878,5 @@ Kita akan membahas service-to-service HTTP secara mendalam: client lifecycle, co
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-046.md](./learn-jaxrs-advanced-part-046.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-048.md](./learn-jaxrs-advanced-part-048.md)
-
-</div>

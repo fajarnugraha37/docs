@@ -2157,8 +2157,5 @@ That part will focus on how deployment fails in production, how to classify symp
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration-constraints.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md)
-
-</div>

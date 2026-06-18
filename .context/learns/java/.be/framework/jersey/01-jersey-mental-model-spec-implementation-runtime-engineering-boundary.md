@@ -2754,8 +2754,5 @@ Part terakhir yang direncanakan:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 0 — Orientasi Seri Java Jersey: Scope, Mental Model, Versi, dan Cara Belajar](./00-orientasi-seri-java-jersey-runtime-resource-client-extension-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 3 — Resource Model Internals: How Jersey Understands Resource Classes](./03-resource-model-internals-how-jersey-understands-resource-classes.md)
-
-</div>

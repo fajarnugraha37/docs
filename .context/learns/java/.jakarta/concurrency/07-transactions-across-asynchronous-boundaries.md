@@ -2108,8 +2108,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 6 — ContextService and Context Propagation](./06-context-service-and-context-propagation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Security, Identity, and Authorization in Async Execution](./08-security-identity-and-authorization-in-async-execution.md)
-
-</div>

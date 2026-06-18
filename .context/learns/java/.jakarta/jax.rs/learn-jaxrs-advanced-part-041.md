@@ -2074,8 +2074,5 @@ Kita akan membahas hardening production API: authentication, authorization, JWT/
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-040.md](./learn-jaxrs-advanced-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-042.md](./learn-jaxrs-advanced-part-042.md)
-
-</div>

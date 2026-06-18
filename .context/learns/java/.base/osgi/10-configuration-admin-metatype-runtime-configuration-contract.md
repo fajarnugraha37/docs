@@ -3489,8 +3489,5 @@ Configuration becomes much safer when build tooling generates and validates the 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 9 — Advanced Declarative Services Patterns: Dynamic Topologies Without Chaos](./09-advanced-declarative-services-patterns-dynamic-topologies-without-chaos.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — bnd and Bndtools: Build Intelligence for OSGi Engineering](./11-bnd-bndtools-build-intelligence-osgi-engineering.md)
-
-</div>

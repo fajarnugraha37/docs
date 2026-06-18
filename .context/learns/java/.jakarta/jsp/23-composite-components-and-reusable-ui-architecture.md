@@ -2152,8 +2152,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 22 — Ajax and Partial Rendering in Jakarta Faces](./22-ajax-and-partial-rendering-in-faces.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — Custom Faces Components, Renderers, Converters, Validators, and Extensions](./24-custom-faces-components-renderers-converters-validators-extensions.md)
-
-</div>

@@ -2452,8 +2452,5 @@ Di sana kita akan membahas realitas container orchestration: `SIGTERM`, `preStop
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-009.md](./learn-java-reliability-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-011.md](./learn-java-reliability-part-011.md)
-
-</div>

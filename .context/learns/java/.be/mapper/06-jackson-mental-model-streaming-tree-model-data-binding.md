@@ -3043,8 +3043,5 @@ Dengan mental model ini, bagian berikutnya dapat masuk lebih dalam ke `ObjectMap
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 5 — Mapping Architecture: Mapper Placement, Ownership, and Dependency Direction](./05-mapping-architecture-placement-ownership-dependency-direction.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 7 — ObjectMapper Engineering: Configuration, Lifecycle, Thread Safety, Modules](./07-objectmapper-engineering-configuration-lifecycle-thread-safety-modules.md)
-
-</div>

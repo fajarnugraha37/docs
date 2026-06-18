@@ -2745,8 +2745,5 @@ Diff Mental Model: Membandingkan State, Bukan Sekadar File
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-004.md](./learn-git-mastery-for-java-engineers-part-004.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-006.md](./learn-git-mastery-for-java-engineers-part-006.md)
-
-</div>

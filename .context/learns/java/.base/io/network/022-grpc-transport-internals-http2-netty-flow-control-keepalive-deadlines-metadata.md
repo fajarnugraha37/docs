@@ -2616,8 +2616,5 @@ Part berikutnya: Part 23 — gRPC Error Handling, Retry, Load Balancing, Name Re
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 21 — gRPC Fundamentals: RPC Model, Protobuf Contract, Stub, Channel, Server, and Service Definition](./021-grpc-fundamentals-rpc-model-protobuf-contract-stub-channel-server-service-definition.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 23 — gRPC Error Handling, Retry, Load Balancing, Name Resolution, and Service Config](./023-grpc-error-handling-retry-load-balancing-name-resolution-service-config.md)
-
-</div>

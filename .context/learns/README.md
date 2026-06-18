@@ -13,3 +13,8 @@ Setiap halaman telah dilengkapi dengan navigasi [⬅️ Sebelumnya] dan [Selanju
 ### GitHub Pages (MkDocs)
 Repositori ini juga telah dikonfigurasi untuk otomatis membangun website dokumentasi bergaya buku menggunakan **MkDocs (Material Theme)**.
 Pastikan Anda telah menyalakan GitHub Pages di pengaturan repositori Anda (Settings -> Pages -> Deploy from a branch -> pilih branch `gh-pages` yang dihasilkan oleh Actions).
+
+<!-- NAVIGATION_FOOTER -->
+---
+
+[🏠 Daftar Isi](./index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-000.md](./general/git/learn-git-mastery-for-java-engineers-part-000.md)

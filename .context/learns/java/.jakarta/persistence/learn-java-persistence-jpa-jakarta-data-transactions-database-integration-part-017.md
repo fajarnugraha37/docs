@@ -2243,8 +2243,5 @@ _Status seri: belum selesai. Lanjut ke Part 018 — Constraints, Invariants, and
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 016 — Batch Processing and High-Volume Persistence](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Constraints, Invariants, and Validation Across Layers](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-018.md)
-
-</div>

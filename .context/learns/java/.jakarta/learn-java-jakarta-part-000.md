@@ -2415,8 +2415,5 @@ Dengan mental model ini, bagian berikutnya—namespace migration dari `javax.*` 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 30 — Capstone: Build and Review an Enterprise Case Management UI](./jsp/30-capstone-enterprise-case-management-ui.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-001.md](./learn-java-jakarta-part-001.md)
-
-</div>

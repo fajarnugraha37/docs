@@ -2304,8 +2304,5 @@ Bagian berikutnya akan membahas **Jakarta XML Binding (`jakarta.xml.bind`) / JAX
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-029.md](./learn-java-jakarta-part-029.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-031.md](./learn-java-jakarta-part-031.md)
-
-</div>

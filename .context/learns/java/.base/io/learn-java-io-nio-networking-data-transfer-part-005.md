@@ -1996,8 +1996,5 @@ Jika kamu menguasai boundary ini, kamu bisa mendesain text pipeline yang tidak h
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 004 — Binary I/O: Primitive Data, Endianness, Framing, dan Format Stabil](./learn-java-io-nio-networking-data-transfer-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 006 — Console I/O: `System.in/out/err`, `Console`, Password Input, dan CLI Interaction](./learn-java-io-nio-networking-data-transfer-part-006.md)
-
-</div>

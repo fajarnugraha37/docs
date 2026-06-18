@@ -2359,8 +2359,5 @@ Testing Validation: Unit, Integration, Contract, Mutation, and Property-Based Te
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-024](./learn-java-validation-jakarta-hibernate-validator-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-026](./learn-java-validation-jakarta-hibernate-validator-part-026.md)
-
-</div>

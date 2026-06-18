@@ -3146,8 +3146,5 @@ Bagian berikutnya akan membahas **Interceptors dan Decorators** secara lebih men
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-006.md](./learn-java-jakarta-part-006.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-008.md](./learn-java-jakarta-part-008.md)
-
-</div>

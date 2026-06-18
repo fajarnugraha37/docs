@@ -1642,8 +1642,5 @@ and how long has it been there?”
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-026.md](./learn-java-concurrency-and-reactive-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-028.md](./learn-java-concurrency-and-reactive-part-028.md)
-
-</div>

@@ -1349,8 +1349,5 @@ Jika bisa menjawab itu, kita mulai bergerak dari “user ORM” menjadi “persi
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 22 — Schema Generation, Validation, Migration, and DDL Discipline](./22-schema-generation-validation-migration-ddl-discipline.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 24 — Hibernate ORM Deep Dive: Architecture, Session, Event System, Interceptors, and Extensions](./24-hibernate-orm-architecture-session-events-interceptors-extensions.md)
-
-</div>

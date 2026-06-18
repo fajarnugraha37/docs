@@ -1964,8 +1964,5 @@ but to make invalid collection states impossible to express.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-011.md](./learn-java-collections-and-streams-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-013.md](./learn-java-collections-and-streams-part-013.md)
-
-</div>

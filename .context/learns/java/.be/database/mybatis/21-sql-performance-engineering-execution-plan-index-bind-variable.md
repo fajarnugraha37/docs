@@ -1608,8 +1608,5 @@ Jika semua sudah masuk akal, kita siap lanjut ke observability yang lebih sistem
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 20 — Concurrency and Consistency: Locking, Versioning, Lost Update](./20-concurrency-consistency-locking-versioning-lost-update.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Observability: SQL Logging, Parameter Visibility, Correlation ID, Metrics](./22-observability-sql-logging-parameter-visibility-correlation-metrics.md)
-
-</div>

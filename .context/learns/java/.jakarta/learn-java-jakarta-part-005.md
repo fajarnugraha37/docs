@@ -2471,8 +2471,5 @@ Dengan mental model ini, bagian berikutnya tentang **`jakarta.inject` dan Depend
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-004.md](./learn-java-jakarta-part-004.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-006.md](./learn-java-jakarta-part-006.md)
-
-</div>

@@ -1681,8 +1681,5 @@ Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-023](./learn-java-oop-functional-reflection-codegen-modules-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-025](./learn-java-oop-functional-reflection-codegen-modules-part-025.md)
-
-</div>

@@ -1926,8 +1926,5 @@ Kalimat paling penting dari bagian ini:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 025 — Spring Transaction + JPA Integration Deep Dive](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 027 — Performance Engineering for JPA/Hibernate](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-027.md)
-
-</div>

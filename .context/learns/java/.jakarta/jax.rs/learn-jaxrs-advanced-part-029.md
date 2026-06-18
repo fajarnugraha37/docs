@@ -2397,8 +2397,5 @@ Kita akan membahas outbound resilience secara mendalam: timeout budget, deadline
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-028.md](./learn-jaxrs-advanced-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-030.md](./learn-jaxrs-advanced-part-030.md)
-
-</div>

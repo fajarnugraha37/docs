@@ -2623,8 +2623,5 @@ Top-tier engineer memperlakukan API sebagai kontrak jangka panjang. Mereka tidak
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 20 — API Versioning and Compatibility with Jersey](./20-api-versioning-and-compatibility-with-jersey (1).md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 21 — Hypermedia, Links, URI Building, and REST Maturity Pragmatism](./21-hypermedia-links-uri-building-rest-maturity-pragmatism.md)
-
-</div>

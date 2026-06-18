@@ -2774,8 +2774,5 @@ Kita akan membahas `@JsonbProperty`, `@JsonbTransient`, `@JsonbDateFormat`, `@Js
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 6](./learn-java-json-xml-soap-connectors-enterprise-integration-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 008](./learn-java-json-xml-soap-connectors-enterprise-integration-part-008.md)
-
-</div>

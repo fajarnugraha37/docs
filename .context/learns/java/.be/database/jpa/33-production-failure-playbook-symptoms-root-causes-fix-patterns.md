@@ -1877,8 +1877,5 @@ Primary references for further reading:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 32 — Migration Engineering: Javax to Jakarta, Hibernate 5 to 6/7, EclipseLink 2 to 4/5](./32-migration-engineering-javax-jakarta-hibernate-eclipselink.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 34 — Capstone: Designing a Production-Grade Persistence Layer for Complex Case Management](./34-capstone-production-grade-persistence-layer-complex-case-management.md)
-
-</div>

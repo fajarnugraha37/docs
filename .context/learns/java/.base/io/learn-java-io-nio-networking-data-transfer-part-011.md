@@ -2537,8 +2537,5 @@ Part 011 memberi dasar `Path`, `Files`, dan `FileSystem`; Part 012 akan menjawab
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 010 — Memory-Mapped File: `MappedByteBuffer`, Page Cache, Huge Files, dan Trade-off](./learn-java-io-nio-networking-data-transfer-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 012 — File Attributes, Permissions, Ownership, Metadata, dan Cross-Platform Semantics](./learn-java-io-nio-networking-data-transfer-part-012.md)
-
-</div>

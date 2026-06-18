@@ -1497,8 +1497,5 @@ Use it to express data transformation, not to hide complex mutable control flow.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-023.md](./learn-java-collections-and-streams-part-023.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-025.md](./learn-java-collections-and-streams-part-025.md)
-
-</div>

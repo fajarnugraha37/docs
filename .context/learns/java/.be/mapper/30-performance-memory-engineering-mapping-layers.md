@@ -2054,8 +2054,5 @@ Di Part 31, kita akan masuk lebih dalam ke persistence-specific pitfalls: JPA en
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 29 — Testing Strategy: Unit, Golden Payload, Property-Based, Contract Tests](./29-testing-strategy-unit-golden-payload-property-based-contract-tests.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Persistence Mapping Pitfalls: JPA Entities, Lazy Loading, Proxies, Cycles](./31-persistence-mapping-pitfalls-jpa-entities-lazy-loading-proxies-cycles.md)
-
-</div>

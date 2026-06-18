@@ -2519,8 +2519,5 @@ The top 1% skill here is not memorizing APIs. It is knowing when the filesystem 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 09](./learn-java-io-file-filesystem-storage-engineering-part-09-delete-semantics.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — FileVisitor and Tree Algorithms: Robust Recursive Operations](./learn-java-io-file-filesystem-storage-engineering-part-11-filevisitor-tree-algorithms.md)
-
-</div>

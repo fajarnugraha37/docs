@@ -2123,8 +2123,5 @@ Part berikutnya: **Part 015 — Idempotency as Core Reliability Primitive**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-013.md](./learn-java-reliability-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-015.md](./learn-java-reliability-part-015.md)
-
-</div>

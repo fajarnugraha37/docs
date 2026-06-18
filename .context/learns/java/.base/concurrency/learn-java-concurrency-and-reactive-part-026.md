@@ -1679,8 +1679,5 @@ atomic outbox/inbox, bounded retries, and observable coordination.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-025.md](./learn-java-concurrency-and-reactive-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-027.md](./learn-java-concurrency-and-reactive-part-027.md)
-
-</div>

@@ -1902,8 +1902,5 @@ Part 032 — bagian terakhir
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 031 — Production Operations: Observability, Debugging, Tuning, and Incident Response](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 00 — Orientation: Enterprise Java Security Mental Model](../security/learn-java-jakarta-security-authentication-authorization-identity-part-00-orientation-and-mental-model.md)
-
-</div>

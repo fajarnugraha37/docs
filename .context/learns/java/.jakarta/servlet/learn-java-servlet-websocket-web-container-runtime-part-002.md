@@ -2636,8 +2636,5 @@ Di sana kita akan membedah bagaimana container menerima connection, memetakan re
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime-part-001](./learn-java-servlet-websocket-web-container-runtime-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-003](./learn-java-servlet-websocket-web-container-runtime-part-003.md)
-
-</div>

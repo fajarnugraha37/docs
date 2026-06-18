@@ -1997,8 +1997,5 @@ Part 6 — Serialization on the Wire: JSON, XML, Protobuf, Avro, CBOR, and Java 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 4 — Java Socket Internals: Blocking Socket, ServerSocket, SocketChannel, and Selector Revisited](./004-java-socket-internals-blocking-socket-serversocket-socketchannel-selector-revisited.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 6 — Serialization on the Wire: JSON, XML, Protobuf, Avro, CBOR, and Java Object Serialization Risks](./006-serialization-on-the-wire-json-xml-protobuf-avro-cbor-java-object-serialization-risks.md)
-
-</div>

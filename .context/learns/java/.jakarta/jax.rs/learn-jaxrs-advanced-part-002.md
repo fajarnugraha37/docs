@@ -2493,8 +2493,5 @@ Kita akan masuk sangat detail ke desain resource class, resource method, subreso
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-001.md](./learn-jaxrs-advanced-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-003.md](./learn-jaxrs-advanced-part-003.md)
-
-</div>

@@ -2450,8 +2450,5 @@ Part 07 — SecurityContext Deep Dive
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 05 — Authentication Mechanisms: Basic, Form, Custom Form, Client Certificate, OIDC](./learn-java-jakarta-security-authentication-authorization-identity-part-05-authentication-mechanisms.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 07 — SecurityContext Deep Dive](./learn-java-jakarta-security-authentication-authorization-identity-part-07-securitycontext-deep-dive.md)
-
-</div>

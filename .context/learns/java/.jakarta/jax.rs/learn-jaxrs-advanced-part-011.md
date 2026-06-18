@@ -2752,8 +2752,5 @@ Kita akan membahas JSON secara sangat mendalam: JSON-B vs JSON-P vs Jackson, pro
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-010.md](./learn-jaxrs-advanced-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-012.md](./learn-jaxrs-advanced-part-012.md)
-
-</div>

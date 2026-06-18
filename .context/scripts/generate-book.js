@@ -131,7 +131,7 @@ function generateDirIndexes(dir) {
         
         // Inject footer pointing back to root
         const relHome = getRelativePath(indexFile, homeFile);
-        content += `\n---\n<div align="center">\n\n[🏠 Kembali ke Daftar Isi Utama](${relHome})\n\n</div>\n`;
+        content += `\n---\n\n[🏠 Kembali ke Daftar Isi Utama](${relHome})\n`;
 
         fs.writeFileSync(indexFile, content, 'utf8');
         console.log(`Created localized TOC at ${indexFile}`);
@@ -160,7 +160,7 @@ for (let i = 0; i < allFiles.length; i++) {
 
     // Build new footer
     const relHome = getRelativePath(current, homeFile);
-    let footer = `\n\n${FOOTER_MARKER}\n---\n<div align="center">\n\n`;
+    let footer = `\n\n${FOOTER_MARKER}\n---\n\n`;
     
     if (prev) {
         const relPrev = getRelativePath(current, prev);
@@ -174,7 +174,7 @@ for (let i = 0; i < allFiles.length; i++) {
         footer += ` | [Selanjutnya ➡️: ${getTitle(next)}](${relNext})`;
     }
     
-    footer += `\n\n</div>`;
+    footer += `\n`;
     
     fs.writeFileSync(current, content + footer, 'utf8');
 }

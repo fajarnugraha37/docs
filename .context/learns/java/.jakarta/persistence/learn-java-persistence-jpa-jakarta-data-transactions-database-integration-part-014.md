@@ -1888,8 +1888,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 013 — Optimistic Locking, Versioning, and State Machine Persistence](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — Flush, Dirty Checking, Write-Behind, and SQL Generation](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-015.md)
-
-</div>

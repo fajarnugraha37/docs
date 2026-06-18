@@ -2018,8 +2018,5 @@ Bagian terakhir yang direncanakan: Part 032 — Capstone: Mendesain Git Workflow
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-000.md](./learn-git-mastery-for-java-engineers-part-000.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-002.md](./learn-git-mastery-for-java-engineers-part-002.md)
-
-</div>

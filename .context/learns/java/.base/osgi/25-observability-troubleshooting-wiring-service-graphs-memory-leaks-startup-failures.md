@@ -1898,8 +1898,5 @@ The most important mental models from this part:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 24 — Testing OSGi Systems: Unit, Bundle, Resolver, Integration, and Runtime Tests](./24-testing-osgi-systems-unit-bundle-resolver-integration-runtime-tests.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — Performance Engineering: Startup, Resolver Cost, Service Lookup, Classloading, Memory](./26-performance-engineering-startup-resolver-service-lookup-classloading-memory.md)
-
-</div>

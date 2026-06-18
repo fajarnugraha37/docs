@@ -3306,8 +3306,5 @@ Kita akan membahas URI design dan path template secara jauh lebih detail: canoni
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-003.md](./learn-jaxrs-advanced-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-005.md](./learn-jaxrs-advanced-part-005.md)
-
-</div>

@@ -2713,8 +2713,5 @@ Remaining: Part 20 sampai Part 34
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-018.md](./learn-java-security-cryptography-integrity-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-020](./learn-java-security-cryptography-integrity-part-020.md)
-
-</div>

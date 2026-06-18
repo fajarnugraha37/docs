@@ -2109,8 +2109,5 @@ Di sana kita akan membahas bagaimana framing, partial read, partial write, dan b
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 019 — Networking I: `java.net` Foundation, Address, DNS, URI, URL, Socket Basics](./learn-java-io-nio-networking-data-transfer-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 021 — NIO Networking: `SocketChannel`, `ServerSocketChannel`, `Selector`, dan Event Loop](./learn-java-io-nio-networking-data-transfer-part-021.md)
-
-</div>

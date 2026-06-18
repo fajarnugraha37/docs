@@ -2315,8 +2315,5 @@ Seri **belum selesai**. Ini adalah **Part 000 dari 032**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 34 — Capstone Architecture: Designing an Enterprise Jakarta Security Platform](../security/learn-java-jakarta-security-authentication-authorization-identity-part-34-capstone-enterprise-jakarta-security-platform.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime-part-001](./learn-java-servlet-websocket-web-container-runtime-part-001.md)
-
-</div>

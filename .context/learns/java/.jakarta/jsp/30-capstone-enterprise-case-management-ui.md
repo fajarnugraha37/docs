@@ -1856,8 +1856,5 @@ Seri `learn-java-jakarta-pages-el-tags-faces-server-side-ui` **selesai di bagian
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 29 — Architecture Patterns: JSP/Faces in Modern Enterprise Systems](./29-architecture-patterns-jsp-faces-modern-enterprise-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-000.md](../learn-java-jakarta-part-000.md)
-
-</div>

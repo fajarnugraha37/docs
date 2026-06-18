@@ -1847,8 +1847,5 @@ ZGC Deep Dive: Colored Pointers, Load Barriers, Relocation, Generational ZGC
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-020](./learn-java-memory-byte-bit-buffer-offheap-gc-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-022](./learn-java-memory-byte-bit-buffer-offheap-gc-part-022.md)
-
-</div>

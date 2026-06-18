@@ -1642,8 +1642,5 @@ They encode dataflow, state, ordering, memory, and termination behavior.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-025.md](./learn-java-collections-and-streams-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-027.md](./learn-java-collections-and-streams-part-027.md)
-
-</div>

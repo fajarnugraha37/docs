@@ -2531,8 +2531,5 @@ Performance dan Maintenance Repository
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-028.md](./learn-git-mastery-for-java-engineers-part-028.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-030.md](./learn-git-mastery-for-java-engineers-part-030.md)
-
-</div>

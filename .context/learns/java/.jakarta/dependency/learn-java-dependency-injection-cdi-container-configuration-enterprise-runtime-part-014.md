@@ -2959,8 +2959,5 @@ Belum selesai. Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 013 — Producers and Disposers: Programmatic Object Supply](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 015 — Interceptors: Cross-Cutting Behavior as Runtime Boundary](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-015.md)
-
-</div>

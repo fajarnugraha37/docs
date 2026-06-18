@@ -1746,8 +1746,5 @@ File berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 22 — `FunctionalInterface`, Lambda Runtime Support, `invokedynamic`, and `java.lang.invoke` Boundary](./22-functionalinterface-lambda-runtime-support-invokedynamic-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 24 — DOM Mental Model: Document as Mutable Tree, Node Identity, Ownership](./24-dom-mental-model-document-node-tree-ownership.md)
-
-</div>

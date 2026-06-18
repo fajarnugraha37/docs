@@ -2239,8 +2239,5 @@ Jika sistem bisa mengklasifikasi, menjelaskan, mengamankan, mengukur, dan merepl
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 27 — Mapping Validation Boundary: Bean Validation, Invariants, and Normalization](./27-mapping-validation-boundary-bean-validation-invariants-normalization.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Testing Strategy: Unit, Golden Payload, Property-Based, Contract Tests](./29-testing-strategy-unit-golden-payload-property-based-contract-tests.md)
-
-</div>

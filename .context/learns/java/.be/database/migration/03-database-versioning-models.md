@@ -2753,8 +2753,5 @@ Kita akan bahas:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 02 — Migration Invariants and Failure Models](./02-migration-invariants-and-failure-models.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 4 — Flyway Mental Model](./04-flyway-mental-model.md)
-
-</div>

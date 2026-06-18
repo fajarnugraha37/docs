@@ -2288,8 +2288,5 @@ Di sana kita akan membahas lifecycle hooks Flyway: before/after migrate, before/
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 7 — Flyway Repeatable Migrations](./07-flyway-repeatable-migrations.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 09 — Flyway Callbacks and Lifecycle Hooks](./09-flyway-callbacks-lifecycle-hooks.md)
-
-</div>

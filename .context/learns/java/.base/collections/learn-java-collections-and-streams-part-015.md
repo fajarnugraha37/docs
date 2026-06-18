@@ -1755,8 +1755,5 @@ It is the result of good key design, good hash distribution, reasonable capacity
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-014.md](./learn-java-collections-and-streams-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-016.md](./learn-java-collections-and-streams-part-016.md)
-
-</div>

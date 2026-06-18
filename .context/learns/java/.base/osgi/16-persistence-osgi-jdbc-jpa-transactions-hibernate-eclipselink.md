@@ -2473,8 +2473,5 @@ Part berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 15 — Web and HTTP in OSGi: Http Service, HTTP Whiteboard, Servlets, REST](./15-web-http-osgi-http-service-whiteboard-servlets-rest.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Messaging, Events, and Async Runtime: Event Admin, Push Streams, Reactive Bridges](./17-messaging-events-async-runtime-event-admin-push-streams-reactive-bridges.md)
-
-</div>

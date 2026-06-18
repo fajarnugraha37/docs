@@ -2197,8 +2197,5 @@ Daftar lengkap:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-029](./learn-java-oop-functional-reflection-codegen-modules-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-000](../security/learn-java-security-cryptography-integrity-part-000.md)
-
-</div>

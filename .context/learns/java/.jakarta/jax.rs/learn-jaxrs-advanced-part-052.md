@@ -1816,8 +1816,5 @@ Kita akan membahas cara refactor API JAX-RS legacy: strangler pattern, endpoint 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-051.md](./learn-jaxrs-advanced-part-051.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-053.md](./learn-jaxrs-advanced-part-053.md)
-
-</div>

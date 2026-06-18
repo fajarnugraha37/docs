@@ -1604,8 +1604,5 @@ Kita akan menutup seri dengan reference architecture komprehensif: resource desi
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-052.md](./learn-jaxrs-advanced-part-052.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-054.md](./learn-jaxrs-advanced-part-054.md)
-
-</div>

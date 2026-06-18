@@ -1859,8 +1859,5 @@ Part ini menjadi fondasi untuk memahami **process composition**, **saga**, dan *
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-13-timers-sla-timeout-expiry-scheduled-process-behavior.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-15-subprocess-call-activity-reusable-process-composition.md)
-
-</div>

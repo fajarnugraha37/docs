@@ -1768,8 +1768,5 @@ Primary references for this capstone:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 034 — Migration and Modernization Playbook](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-034.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-000.md](../jax.rs/learn-jaxrs-advanced-part-000.md)
-
-</div>

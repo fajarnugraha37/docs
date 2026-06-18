@@ -2043,8 +2043,5 @@ Di sana kita akan membahas bagaimana MyBatis digunakan secara strategis untuk re
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 28 — Modularization and Codebase Governance for Large Mapper Systems](./28-modularization-codebase-governance-large-mapper-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 30 — Advanced Patterns: CQRS Read Models, Projection Mapper, Reporting Queries](./30-advanced-patterns-cqrs-read-models-projection-reporting-queries.md)
-
-</div>

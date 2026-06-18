@@ -2596,8 +2596,5 @@ Bagian berikutnya akan menjadi bagian synthesis terakhir/lanjutan: **Jakarta EE 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-038.md](./learn-java-jakarta-part-038.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-040.md](./learn-java-jakarta-part-040.md)
-
-</div>

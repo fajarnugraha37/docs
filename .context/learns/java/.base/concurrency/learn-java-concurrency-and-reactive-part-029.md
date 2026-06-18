@@ -1481,8 +1481,5 @@ messages duplicate, and failures occur?”
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-028.md](./learn-java-concurrency-and-reactive-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-030.md](./learn-java-concurrency-and-reactive-part-030.md)
-
-</div>

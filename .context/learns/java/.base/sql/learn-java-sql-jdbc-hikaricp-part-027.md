@@ -2488,8 +2488,5 @@ Referensi utama yang relevan untuk bagian ini:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-026.md](./learn-java-sql-jdbc-hikaricp-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java SQL, JDBC, and HikariCP — Part 028](./learn-java-sql-jdbc-hikaricp-part-028.md)
-
-</div>

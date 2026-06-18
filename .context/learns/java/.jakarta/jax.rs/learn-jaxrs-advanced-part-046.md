@@ -1822,8 +1822,5 @@ Kita akan membahas bagaimana gateway/proxy/LB memengaruhi Jakarta REST apps: for
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-045.md](./learn-jaxrs-advanced-part-045.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-047.md](./learn-jaxrs-advanced-part-047.md)
-
-</div>

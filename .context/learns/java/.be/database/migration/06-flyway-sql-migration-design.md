@@ -3138,8 +3138,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 5 — Flyway Setup in Java 8–25 Projects](./05-flyway-setup-java-8-to-25.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 7 — Flyway Repeatable Migrations](./07-flyway-repeatable-migrations.md)
-
-</div>

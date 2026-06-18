@@ -2443,8 +2443,5 @@ File: 16-stacktraceelement-stackwalker-caller-sensitive-observability.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 14 — `Runtime`, `Process`, `ProcessBuilder`, `ProcessHandle`: OS Boundary](./14-runtime-process-processbuilder-processhandle-os-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — `StackTraceElement`, `StackWalker`, Caller Sensitivity, and Observability](./16-stacktraceelement-stackwalker-caller-sensitive-observability.md)
-
-</div>

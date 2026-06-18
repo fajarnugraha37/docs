@@ -2899,8 +2899,5 @@ Part berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-29-java-17-21-25-containers-virtual-threads-cloud-native.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering — Part 31  ](./learn-java-deployment-runtime-release-delivery-engineering-part-31-runbook-engineering-for-java-deployment.md)
-
-</div>

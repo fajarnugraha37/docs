@@ -2115,8 +2115,5 @@ The senior/staff engineer mindset is not “which isolation level should I use?�
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 011 — Transaction Boundary Design in Real Applications](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Optimistic Locking, Versioning, and State Machine Persistence](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-013.md)
-
-</div>

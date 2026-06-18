@@ -2407,8 +2407,5 @@ Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 16 — Persistence in OSGi: JDBC, JPA, Transactions, Hibernate, EclipseLink](./16-persistence-osgi-jdbc-jpa-transactions-hibernate-eclipselink.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — Security Model: Permissions, Conditional Permission Admin, Signing, and Sandboxing Reality](./18-security-model-permissions-conditional-permission-admin-signing-sandboxing-reality.md)
-
-</div>

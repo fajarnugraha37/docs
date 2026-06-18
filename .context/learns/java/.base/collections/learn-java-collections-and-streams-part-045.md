@@ -1653,8 +1653,5 @@ and parallel behavior are all explicitly correct.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-044.md](./learn-java-collections-and-streams-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-046.md](./learn-java-collections-and-streams-part-046.md)
-
-</div>

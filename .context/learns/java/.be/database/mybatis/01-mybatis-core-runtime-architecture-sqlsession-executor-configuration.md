@@ -2411,8 +2411,5 @@ Fokusnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 00 — MyBatis Orientation: SQL-First Persistence Mental Model](./00-mybatis-orientation-sql-first-persistence-mental-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 2 — Java 8 to 25 MyBatis Version Strategy and Compatibility](./02-java-8-to-25-mybatis-version-strategy-and-compatibility.md)
-
-</div>

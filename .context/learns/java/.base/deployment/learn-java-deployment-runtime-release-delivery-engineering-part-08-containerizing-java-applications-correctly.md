@@ -2779,8 +2779,5 @@ Belum selesai. Masih lanjut ke Part 9.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-07-packaging-for-linux-servers-bare-metal.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-09-dockerfile-patterns-for-java-8-to-25.md)
-
-</div>

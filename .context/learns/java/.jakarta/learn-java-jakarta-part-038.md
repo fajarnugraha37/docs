@@ -2862,8 +2862,5 @@ Bagian berikutnya akan membahas **Jakarta EE Migration & Modernization Playbook*
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-037.md](./learn-java-jakarta-part-037.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-039.md](./learn-java-jakarta-part-039.md)
-
-</div>

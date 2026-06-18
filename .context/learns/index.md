@@ -1,5 +1,8 @@
 # Daftar Isi (Buku Catatan)
 
+## Umum
+- [Notebook](./README.md)
+
 ## General > Git
 - [learn-git-mastery-for-java-engineers-part-000.md](./general/git/learn-git-mastery-for-java-engineers-part-000.md)
 - [learn-git-mastery-for-java-engineers-part-001.md](./general/git/learn-git-mastery-for-java-engineers-part-001.md)

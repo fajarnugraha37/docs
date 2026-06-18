@@ -2196,8 +2196,5 @@ Submodules, Subtree, dan Multi-Repository Dependency
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-022.md](./learn-git-mastery-for-java-engineers-part-022.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-024.md](./learn-git-mastery-for-java-engineers-part-024.md)
-
-</div>

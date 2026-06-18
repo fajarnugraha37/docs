@@ -2730,8 +2730,5 @@ Functional Interfaces and Higher-Order API Design
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-oop-functional-reflection-codegen-modules-part-014](./learn-java-oop-functional-reflection-codegen-modules-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-oop-functional-reflection-codegen-modules-part-016](./learn-java-oop-functional-reflection-codegen-modules-part-016.md)
-
-</div>

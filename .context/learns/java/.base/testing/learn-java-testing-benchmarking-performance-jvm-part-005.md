@@ -2754,8 +2754,5 @@ Part 006 berikutnya: Mocking, Stubbing, Fakes, Spies, dan Contract of Collaborat
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-004](./learn-java-testing-benchmarking-performance-jvm-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-006](./learn-java-testing-benchmarking-performance-jvm-part-006.md)
-
-</div>

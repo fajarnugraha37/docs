@@ -2390,8 +2390,5 @@ Database mapping yang baik membuat domain model tetap benar bahkan ketika data h
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-024.md](./learn-java-data-types-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-026.md](./learn-java-data-types-part-026.md)
-
-</div>

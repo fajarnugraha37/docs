@@ -2065,8 +2065,5 @@ Architecture Patterns: Validation Layering in Large Systems
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-026](./learn-java-validation-jakarta-hibernate-validator-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-028](./learn-java-validation-jakarta-hibernate-validator-part-028.md)
-
-</div>

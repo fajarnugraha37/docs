@@ -2575,8 +2575,5 @@ Kita akan membahas:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 19 — Memory-Mapped Files in File Workflows](./learn-java-io-file-filesystem-storage-engineering-part-19-memory-mapped-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 21 — Append-Only Files, WAL, Journaling, and Recovery Design](./learn-java-io-file-filesystem-storage-engineering-part-21-append-only-wal-journaling-recovery-design.md)
-
-</div>

@@ -2366,8 +2366,5 @@ Setelah memahami invariant dan constraint, caching perlu dipelajari dengan hati-
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 017 — Schema Generation, Migration, and Database Contract](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 019 — Caching: First-Level Cache, Second-Level Cache, Query Cache, External Cache](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-019.md)
-
-</div>

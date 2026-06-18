@@ -1961,8 +1961,5 @@ and observability explicitly.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-005.md](./learn-java-concurrency-and-reactive-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-007.md](./learn-java-concurrency-and-reactive-part-007.md)
-
-</div>

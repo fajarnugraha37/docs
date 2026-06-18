@@ -2654,8 +2654,5 @@ Di sana kita akan membahas XA vs local transaction, transaction inflow, credenti
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-031](./learn-java-json-xml-soap-connectors-enterprise-integration-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-033](./learn-java-json-xml-soap-connectors-enterprise-integration-part-033.md)
-
-</div>

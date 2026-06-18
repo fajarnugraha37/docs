@@ -2648,8 +2648,5 @@ Part 4 — Java Runtime Layout: Filesystem, Process, User, Permissions, and OS C
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-02-artifact-taxonomy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-04-java-runtime-layout-filesystem-process-user-permissions-os.md)
-
-</div>

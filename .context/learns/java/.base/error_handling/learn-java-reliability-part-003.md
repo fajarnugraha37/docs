@@ -2740,8 +2740,5 @@ Itulah inti dari error handling philosophy.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-002.md](./learn-java-reliability-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-004.md](./learn-java-reliability-part-004.md)
-
-</div>

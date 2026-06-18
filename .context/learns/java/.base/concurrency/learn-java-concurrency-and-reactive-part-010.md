@@ -1941,8 +1941,5 @@ dynamic phases, or two-party exchange.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-009.md](./learn-java-concurrency-and-reactive-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-011.md](./learn-java-concurrency-and-reactive-part-011.md)
-
-</div>

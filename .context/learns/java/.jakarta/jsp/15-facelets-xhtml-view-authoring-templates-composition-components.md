@@ -2719,8 +2719,5 @@ Progress saat ini:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 14 — Jakarta Faces Big Picture: Component-Based MVC, Not Just Templates](./14-jakarta-faces-big-picture-component-based-mvc.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Faces Managed Beans, CDI, Scopes, and Dependency Boundaries](./16-faces-managed-beans-cdi-scopes-dependency-boundaries.md)
-
-</div>

@@ -3230,8 +3230,5 @@ Bagian berikutnya akan membahas **Jakarta Security (`jakarta.security.enterprise
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-014.md](./learn-java-jakarta-part-014.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-016.md](./learn-java-jakarta-part-016.md)
-
-</div>

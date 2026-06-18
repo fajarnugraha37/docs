@@ -2408,8 +2408,5 @@ Allocation Mechanics: TLAB, Fast Path, Slow Path, Escape Analysis
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-004](./learn-java-memory-byte-bit-buffer-offheap-gc-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-006](./learn-java-memory-byte-bit-buffer-offheap-gc-part-006.md)
-
-</div>

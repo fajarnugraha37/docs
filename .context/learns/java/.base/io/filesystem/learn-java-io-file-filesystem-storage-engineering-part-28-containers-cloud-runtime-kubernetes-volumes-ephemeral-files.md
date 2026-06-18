@@ -2776,8 +2776,5 @@ Bagian berikutnya akan masuk ke **Network Filesystems and Distributed Files: NFS
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 27 — Cross-Platform Filesystem Behavior: Linux, Windows, macOS](./learn-java-io-file-filesystem-storage-engineering-part-27-cross-platform-filesystem-behavior.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 29 — Network Filesystems and Distributed Files: NFS, SMB, EFS, Object Storage Boundary](./learn-java-io-file-filesystem-storage-engineering-part-29-network-filesystems-distributed-files.md)
-
-</div>

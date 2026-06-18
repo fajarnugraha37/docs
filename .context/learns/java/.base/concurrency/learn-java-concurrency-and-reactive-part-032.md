@@ -1468,8 +1468,5 @@ terminate once, and clean up on cancellation.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-031.md](./learn-java-concurrency-and-reactive-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-033.md](./learn-java-concurrency-and-reactive-part-033.md)
-
-</div>

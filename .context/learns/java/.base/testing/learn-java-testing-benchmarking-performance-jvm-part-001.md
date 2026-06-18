@@ -2287,8 +2287,5 @@ Part 002 berikutnya — JUnit Evolution: JUnit 4, JUnit 5, JUnit 6, dan Kompatib
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-000](./learn-java-testing-benchmarking-performance-jvm-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-002](./learn-java-testing-benchmarking-performance-jvm-part-002.md)
-
-</div>

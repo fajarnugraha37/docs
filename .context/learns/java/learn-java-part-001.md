@@ -4094,8 +4094,5 @@ Referensi berikut dipakai sebagai dasar penyusunan materi bagian ini. Untuk menj
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Part 000 — Orientasi dan Mental Model Java hingga Java 25](./learn-java-part-000.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 002 — Fondasi Bahasa Java: Dari Syntax ke Semantics](./learn-java-part-002.md)
-
-</div>

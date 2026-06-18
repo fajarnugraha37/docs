@@ -1370,8 +1370,5 @@ Did measurement prove speedup?
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-036.md](./learn-java-collections-and-streams-part-036.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-038.md](./learn-java-collections-and-streams-part-038.md)
-
-</div>

@@ -1787,8 +1787,5 @@ Before using or writing one, define result type, mutability, ordering, duplicate
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-029.md](./learn-java-collections-and-streams-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-031.md](./learn-java-collections-and-streams-part-031.md)
-
-</div>

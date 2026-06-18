@@ -1998,8 +1998,5 @@ File berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 7 — `Boolean`, `Character`, Unicode Classification, and Primitive Edge Cases](./07-boolean-character-unicode-classification-primitive-edge-cases.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 9 — `Record`: Runtime Contract, Value Carrier Semantics, and API Boundaries](./09-record-runtime-contract-value-carrier-api-boundaries.md)
-
-</div>

@@ -2503,8 +2503,5 @@ Seri **belum selesai**. Bagian berikutnya adalah:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 11 — Transaction Integration: Spring, SqlSession, Propagation, Rollback](./11-transaction-integration-spring-sqlsession-propagation-rollback.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — TypeHandler Engineering: Domain Types, Enum, JSON, Array, Vendor Types](./13-typehandler-engineering-domain-types-enum-json-array-vendor-types.md)
-
-</div>

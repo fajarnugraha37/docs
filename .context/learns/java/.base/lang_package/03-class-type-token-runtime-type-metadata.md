@@ -1894,8 +1894,5 @@ Seri belum selesai. Masih ada 29 part setelah ini.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 2 — `Object`: Identity, Equality, Hashing, Monitor, Lifecycle](./02-object-identity-equality-hashing-monitor-lifecycle.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — `String`: Semantics, Immutability, Interning, Unicode, Performance](./04-string-semantics-immutability-interning-unicode-performance.md)
-
-</div>

@@ -2343,8 +2343,5 @@ Jika lima hal ini tidak dicampur sembarangan, validation layer akan menjadi jela
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-014](./learn-java-validation-jakarta-hibernate-validator-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-016](./learn-java-validation-jakarta-hibernate-validator-part-016.md)
-
-</div>

@@ -1801,8 +1801,5 @@ Tujuannya bukan rewrite total, tetapi refactoring bertahap yang aman untuk produ
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 30 — Advanced Patterns: CQRS Read Models, Projection Mapper, Reporting Queries](./30-advanced-patterns-cqrs-read-models-projection-reporting-queries.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 32 — Refactoring Legacy MyBatis Systems](./32-refactoring-legacy-mybatis-systems.md)
-
-</div>

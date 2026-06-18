@@ -1368,8 +1368,5 @@ which operations must be atomic, and what iteration semantics are acceptable.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-052.md](./learn-java-collections-and-streams-part-052.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-054.md](./learn-java-collections-and-streams-part-054.md)
-
-</div>

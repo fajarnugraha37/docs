@@ -3446,8 +3446,5 @@ Engineer yang kuat tidak takut framework, tetapi juga tidak tunduk buta pada fra
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-part-020.md](./learn-java-part-020.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-022.md](./learn-java-part-022.md)
-
-</div>

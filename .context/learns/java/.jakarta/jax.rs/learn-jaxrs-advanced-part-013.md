@@ -2952,8 +2952,5 @@ Kita akan membahas integrasi Jakarta Validation secara mendalam: parameter valid
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-012.md](./learn-jaxrs-advanced-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-014.md](./learn-jaxrs-advanced-part-014.md)
-
-</div>

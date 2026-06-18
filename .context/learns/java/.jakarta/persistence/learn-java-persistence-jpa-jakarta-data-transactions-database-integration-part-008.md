@@ -2147,8 +2147,5 @@ transaction consistency, database execution, and operational reliability.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 007 — Fetching Strategy: Lazy, Eager, N+1, Entity Graph, Fetch Join](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 009 — Projection, DTO, Read Model, and Reporting Queries](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-009.md)
-
-</div>

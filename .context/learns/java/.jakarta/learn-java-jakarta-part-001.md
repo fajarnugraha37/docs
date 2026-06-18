@@ -2902,8 +2902,5 @@ Itulah mental model yang akan kita pakai untuk seluruh materi Jakarta berikutnya
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-000.md](./learn-java-jakarta-part-000.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-002.md](./learn-java-jakarta-part-002.md)
-
-</div>

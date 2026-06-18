@@ -3158,8 +3158,5 @@ Kita akan membahas arsitektur error handling lengkap: checked vs unchecked excep
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-011.md](./learn-jaxrs-advanced-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-013.md](./learn-jaxrs-advanced-part-013.md)
-
-</div>

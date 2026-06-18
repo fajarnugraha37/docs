@@ -1639,8 +1639,5 @@ You still own value safety, lifecycle, invariants, and business-level atomicity.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-019.md](./learn-java-collections-and-streams-part-019.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-021.md](./learn-java-collections-and-streams-part-021.md)
-
-</div>

@@ -1664,8 +1664,5 @@ timeout, cancel, cleanup, and report its outcome predictably.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-017.md](./learn-java-concurrency-and-reactive-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-019.md](./learn-java-concurrency-and-reactive-part-019.md)
-
-</div>

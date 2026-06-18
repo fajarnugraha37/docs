@@ -1590,8 +1590,5 @@ Use loops when the code is naturally a workflow.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-040.md](./learn-java-collections-and-streams-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-042.md](./learn-java-collections-and-streams-part-042.md)
-
-</div>

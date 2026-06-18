@@ -3397,8 +3397,5 @@ Bagian berikutnya akan membahas **Jakarta Validation (`jakarta.validation`)**, y
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-013.md](./learn-java-jakarta-part-013.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-015.md](./learn-java-jakarta-part-015.md)
-
-</div>

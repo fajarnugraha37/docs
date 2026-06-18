@@ -3811,8 +3811,5 @@ Bagian berikutnya akan membahas **JSON Processing (`jakarta.json` / JSON-P)**: o
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-008.md](./learn-java-jakarta-part-008.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-010.md](./learn-java-jakarta-part-010.md)
-
-</div>

@@ -2192,8 +2192,5 @@ Part 026 — Testing Failure and Shutdown Behavior
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-024.md](./learn-java-reliability-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-026.md](./learn-java-reliability-part-026.md)
-
-</div>

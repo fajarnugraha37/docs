@@ -1887,8 +1887,5 @@ Part 08 will broaden from atomic update into the complete semantics of `Files.co
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 06](./learn-java-io-file-filesystem-storage-engineering-part-06-writing-files-correctly.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 08](./learn-java-io-file-filesystem-storage-engineering-part-08-copy-move-semantics.md)
-
-</div>

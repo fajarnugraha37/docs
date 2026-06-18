@@ -1867,8 +1867,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 28 — Migration Playbook: Java EE/JSP/JSF Legacy to Jakarta Pages/Faces](./28-migration-playbook-java-ee-jsp-jsf-legacy-to-jakarta-pages-faces.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Capstone: Build and Review an Enterprise Case Management UI](./30-capstone-enterprise-case-management-ui.md)
-
-</div>

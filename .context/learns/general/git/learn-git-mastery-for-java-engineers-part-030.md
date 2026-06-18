@@ -2043,8 +2043,5 @@ Git dalam CI/CD, Release Automation, dan Compliance
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-029.md](./learn-git-mastery-for-java-engineers-part-029.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-031.md](./learn-git-mastery-for-java-engineers-part-031.md)
-
-</div>

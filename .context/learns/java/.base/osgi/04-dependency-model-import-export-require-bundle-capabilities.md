@@ -2357,8 +2357,5 @@ Referensi utama untuk pendalaman:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 03 — Class Loading Deep Dive: Per-Bundle ClassLoaders and Visibility Rules](./03-class-loading-per-bundle-classloaders-visibility-rules.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Resolver Engineering: Constraint Solving, Wiring, Uses Constraints, and Failure Analysis](./05-resolver-engineering-constraint-solving-wiring-uses-constraints-failure-analysis.md)
-
-</div>

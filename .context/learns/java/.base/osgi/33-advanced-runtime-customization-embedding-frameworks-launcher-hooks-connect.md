@@ -1933,8 +1933,5 @@ It will consolidate everything into:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 32 — Building a Production-Grade OSGi Case Study Runtime from Scratch](./32-building-production-grade-osgi-case-study-runtime-from-scratch.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: 34 — Top 1% OSGi Engineering: Design Reviews, Invariants, Checklists, and Decision Framework](./34-top-1-percent-osgi-engineering-design-reviews-invariants-checklists-decision-framework.md)
-
-</div>

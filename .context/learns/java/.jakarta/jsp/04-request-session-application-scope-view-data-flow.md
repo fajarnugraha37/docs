@@ -2474,8 +2474,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 3 — JSP Syntax Deep Dive: Directives, Declarations, Scriptlets, Expressions, Actions](./03-jsp-syntax-directives-scriptlets-actions.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 5 — Expression Language Fundamentals: Value Expressions, Method Expressions, Resolver Chain](./05-expression-language-fundamentals-value-method-resolver-chain.md)
-
-</div>

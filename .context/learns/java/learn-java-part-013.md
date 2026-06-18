@@ -2316,8 +2316,5 @@ Engineer Java yang kuat tidak menebak-nebak GC. Ia membangun baseline, membaca e
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Part 012 — JVM Internal: Dari Class File sampai JIT](./learn-java-part-012.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 014 — Observability, Profiling, dan Troubleshooting di Java hingga Java 25](./learn-java-part-014.md)
-
-</div>

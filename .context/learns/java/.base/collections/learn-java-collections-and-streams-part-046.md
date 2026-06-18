@@ -1509,8 +1509,5 @@ are all honest and tested.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-045.md](./learn-java-collections-and-streams-part-045.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-047.md](./learn-java-collections-and-streams-part-047.md)
-
-</div>

@@ -2387,8 +2387,5 @@ Bagian berikutnya akan membahas **Jakarta Transactions (`jakarta.transaction`)**
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-012.md](./learn-java-jakarta-part-012.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-014.md](./learn-java-jakarta-part-014.md)
-
-</div>

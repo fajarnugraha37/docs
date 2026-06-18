@@ -3527,8 +3527,5 @@ Itulah perbedaan antara “bisa memakai I/O API” dan “bisa mendesain data tr
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Part 009 — Java Memory Model dan Concurrency Fundamental](./learn-java-part-009.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-011.md](./learn-java-part-011.md)
-
-</div>

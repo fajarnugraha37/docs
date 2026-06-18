@@ -2312,8 +2312,5 @@ Part 024 — WebSocket Reliability Patterns
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-servlet-websocket-web-container-runtime — Part 022](./learn-java-servlet-websocket-web-container-runtime-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-servlet-websocket-web-container-runtime — Part 024](./learn-java-servlet-websocket-web-container-runtime-part-024.md)
-
-</div>

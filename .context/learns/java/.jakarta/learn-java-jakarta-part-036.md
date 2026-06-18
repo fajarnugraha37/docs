@@ -2098,8 +2098,5 @@ Bagian berikutnya akan membahas **Jakarta Managed Beans (`jakarta.annotation.Man
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-035.md](./learn-java-jakarta-part-035.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-037.md](./learn-java-jakarta-part-037.md)
-
-</div>

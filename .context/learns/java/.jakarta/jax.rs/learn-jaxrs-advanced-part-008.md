@@ -3160,8 +3160,5 @@ Kita akan membahas bagaimana request body dibaca: entity parameter, `InputStream
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-007.md](./learn-jaxrs-advanced-part-007.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-009.md](./learn-jaxrs-advanced-part-009.md)
-
-</div>

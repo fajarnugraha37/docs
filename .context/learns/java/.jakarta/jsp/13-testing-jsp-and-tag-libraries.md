@@ -2766,8 +2766,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 12 — JSP Performance and Operations: Compilation, Buffering, Caching, and Production Diagnostics](./12-jsp-performance-operations-compilation-buffering-caching-diagnostics.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — Jakarta Faces Big Picture: Component-Based MVC, Not Just Templates](./14-jakarta-faces-big-picture-component-based-mvc.md)
-
-</div>

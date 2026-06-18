@@ -2423,8 +2423,5 @@ Jika kamu bisa membaca semua sinyal itu dan menghubungkannya dengan domain serta
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-part-024.md](./learn-java-part-024.md) | [🏠 Daftar Isi](../index.md)
-
-</div>

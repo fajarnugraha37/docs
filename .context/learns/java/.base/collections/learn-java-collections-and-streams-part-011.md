@@ -1851,8 +1851,5 @@ Choose them by contract.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-010.md](./learn-java-collections-and-streams-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-012.md](./learn-java-collections-and-streams-part-012.md)
-
-</div>

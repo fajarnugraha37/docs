@@ -1652,8 +1652,5 @@ Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 14 — XML Schema / XSD Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — JAXB / Jakarta XML Binding Core](./learn-java-json-xml-soap-connectors-enterprise-integration-part-016.md)
-
-</div>

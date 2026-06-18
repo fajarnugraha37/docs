@@ -2107,8 +2107,5 @@ If that ownership model is wrong, ORM will faithfully automate the wrong thing.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 10 — Collection Mapping: Bags, Lists, Sets, Maps, Ordering, and Hidden Costs](./10-collection-mapping-bags-lists-sets-maps-ordering-hidden-costs.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 12 — Inheritance Mapping: Object Hierarchy vs Relational Shape](./12-inheritance-mapping-object-hierarchy-relational-shape.md)
-
-</div>

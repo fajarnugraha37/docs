@@ -1561,8 +1561,5 @@ File berikutnya: learn-java-sql-jdbc-hikaricp-part-016.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-014](./learn-java-sql-jdbc-hikaricp-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-016](./learn-java-sql-jdbc-hikaricp-part-016.md)
-
-</div>

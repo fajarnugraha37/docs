@@ -1659,8 +1659,5 @@ but make capacity limits explicit.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-012.md](./learn-java-concurrency-and-reactive-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-014.md](./learn-java-concurrency-and-reactive-part-014.md)
-
-</div>

@@ -1953,8 +1953,5 @@ Itulah kekuatan sealed types dalam Java modern.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-012.md](./learn-java-data-types-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-014.md](./learn-java-data-types-part-014.md)
-
-</div>

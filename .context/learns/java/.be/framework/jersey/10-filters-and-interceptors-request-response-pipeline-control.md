@@ -2514,8 +2514,5 @@ Status seri: **belum selesai**. Masih ada Part 11 sampai Part 32.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 9 — Exception Mapping Architecture: Failure Taxonomy, Mapper Resolution, and Error Contracts](./09-exception-mapping-architecture-failure-taxonomy-mapper-resolution-error-contracts.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 11 — Jersey Injection Model: HK2, Binder, Factories, Scopes, and Lifecycle](./11-jersey-injection-model-hk2-binder-factories-scopes-lifecycle.md)
-
-</div>

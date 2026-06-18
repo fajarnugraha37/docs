@@ -1906,8 +1906,5 @@ Fokus berikutnya adalah architecture patterns: bagaimana JSP/Faces ditempatkan d
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 27 — Library Ecosystem: Mojarra, MyFaces, OmniFaces, PrimeFaces, dan Konteks Component Library Jakarta Faces](./27-library-ecosystem-mojarra-myfaces-omnifaces-primefaces.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — Architecture Patterns: JSP/Faces in Modern Enterprise Systems](./29-architecture-patterns-jsp-faces-modern-enterprise-systems.md)
-
-</div>

@@ -2000,8 +2000,5 @@ Part berikutnya akan membahas **Error Handling and Diagnostics in Mapping Pipeli
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 26 — Records, Builders, and Modern Java DTO Strategy](./26-records-builders-modern-java-dto-strategy.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Error Handling and Diagnostics in Mapping Pipelines](./28-error-handling-diagnostics-mapping-pipelines.md)
-
-</div>

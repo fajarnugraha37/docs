@@ -2720,8 +2720,5 @@ Kita akan membahas bagaimana menjalankan Flyway/Liquibase di luar Spring Boot:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 23 — Migration Testing Strategy](./23-migration-testing-strategy.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 25 — Migration in Jakarta EE, Plain Java, and Non-Spring Systems](./25-migration-in-jakarta-ee-plain-java-non-spring.md)
-
-</div>

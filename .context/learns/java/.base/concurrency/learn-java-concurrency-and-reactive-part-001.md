@@ -1696,8 +1696,5 @@ blocking operations, and external resource limits.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-000.md](./learn-java-concurrency-and-reactive-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-002.md](./learn-java-concurrency-and-reactive-part-002.md)
-
-</div>

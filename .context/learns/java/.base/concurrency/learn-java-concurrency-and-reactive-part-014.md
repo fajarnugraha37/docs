@@ -1453,8 +1453,5 @@ and when external capacity is explicitly governed.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-013.md](./learn-java-concurrency-and-reactive-part-013.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-015.md](./learn-java-concurrency-and-reactive-part-015.md)
-
-</div>

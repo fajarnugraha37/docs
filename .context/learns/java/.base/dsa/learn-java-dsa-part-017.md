@@ -2165,8 +2165,5 @@ Sisa: Part 018 sampai Part 030
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-016.md](./learn-java-dsa-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-018 — Dynamic Programming I: Mental Model, Memoization, Tabulation](./learn-java-dsa-part-018.md)
-
-</div>

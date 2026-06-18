@@ -2362,8 +2362,5 @@ Mutation testing checks whether those tests can actually catch faults.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-011](./learn-java-testing-benchmarking-performance-jvm-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-013](./learn-java-testing-benchmarking-performance-jvm-part-013.md)
-
-</div>

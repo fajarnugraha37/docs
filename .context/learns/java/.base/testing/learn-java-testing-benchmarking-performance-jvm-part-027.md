@@ -2249,8 +2249,5 @@ Performance Engineering for Java Code: Allocation, Collections, Strings, IO, Ser
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-026](./learn-java-testing-benchmarking-performance-jvm-part-026.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-028](./learn-java-testing-benchmarking-performance-jvm-part-028.md)
-
-</div>

@@ -2612,8 +2612,5 @@ Kita akan membahas `Link`, link relations, `Location`, `Content-Location`, affor
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-021.md](./learn-jaxrs-advanced-part-021.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-023.md](./learn-jaxrs-advanced-part-023.md)
-
-</div>

@@ -2340,8 +2340,5 @@ That part will cover how Maven and Gradle orchestrate tests as build stages: Sur
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 9 — Build Reproducibility: Deterministic Artifact, Timestamp, Lockfile, Checksum, Build Environment](./09-build-reproducibility.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Testing Build Pipeline: Unit, Integration, Functional, Contract, Mutation, Benchmark](./11-testing-build-pipeline.md)
-
-</div>

@@ -3378,8 +3378,5 @@ Kita akan membedah custom conversion jauh lebih detail: provider priority, error
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-005.md](./learn-jaxrs-advanced-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-007.md](./learn-jaxrs-advanced-part-007.md)
-
-</div>

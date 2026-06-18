@@ -2523,8 +2523,5 @@ That is the difference between “knowing Maven commands” and “engineering M
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 29 — Advanced Gradle: Variant-Aware Dependency Management, Capabilities, Attributes](./29-advanced-gradle-variant-aware-dependency-management.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Build Observability: Logs, Reports, Build Scan, Metrics, Flakiness, Trend Analysis](./31-build-observability.md)
-
-</div>

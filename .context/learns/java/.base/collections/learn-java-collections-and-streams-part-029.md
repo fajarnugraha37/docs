@@ -1805,8 +1805,5 @@ Am I reducing a value or collecting a container?
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-028.md](./learn-java-collections-and-streams-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-030.md](./learn-java-collections-and-streams-part-030.md)
-
-</div>

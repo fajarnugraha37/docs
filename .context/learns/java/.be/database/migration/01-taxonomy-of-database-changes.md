@@ -2324,8 +2324,5 @@ Part 1 ini belum masuk detail Flyway/Liquibase command karena fondasinya adalah 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 0 — Orientation: Database Change as Engineering Discipline](./00-orientation-database-change-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 02 — Migration Invariants and Failure Models](./02-migration-invariants-and-failure-models.md)
-
-</div>

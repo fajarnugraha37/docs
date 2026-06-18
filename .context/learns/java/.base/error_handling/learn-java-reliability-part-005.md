@@ -2734,8 +2734,5 @@ Part 006 — Exception Translation Layers
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-004.md](./learn-java-reliability-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-006.md](./learn-java-reliability-part-006.md)
-
-</div>

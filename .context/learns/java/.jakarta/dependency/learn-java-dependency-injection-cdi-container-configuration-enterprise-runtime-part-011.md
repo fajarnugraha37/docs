@@ -3025,8 +3025,5 @@ The series is **not finished yet**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 010 — CDI Scopes Deep Dive: Request, Session, Application, Dependent, Conversation](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-012](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-012.md)
-
-</div>

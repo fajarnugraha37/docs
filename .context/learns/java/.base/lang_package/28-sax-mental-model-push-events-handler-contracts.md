@@ -1683,8 +1683,5 @@ Part berikutnya akan masuk lebih dalam ke namespace, SAX features/properties, en
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 27 — DOM Level 3: TypeInfo, UserData, ErrorHandler, Load/Save Boundary](./27-dom-level-3-typeinfo-userdata-errorhandler-load-save-boundary.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 29 — SAX Namespaces, Features, Properties, Entity Resolution, DTD Handling](./29-sax-namespaces-features-properties-entity-resolution-dtd.md)
-
-</div>

@@ -1497,8 +1497,5 @@ If the caller simply needs data, return a collection, page, cursor, or result ob
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-048.md](./learn-java-collections-and-streams-part-048.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-050.md](./learn-java-collections-and-streams-part-050.md)
-
-</div>

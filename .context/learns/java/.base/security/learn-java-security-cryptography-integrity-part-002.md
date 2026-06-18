@@ -2516,8 +2516,5 @@ Part berikutnya adalah **Part 3 — Cryptography Mental Model: What Crypto Can a
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-001](./learn-java-security-cryptography-integrity-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-003](./learn-java-security-cryptography-integrity-part-003.md)
-
-</div>

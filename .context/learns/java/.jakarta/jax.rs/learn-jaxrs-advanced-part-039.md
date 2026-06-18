@@ -1900,8 +1900,5 @@ Kita akan membahas observability production-grade untuk Jakarta REST: logs, metr
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-038.md](./learn-jaxrs-advanced-part-038.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-040.md](./learn-jaxrs-advanced-part-040.md)
-
-</div>

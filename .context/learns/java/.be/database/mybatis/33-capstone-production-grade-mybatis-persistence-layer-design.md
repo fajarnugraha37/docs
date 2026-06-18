@@ -1695,8 +1695,5 @@ Total bagian: **34 part**, dari Part 0 sampai Part 33.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 32 — Refactoring Legacy MyBatis Systems](./32-refactoring-legacy-mybatis-systems.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 0 — Orientasi Seri Java Jersey: Scope, Mental Model, Versi, dan Cara Belajar](../../framework/jersey/00-orientasi-seri-java-jersey-runtime-resource-client-extension-engineering.md)
-
-</div>

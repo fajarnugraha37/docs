@@ -1505,8 +1505,5 @@ Do not use it just to look clever.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-043.md](./learn-java-collections-and-streams-part-043.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-045.md](./learn-java-collections-and-streams-part-045.md)
-
-</div>

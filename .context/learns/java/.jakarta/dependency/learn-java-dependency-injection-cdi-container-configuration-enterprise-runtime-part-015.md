@@ -2251,8 +2251,5 @@ Belum selesai. Lanjut ke:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 014 — CDI Events: Decoupling Without Losing Runtime Clarity](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-016.md)
-
-</div>

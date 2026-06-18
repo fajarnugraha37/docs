@@ -2451,8 +2451,5 @@ migration dari Unsafe/direct buffer
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-012](./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-014](./learn-java-memory-byte-bit-buffer-offheap-gc-part-014.md)
-
-</div>

@@ -1909,8 +1909,5 @@ Referensi ini tidak dimaksudkan sebagai bacaan wajib sebelum lanjut, tetapi menj
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering — Part 35](../deployment/learn-java-deployment-runtime-release-delivery-engineering-part-35-final-mastery-review.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-001.md](./learn-java-dsa-part-001.md)
-
-</div>

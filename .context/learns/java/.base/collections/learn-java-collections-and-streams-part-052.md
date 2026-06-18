@@ -1378,8 +1378,5 @@ authorized, defensively copied, and returned through least-privilege views.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-050.md](./learn-java-collections-and-streams-part-050.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-053.md](./learn-java-collections-and-streams-part-053.md)
-
-</div>

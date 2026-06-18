@@ -2565,8 +2565,5 @@ Di part berikutnya kita akan membahas bagaimana menguji JDBC code dengan benar: 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-025](./learn-java-sql-jdbc-hikaricp-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-027.md](./learn-java-sql-jdbc-hikaricp-part-027.md)
-
-</div>

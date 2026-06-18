@@ -2745,8 +2745,5 @@ Berikutnya: **Part 4 — JSON-P Streaming Deep Dive**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration-part-002](./learn-java-json-xml-soap-connectors-enterprise-integration-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-004](./learn-java-json-xml-soap-connectors-enterprise-integration-part-004.md)
-
-</div>

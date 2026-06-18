@@ -2054,8 +2054,5 @@ Di sana kita akan membahas bagaimana Maven/Gradle mengintegrasikan Spring Boot, 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 21 — Enterprise Governance: Corporate Parent POM, Convention Plugin, Policy-as-Build](./21-enterprise-governance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Jakarta/Spring/Enterprise Java Build Integration](./23-jakarta-spring-enterprise-java-build-integration.md)
-
-</div>

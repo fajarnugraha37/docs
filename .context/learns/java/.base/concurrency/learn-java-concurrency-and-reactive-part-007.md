@@ -1941,8 +1941,5 @@ If you cannot answer, the code is not concurrency-safe.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-006.md](./learn-java-concurrency-and-reactive-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-008.md](./learn-java-concurrency-and-reactive-part-008.md)
-
-</div>

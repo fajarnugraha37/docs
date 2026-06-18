@@ -1940,8 +1940,5 @@ File: 15-thread-threadlocal-inheritablethreadlocal-java-lang-angle.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 13 — `System`: Standard Streams, Properties, Environment, Time, Array Copy, Logger](./13-system-standard-streams-properties-env-time-arraycopy-logger.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — `Thread`, `ThreadGroup`, `ThreadLocal`, `InheritableThreadLocal`: Only the `java.lang` Angle](./15-thread-threadlocal-inheritablethreadlocal-java-lang-angle.md)
-
-</div>

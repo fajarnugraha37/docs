@@ -1826,8 +1826,5 @@ Part berikutnya: Part 008 — Isolation Levels, Locking, and Observable Anomalie
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-006](./learn-java-sql-jdbc-hikaricp-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-008](./learn-java-sql-jdbc-hikaricp-part-008.md)
-
-</div>

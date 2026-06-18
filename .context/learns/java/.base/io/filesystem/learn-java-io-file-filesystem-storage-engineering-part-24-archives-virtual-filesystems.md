@@ -2386,8 +2386,5 @@ Bagian berikutnya akan masuk ke **Custom FileSystemProvider and Pluggable Filesy
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 23](./learn-java-io-file-filesystem-storage-engineering-part-23-file-naming-extension-mime-charset-content-detection.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 25](./learn-java-io-file-filesystem-storage-engineering-part-25-custom-filesystemprovider-pluggable-filesystem.md)
-
-</div>

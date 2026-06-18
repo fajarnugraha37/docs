@@ -1953,8 +1953,5 @@ Only share mutable state when ownership and synchronization are explicit.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-010.md](./learn-java-concurrency-and-reactive-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-012.md](./learn-java-concurrency-and-reactive-part-012.md)
-
-</div>

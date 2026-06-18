@@ -2787,8 +2787,5 @@ Bagian berikutnya akan membahas **Jakarta Connectors (`jakarta.resource`)**: res
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-022.md](./learn-java-jakarta-part-022.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-024.md](./learn-java-jakarta-part-024.md)
-
-</div>

@@ -3096,8 +3096,5 @@ Relationship mapping adalah desain ownership, lifecycle, constraint, dan perubah
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 005 — Mapping Fundamentals Done Correctly](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 007 — Fetching Strategy: Lazy, Eager, N+1, Entity Graph, Fetch Join](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-007.md)
-
-</div>

@@ -2031,8 +2031,5 @@ Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 29 — Security, Compliance, and Auditability in Database Migration](./29-security-compliance-auditability.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 31 — Advanced Patterns and Anti-Patterns](./31-advanced-patterns-and-anti-patterns.md)
-
-</div>

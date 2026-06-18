@@ -1577,8 +1577,5 @@ It is where overload, latency, memory, and lifecycle policy become real.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-020.md](./learn-java-collections-and-streams-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-022.md](./learn-java-collections-and-streams-part-022.md)
-
-</div>

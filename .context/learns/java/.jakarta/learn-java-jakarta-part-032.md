@@ -2695,8 +2695,5 @@ Bagian berikutnya akan membahas **Jakarta SOAP with Attachments (`jakarta.xml.so
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-031.md](./learn-java-jakarta-part-031.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-033.md](./learn-java-jakarta-part-033.md)
-
-</div>

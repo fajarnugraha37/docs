@@ -2335,8 +2335,5 @@ Di sana kita akan melihat bagaimana Java endpoint, annotation, SEI, implementati
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 22](./learn-java-json-xml-soap-connectors-enterprise-integration-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 24](./learn-java-json-xml-soap-connectors-enterprise-integration-part-024.md)
-
-</div>

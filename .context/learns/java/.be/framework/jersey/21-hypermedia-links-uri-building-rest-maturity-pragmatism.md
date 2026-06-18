@@ -2400,8 +2400,5 @@ Seri belum selesai. Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 20 — API Versioning and Compatibility with Jersey](./20-api-versioning-and-compatibility-with-jersey.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 22 — Observability in Jersey: Logs, Metrics, Traces, Correlation, and Profiling](./22-observability-in-jersey-logs-metrics-traces-correlation-profiling.md)
-
-</div>

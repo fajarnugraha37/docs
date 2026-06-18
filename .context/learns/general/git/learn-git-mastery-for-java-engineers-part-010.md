@@ -1951,8 +1951,5 @@ Topik berikutnya: Conflict Resolution: Dari Mekanik ke Strategi
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-009.md](./learn-git-mastery-for-java-engineers-part-009.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-011.md](./learn-git-mastery-for-java-engineers-part-011.md)
-
-</div>

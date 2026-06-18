@@ -2622,8 +2622,5 @@ Kita akan membahas persistence di OSGi:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 14 — Apache Karaf: OSGi Distribution, Features, Provisioning, and Operations](./14-apache-karaf-osgi-distribution-features-provisioning-operations.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 16 — Persistence in OSGi: JDBC, JPA, Transactions, Hibernate, EclipseLink](./16-persistence-osgi-jdbc-jpa-transactions-hibernate-eclipselink.md)
-
-</div>

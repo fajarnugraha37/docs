@@ -2080,8 +2080,5 @@ Kita akan membahas desain API untuk operasi panjang: 202 Accepted, operation res
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-042.md](./learn-jaxrs-advanced-part-042.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-044.md](./learn-jaxrs-advanced-part-044.md)
-
-</div>

@@ -2992,8 +2992,5 @@ Bagian berikutnya akan membahas **Jakarta Concurrency (`jakarta.enterprise.concu
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-020.md](./learn-java-jakarta-part-020.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-022.md](./learn-java-jakarta-part-022.md)
-
-</div>

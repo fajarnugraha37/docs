@@ -2367,8 +2367,5 @@ Kita akan membahas CDI integration secara mendalam: injection ke resource/provid
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-029.md](./learn-jaxrs-advanced-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-031.md](./learn-jaxrs-advanced-part-031.md)
-
-</div>

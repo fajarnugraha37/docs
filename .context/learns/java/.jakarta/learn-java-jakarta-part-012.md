@@ -3057,8 +3057,5 @@ Bagian berikutnya akan membahas **Jakarta Data**, yaitu repository abstraction s
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-011.md](./learn-java-jakarta-part-011.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-013.md](./learn-java-jakarta-part-013.md)
-
-</div>

@@ -2544,8 +2544,5 @@ Seri belum selesai. Bagian berikutnya adalah:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 3 — Resource Model Internals: How Jersey Understands Resource Classes](./03-resource-model-internals-how-jersey-understands-resource-classes.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 5 — Parameter Injection Semantics: Path, Query, Header, Cookie, Matrix, BeanParam](./05-parameter-injection-semantics-path-query-header-cookie-matrix-beanparam.md)
-
-</div>

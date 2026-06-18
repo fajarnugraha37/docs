@@ -3107,8 +3107,5 @@ Bagian berikutnya akan membahas **Jakarta Authorization dan Jakarta Authenticati
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-016.md](./learn-java-jakarta-part-016.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-018.md](./learn-java-jakarta-part-018.md)
-
-</div>

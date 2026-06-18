@@ -2579,8 +2579,5 @@ Top-tier Java engineer tidak anti-boolean. Ia tahu bahwa boolean adalah alat yan
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-003.md](./learn-java-data-types-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-005.md](./learn-java-data-types-part-005.md)
-
-</div>

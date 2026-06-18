@@ -2306,8 +2306,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 14 — Resilient Outbound Calls: Timeout, Retry, Circuit Breaker, Bulkhead, Idempotency](./14-resilient-outbound-calls-timeout-retry-circuit-breaker-bulkhead-idempotency.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 16 — Server-Sent Events and Streaming APIs with Jersey](./16-server-sent-events-and-streaming-apis-with-jersey.md)
-
-</div>

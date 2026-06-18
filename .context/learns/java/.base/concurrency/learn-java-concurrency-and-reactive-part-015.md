@@ -1806,8 +1806,5 @@ cancellation, observability, and explicit context.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-014.md](./learn-java-concurrency-and-reactive-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-016.md](./learn-java-concurrency-and-reactive-part-016.md)
-
-</div>

@@ -2562,8 +2562,5 @@ Part 004 — Assertion Engineering: AssertJ, Hamcrest, Custom Assertion, dan Fai
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-002](./learn-java-testing-benchmarking-performance-jvm-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-004](./learn-java-testing-benchmarking-performance-jvm-part-004.md)
-
-</div>

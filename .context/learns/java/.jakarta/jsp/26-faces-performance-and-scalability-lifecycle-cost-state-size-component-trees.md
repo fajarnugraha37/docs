@@ -2025,8 +2025,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 25 — Faces Security: XSS, CSRF, View State, Authorization, and Secure Rendering](./25-faces-security-xss-csrf-view-state-authorization-secure-rendering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Library Ecosystem: Mojarra, MyFaces, OmniFaces, PrimeFaces, dan Konteks Component Library Jakarta Faces](./27-library-ecosystem-mojarra-myfaces-omnifaces-primefaces.md)
-
-</div>

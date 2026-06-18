@@ -2087,8 +2087,5 @@ Jika kamu menguasai pola ini, kamu tidak hanya bisa mengirim file. Kamu bisa men
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 024 — TLS, Certificates, TrustStore, KeyStore, dan Secure Data Transfer](./learn-java-io-nio-networking-data-transfer-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 026 — Large File Processing: Memory Safety, Streaming Pipeline, Pagination, Split, Merge, dan External Sort](./learn-java-io-nio-networking-data-transfer-part-026.md)
-
-</div>

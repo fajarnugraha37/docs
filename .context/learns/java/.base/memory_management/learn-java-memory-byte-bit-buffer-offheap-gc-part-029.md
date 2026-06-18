@@ -2247,8 +2247,5 @@ Final Integration: Production Playbook, Case Studies, and Decision Matrix
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-028](./learn-java-memory-byte-bit-buffer-offheap-gc-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-030.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-030.md)
-
-</div>

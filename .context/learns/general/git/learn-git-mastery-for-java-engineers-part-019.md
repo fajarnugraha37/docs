@@ -3037,8 +3037,5 @@ Blame, Pickaxe, dan Forensic Code Archaeology
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-018.md](./learn-git-mastery-for-java-engineers-part-018.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-020.md](./learn-git-mastery-for-java-engineers-part-020.md)
-
-</div>

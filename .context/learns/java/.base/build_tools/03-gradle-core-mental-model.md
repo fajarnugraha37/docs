@@ -2626,8 +2626,5 @@ Seri belum selesai. Bagian berikutnya adalah **Part 4 — Maven vs Gradle: Bukan
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 2 — Maven Core Mental Model: POM, Lifecycle, Phase, Goal, Plugin, Reactor](./02-maven-core-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — Maven vs Gradle: Bukan Mana yang Lebih Bagus, Tapi Mana yang Cocok untuk Constraint Tertentu](./04-maven-vs-gradle-decision-framework.md)
-
-</div>

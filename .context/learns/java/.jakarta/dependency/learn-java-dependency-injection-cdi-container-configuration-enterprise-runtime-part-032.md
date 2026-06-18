@@ -2514,8 +2514,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 031 — Testing CDI, EJB, and Configuration-Heavy Code](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-031.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 033 — Architecture Patterns for Enterprise Java Runtime Design](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-033.md)
-
-</div>

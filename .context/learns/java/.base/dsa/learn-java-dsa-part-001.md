@@ -2439,8 +2439,5 @@ Berikutnya: Part 002 — Java Object, Array, Reference, Equality, Hashing
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-000.md](./learn-java-dsa-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-002.md](./learn-java-dsa-part-002.md)
-
-</div>

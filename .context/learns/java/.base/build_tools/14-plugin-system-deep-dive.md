@@ -2405,8 +2405,5 @@ Seri belum selesai. Bagian berikutnya adalah **Part 15 — Maven Advanced Plugin
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 13 — Resource Processing, Filtering, Profiles, Properties, Environment Separation](./13-resource-processing-filtering-profiles-properties-environment-separation.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 15 — Maven Advanced Plugin Engineering: Custom Mojo, Parameter Injection, Lifecycle Binding](./15-maven-advanced-plugin-engineering.md)
-
-</div>

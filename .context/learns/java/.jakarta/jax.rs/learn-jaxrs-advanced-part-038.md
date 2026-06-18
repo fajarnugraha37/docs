@@ -2146,8 +2146,5 @@ Kita akan membahas fitur era JAX-RS 2.1 yang masih penting untuk maintenance leg
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-037.md](./learn-jaxrs-advanced-part-037.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-039.md](./learn-jaxrs-advanced-part-039.md)
-
-</div>

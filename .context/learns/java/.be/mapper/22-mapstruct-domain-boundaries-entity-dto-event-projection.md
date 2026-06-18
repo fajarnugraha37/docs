@@ -2305,8 +2305,5 @@ Fokus berikutnya adalah memahami Lombok sebagai annotation processing/AST transf
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 21 — MapStruct Advanced: Qualifiers, Context, Lifecycle Hooks, Object Factory](./21-mapstruct-advanced-qualifiers-context-lifecycle-hooks-object-factory.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Lombok Mental Model: Annotation Processing, Bytecode Shape, IDE Coupling](./23-lombok-mental-model-annotation-processing-bytecode-shape-ide-coupling.md)
-
-</div>

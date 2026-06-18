@@ -2627,8 +2627,5 @@ Di sana kita akan membahas lebih dalam:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-011](./learn-java-security-cryptography-integrity-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-013](./learn-java-security-cryptography-integrity-part-013.md)
-
-</div>

@@ -1980,8 +1980,5 @@ In the next part, we move from Java runtime compatibility into broader enterpris
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 19 — JPMS and OSGi: Java Module System Interop from Java 9 to 25](./19-jpms-osgi-java-module-system-interop-java-9-to-25.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Enterprise Integration in OSGi: CDI, Blueprint, Spring, Aries, CXF, and Legacy Stacks](./21-enterprise-integration-osgi-cdi-blueprint-spring-aries-cxf-legacy-stacks.md)
-
-</div>

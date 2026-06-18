@@ -2006,8 +2006,5 @@ Seri Graceful Shutdown, Error Handling, Exceptions, and Reliability selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-029.md](./learn-java-reliability-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 00 — Orientation](../io/filesystem/learn-java-io-file-filesystem-storage-engineering-part-00-orientation.md)
-
-</div>

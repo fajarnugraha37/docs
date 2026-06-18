@@ -1324,8 +1324,5 @@ SERIES COMPLETE
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 34](./learn-java-io-file-filesystem-storage-engineering-part-34-capstone-production-grade-file-intake-engine.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 000 — Mental Model Besar Java I/O: Dari Byte, Stream, Channel, Buffer, sampai Data Transfer](../learn-java-io-nio-networking-data-transfer-part-000.md)
-
-</div>

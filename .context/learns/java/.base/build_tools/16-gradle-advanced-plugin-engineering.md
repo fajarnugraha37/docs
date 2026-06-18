@@ -1938,8 +1938,5 @@ Part berikutnya akan masuk ke **Performance Engineering**: build time, configura
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 15 — Maven Advanced Plugin Engineering: Custom Mojo, Parameter Injection, Lifecycle Binding](./15-maven-advanced-plugin-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 17 — Performance Engineering: Build Time, Configuration Cache, Daemon, Parallelism, Incrementality](./17-performance-engineering.md)
-
-</div>

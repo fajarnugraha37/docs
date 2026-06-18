@@ -2889,8 +2889,5 @@ Jika part sebelumnya menjawab “bagaimana mendesain test yang jelas”, part in
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-003](./learn-java-testing-benchmarking-performance-jvm-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-005](./learn-java-testing-benchmarking-performance-jvm-part-005.md)
-
-</div>

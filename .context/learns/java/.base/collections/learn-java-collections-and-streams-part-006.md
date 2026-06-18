@@ -2097,8 +2097,5 @@ Use Sequenced interfaces to express order as a contract, not as an implementatio
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-005.md](./learn-java-collections-and-streams-part-005.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-007.md](./learn-java-collections-and-streams-part-007.md)
-
-</div>

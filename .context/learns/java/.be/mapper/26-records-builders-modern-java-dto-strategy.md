@@ -2056,8 +2056,5 @@ Ini penting karena banyak sistem enterprise mencampur semuanya di DTO, mapper, c
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 25 — Lombok with Jackson and MapStruct: Builders, Records, Immutability](./25-lombok-with-jackson-mapstruct-builders-records-immutability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Mapping Validation Boundary: Bean Validation, Invariants, and Normalization](./27-mapping-validation-boundary-bean-validation-invariants-normalization.md)
-
-</div>

@@ -3230,8 +3230,5 @@ Part berikutnya akan masuk ke **designing plugin platforms with OSGi**: extensio
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 26 — Performance Engineering: Startup, Resolver Cost, Service Lookup, Classloading, Memory](./26-performance-engineering-startup-resolver-service-lookup-classloading-memory.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 28 — Designing Plugin Platforms with OSGi: Extension Contracts, Isolation, Governance](./28-designing-plugin-platforms-extension-contracts-isolation-governance.md)
-
-</div>

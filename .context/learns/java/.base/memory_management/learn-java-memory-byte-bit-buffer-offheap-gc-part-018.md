@@ -2452,8 +2452,5 @@ Jika pertanyaan itu bisa dijawab, tuning GC menjadi aktivitas engineering, bukan
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-017](./learn-java-memory-byte-bit-buffer-offheap-gc-part-017.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-019](./learn-java-memory-byte-bit-buffer-offheap-gc-part-019.md)
-
-</div>

@@ -2161,8 +2161,5 @@ Kalau pertanyaan-pertanyaan ini bisa dijawab oleh build file dan CI, bukan hanya
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 0 — Build Engineering Mental Model: Dari Source Code ke Artifact yang Bisa Dipercaya](./00-build-engineering-mental-model.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 2 — Maven Core Mental Model: POM, Lifecycle, Phase, Goal, Plugin, Reactor](./02-maven-core-mental-model.md)
-
-</div>

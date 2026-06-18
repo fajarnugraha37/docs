@@ -3055,8 +3055,5 @@ Kita akan membahas sisi sebaliknya: bagaimana Java return value menjadi HTTP res
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-008.md](./learn-jaxrs-advanced-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-010.md](./learn-jaxrs-advanced-part-010.md)
-
-</div>

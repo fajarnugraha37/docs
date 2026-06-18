@@ -1885,8 +1885,5 @@ Part 013 — Directory Traversal, File Tree Walking, Search, Copy, Move, Delete
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 011 — NIO.2 File API: `Path`, `Files`, `FileSystem`, dan Modern File Operations](./learn-java-io-nio-networking-data-transfer-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 013 — Directory Traversal, File Tree Walking, Search, Copy, Move, Delete](./learn-java-io-nio-networking-data-transfer-part-013.md)
-
-</div>

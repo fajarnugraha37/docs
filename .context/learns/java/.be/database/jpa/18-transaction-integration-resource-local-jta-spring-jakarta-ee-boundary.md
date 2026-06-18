@@ -2480,8 +2480,5 @@ Transaction boundary defines the arena. Concurrency control defines what happens
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 17 — Bulk Operations, Batching, Stateless Sessions, and High-Volume Data Mutation](./17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 19 — Concurrency Control: Optimistic Locking, Pessimistic Locking, and Lost Updates](./19-concurrency-control-optimistic-pessimistic-locking-lost-updates.md)
-
-</div>

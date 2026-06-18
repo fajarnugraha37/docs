@@ -2119,8 +2119,5 @@ Di part berikutnya kita akan masuk lebih dalam ke direct buffer sebagai native m
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-010.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-012](./learn-java-memory-byte-bit-buffer-offheap-gc-part-012.md)
-
-</div>

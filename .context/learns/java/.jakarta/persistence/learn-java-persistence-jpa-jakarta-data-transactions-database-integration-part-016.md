@@ -2339,8 +2339,5 @@ Part 017 — Schema Generation, Migration, and Database Contract
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 015 — Flush, Dirty Checking, Write-Behind, and SQL Generation](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 017 — Schema Generation, Migration, and Database Contract](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-017.md)
-
-</div>

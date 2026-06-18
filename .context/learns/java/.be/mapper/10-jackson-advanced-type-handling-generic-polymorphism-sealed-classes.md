@@ -3271,8 +3271,5 @@ Bagian berikutnya akan masuk ke custom serializer/deserializer secara lebih dala
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 9 — Jackson Deserialization: Constructor Binding, Defaults, Unknown Fields](./09-jackson-deserialization-constructor-binding-defaults-unknown-fields.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 11 — Jackson Custom Serializer/Deserializer Deep Dive](./11-jackson-custom-serializer-deserializer-deep-dive.md)
-
-</div>

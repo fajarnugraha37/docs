@@ -2065,8 +2065,5 @@ Dengan kata lain, Part 14 memberi kita **API dan metadata vocabulary**. Part 15 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-io-file-filesystem-storage-engineering — Part 13](./learn-java-io-file-filesystem-storage-engineering-part-13-path-traversal-security.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 15](./learn-java-io-file-filesystem-storage-engineering-part-15-permissions-model.md)
-
-</div>

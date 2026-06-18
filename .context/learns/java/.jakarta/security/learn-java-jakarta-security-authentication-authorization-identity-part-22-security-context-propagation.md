@@ -2747,8 +2747,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Jakarta Security Authentication Authorization Identity — Part 21](./learn-java-jakarta-security-authentication-authorization-identity-part-21-method-security-cdi-ejb-interceptors-proxies.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 23 — Multi-Tenancy, Organization Boundary, and Cross-Entity Authorization](./learn-java-jakarta-security-authentication-authorization-identity-part-23-multitenancy-organization-boundary.md)
-
-</div>

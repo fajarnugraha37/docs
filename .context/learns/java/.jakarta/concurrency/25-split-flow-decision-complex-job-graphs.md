@@ -1745,8 +1745,5 @@ Tentukan bagian mana yang cocok untuk Jakarta Batch dan bagian mana yang cocok u
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 24 — Partitioning: Parallel Batch at Scale](./24-partitioning-parallel-batch-at-scale.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 26 — JobOperator, Job Repository, and Runtime Control Plane](./26-joboperator-job-repository-runtime-control-plane.md)
-
-</div>

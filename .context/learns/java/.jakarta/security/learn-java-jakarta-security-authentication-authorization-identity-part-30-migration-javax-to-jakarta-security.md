@@ -2248,8 +2248,5 @@ If the application compiles but the authorization matrix is not proven, the migr
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 29 — Testing Security: Unit, Integration, Container, Attack Simulation](./learn-java-jakarta-security-authentication-authorization-identity-part-29-testing-security.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 31 — Interoperability with Spring Security, Keycloak, MicroProfile JWT, and Modern IdPs](./learn-java-jakarta-security-authentication-authorization-identity-part-31-interoperability-spring-security-keycloak.md)
-
-</div>

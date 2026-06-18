@@ -2625,8 +2625,5 @@ Jika build system adalah supply chain boundary, maka dependency conflict diagnos
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 25 — Static Analysis and Quality Gates: Checkstyle, PMD, SpotBugs, Error Prone, ArchUnit](./25-static-analysis-quality-gates.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 27 — Migration Engineering: Maven to Gradle, Gradle to Maven, Legacy Ant, Java 8 to 25](./27-migration-engineering.md)
-
-</div>

@@ -2062,8 +2062,5 @@ cancellation, shutdown, and observability.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-001.md](./learn-java-concurrency-and-reactive-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-003.md](./learn-java-concurrency-and-reactive-part-003.md)
-
-</div>

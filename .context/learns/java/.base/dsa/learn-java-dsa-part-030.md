@@ -2266,8 +2266,5 @@ Itu akan menjadi kelanjutan natural dari seri DSA ini.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-029.md](./learn-java-dsa-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-000.md](../error_handling/learn-java-reliability-part-000.md)
-
-</div>

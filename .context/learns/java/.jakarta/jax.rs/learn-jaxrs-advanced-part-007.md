@@ -3310,8 +3310,5 @@ Kita akan membedah request/runtime context injection, conditional requests, head
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-006.md](./learn-jaxrs-advanced-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-008.md](./learn-jaxrs-advanced-part-008.md)
-
-</div>

@@ -1990,8 +1990,5 @@ Di Part 10, kita akan membahas bagaimana memakai `CompletableFuture`, `Completio
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 8 — Security, Identity, and Authorization in Async Execution](./08-security-identity-and-authorization-in-async-execution.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 10 — CompletableFuture in Jakarta EE Without Breaking the Container](./10-completablefuture-in-jakarta-ee.md)
-
-</div>

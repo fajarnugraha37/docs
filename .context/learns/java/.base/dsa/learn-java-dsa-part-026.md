@@ -2286,8 +2286,5 @@ Dengan kata lain, Part 026 adalah jembatan dari struktur data umum menuju desain
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-025 — Concurrent Data Structures in Java, Without Repeating Concurrency Basics](./learn-java-dsa-part-025.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java DSA — Part 027](./learn-java-dsa-part-027.md)
-
-</div>

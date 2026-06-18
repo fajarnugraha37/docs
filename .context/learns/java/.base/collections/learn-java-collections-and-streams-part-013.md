@@ -2021,8 +2021,5 @@ Either reject it, name it, or model it explicitly.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-012.md](./learn-java-collections-and-streams-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-014.md](./learn-java-collections-and-streams-part-014.md)
-
-</div>

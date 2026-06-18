@@ -2564,8 +2564,5 @@ A platform is mature when it makes the safe path the easy path, the risky path v
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering — Part 33](./learn-java-deployment-runtime-release-delivery-engineering-part-33-deployment-architecture-decision-records-and-checklists.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering — Part 35](./learn-java-deployment-runtime-release-delivery-engineering-part-35-final-mastery-review.md)
-
-</div>

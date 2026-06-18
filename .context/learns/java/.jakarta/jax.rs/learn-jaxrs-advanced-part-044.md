@@ -1953,8 +1953,5 @@ Kita akan membahas desain kontrak error enterprise: Problem Details, stable erro
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-043.md](./learn-jaxrs-advanced-part-043.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-045.md](./learn-jaxrs-advanced-part-045.md)
-
-</div>

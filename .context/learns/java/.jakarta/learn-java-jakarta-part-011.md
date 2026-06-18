@@ -2875,8 +2875,5 @@ Bagian berikutnya akan masuk ke **Jakarta Persistence (`jakarta.persistence` / J
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-010.md](./learn-java-jakarta-part-010.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-012.md](./learn-java-jakarta-part-012.md)
-
-</div>

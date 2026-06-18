@@ -3065,8 +3065,5 @@ Di sana kita akan membahas bagaimana deserialization/serialization bisa menjadi 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 11 — Jackson Custom Serializer/Deserializer Deep Dive](./11-jackson-custom-serializer-deserializer-deep-dive.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Jackson Security: Over-Posting, Polymorphic Attacks, Data Exposure](./13-jackson-security-overposting-polymorphic-attacks-data-exposure.md)
-
-</div>

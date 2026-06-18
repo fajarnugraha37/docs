@@ -1929,8 +1929,5 @@ Apa konsekuensinya untuk design, debugging, testing, dan migration?
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 33 — Capstone: Designing a Production-Grade MyBatis Persistence Layer](../../database/mybatis/33-capstone-production-grade-mybatis-persistence-layer-design.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 1 — Jersey Mental Model: Spec, Implementation, Runtime, and Engineering Boundary](./01-jersey-mental-model-spec-implementation-runtime-engineering-boundary.md)
-
-</div>

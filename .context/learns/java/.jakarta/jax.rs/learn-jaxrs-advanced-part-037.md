@@ -1859,8 +1859,5 @@ Kita akan membahas migrasi namespace dan ekosistem secara mendalam: dependency a
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-036.md](./learn-jaxrs-advanced-part-036.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-038.md](./learn-jaxrs-advanced-part-038.md)
-
-</div>

@@ -1950,8 +1950,5 @@ and every access to guarded mutable state under the same lock.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-008.md](./learn-java-concurrency-and-reactive-part-008.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-010.md](./learn-java-concurrency-and-reactive-part-010.md)
-
-</div>

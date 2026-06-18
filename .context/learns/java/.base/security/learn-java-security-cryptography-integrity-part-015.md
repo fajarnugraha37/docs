@@ -1937,8 +1937,5 @@ Kita akan membahas kenapa deserialization adalah trust-boundary problem, bagaima
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-014](./learn-java-security-cryptography-integrity-part-014.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-016](./learn-java-security-cryptography-integrity-part-016.md)
-
-</div>

@@ -1905,8 +1905,5 @@ Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 6 — Advanced Expression Language: Custom Functions, Custom Resolvers, Security, and Performance](./06-advanced-el-custom-functions-resolvers-security-performance.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Formatting, I18N, XML, and SQL Tags: What to Use and What to Avoid](./08-formatting-i18n-xml-sql-tags-what-to-use-and-avoid.md)
-
-</div>

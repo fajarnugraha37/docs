@@ -2550,8 +2550,5 @@ production-safe heap dump strategy
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-024](./learn-java-memory-byte-bit-buffer-offheap-gc-part-024.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-026.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-026.md)
-
-</div>

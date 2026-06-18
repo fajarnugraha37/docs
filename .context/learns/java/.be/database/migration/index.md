@@ -38,8 +38,5 @@
 
 
 ---
-<div align="center">
 
 [🏠 Kembali ke Daftar Isi Utama](../../../../index.md)
-
-</div>

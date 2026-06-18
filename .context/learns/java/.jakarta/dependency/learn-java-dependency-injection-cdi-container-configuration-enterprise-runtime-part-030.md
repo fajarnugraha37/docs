@@ -2271,8 +2271,5 @@ This series is not finished yet.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 029 — Conditional Beans and Runtime Selection Patterns](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 031 — Testing CDI, EJB, and Configuration-Heavy Code](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-031.md)
-
-</div>

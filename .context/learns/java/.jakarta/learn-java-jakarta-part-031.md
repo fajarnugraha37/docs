@@ -3101,8 +3101,5 @@ Bagian berikutnya akan membahas **Jakarta XML Web Services (`jakarta.xml.ws`) / 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-030.md](./learn-java-jakarta-part-030.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-032.md](./learn-java-jakarta-part-032.md)
-
-</div>

@@ -2618,8 +2618,5 @@ Part berikutnya: Part 002 — JDBC Driver Architecture: Dari Interface Java ke P
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-sql-jdbc-hikaricp-part-000.md](./learn-java-sql-jdbc-hikaricp-part-000.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-sql-jdbc-hikaricp-part-002](./learn-java-sql-jdbc-hikaricp-part-002.md)
-
-</div>

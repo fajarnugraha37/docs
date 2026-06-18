@@ -2857,8 +2857,5 @@ Topik: Test Design: Arrange-Act-Assert, Given-When-Then, dan Behavioral Clarity
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-001](./learn-java-testing-benchmarking-performance-jvm-part-001.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-003](./learn-java-testing-benchmarking-performance-jvm-part-003.md)
-
-</div>

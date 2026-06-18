@@ -2096,8 +2096,5 @@ Mulai Part 018, kita pindah ke **compression**: ZIP, GZIP, Deflater, Inflater, s
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 016 — Serialization I: Java Object Serialization Architecture, Object Graph, Identity, dan Format](./learn-java-io-nio-networking-data-transfer-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 018 — Compression: ZIP, GZIP, Deflater, Inflater, Tar Concept, dan Streaming Compression](./learn-java-io-nio-networking-data-transfer-part-018.md)
-
-</div>

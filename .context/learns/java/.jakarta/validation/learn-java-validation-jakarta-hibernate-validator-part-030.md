@@ -2194,8 +2194,5 @@ Status: **seri selesai / mencapai bagian terakhir**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-029](./learn-java-validation-jakarta-hibernate-validator-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Part 000 — Orientasi dan Mental Model Java hingga Java 25](../../learn-java-part-000.md)
-
-</div>

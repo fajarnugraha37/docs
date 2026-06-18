@@ -2840,8 +2840,5 @@ Part 13 akan membahas desain changelog secara mendalam:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 11 — Liquibase Mental Model](./11-liquibase-mental-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 13 — Liquibase Changelog Design](./13-liquibase-changelog-design.md)
-
-</div>

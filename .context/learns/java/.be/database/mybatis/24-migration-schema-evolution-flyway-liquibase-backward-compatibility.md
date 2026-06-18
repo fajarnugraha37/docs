@@ -1936,8 +1936,5 @@ That part builds on this one because schema evolution often creates new security
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 23 — Testing MyBatis: Unit, Slice, Integration, Testcontainers](./23-testing-mybatis-unit-slice-integration-testcontainers.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 25 — Security Engineering: SQL Injection, Tenant Isolation, Row-Level Access](./25-security-engineering-sql-injection-tenant-isolation-row-level-access.md)
-
-</div>

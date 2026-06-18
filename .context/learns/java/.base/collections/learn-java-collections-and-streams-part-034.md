@@ -1387,8 +1387,5 @@ If order does not matter, do not pay for it.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-033.md](./learn-java-collections-and-streams-part-033.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-035.md](./learn-java-collections-and-streams-part-035.md)
-
-</div>

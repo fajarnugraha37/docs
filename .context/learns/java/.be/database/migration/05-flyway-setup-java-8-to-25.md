@@ -2291,8 +2291,5 @@ Kita akan membahas cara menulis SQL migration yang aman, readable, reviewable, d
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 4 — Flyway Mental Model](./04-flyway-mental-model.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 6 — Flyway SQL Migration Design](./06-flyway-sql-migration-design.md)
-
-</div>

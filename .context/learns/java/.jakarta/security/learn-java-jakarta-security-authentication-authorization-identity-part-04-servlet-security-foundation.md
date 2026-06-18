@@ -2870,8 +2870,5 @@ Part 05: how the caller actually gets authenticated.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Jakarta Security Authentication Authorization Identity](./learn-java-jakarta-security-authentication-authorization-identity-part-03-container-security-architecture.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 05 — Authentication Mechanisms: Basic, Form, Custom Form, Client Certificate, OIDC](./learn-java-jakarta-security-authentication-authorization-identity-part-05-authentication-mechanisms.md)
-
-</div>

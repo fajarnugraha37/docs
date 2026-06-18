@@ -1971,8 +1971,5 @@ Kita akan masuk lebih rendah ke TCP sebagai fondasi transport:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 0 — Orientation: From Java I/O Developer to Network Systems Engineer](./000-orientation-from-java-io-developer-to-network-systems-engineer.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 2 — TCP for Java Engineers: Connections, Streams, Buffers, and Failure Semantics](./002-tcp-for-java-engineers-connections-streams-buffers-failures.md)
-
-</div>

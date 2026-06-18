@@ -2475,8 +2475,5 @@ Seri belum selesai. Bagian berikutnya: **Part 21 — Enterprise Governance: Corp
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 19 — Release Engineering: Semantic Versioning, Snapshot, Release, Tagging, Changelog, Publishing](./19-release-engineering.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 21 — Enterprise Governance: Corporate Parent POM, Convention Plugin, Policy-as-Build](./21-enterprise-governance.md)
-
-</div>

@@ -2763,8 +2763,5 @@ High-integrity systems should treat authorization as part of state integrity. Au
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-020](./learn-java-security-cryptography-integrity-part-020.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-022](./learn-java-security-cryptography-integrity-part-022.md)
-
-</div>

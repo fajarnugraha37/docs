@@ -2382,8 +2382,5 @@ Status seri: **belum selesai**.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-028.md](./learn-java-security-cryptography-integrity-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-030](./learn-java-security-cryptography-integrity-part-030.md)
-
-</div>

@@ -2029,8 +2029,5 @@ Jika kamu memahami boundary ini, kamu akan jauh lebih siap membangun file-proces
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 28 — Containers, Cloud Runtime, Kubernetes Volumes, and Ephemeral Files](./learn-java-io-file-filesystem-storage-engineering-part-28-containers-cloud-runtime-kubernetes-volumes-ephemeral-files.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: learn-java-io-file-filesystem-storage-engineering — Part 30](./learn-java-io-file-filesystem-storage-engineering-part-30-performance-engineering.md)
-
-</div>

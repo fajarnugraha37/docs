@@ -1649,8 +1649,5 @@ and common-pool impact is acceptable.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-concurrency-and-reactive-part-022.md](./learn-java-concurrency-and-reactive-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-concurrency-and-reactive-part-024.md](./learn-java-concurrency-and-reactive-part-024.md)
-
-</div>

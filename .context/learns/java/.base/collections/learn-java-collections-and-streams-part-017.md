@@ -1716,8 +1716,5 @@ Use TreeMap when ordered navigation is the question.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-016.md](./learn-java-collections-and-streams-part-016.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-018.md](./learn-java-collections-and-streams-part-018.md)
-
-</div>

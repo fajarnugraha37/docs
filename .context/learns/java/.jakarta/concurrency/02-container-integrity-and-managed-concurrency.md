@@ -1902,8 +1902,5 @@ File: 03-managed-executor-service-deep-dive.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 1 — Historical Map: Java EE Concurrency Utilities to Jakarta Concurrency](./01-history-java-ee-concurrency-to-jakarta-concurrency.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 3 — ManagedExecutorService Deep Dive](./03-managed-executor-service-deep-dive.md)
-
-</div>

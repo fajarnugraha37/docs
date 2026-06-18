@@ -2748,8 +2748,5 @@ Part 030 — Testing Persistence Correctly
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 028 — Database-Specific Integration: Oracle, PostgreSQL, MySQL, SQL Server](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-028.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 030 — Testing Persistence Correctly](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-030.md)
-
-</div>

@@ -3566,8 +3566,5 @@ Engineer Java yang kuat tidak hanya menulis service yang “jalan”. Ia membuat
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-part-021.md](./learn-java-part-021.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: learn-java-part-023.md](./learn-java-part-023.md)
-
-</div>

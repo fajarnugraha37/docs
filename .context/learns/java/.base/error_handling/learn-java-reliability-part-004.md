@@ -2525,8 +2525,5 @@ And start asking:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-reliability-part-003.md](./learn-java-reliability-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-reliability-part-005.md](./learn-java-reliability-part-005.md)
-
-</div>

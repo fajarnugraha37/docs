@@ -1897,8 +1897,5 @@ Top-tier OSGi engineering is not about using every modularity mechanism availabl
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 18 — Security Model: Permissions, Conditional Permission Admin, Signing, and Sandboxing Reality](./18-security-model-permissions-conditional-permission-admin-signing-sandboxing-reality.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 20 — Java 8 to 25 Compatibility Engineering for OSGi Systems](./20-java-8-to-25-compatibility-engineering-osgi-systems.md)
-
-</div>

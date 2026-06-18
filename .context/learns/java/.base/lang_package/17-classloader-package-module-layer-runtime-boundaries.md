@@ -1788,8 +1788,5 @@ File: 18-runtime-version-feature-detection-multiversion-compatibility.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 16 — `StackTraceElement`, `StackWalker`, Caller Sensitivity, and Observability](./16-stacktraceelement-stackwalker-caller-sensitive-observability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 18 — `Runtime.Version`, Feature Detection, and Multi-Version Compatibility](./18-runtime-version-feature-detection-multiversion-compatibility.md)
-
-</div>

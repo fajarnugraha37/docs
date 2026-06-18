@@ -2381,8 +2381,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-027](./learn-java-validation-jakarta-hibernate-validator-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-029](./learn-java-validation-jakarta-hibernate-validator-part-029.md)
-
-</div>

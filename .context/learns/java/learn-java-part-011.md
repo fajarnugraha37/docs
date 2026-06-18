@@ -2297,8 +2297,5 @@ Kalau bagian ini dikuasai, kamu akan jauh lebih siap membangun sistem Java yang 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java — Part 010](./learn-java-part-010.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 012 — JVM Internal: Dari Class File sampai JIT](./learn-java-part-012.md)
-
-</div>

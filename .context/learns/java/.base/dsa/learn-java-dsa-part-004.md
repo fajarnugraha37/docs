@@ -1756,8 +1756,5 @@ Di sana kita akan membahas struktur linear untuk kontrol alur: LIFO, FIFO, bound
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-003.md](./learn-java-dsa-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-dsa-part-005 — Stack, Queue, Deque, Ring Buffer](./learn-java-dsa-part-005.md)
-
-</div>

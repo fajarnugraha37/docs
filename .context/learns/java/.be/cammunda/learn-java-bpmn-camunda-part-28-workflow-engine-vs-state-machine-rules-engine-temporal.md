@@ -2213,8 +2213,5 @@ Seri belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java BPMN & Camunda Process Orchestration Engineering](./learn-java-bpmn-camunda-part-27-modeling-patterns-regulatory-case-management-systems.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-29-anti-patterns-failure-modes-design-review-checklist.md)
-
-</div>

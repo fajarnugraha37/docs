@@ -1885,8 +1885,5 @@ Status seri setelah bagian ini: **belum selesai**. Kita sudah menyelesaikan **Pa
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-dsa-part-022.md](./learn-java-dsa-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Learn Java Data Structure and Algorithm — Part 024](./learn-java-dsa-part-024.md)
-
-</div>

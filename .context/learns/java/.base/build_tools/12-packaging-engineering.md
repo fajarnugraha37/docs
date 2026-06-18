@@ -2423,8 +2423,5 @@ Packaging dan environment separation harus dipisahkan secara bersih. Artifact ha
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 11 — Testing Build Pipeline: Unit, Integration, Functional, Contract, Mutation, Benchmark](./11-testing-build-pipeline.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 13 — Resource Processing, Filtering, Profiles, Properties, Environment Separation](./13-resource-processing-filtering-profiles-properties-environment-separation.md)
-
-</div>

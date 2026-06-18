@@ -1469,8 +1469,5 @@ Use explicit workflows to make important things happen.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-035.md](./learn-java-collections-and-streams-part-035.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-037.md](./learn-java-collections-and-streams-part-037.md)
-
-</div>

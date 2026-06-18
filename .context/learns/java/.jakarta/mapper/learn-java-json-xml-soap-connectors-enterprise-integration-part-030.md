@@ -2057,8 +2057,5 @@ Mulai Part 31, kita bergeser dari SOAP/XML web service ke **Jakarta Connectors /
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 29](./learn-java-json-xml-soap-connectors-enterprise-integration-part-029.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration-part-031](./learn-java-json-xml-soap-connectors-enterprise-integration-part-031.md)
-
-</div>

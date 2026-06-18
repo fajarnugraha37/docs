@@ -2072,8 +2072,5 @@ Use Map when lookup by key is the model. Design the key like production depends 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-003.md](./learn-java-collections-and-streams-part-003.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-005.md](./learn-java-collections-and-streams-part-005.md)
-
-</div>

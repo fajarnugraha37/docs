@@ -2570,8 +2570,5 @@ Part 34 — Capstone: Designing a Secure Java Regulatory Case Management Platfor
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-032.md](./learn-java-security-cryptography-integrity-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-034](./learn-java-security-cryptography-integrity-part-034.md)
-
-</div>

@@ -3217,8 +3217,5 @@ Part 004 — Entity Lifecycle and Persistence Context Internals
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 002 — Persistence Architecture: Layering, Boundaries, and Dependency Direction](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 004 — Entity Lifecycle and Persistence Context Internals](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-004.md)
-
-</div>

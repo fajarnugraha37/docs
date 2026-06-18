@@ -1436,8 +1436,5 @@ and where the aggregation should execute.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-055.md](./learn-java-collections-and-streams-part-055.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-057.md](./learn-java-collections-and-streams-part-057.md)
-
-</div>

@@ -2134,8 +2134,5 @@ Kita akan membahas tenant context propagation, tenant-aware resource design, dat
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-044.md](./learn-jaxrs-advanced-part-044.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-046.md](./learn-jaxrs-advanced-part-046.md)
-
-</div>

@@ -2110,8 +2110,5 @@ Belum selesai. Berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-12-message-correlation-event-driven-process-design.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-bpmn-camunda-process-orchestration-engineering](./learn-java-bpmn-camunda-part-14-multi-instance-parallelism-fan-out-fan-in-concurrency-control.md)
-
-</div>

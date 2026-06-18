@@ -2093,8 +2093,5 @@ GC Selection Strategy: Choosing the Right Collector by Workload
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-022](./learn-java-memory-byte-bit-buffer-offheap-gc-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-024](./learn-java-memory-byte-bit-buffer-offheap-gc-part-024.md)
-
-</div>

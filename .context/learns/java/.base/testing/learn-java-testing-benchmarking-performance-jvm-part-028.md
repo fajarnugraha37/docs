@@ -1929,8 +1929,5 @@ Part 029 — Performance Engineering for Services: Thread Pool, Connection Pool,
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-testing-benchmarking-performance-jvm-part-027](./learn-java-testing-benchmarking-performance-jvm-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-testing-benchmarking-performance-jvm-part-029](./learn-java-testing-benchmarking-performance-jvm-part-029.md)
-
-</div>

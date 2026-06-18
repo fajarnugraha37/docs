@@ -2576,8 +2576,5 @@ Di sana kita akan menerapkan semua konsep Maven/Gradle/build engineering untuk m
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 31 — Build Observability: Logs, Reports, Build Scan, Metrics, Flakiness, Trend Analysis](./31-build-observability.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 33 — Real-World Case Study: Designing Build System for Enterprise Java Platform](./33-real-world-case-study-enterprise-java-platform-build-system.md)
-
-</div>

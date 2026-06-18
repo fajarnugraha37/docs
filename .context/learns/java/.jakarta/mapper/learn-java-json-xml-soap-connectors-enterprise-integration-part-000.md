@@ -2107,8 +2107,5 @@ Sumber-sumber berikut dipakai untuk mengunci fakta versi/spec di Part 0 dan akan
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-040.md](../learn-java-jakarta-part-040.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-json-xml-soap-connectors-enterprise-integration — Part 1](./learn-java-json-xml-soap-connectors-enterprise-integration-part-001.md)
-
-</div>

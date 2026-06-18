@@ -2602,8 +2602,5 @@ Di Part 008, kita akan naik dari vocabulary minimal Jakarta Inject menuju model 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 006 — Dependency Injection Fundamentals: Inversion of Control Done Correctly](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-006.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 008 — CDI Core Mental Model: Bean, Type, Qualifier, Scope, Context](./learn-java-dependency-injection-cdi-container-configuration-enterprise-runtime-part-008.md)
-
-</div>

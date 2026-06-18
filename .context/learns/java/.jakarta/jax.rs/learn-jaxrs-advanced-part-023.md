@@ -2296,8 +2296,5 @@ Kita akan membahas server-side async secara mendalam: `@Suspended AsyncResponse`
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-022.md](./learn-jaxrs-advanced-part-022.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-024.md](./learn-jaxrs-advanced-part-024.md)
-
-</div>

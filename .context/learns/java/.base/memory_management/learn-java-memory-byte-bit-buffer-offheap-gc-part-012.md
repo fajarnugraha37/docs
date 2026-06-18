@@ -2186,8 +2186,5 @@ Memory-Mapped Files: MappedByteBuffer, Page Cache, and OS Semantics
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-011.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-013](./learn-java-memory-byte-bit-buffer-offheap-gc-part-013.md)
-
-</div>

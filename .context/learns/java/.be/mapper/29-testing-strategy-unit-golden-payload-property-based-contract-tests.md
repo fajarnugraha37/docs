@@ -2511,8 +2511,5 @@ Jika sebuah mapping penting untuk API, event, audit, payment, regulatory decisio
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 28 — Error Handling and Diagnostics in Mapping Pipelines](./28-error-handling-diagnostics-mapping-pipelines.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 30 — Performance and Memory Engineering for Mapping Layers](./30-performance-memory-engineering-mapping-layers.md)
-
-</div>

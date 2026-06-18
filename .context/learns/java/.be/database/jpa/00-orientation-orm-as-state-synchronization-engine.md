@@ -2278,8 +2278,5 @@ Bagian berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-bpmn-camunda-process-orchestration-engineering](../../cammunda/learn-java-bpmn-camunda-part-30-capstone-end-to-end-regulatory-case-management-java-camunda.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: Part 1 — JPA Specification vs Provider Reality](./01-jpa-specification-vs-provider-reality.md)
-
-</div>

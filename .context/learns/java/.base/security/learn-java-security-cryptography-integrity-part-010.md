@@ -2259,8 +2259,5 @@ Part berikutnya: **Part 11 — Key Management: Lifecycle, Rotation, Wrapping, KM
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-009](./learn-java-security-cryptography-integrity-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-011](./learn-java-security-cryptography-integrity-part-011.md)
-
-</div>

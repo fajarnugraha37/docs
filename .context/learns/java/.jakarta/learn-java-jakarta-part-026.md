@@ -3108,8 +3108,5 @@ Bagian berikutnya akan membahas **Jakarta Expression Language (`jakarta.el`)**: 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-025.md](./learn-java-jakarta-part-025.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-027.md](./learn-java-jakarta-part-027.md)
-
-</div>

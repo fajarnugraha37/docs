@@ -2655,8 +2655,5 @@ Bagian berikutnya akan membahas **Jakarta Messaging (`jakarta.jms`)**: queue/top
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-017.md](./learn-java-jakarta-part-017.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-019.md](./learn-java-jakarta-part-019.md)
-
-</div>

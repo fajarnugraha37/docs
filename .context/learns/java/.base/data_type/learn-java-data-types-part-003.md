@@ -1917,8 +1917,5 @@ The key is matching numeric representation to domain semantics.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-002.md](./learn-java-data-types-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-004.md](./learn-java-data-types-part-004.md)
-
-</div>

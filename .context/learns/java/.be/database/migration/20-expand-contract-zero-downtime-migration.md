@@ -2183,8 +2183,5 @@ Bagian berikutnya akan membahas hal yang sering menjadi penyebab nyata migration
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: 19 — Data Migration and Backfill Engineering](./19-data-migration-backfill-engineering.md) | [🏠 Daftar Isi](../../../../index.md) | [Selanjutnya ➡️: 21 — Database Locking, Transactions, and Online DDL](./21-database-locking-transactions-online-ddl.md)
-
-</div>

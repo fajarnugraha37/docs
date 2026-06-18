@@ -1611,8 +1611,5 @@ It is poor when your workload is front/middle mutation, membership lookup, primi
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-collections-and-streams-part-015.md](./learn-java-collections-and-streams-part-015.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-collections-and-streams-part-017.md](./learn-java-collections-and-streams-part-017.md)
-
-</div>

@@ -2954,8 +2954,5 @@ Bagian berikutnya akan membahas **Jakarta Debugging Support for Other Languages 
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-028.md](./learn-java-jakarta-part-028.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-030.md](./learn-java-jakarta-part-030.md)
-
-</div>

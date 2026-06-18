@@ -3326,8 +3326,5 @@ Itulah perbedaan antara “operator yang restart service” dan “engineer yang
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Learn Java Part 013 — Memory Management dan Garbage Collection](./learn-java-part-013.md) | [🏠 Daftar Isi](../index.md) | [Selanjutnya ➡️: Learn Java Part 015 — Security, Cryptography, dan Integrity di Java hingga Java 25](./learn-java-part-015.md)
-
-</div>

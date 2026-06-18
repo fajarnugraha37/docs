@@ -3213,8 +3213,5 @@ Payload, Severity, Error Codes, and Machine-Readable Violations
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-validation-jakarta-hibernate-validator-part-012](./learn-java-validation-jakarta-hibernate-validator-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-validation-jakarta-hibernate-validator-part-014](./learn-java-validation-jakarta-hibernate-validator-part-014.md)
-
-</div>

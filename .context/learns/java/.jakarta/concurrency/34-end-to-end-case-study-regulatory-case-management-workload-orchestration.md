@@ -2569,8 +2569,5 @@ File: 35-final-synthesis-choosing-the-right-execution-model.md
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 33 — Design Patterns and Anti-Patterns](./33-design-patterns-and-anti-patterns.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 35 — Final Synthesis: Choosing the Right Execution Model](./35-final-synthesis-choosing-the-right-execution-model.md)
-
-</div>

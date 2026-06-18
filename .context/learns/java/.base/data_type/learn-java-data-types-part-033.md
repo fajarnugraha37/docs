@@ -1575,8 +1575,5 @@ The goal is to make illegal states difficult, correct states obvious, and produc
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-032.md](./learn-java-data-types-part-032.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-034.md](./learn-java-data-types-part-034.md)
-
-</div>

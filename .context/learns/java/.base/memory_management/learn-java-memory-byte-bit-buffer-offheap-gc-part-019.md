@@ -1860,8 +1860,5 @@ Karena:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-018](./learn-java-memory-byte-bit-buffer-offheap-gc-part-018.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-020](./learn-java-memory-byte-bit-buffer-offheap-gc-part-020.md)
-
-</div>

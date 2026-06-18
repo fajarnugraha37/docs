@@ -2451,8 +2451,5 @@ Di bagian berikutnya kita akan naik dari tuning runtime ke desain sistem dan API
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-027.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md](./learn-java-memory-byte-bit-buffer-offheap-gc-part-029.md)
-
-</div>

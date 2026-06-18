@@ -4039,8 +4039,5 @@ Kita akan membedah semua mekanisme parameter injection, conversion, default valu
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-jaxrs-advanced-part-004.md](./learn-jaxrs-advanced-part-004.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-jaxrs-advanced-part-006.md](./learn-jaxrs-advanced-part-006.md)
-
-</div>

@@ -2359,8 +2359,5 @@ Itulah cara menjadikan `String` safe data type, bukan sumber bug production ters
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-data-types-part-009.md](./learn-java-data-types-part-009.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-data-types-part-011.md](./learn-java-data-types-part-011.md)
-
-</div>

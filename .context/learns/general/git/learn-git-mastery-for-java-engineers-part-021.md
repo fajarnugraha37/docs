@@ -2953,8 +2953,5 @@ Line Endings, Whitespace, Encoding, dan Cross-Platform Issues
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-git-mastery-for-java-engineers-part-020.md](./learn-git-mastery-for-java-engineers-part-020.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-git-mastery-for-java-engineers-part-022.md](./learn-git-mastery-for-java-engineers-part-022.md)
-
-</div>

@@ -2483,8 +2483,5 @@ Part 7 — Packaging for Linux Servers: Bare Metal, VM, systemd, and Traditional
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-05-configuration-deployment.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-deployment-runtime-release-delivery-engineering](./learn-java-deployment-runtime-release-delivery-engineering-part-07-packaging-for-linux-servers-bare-metal.md)
-
-</div>

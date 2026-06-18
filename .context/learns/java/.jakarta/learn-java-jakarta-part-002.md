@@ -2266,8 +2266,5 @@ Dengan mental model ini, bagian berikutnya—dependency management API/implement
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-jakarta-part-001.md](./learn-java-jakarta-part-001.md) | [🏠 Daftar Isi](../../index.md) | [Selanjutnya ➡️: learn-java-jakarta-part-003.md](./learn-java-jakarta-part-003.md)
-
-</div>

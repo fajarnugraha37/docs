@@ -2297,8 +2297,5 @@ Fokus berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 2 — Container Integrity: Why Managed Concurrency Exists](./02-container-integrity-and-managed-concurrency.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 4 — ManagedScheduledExecutorService and Time-Based Workloads](./04-managed-scheduled-executor-service-time-based-workloads.md)
-
-</div>

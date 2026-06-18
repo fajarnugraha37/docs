@@ -2461,8 +2461,5 @@ Series belum selesai.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 6 — Semantic Versioning in OSGi: Package Versions, Bundle Versions, API Evolution](./06-semantic-versioning-package-versions-bundle-versions-api-evolution.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 8 — Declarative Services Deep Dive: Components, References, Activation, and Conditions](./08-declarative-services-components-references-activation-conditions.md)
-
-</div>

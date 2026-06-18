@@ -1813,8 +1813,5 @@ Progress:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-security-cryptography-integrity-part-002](./learn-java-security-cryptography-integrity-part-002.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: learn-java-security-cryptography-integrity-part-004](./learn-java-security-cryptography-integrity-part-004.md)
-
-</div>

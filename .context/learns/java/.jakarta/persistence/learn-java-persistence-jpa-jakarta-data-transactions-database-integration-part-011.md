@@ -2749,8 +2749,5 @@ Part 012 — Isolation Levels and Concurrency Anomalies
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 010 — Transaction Fundamentals: ACID, Local Transactions, JTA, Resource Managers](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-010.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 012 — Isolation Levels and Concurrency Anomalies](./learn-java-persistence-jpa-jakarta-data-transactions-database-integration-part-012.md)
-
-</div>

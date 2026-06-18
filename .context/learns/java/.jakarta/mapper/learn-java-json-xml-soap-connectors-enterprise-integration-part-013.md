@@ -1880,8 +1880,5 @@ Part berikutnya:
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: learn-java-json-xml-soap-connectors-enterprise-integration — Part 12](./learn-java-json-xml-soap-connectors-enterprise-integration-part-012.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 14 — XML Schema / XSD Deep Dive](./learn-java-json-xml-soap-connectors-enterprise-integration-part-014.md)
-
-</div>

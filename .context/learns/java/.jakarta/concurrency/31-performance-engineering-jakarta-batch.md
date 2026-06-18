@@ -2406,8 +2406,5 @@ Seri belum selesai. Kita berada di Part 31 dari 35.
 
 <!-- NAVIGATION_FOOTER -->
 ---
-<div align="center">
 
 [⬅️ Sebelumnya: Part 30 — Clustered Jakarta Batch and Distributed Execution Concerns](./30-clustered-jakarta-batch-distributed-execution.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 32 — Security, Audit, and Compliance for Batch Workloads](./32-security-audit-compliance-batch-workloads.md)
-
-</div>
