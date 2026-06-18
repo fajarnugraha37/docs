@@ -2347,7 +2347,6 @@ Fokus Part 1:
 
 [^apache-connection-management]: Apache HttpComponents Client 5.6.x Documentation, connection management guide, describing persistent connection reuse and connection managers for classic and async I/O. https://hc.apache.org/httpcomponents-client-5.6.x/connection-management.html
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

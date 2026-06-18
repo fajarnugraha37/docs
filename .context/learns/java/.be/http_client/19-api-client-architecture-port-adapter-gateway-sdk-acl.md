@@ -2655,7 +2655,6 @@ Part 20 — Error Modelling: Status Code, Transport Failure, Protocol Failure, D
 File: 20-error-modelling-status-transport-protocol-domain-failure.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

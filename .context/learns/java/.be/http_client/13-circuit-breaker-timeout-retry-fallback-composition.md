@@ -1899,8 +1899,6 @@ Di sana kita akan membahas `java.net.http.HttpClient` sebagai client modern bawa
 - WebSocket overview
 - production wrapper pattern
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

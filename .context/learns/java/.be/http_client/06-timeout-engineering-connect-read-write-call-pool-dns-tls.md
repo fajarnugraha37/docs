@@ -3095,7 +3095,6 @@ Part 7 — Connection Pooling, Keep-Alive, HTTP/2 Multiplexing, dan Resource Reu
 
 Di sana kita akan membahas mengapa timeout tidak bisa dipisahkan dari pooling, connection reuse, HTTP/2 multiplexing, body lifecycle, stale connection, load balancer idle timeout, dan resource leak.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

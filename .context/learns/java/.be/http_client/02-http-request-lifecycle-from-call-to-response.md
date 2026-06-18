@@ -2046,7 +2046,6 @@ Part 3 — URI, URL, Encoding, Query Parameter, dan Canonical Request
 File: 03-uri-url-encoding-query-and-canonical-request.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

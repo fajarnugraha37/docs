@@ -1454,8 +1454,6 @@ Part 33 — Case Study: Internal Microservice Client at Scale
 Part 34 — Final Synthesis: Decision Framework, Checklist, and Top 1% Engineering Heuristics
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

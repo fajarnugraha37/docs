@@ -2271,4 +2271,4 @@ Di Part 1 kita akan membahas evolusi dari Java EE Concurrency Utilities ke Jakar
 <!-- NAVIGATION_FOOTER -->
 ---
 
-[⬅️ Sebelumnya: Part 35 — Capstone: Designing a Production-Grade Mapping Layer](../../.be/mapper/35-capstone-designing-production-grade-mapping-layer.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Historical Map: Java EE Concurrency Utilities to Jakarta Concurrency](./01-history-java-ee-concurrency-to-jakarta-concurrency.md)
+[⬅️ Sebelumnya: Part 35 — Capstone: Diagnose a Complex Java Production Incident End-to-End](../../.be/telemetry/35-capstone-diagnose-complex-java-production-incident-end-to-end.md) | [🏠 Daftar Isi](../../../index.md) | [Selanjutnya ➡️: Part 1 — Historical Map: Java EE Concurrency Utilities to Jakarta Concurrency](./01-history-java-ee-concurrency-to-jakarta-concurrency.md)

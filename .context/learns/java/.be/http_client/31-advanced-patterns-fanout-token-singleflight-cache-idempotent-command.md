@@ -2224,7 +2224,6 @@ Part 32 — Case Study: Building a Production-Grade Third-Party API Client
 File: 32-case-study-production-grade-third-party-api-client.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

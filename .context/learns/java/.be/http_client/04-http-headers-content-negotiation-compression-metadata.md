@@ -2460,8 +2460,6 @@ Part 4 — Headers, Content Negotiation, Compression, dan Metadata Contract
 
 Belum selesai. Masih lanjut ke part berikutnya.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

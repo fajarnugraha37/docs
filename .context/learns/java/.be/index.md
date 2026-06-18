@@ -6,6 +6,7 @@
 - [📁 Framework](framework/index.md)
 - [📁 Http_client](http_client/index.md)
 - [📁 Mapper](mapper/index.md)
+- [📁 Telemetry](telemetry/index.md)
 
 
 ---

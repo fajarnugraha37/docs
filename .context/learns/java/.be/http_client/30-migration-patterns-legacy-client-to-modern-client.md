@@ -2077,8 +2077,6 @@ Part 31 = bagaimana membangun pola client kompleks setelah fondasinya benar
 - OkHttp official documentation — overview, connection reuse, `OkHttpClient` reuse.
 - OpenRewrite Apache HttpClient migration recipes sebagai contoh tooling migrasi otomatis.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

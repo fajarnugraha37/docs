@@ -2565,8 +2565,6 @@ Di sana kita akan membedah kenapa “timeout 30 detik” bukan desain yang cukup
 - Apache HttpClient 5 Documentation — classic/async API, entity model, connection/resource handling.
 - Jackson Documentation — streaming parser dan object mapping behavior.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

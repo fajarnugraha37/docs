@@ -2173,8 +2173,6 @@ Maka part berikutnya bertanya:
 
 Concurrency membuat sistem mampu melakukan banyak hal sekaligus. Security memastikan sistem hanya melakukan hal yang memang boleh dilakukan.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

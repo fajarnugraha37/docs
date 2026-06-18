@@ -2293,7 +2293,6 @@ blocking platform thread
 
 Tujuannya agar kita tidak hanya tahu “async lebih cepat” atau “virtual thread lebih mudah”, tetapi bisa memilih model concurrency berdasarkan workload, failure semantics, observability, dan maintainability.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

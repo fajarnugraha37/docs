@@ -2368,7 +2368,6 @@ Part 11 — Retry Engineering: Idempotency, Backoff, Jitter, Retry Budget, dan H
 File: 11-retry-engineering-idempotency-backoff-jitter-budget-hedging.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

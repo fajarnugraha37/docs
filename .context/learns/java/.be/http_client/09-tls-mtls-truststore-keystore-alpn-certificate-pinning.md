@@ -2040,8 +2040,6 @@ Part 9 — TLS, mTLS, Trust Store, Key Store, ALPN, Certificate Pinning
 
 Belum selesai. Masih lanjut ke Part 10.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

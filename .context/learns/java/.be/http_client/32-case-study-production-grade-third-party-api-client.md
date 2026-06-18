@@ -1795,7 +1795,6 @@ Itulah perbedaan antara HTTP client utility dan integration subsystem.
 - Resilience4j documentation for Retry, CircuitBreaker, RateLimiter, and Bulkhead decorators.
 - OWASP guidance for outbound request security, secret leakage prevention, and SSRF defense.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

@@ -2306,8 +2306,6 @@ Part 29 — Production Failure Playbook: Diagnosis and Incident Response
 File: 29-production-failure-playbook-diagnosis-incident-response.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

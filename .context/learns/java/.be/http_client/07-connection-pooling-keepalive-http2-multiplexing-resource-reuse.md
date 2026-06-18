@@ -1825,8 +1825,6 @@ Materi utama part ini:
 - Retrofit Documentation — Retrofit sebagai type-safe HTTP client di atas underlying HTTP client.
 - Apache HttpClient 5 Documentation — connection management, `PoolingHttpClientConnectionManager`, per-route dan total connection limits.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

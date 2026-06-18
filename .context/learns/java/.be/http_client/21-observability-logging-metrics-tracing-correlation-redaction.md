@@ -2435,7 +2435,6 @@ Kita akan membahas bagaimana membuktikan client behavior:
 - mock server dan fault injection digunakan dengan benar
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

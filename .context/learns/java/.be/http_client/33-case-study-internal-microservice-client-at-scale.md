@@ -1964,8 +1964,6 @@ File: 34-final-synthesis-decision-framework-checklist-top-engineering-heuristics
 
 Part 34 will close the series by turning the entire 35-part journey into a unified decision framework, design review checklist, operational checklist, and mental model summary.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

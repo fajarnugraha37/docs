@@ -1750,8 +1750,6 @@ Part berikutnya akan membahas **Spring HTTP Client Layer: RestTemplate, WebClien
 
 Di sana fokusnya bukan sekadar API Spring, tetapi bagaimana Spring membungkus transport client seperti JDK HttpClient, Apache HttpClient, Reactor Netty, dan Jetty; serta bagaimana memilih blocking/reactive/client connector yang tepat dalam aplikasi Spring modern.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

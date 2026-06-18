@@ -1652,7 +1652,6 @@ Generated client yang baik tetap bisa gagal jika konfigurasi environment, secret
 - Swagger Codegen — Official Tool Documentation.
 - Spring Framework — REST Clients and HTTP Interface Client Documentation.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

@@ -1933,7 +1933,6 @@ Part 17 — Apache HttpClient 5 Deep Dive
 File: 17-apache-httpclient-5-deep-dive.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

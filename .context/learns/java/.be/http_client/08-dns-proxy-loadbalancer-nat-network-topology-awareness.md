@@ -2141,7 +2141,6 @@ Part 9 — TLS, mTLS, Trust Store, Key Store, ALPN, Certificate Pinning
 
 Di sana kita akan membahas kenapa HTTPS bukan hanya “pakai https://”, tetapi sebuah trust protocol yang melibatkan certificate chain, trust anchor, hostname verification, key material, ALPN, TLS version, mTLS, dan rotation.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

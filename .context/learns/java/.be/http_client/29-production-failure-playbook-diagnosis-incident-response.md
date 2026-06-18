@@ -2439,7 +2439,6 @@ File: 30-migration-patterns-legacy-client-to-modern-client.md
 
 Series belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

@@ -2280,7 +2280,6 @@ Part 15 — OkHttp Deep Dive: Client, Dispatcher, Interceptor, ConnectionPool
 File: 15-okhttp-deep-dive-client-dispatcher-interceptor-connectionpool.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

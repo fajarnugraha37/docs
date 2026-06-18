@@ -1725,7 +1725,6 @@ Part 19 — API Client Architecture: Port, Adapter, Gateway, SDK, Anti-Corruptio
 File: 19-api-client-architecture-port-adapter-gateway-sdk-acl.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

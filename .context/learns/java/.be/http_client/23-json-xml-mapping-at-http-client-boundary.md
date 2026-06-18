@@ -2083,8 +2083,6 @@ Berikutnya:
 Part 24 — Performance Engineering: Throughput, Latency, Allocation, GC, Threading  
 File: `24-performance-engineering-throughput-latency-allocation-gc-threading.md`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

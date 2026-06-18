@@ -2185,7 +2185,6 @@ Part 13 — Circuit Breaker, Timeout, Retry, dan Fallback Composition
 File: 13-circuit-breaker-timeout-retry-fallback-composition.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

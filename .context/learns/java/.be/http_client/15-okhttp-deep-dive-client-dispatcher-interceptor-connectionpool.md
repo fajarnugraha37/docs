@@ -1928,8 +1928,6 @@ Kita sudah membahas:
 
 Part berikutnya akan membahas **Retrofit Deep Dive**: bagaimana membangun type-safe API client di atas OkHttp tanpa kehilangan kontrol atas error model, retry, observability, DTO boundary, dan production policy.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

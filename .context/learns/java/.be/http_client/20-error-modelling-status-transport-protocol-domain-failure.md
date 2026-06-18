@@ -2642,7 +2642,6 @@ File: 21-observability-logging-metrics-tracing-correlation-redaction.md
 
 Part 21 akan membahas bagaimana semua classification dan lifecycle HTTP client diterjemahkan menjadi logging, metrics, tracing, redaction, dan operational visibility yang benar.
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 

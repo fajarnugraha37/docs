@@ -2023,7 +2023,6 @@ Part berikutnya akan membahas **Rate Limiting, Throttling, Bulkhead, dan Client-
 - JDK HttpClient Java 25: https://docs.oracle.com/en/java/javase/25/docs/api/java.net.http/java/net/http/HttpClient.html
 - RFC 9110 HTTP Semantics: https://www.rfc-editor.org/rfc/rfc9110
 
-
 <!-- NAVIGATION_FOOTER -->
 ---
 
