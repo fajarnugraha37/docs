@@ -2331,8 +2331,6 @@ Part ini menutup jembatan antara behavioral/application pattern dan architecture
 
 Security bukan dekorasi setelah sistem jadi. Security adalah boundary, policy, context, audit, capability, dan failure mode yang harus didesain sejak awal.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./24-resilience-retry-timeout-circuit-breaker-bulkhead-fallback.md">⬅️ Resilience Pattern: Retry, Timeout, Circuit Breaker, Bulkhead, Fallback</a>

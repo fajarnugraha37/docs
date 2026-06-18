@@ -2277,8 +2277,6 @@ Bagian berikutnya akan masuk ke domain modeling modern dengan Java:
 17-data-domain-modeling-patterns-records-sealed-value-objects.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./15-behavioral-visitor-double-dispatch-pattern-matching-alternative.md">⬅️ Part 15 — Behavioral Pattern VI: Visitor, Double Dispatch, Pattern Matching Alternative</a>

@@ -2916,7 +2916,6 @@ Koneksi dengan Part 3:
 
 Di Part 4 kita akan membahas object creation sebagai boundary desain, bukan sekadar cara membuat object.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./02-object-design-coupling-cohesion-identity-boundary.md">⬅️ Object Design Fundamentals: Coupling, Cohesion, Identity, and Boundaries</a>

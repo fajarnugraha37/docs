@@ -2824,7 +2824,6 @@ Part berikutnya:
 33-pattern-selection-heuristics-decision-matrix.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./31-distributed-system-patterns-antipatterns-java-engineers.md">⬅️ Distributed System Patterns and Anti-Patterns for Java Engineers</a>

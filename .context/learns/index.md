@@ -22,7 +22,7 @@
 
 - :material-language-java: **Java**
 
-  1327 artikel tentang Java core, backend, dan Jakarta.
+  1363 artikel tentang Java core, backend, dan Jakarta.
 
   [Buka jalur Java](java/index.md)
 - :material-source-branch: **General Engineering**

@@ -2739,7 +2739,6 @@ Part berikutnya:
 29-framework-patterns-di-aop-annotation-reflection-spi.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./27-observability-diagnostics-patterns-correlation-audit-telemetry.md">⬅️ Part 27 — Observability and Diagnostics Patterns: Correlation, Audit, Telemetry, and Debuggability</a>

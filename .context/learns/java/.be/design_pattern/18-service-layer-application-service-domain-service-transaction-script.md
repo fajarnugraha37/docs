@@ -2262,7 +2262,6 @@ Bagian berikutnya:
 19-repository-dao-data-mapper-unit-of-work-query-object.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./17-data-domain-modeling-patterns-records-sealed-value-objects.md">⬅️ Data and Domain Modeling Patterns with Modern Java</a>

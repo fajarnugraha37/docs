@@ -96,6 +96,7 @@ nav:
           - "Design Patterns": "java/.be/design_pattern/index.md"
           - "Framework": [{"Overview":"java/.be/framework/index.md"},{"Jersey":"java/.be/framework/jersey/index.md"}]
           - "HTTP Client": "java/.be/http_client/index.md"
+          - "Jms": "java/.be/jms/index.md"
           - "Mapper": "java/.be/mapper/index.md"
           - "Telemetry": "java/.be/telemetry/index.md"
       - "Jakarta":

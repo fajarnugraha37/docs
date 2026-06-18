@@ -2149,7 +2149,6 @@ Bagian berikutnya:
 35-top-1-percent-pattern-mastery-engineering-judgment.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./33-pattern-selection-heuristics-decision-matrix.md">⬅️ Pattern Selection Heuristics: Decision Matrix for Senior Engineers</a>

@@ -2972,7 +2972,6 @@ Bagian berikutnya:
 01-java-8-to-25-pattern-evolution-modern-language-impact.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

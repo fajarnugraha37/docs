@@ -2328,8 +2328,6 @@ If not, the design is not observable enough.
 - OWASP Top 10 2025: logging/alerting failures and sensitive information leakage concerns.
 - Java SE 25 documentation: `Thread`, `ScopedValue`, structured concurrency-related APIs, and modern concurrency context.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./26-security-design-patterns-authz-context-policy-boundary.md">⬅️ Security Design Patterns: Authorization Context, Policy Boundary, Capability, and Auditability</a>

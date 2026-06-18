@@ -2831,8 +2831,6 @@ Bagian berikutnya:
 
 Topik berikutnya akan membahas Singleton, Multiton, Registry, Service Locator, dan problem global state. Ini penting karena banyak sistem Java enterprise memakai singleton secara tidak sadar melalui static utility, DI singleton scope, registry, cache, dan service locator tersembunyi.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./04-creational-constructor-static-factory-factory-method.md">⬅️ Creational Pattern I: Constructor, Static Factory, Factory Method</a>

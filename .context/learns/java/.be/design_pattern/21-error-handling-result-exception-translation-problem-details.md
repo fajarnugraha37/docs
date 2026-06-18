@@ -2769,7 +2769,6 @@ Bagian berikutnya:
 22-concurrency-immutability-confinement-guarded-suspension.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./20-dto-mapper-assembler-presenter-view-model-boundary.md">⬅️ Part 20 — DTO, Mapper, Assembler, Presenter, View Model Boundary</a>

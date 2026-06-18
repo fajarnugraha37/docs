@@ -2552,7 +2552,6 @@ Fokus berikutnya:
 Executor, Future, CompletableFuture, task lifecycle, cancellation, timeout propagation, fan-out/fan-in, virtual threads, structured concurrency, scoped values, dan anti-pattern CompletableFuture spaghetti.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./21-error-handling-result-exception-translation-problem-details.md">⬅️ Error Handling Patterns: Result, Exception Translation, Problem Details</a>

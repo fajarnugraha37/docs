@@ -2126,7 +2126,6 @@ Next part:
 14-behavioral-state-state-machine-workflow-object.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./12-behavioral-observer-listener-event-pubsub.md">⬅️ Behavioral Pattern IV: Observer, Listener, Event, Pub/Sub</a>

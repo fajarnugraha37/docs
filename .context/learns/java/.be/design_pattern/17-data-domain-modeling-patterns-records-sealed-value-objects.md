@@ -2587,8 +2587,6 @@ Untuk memperdalam bagian ini, pelajari:
 5. Java SE documentation untuk `record`, `Optional`, `List.copyOf`, dan pattern matching switch.
 6. Refactoring — Martin Fowler, terutama smell seperti Primitive Obsession, Data Class, Feature Envy, dan Shotgun Surgery.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./16-behavioral-iterator-stream-collector-fluent-api.md">⬅️ Part 16 — Behavioral Pattern VII: Iterator, Stream, Collector, Fluent API</a>

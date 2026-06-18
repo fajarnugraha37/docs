@@ -2689,7 +2689,6 @@ Bagian berikutnya:
 16-behavioral-iterator-stream-collector-fluent-api.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./14-behavioral-state-state-machine-workflow-object.md">⬅️ Behavioral Pattern VI: State, State Machine, Workflow Object</a>

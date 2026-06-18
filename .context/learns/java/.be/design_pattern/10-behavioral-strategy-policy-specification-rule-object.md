@@ -2861,7 +2861,6 @@ Part berikutnya:
 11-behavioral-command-handler-chain-of-responsibility.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./09-structural-composite-bridge-flyweight-module-boundary.md">⬅️ Structural Pattern III: Composite, Bridge, Flyweight, Module Boundary</a>

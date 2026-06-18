@@ -3364,7 +3364,6 @@ Bagian berikutnya:
 08-structural-decorator-proxy-interceptor-middleware-chain.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./06-singleton-multiton-registry-service-locator-global-state.md">⬅️ Part 6 — Singleton, Multiton, Registry, Service Locator: Global State Under Control</a>

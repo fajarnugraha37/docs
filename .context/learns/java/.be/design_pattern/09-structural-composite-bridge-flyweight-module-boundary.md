@@ -2784,7 +2784,6 @@ Bagian berikutnya:
 10-behavioral-strategy-policy-specification-rule-object.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./08-structural-decorator-proxy-interceptor-middleware-chain.md">⬅️ Part 8 — Structural Pattern II: Decorator, Proxy, Interceptor, Middleware Chain</a>

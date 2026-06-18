@@ -2069,7 +2069,6 @@ Bagian berikutnya:
 34-case-study-enterprise-java-module-pattern-refactoring.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./32-refactoring-toward-patterns-away-from-antipatterns.md">⬅️ Refactoring Toward Patterns and Away from Anti-Patterns</a>

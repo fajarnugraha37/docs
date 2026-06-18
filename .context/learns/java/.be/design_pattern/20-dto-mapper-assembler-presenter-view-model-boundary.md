@@ -3271,7 +3271,6 @@ Bagian berikutnya:
 21-error-handling-result-exception-translation-problem-details.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./19-repository-dao-data-mapper-unit-of-work-query-object.md">⬅️ Repository, DAO, Data Mapper, Unit of Work, Query Object</a>

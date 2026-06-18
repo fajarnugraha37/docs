@@ -2347,7 +2347,6 @@ Part 2 dari 35 selesai.
 Seri belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./01-java-8-to-25-pattern-evolution-modern-language-impact.md">⬅️ Java 8 to 25 Pattern Evolution: Modern Language Impact</a>

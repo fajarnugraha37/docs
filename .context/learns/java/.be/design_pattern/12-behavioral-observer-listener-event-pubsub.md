@@ -3159,7 +3159,6 @@ Dengan demikian, event tidak dipahami sebagai fitur broker/framework, tetapi seb
 **Status:** Part 12 selesai.  
 **Berikutnya:** `13-behavioral-template-method-hook-callback-extension-point.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./11-behavioral-command-handler-chain-of-responsibility.md">⬅️ Behavioral Pattern II: Command, Handler, Chain of Responsibility</a>

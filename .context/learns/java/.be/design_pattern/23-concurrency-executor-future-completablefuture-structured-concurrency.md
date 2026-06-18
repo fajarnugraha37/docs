@@ -2212,7 +2212,6 @@ Bagian berikutnya:
 24-resilience-retry-timeout-circuit-breaker-bulkhead-fallback.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./22-concurrency-immutability-confinement-guarded-suspension.md">⬅️ Part 22 — Concurrency Pattern I: Immutability, Confinement, Guarded Suspension</a>

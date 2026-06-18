@@ -3382,7 +3382,6 @@ Part 6 dari 35 selesai.
 Seri belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./05-creational-abstract-factory-builder-prototype-object-mother.md">⬅️ Part 5 — Creational Pattern II: Abstract Factory, Builder, Prototype, Object Mother</a>

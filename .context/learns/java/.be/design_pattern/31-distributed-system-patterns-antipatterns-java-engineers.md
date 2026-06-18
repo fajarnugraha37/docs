@@ -2482,7 +2482,6 @@ Berikutnya:
 
 Part berikutnya akan fokus pada cara bergerak dari codebase nyata yang messy menuju pattern yang tepat tanpa big-bang rewrite: characterization test, golden master, extract strategy, split god service, replace conditional with polymorphism, break cyclic dependency, dan safe refactoring sequence.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./30-architecture-layered-hexagonal-clean-modular-monolith.md">⬅️ Part 30 — Architecture Pattern: Layered, Hexagonal, Clean, Modular Monolith</a>

@@ -2588,8 +2588,6 @@ Bagian ini adalah fondasi untuk membaca ulang semua pattern klasik dengan lensa 
 
 Mulai Part 2, kita masuk ke object design fundamental: coupling, cohesion, identity, boundary, mutability, collaboration graph, connascence, dan cara melihat desain object bukan sebagai class diagram, tetapi sebagai sistem responsibility yang hidup.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./00-pattern-thinking-design-force-tradeoff-mental-model.md">⬅️ 0. Executive Summary</a>

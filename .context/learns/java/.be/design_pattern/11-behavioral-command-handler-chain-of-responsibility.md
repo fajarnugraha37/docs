@@ -2926,7 +2926,6 @@ Part 11 dari 35 selesai.
 Seri belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./10-behavioral-strategy-policy-specification-rule-object.md">⬅️ Part 10 — Behavioral Pattern I: Strategy, Policy, Specification, Rule Object</a>

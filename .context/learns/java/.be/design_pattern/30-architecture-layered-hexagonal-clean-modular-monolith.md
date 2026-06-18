@@ -2670,7 +2670,6 @@ Bagian berikutnya:
 31-distributed-system-patterns-antipatterns-java-engineers.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./29-framework-patterns-di-aop-annotation-reflection-spi.md">⬅️ Framework Patterns: Dependency Injection, AOP, Annotation, Reflection, SPI</a>

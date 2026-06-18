@@ -2840,7 +2840,6 @@ Bagian berikutnya:
 27-observability-diagnostics-patterns-correlation-audit-telemetry.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./25-integration-gateway-adapter-outbox-inbox-saga-idempotency.md">⬅️ Part 25 — Integration Pattern: Gateway, Adapter, Outbox, Inbox, Saga, Idempotency</a>

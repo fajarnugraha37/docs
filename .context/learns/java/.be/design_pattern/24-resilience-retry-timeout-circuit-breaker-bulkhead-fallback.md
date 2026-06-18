@@ -2621,7 +2621,6 @@ Bagian berikutnya:
 25-integration-gateway-adapter-outbox-inbox-saga-idempotency.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./23-concurrency-executor-future-completablefuture-structured-concurrency.md">⬅️ Concurrency Pattern II: Executor, Future, CompletableFuture, Structured Concurrency</a>

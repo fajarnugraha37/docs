@@ -2459,7 +2459,6 @@ Universal DTO anti-pattern
 Entity exposed as API anti-pattern
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./18-service-layer-application-service-domain-service-transaction-script.md">⬅️ Part 18 — Service Layer, Application Service, Domain Service, Transaction Script</a>

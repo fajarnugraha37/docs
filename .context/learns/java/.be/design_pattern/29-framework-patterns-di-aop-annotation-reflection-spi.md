@@ -3151,7 +3151,6 @@ Bagian berikutnya:
 30-architecture-layered-hexagonal-clean-modular-monolith.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./28-api-design-patterns-fluent-resource-operation-compatibility.md">⬅️ API Design Patterns: Fluent, Builder, Resource, Operation, Compatibility</a>

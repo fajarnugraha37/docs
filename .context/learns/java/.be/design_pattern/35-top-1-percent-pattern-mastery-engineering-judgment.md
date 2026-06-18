@@ -2391,8 +2391,6 @@ Part 35 dari 35 selesai.
 Seri learn-java-design-patterns-antipatterns-architecture-engineering selesai.
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./34-case-study-enterprise-java-module-pattern-refactoring.md">⬅️ Case Study: Refactoring a Complex Enterprise Java Module Pattern Refactoring</a>

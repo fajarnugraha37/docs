@@ -3380,7 +3380,6 @@ Bagian berikutnya:
 09-structural-composite-bridge-flyweight-module-boundary.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./07-structural-adapter-facade-gateway-anti-corruption-layer.md">⬅️ Structural Pattern I: Adapter, Facade, Gateway, Anti-Corruption Layer</a>

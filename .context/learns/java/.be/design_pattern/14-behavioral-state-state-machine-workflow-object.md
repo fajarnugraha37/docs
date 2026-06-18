@@ -4111,8 +4111,6 @@ Bagian berikutnya:
 
 Topik berikutnya akan membahas **Visitor, Double Dispatch, dan Pattern Matching Alternative**: bagaimana menangani operasi pada struktur object yang memiliki banyak subtype, kapan Visitor masih relevan, kapan pattern matching switch lebih bersih, dan bagaimana Java modern mengubah trade-off klasik antara extensibility of types vs extensibility of operations.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./13-behavioral-template-method-hook-callback-extension-point.md">⬅️ Behavioral Pattern V: Template Method, Hook, Callback, Extension Point</a>

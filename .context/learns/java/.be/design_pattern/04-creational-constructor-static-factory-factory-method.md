@@ -3650,7 +3650,6 @@ Part 4 dari 35 selesai.
 Seri belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./03-solid-revisited-failure-control-design-judgment.md">⬅️ SOLID Revisited: Failure Control and Design Judgment</a>
