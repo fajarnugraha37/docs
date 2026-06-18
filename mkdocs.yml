@@ -1,5 +1,6 @@
 site_name: LLM Engineering Notebook
 site_description: "A comprehensive engineering notebook"
+site_url: https://fajarnugraha37.github.io/docs/
 theme:
   name: material
   palette:
@@ -1387,4 +1388,3 @@ nav:
       - "Bagian 23 — Migration: Java 8 → 11 → 17 → 21 → 25": "java/learn-java-part-023.md"
       - "Bagian 24 — Capstone: Java Engineering Mastery dan Production-Grade Decision Making": "java/learn-java-part-024.md"
       - "Bagian 25 — Production Case Studies dan Reference Architecture Playbook": "java/learn-java-part-025.md"
-
