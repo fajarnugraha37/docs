@@ -1,23 +1,22 @@
-# Daftar Isi: .Base
+# Base
 
-## Direktori
-- [📁 Build_tools](build_tools/index.md)
-- [📁 Collections](collections/index.md)
-- [📁 Concurrency](concurrency/index.md)
-- [📁 Data_type](data_type/index.md)
-- [📁 Deployment](deployment/index.md)
-- [📁 Dsa](dsa/index.md)
-- [📁 Error_handling](error_handling/index.md)
-- [📁 Io](io/index.md)
-- [📁 Lang_package](lang_package/index.md)
-- [📁 Memory_management](memory_management/index.md)
-- [📁 Osgi](osgi/index.md)
-- [📁 Reflection](reflection/index.md)
-- [📁 Security](security/index.md)
-- [📁 Sql](sql/index.md)
-- [📁 Testing](testing/index.md)
+> Kategori fondasi Java: bahasa, collections, concurrency, IO, deployment, memory, dan runtime engineering.
 
+## Kategori utama
+
+- [Build Tools](build_tools/index.md)
+- [Collections](collections/index.md)
+- [Concurrency](concurrency/index.md)
+- [Data Type](data_type/index.md)
+- [Deployment](deployment/index.md)
+- [IO](io/index.md)
+- [Security](security/index.md)
+
+## Untuk pembaca baru
+
+- Mulai dari `Build Tools` jika Anda ingin memahami lifecycle build dan packaging.
+- Mulai dari `Collections` dan `Concurrency` jika Anda ingin memperkuat fondasi coding interview dan production code.
 
 ---
 
-[🏠 Kembali ke Daftar Isi Utama](../../index.md)
+[🏠 Kembali ke Java](../index.md)

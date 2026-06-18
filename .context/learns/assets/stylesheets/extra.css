@@ -1,0 +1,88 @@
+:root {
+  --nf-max-width: 860px;
+  --nf-soft-bg: color-mix(in srgb, var(--md-default-bg-color) 94%, #4c7cf0 6%);
+  --nf-border: color-mix(in srgb, var(--md-default-fg-color) 14%, transparent);
+}
+
+.md-grid {
+  max-width: 1440px;
+}
+
+.md-content__inner,
+.md-sidebar--primary .md-nav {
+  scroll-behavior: smooth;
+}
+
+.md-content__inner {
+  margin: 0 auto;
+  max-width: var(--nf-max-width);
+}
+
+.md-typeset {
+  font-size: 0.84rem;
+  line-height: 1.85;
+}
+
+.md-typeset h1 {
+  font-size: 2.1rem;
+  line-height: 1.2;
+  margin-bottom: 1rem;
+}
+
+.md-typeset h2,
+.md-typeset h3 {
+  margin-top: 2.2rem;
+}
+
+.md-typeset p,
+.md-typeset li {
+  max-width: 72ch;
+}
+
+.md-typeset blockquote,
+.md-typeset .admonition,
+.md-typeset details {
+  border-radius: 16px;
+}
+
+.md-typeset code,
+.md-typeset pre {
+  border-radius: 14px;
+}
+
+.md-typeset table:not([class]) {
+  border: 1px solid var(--nf-border);
+  border-radius: 14px;
+  display: block;
+  overflow: auto;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin: 1.4rem 0 2rem;
+}
+
+.page-nav {
+  align-items: center;
+  background: var(--nf-soft-bg);
+  border: 1px solid var(--nf-border);
+  border-radius: 18px;
+  display: grid;
+  gap: 0.75rem;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  margin: 2.5rem 0 1rem;
+  padding: 1rem 1.1rem;
+}
+
+.page-nav a,
+.page-nav span {
+  font-size: 0.75rem;
+}
+
+@media screen and (max-width: 76.2344em) {
+  .md-typeset {
+    font-size: 0.8rem;
+  }
+}

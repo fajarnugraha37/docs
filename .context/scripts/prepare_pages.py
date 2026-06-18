@@ -1,4 +1,5 @@
 from pathlib import Path
+import re
 import shutil
 
 ROOT = Path(__file__).resolve().parents[2]
@@ -24,10 +25,23 @@ TEXT_REWRITES = (
     (".context/learns/index.md", "index.md"),
 )
 
+MARKDOWN_LINK_RE = re.compile(r"(\]\()([^)]+)(\))")
+HTML_HREF_RE = re.compile(r'(href=")([^"]+)(")')
+
 
 def rewrite_text(text: str) -> str:
     for old, new in TEXT_REWRITES:
         text = text.replace(old, new)
+    return text
+
+
+def rewrite_target(target: str) -> str:
+    return rewrite_text(target)
+
+
+def rewrite_markdown_content(text: str) -> str:
+    text = MARKDOWN_LINK_RE.sub(lambda match: f"{match.group(1)}{rewrite_target(match.group(2))}{match.group(3)}", text)
+    text = HTML_HREF_RE.sub(lambda match: f'{match.group(1)}{rewrite_target(match.group(2))}{match.group(3)}', text)
     return text
 
 
@@ -51,7 +65,7 @@ for src_path in SRC_DOCS.rglob("*"):
     dst_path.parent.mkdir(parents=True, exist_ok=True)
     if src_path.suffix.lower() == ".md":
         content = src_path.read_text(encoding="utf-8")
-        dst_path.write_text(rewrite_text(content), encoding="utf-8")
+        dst_path.write_text(rewrite_markdown_content(content), encoding="utf-8")
     else:
         shutil.copy2(src_path, dst_path)
 

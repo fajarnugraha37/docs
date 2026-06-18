@@ -1,20 +1,21 @@
 # Notebook
 
-Repositori ini menyimpan standar rekayasa, template, dan notebook.
+Repositori ini menyimpan catatan engineering, standar, dan materi belajar yang disusun untuk dibaca sebagai knowledge base jangka panjang.
 
-## Membaca Catatan (Buku)
+## Cara memakai notebook ini
 
-Anda bisa membaca catatan langsung di GitHub dengan menekan tautan Daftar Isi berikut:
+- Masuk lewat halaman [Home](index.md) jika Anda ingin memilih jalur belajar.
+- Masuk lewat [Katalog Lengkap](all-notes.md) jika Anda ingin menjelajah cepat.
+- Gunakan search untuk istilah, framework, library, atau topik yang spesifik.
 
-**[Buka Daftar Isi (.context/learns/index.md)](.context/learns/index.md)**
+## Struktur utama
 
-Setiap halaman telah dilengkapi dengan navigasi [⬅️ Sebelumnya] dan [Selanjutnya ➡️] di bagian paling bawah.
+- [General](general/index.md) untuk topik lintas stack seperti Git.
+- [Java](java/index.md) untuk jalur Java utama.
+- [Java Base](java/.base/index.md) untuk fondasi bahasa, runtime, collections, concurrency, dan deployment.
+- [Java Backend](java/.be/index.md) untuk materi backend dan production engineering.
+- [Java Jakarta](java/.jakarta/index.md) untuk ecosystem Jakarta.
 
-### GitHub Pages (MkDocs)
-Repositori ini juga telah dikonfigurasi untuk otomatis membangun website dokumentasi bergaya buku menggunakan **MkDocs (Material Theme)**.
-Pastikan Anda telah menyalakan GitHub Pages di pengaturan repositori Anda (Settings -> Pages -> Deploy from a branch -> pilih branch `gh-pages` yang dihasilkan oleh Actions).
+## Website
 
-<!-- NAVIGATION_FOOTER -->
----
-
-[🏠 Daftar Isi](./index.md) | [Selanjutnya ➡️: Part 000 — Peta Belajar Git Mastery untuk Java Software Engineers](./general/git/learn-git-mastery-for-java-engineers-part-000.md)
+Versi web dipublikasikan di [note.nugrahafajar.my.id](https://note.nugrahafajar.my.id/).
