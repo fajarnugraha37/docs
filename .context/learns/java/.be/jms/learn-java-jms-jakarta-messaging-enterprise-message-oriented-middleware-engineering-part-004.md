@@ -1992,8 +1992,6 @@ Part 5 — Message Anatomy: Header, Properties, Body, Metadata, Correlation, dan
 
 Kita akan membedah anatomi message JMS secara detail: header standar, property typing, body model, correlation id, reply-to, expiration, priority, timestamp, delivery mode, dan bagaimana membangun envelope event/command yang production-grade.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-003.md">⬅️ Part 3 — Queue Semantics: Point-to-Point, Competing Consumers, Work Distribution, dan Load Leveling</a>

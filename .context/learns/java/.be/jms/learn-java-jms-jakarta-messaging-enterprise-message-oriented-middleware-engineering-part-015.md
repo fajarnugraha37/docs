@@ -3088,8 +3088,6 @@ Pada part berikutnya kita akan masuk ke area yang sangat penting untuk productio
 
 Di sana kita akan membahas bagaimana koneksi JMS diamankan, bagaimana credential dikelola, bagaimana destination authorization didesain, dan kenapa selector bukan security boundary.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-014.md">⬅️ Part 14 — Request/Reply over JMS: Correlation, Temporary Queue, Timeout, dan RPC Anti-Pattern</a>

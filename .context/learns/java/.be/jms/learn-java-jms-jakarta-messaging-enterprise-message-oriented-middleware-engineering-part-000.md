@@ -2585,7 +2585,6 @@ Referensi berikut dipakai sebagai anchor istilah dan scope spesifikasi. Materi u
 7. OpenJDK JDK 25 project page: https://openjdk.org/projects/jdk/25/
 8. Apache ActiveMQ Artemis JMS usage documentation: https://activemq.apache.org/components/artemis/documentation/latest/using-jms.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

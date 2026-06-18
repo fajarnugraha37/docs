@@ -2254,8 +2254,6 @@ Selesai: Part 0 sampai Part 26.
 Belum selesai: Part 27 sampai Part 35.  
 Berikutnya: **Part 27 — Observability: Metrics, Logs, Tracing, Correlation, Auditability, dan Forensic Debugging**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-025.md">⬅️ Part 25 — Backpressure and Capacity Engineering: Throughput, Latency, Queue Depth, Consumer Lag, dan Saturation</a>

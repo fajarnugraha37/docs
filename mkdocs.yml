@@ -70,6 +70,9 @@ nav:
   - "General":
       - "Overview": "general/index.md"
       - "Git": "general/git/index.md"
+      - "Http":
+          - "Overview": "general/http/index.md"
+          - "Frontend": "general/http/frontend/index.md"
   - "Java":
       - "Overview": "java/index.md"
       - "Base":

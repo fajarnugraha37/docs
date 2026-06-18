@@ -2943,7 +2943,6 @@ Itulah standar desain message untuk sistem enterprise yang serius.
 
 **Status seri:** Part 5 selesai. Seri belum selesai. Lanjut ke Part 6: **Message Types: TextMessage, BytesMessage, MapMessage, ObjectMessage, StreamMessage, Generic Message**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-004.md">⬅️ Part 4 — Topic Semantics: Publish/Subscribe, Broadcast, Durable Subscription, Shared Subscription</a>

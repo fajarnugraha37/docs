@@ -1845,8 +1845,6 @@ Berikutnya:
 
 **Part 32 — Enterprise Integration Patterns with JMS**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-030.md">⬅️ Part 30 — Cloud-Native JMS: Kubernetes, Stateful Broker, Persistence, Service Discovery, dan Anti-Patterns</a>

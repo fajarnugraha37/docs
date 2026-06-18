@@ -2581,3 +2581,12 @@ Part 029 selesai.
 Seri belum selesai.
 Lanjut ke Part 030: Reliability: Retries, Timeouts, Cancellation, Backoff, Rate Limits.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-028.md">⬅️ Part 028 — Observability: Network Debugging, Correlation, Tracing, and RUM</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-030.md">Part 030 — Reliability: Retries, Timeouts, Cancellation, Backoff, Rate Limits ➡️</a>
+</div>

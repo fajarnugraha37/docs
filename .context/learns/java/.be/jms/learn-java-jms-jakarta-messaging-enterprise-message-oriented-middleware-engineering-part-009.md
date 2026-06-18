@@ -2313,7 +2313,6 @@ Berikutnya:
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-008.md">⬅️ Part 8 — Consumer Engineering: Receive Path, Listener, Polling, Ack, Prefetch, dan Flow Control</a>

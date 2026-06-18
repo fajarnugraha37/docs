@@ -2592,8 +2592,6 @@ Progress saat ini:
 - Berikutnya: Part 7 — Producer Engineering: Send Path, Delivery Mode, Priority, TTL, Delay, Async Send
 - Total rencana: 35 part
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-005.md">⬅️ Part 5 — Message Anatomy: Header, Properties, Body, Metadata, Correlation, dan Semantic Contract</a>

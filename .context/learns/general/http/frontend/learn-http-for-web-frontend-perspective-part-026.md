@@ -2348,3 +2348,12 @@ Part 026 selesai.
 Seri belum selesai.
 Lanjut ke Part 027: Service Workers, Cache API, Offline, and Request Interception.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-025.md">⬅️ Part 025 — Error Contract Design: Making Failures Useful to Humans and Machines</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-027.md">Part 027 — Service Workers, Cache API, Offline, and Request Interception ➡️</a>
+</div>

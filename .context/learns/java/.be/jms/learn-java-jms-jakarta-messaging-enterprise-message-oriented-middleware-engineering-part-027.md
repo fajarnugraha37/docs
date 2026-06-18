@@ -1858,7 +1858,6 @@ Part berikutnya:
 
 **Part 28 — Testing JMS Systems: Unit, Integration, Contract, Failure Injection, dan Deterministic Async Test**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-026.md">⬅️ Part 26 — Performance Tuning: Producer, Consumer, Broker, JVM, Network, Storage</a>

@@ -2797,7 +2797,6 @@ Seri **belum selesai**. Part berikutnya:
 Part 13 — Redelivery, Retry, Poison Message, Dead Letter Queue, dan Parking Lot Pattern
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-011.md">⬅️ Part 11 — Reliability Semantics: At-Most-Once, At-Least-Once, Effectively-Once, dan Exactly-Once Myth</a>

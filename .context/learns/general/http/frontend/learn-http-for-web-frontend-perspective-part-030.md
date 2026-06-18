@@ -2330,3 +2330,12 @@ Part 031 — Frontend HTTP Client Architecture
 ```
 
 Di sana kita akan menggabungkan semua konsep sebelumnya menjadi desain HTTP client layer yang production-grade: base URL, auth, credentials, timeout, retry, cancellation, error normalization, interceptors, generated clients, runtime validation, query layer, dedupe, upload/download, testing, dan anti-pattern arsitektural.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-029.md">⬅️ Part 029 — Performance Engineering: Latency, Payload, Critical Path, and CDN Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-031.md">Part 031 — Frontend HTTP Client Architecture ➡️</a>
+</div>

@@ -2297,3 +2297,12 @@ Prinsip dari Part 025 tetap berlaku: error harus bisa dibaca sebagai state trans
 - W3C Trace Context.
 - Spring Framework documentation: error handling and `ProblemDetail` concepts.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-024.md">⬅️ Part 024 — Mutation Design: Idempotency, Optimistic UI, Concurrency, and Conflict</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-026.md">Part 026 — Streaming, SSE, WebSocket, WebTransport, and Long Polling ➡️</a>
+</div>

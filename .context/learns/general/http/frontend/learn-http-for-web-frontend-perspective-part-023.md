@@ -3239,3 +3239,12 @@ Lanjut ke:
 ```text
 Part 024 — Mutation Design: Idempotency, Optimistic UI, Concurrency, and Conflict
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-022.md">⬅️ Part 022 — Browser Isolation Policies: CORP, COEP, COOP, CORS, and Fetch Metadata</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-024.md">Part 024 — Mutation Design: Idempotency, Optimistic UI, Concurrency, and Conflict ➡️</a>
+</div>

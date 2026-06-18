@@ -2643,3 +2643,12 @@ Part 028 selesai.
 Seri belum selesai.
 Lanjut ke Part 029: Performance Engineering: Latency, Payload, Critical Path, and CDN Strategy.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-027.md">⬅️ Part 027 — Service Workers, Cache API, Offline, and Request Interception</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-029.md">Part 029 — Performance Engineering: Latency, Payload, Critical Path, and CDN Strategy ➡️</a>
+</div>

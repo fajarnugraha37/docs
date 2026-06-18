@@ -2869,7 +2869,6 @@ Status seri: belum selesai.
 Selesai: Part 0 sampai Part 18 dari 35.  
 Berikutnya: Part 19 — ActiveMQ Classic, IBM MQ, RabbitMQ JMS Client, Solace, WebLogic/JBoss/Open Liberty: Provider Differences.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-017.md">⬅️ Learn Java JMS / Jakarta Messaging Enterprise Message-Oriented Middleware Engineering — Part 17</a>

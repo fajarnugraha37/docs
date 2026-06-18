@@ -2269,8 +2269,6 @@ Referensi utama untuk validasi konsep:
 3. Apache ActiveMQ Artemis documentation — terutama address model, address settings, paging, flow control, persistence, journal, HA, clustering, dan management.
 4. IBM MQ JMS/Jakarta Messaging model documentation — sebagai contoh bagaimana provider memetakan objek JMS/Jakarta Messaging ke konsep provider tertentu.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-016.md">⬅️ Part 16 — Security Model: Authentication, Authorization, TLS, Secret Handling, dan Multi-Tenant Messaging</a>

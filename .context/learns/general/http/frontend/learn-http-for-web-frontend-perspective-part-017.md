@@ -2428,3 +2428,12 @@ resource variants
 compression
 ```
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-016.md">⬅️ Part 016 — Redirects: 301, 302, 303, 307, 308 and Browser Behavior</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-018.md">Part 018 — Resource Loading: HTML Parser, Preload Scanner, Priority, and Waterfall ➡️</a>
+</div>

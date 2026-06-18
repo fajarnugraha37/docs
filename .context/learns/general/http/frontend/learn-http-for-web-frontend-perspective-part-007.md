@@ -1971,3 +1971,12 @@ Di Part 008, kita akan masuk lebih dalam ke `fetch()` sebagai API browser:
 - body stream lifecycle;
 - common production bug dalam HTTP client layer.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-006.md">⬅️ Part 006 — Headers Deep Dive: The Real Control Plane of HTTP</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-008.md">Part 008 — Fetch API Mental Model: What `fetch()` Actually Does ➡️</a>
+</div>

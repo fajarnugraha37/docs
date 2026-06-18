@@ -2202,8 +2202,6 @@ Progress:
 - Part 2 — selesai
 - Berikutnya: Part 3 — Queue Semantics: Point-to-Point, Competing Consumers, Work Distribution, dan Load Leveling
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-001.md">⬅️ Part 1 — Evolution: JMS 1.1, JMS 2.0, Jakarta Messaging 3.x, dan Dampaknya ke Java 8–25</a>

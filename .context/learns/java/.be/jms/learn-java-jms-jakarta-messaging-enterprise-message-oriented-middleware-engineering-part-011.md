@@ -2361,7 +2361,6 @@ Selesai: Part 0 sampai Part 11.
 Belum selesai: Part 12 sampai Part 35.  
 Part berikutnya: **Part 12 — Ordering: FIFO, Partitioning, Message Group, Session Affinity, dan Reordering Failure**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-010.md">⬅️ Part 10 — Transaction Model: Local JMS Transaction, JTA/XA, 2PC, Outbox, dan Trade-off Konsistensi</a>

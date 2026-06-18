@@ -2142,7 +2142,6 @@ Part 4 — Topic Semantics: Publish/Subscribe, Broadcast, Durable Subscription, 
 
 Di Part 4 kita akan membedah topic sebagai model fan-out dan event distribution, termasuk durable subscriber, shared subscription, late subscriber, retention expectation, duplicate delivery, dan kapan topic menjadi salah kaprah untuk workflow command.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-002.md">⬅️ Part 2 — Messaging Domain Model: Message, Destination, Producer, Consumer, Session, Connection, Context</a>

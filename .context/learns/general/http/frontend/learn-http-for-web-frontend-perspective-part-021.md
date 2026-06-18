@@ -2573,3 +2573,12 @@ Part 021 selesai.
 Seri belum selesai.
 Lanjut ke Part 022: Browser Isolation Policies: CORP, COEP, COOP, CORS, and Fetch Metadata.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-020.md">⬅️ Part 020 — TLS, HTTPS, Certificates, Mixed Content, and Secure Contexts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-022.md">Part 022 — Browser Isolation Policies: CORP, COEP, COOP, CORS, and Fetch Metadata ➡️</a>
+</div>

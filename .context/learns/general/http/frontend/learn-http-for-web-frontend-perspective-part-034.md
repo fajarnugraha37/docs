@@ -2546,3 +2546,12 @@ Part 035 akan menggabungkan seluruh seri menjadi:
 - capstone exercise;
 - mental model final.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-033.md">⬅️ Deployment, Environments, Proxies, Gateways, and Local Development</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-035.md">Part 035 — Synthesis: Top 1% HTTP Decision Framework for Frontend Engineers ➡️</a>
+</div>

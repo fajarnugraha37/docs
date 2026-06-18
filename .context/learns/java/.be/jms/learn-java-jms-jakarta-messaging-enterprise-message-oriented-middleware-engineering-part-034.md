@@ -2608,7 +2608,6 @@ Part berikutnya:
 Part 35 — Final Mastery: Design Review Checklist, Interview-Level Reasoning, dan Top 1% Engineering Heuristics
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-033.md">⬅️ Learn Java JMS / Jakarta Messaging Enterprise Message-Oriented Middleware Engineering — Part 33</a>

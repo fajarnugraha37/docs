@@ -2273,7 +2273,6 @@ Part 17 — Broker Architecture: Apa yang Sebenarnya Dilakukan Broker di Balik J
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-015.md">⬅️ Part 15 — Selectors and Routing: Message Selector, Header-Based Routing, dan Broker-Side Filtering</a>

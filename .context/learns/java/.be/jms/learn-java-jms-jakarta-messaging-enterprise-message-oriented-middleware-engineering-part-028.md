@@ -1620,7 +1620,6 @@ Total rencana: 35 part
 Berikutnya: Part 29
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-027.md">⬅️ Part 27 — Observability: Metrics, Logs, Tracing, Correlation, Auditability, dan Forensic Debugging</a>

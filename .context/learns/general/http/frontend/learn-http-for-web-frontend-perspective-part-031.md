@@ -2700,3 +2700,12 @@ Part 031 selesai.
 Seri belum selesai.
 Lanjut ke Part 032: Testing HTTP Behavior in Frontend Systems.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-030.md">⬅️ Part 030 — Reliability: Retries, Timeouts, Cancellation, Backoff, Rate Limits</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-032.md">Part 032 — Testing HTTP Behavior in Frontend Systems ➡️</a>
+</div>

@@ -4048,7 +4048,6 @@ Pada part berikutnya kita akan masuk ke **Failure Modeling Workshop**: puluhan s
 
 Status seri: belum selesai. Lanjut ke Part 33.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-031.md">⬅️ Part 31 — JMS vs Kafka vs RabbitMQ vs AMQP vs Pulsar: Memilih Teknologi Berdasarkan Semantics</a>

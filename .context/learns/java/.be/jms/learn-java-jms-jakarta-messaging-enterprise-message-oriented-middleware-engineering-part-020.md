@@ -2304,7 +2304,6 @@ Berikutnya:
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-019.md">⬅️ Part 19 — Provider Differences: ActiveMQ Classic, IBM MQ, RabbitMQ JMS Client, Solace, WebLogic, WildFly, Open Liberty</a>

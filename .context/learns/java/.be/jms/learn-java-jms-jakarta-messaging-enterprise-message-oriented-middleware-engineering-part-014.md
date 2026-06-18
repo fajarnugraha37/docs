@@ -2409,8 +2409,6 @@ Pada part berikutnya kita akan masuk ke:
 
 Kita akan membahas bagaimana broker melakukan filtering berdasarkan header/property, kapan selector berguna, kapan selector menjadi bottleneck, dan bagaimana mendesain routing message yang tidak menjadikan broker sebagai query engine tersembunyi.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-013.md">⬅️ Part 13 — Redelivery, Retry, Poison Message, Dead Letter Queue, dan Parking Lot Pattern</a>

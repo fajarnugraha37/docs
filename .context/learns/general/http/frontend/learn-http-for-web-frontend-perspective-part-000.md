@@ -1860,3 +1860,12 @@ Part 000 selesai.
 Seri belum selesai.
 Lanjut ke Part 001: Orientation: HTTP dari Sudut Pandang Browser.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-001.md">Part 001 — Orientation: HTTP dari Sudut Pandang Browser ➡️</a>
+</div>

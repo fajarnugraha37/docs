@@ -2736,8 +2736,6 @@ Part berikutnya:
 
 **Part 34 — Production Blueprint: Reference Architecture JMS untuk Sistem Enterprise Regulated Case Management**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-032.md">⬅️ Part 32 — Enterprise Integration Patterns with JMS</a>

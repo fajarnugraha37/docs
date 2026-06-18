@@ -2397,7 +2397,6 @@ Selesai: Part 22 dari 35.
 Seri belum selesai.  
 Part berikutnya: **Part 23 — Schema and Contract Engineering: Versioning, Compatibility, Envelope, Registry, dan Consumer Evolution**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-021.md">⬅️ Part 21 — JMS in Spring Framework / Spring Boot: `JmsTemplate`, Listener Container, Transaction, Error Handler</a>

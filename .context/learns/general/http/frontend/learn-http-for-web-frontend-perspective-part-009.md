@@ -2263,3 +2263,12 @@ Part 009 selesai.
 Seri belum selesai.
 Lanjut ke Part 010: CORS Part 1: Same-Origin Policy and Why CORS Exists.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-008.md">⬅️ Part 008 — Fetch API Mental Model: What `fetch()` Actually Does</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-010.md">CORS Part 1: Same-Origin Policy and Why CORS Exists ➡️</a>
+</div>

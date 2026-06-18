@@ -2108,3 +2108,12 @@ Part 021 menjawab:
 ```text
 Kebijakan apa yang browser harus enforce setelah halaman dimuat?
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-019.md">⬅️ Part 019 — HTTP/1.1, HTTP/2, HTTP/3: What Frontend Engineers Actually Need</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-021.md">Security Headers for Frontend Engineers ➡️</a>
+</div>

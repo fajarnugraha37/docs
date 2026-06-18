@@ -3355,8 +3355,6 @@ Kita akan membahas idempotency secara sangat dalam:
 - failure windows,
 - regulated system auditability.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-022.md">⬅️ Part 22 — JMS in Microservices: Command Queue, Domain Event, Integration Event, Saga, dan Choreography</a>

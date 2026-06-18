@@ -1709,8 +1709,6 @@ Kemampuan berikutnya yang secara natural bisa dilanjutkan setelah JMS adalah:
 
 Namun untuk seri JMS ini, fondasi sampai production mastery sudah lengkap.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-034.md">⬅️ Part 34 — Production Blueprint: Reference Architecture JMS untuk Sistem Enterprise Regulated Case Management</a>

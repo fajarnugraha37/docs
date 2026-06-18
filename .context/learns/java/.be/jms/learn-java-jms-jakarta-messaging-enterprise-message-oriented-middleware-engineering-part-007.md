@@ -2285,7 +2285,6 @@ Part berikutnya:
 Part 8 — Consumer Engineering: Receive Path, Listener, Polling, Ack, Prefetch, dan Flow Control
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-006.md">⬅️ Part 6 — Message Types: TextMessage, BytesMessage, MapMessage, ObjectMessage, StreamMessage, Generic Message</a>

@@ -2709,7 +2709,6 @@ Jika semua bisa dijawab, kita siap masuk ke Part 14: **Request/Reply over JMS: C
 - Seri belum selesai.
 - Berikutnya: `Part 14 — Request/Reply over JMS: Correlation, Temporary Queue, Timeout, dan RPC Anti-Pattern`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-012.md">⬅️ Part 12 — Ordering: FIFO, Partitioning, Message Group, Session Affinity, dan Reordering Failure</a>

@@ -2119,3 +2119,12 @@ Part 015 selesai.
 Seri belum selesai.
 Lanjut ke Part 016: Redirects: 301, 302, 303, 307, 308 and Browser Behavior.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-014.md">⬅️ Part 014 — HTTP Caching Part 1: Browser Cache Mental Model</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-016.md">Part 016 — Redirects: 301, 302, 303, 307, 308 and Browser Behavior ➡️</a>
+</div>

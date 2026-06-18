@@ -1863,7 +1863,6 @@ Part berikutnya akan masuk ke:
 
 Kita akan membahas bagaimana JMS hidup di dalam Jakarta EE runtime, bagaimana MDB menerima message, bagaimana resource adapter bekerja, bagaimana container mengelola transaksi dan concurrency, serta bagaimana app-server-managed messaging berbeda dari standalone JMS client.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-018.md">⬅️ Part 18 — ActiveMQ Artemis Deep Dive sebagai Reference Broker Modern</a>

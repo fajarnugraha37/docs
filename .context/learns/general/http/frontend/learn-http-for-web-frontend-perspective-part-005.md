@@ -2553,3 +2553,12 @@ Part 005 selesai.
 Seri belum selesai.
 Lanjut ke Part 006: Headers Deep Dive: The Real Control Plane of HTTP.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-004.md">⬅️ Part 004 — HTTP Methods: Semantics, Safety, Idempotency, and Frontend Consequences</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-006.md">Part 006 — Headers Deep Dive: The Real Control Plane of HTTP ➡️</a>
+</div>

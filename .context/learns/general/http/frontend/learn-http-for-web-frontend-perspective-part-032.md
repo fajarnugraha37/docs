@@ -2227,3 +2227,12 @@ Part 032 selesai.
 Seri belum selesai.
 Lanjut ke Part 033: Deployment, Environments, Proxies, Gateways, and Local Development.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-031.md">⬅️ Part 031 — Frontend HTTP Client Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-033.md">Deployment, Environments, Proxies, Gateways, and Local Development ➡️</a>
+</div>

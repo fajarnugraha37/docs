@@ -2339,3 +2339,12 @@ Part 013 selesai.
 Seri belum selesai.
 Lanjut ke Part 014: HTTP Caching Part 1: Browser Cache Mental Model.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-012.md">⬅️ Part 012 — Cookies Part 1: Browser Cookie Model for Frontend Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-014.md">Part 014 — HTTP Caching Part 1: Browser Cache Mental Model ➡️</a>
+</div>

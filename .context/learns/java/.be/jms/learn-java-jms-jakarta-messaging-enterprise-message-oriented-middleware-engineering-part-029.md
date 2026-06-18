@@ -2858,7 +2858,6 @@ Referensi yang relevan untuk pendalaman:
 7. Jakarta EE Tutorial — JMS/Jakarta Messaging concepts dan MDB/container-managed messaging.
 8. Enterprise Integration Patterns — Message Channel, Message Endpoint, Dead Letter Channel, Message Store, Message Bridge.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-028.md">⬅️ Part 28 — Testing JMS Systems: Unit, Integration, Contract, Failure Injection, dan Deterministic Async Test</a>

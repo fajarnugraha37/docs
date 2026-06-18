@@ -2137,8 +2137,6 @@ Berikutnya:
 
 **Part 31 — JMS vs Kafka vs RabbitMQ vs AMQP vs Pulsar: Memilih Teknologi Berdasarkan Semantics**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-029.md">⬅️ Part 29 — Deployment and Operations: Broker Topology, HA, Clustering, Failover, Backup, Upgrade</a>

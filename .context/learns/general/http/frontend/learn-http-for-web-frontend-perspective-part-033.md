@@ -2214,3 +2214,12 @@ Part 033 selesai.
 Seri belum selesai.
 Lanjut ke Part 034: Case Studies: Diagnosing Real Browser HTTP Incidents.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-032.md">⬅️ Part 032 — Testing HTTP Behavior in Frontend Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-034.md">Part 034 — Case Studies: Diagnosing Real Browser HTTP Incidents ➡️</a>
+</div>

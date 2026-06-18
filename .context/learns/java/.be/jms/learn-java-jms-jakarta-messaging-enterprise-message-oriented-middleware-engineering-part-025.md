@@ -2971,7 +2971,6 @@ Pada part berikutnya, kita akan masuk ke **Performance Tuning**: producer, consu
 **Progress:** Part 25 selesai dari total rencana 35 part.  
 **Berikutnya:** Part 26 — Performance Tuning: Producer, Consumer, Broker, JVM, Network, Storage.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-024.md">⬅️ Part 24 — Idempotency and Deduplication Engineering: Dari API Design sampai Database Constraint</a>

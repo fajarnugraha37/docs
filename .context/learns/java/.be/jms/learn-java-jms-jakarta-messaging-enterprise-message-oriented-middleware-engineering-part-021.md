@@ -2745,8 +2745,6 @@ Berikutnya:
 
 **Part 22 — JMS in Microservices: Command Queue, Domain Event, Integration Event, Saga, dan Choreography**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-020.md">⬅️ Part 20 — JMS in Jakarta EE Runtime: MDB, Resource Adapter, JCA, ActivationSpec, dan Container-Managed Messaging</a>

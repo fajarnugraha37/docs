@@ -1802,3 +1802,12 @@ Di browser modern, HTTP bukan hanya request-response. HTTP juga merupakan delive
 - web.dev — Making your website cross-origin isolated using COOP and COEP
 - web.dev — A guide to enable cross-origin isolation
 - WHATWG Fetch Standard
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-021.md">⬅️ Security Headers for Frontend Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-frontend-perspective-part-023.md">Part 023 — API Design for Frontend: Resource Shape, Pagination, Filtering, Sorting ➡️</a>
+</div>

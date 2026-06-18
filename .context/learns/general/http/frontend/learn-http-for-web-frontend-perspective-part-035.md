@@ -1665,3 +1665,12 @@ Part 035 selesai.
 Seri learn-http-for-web-frontend-perspective selesai.
 Ini adalah bagian terakhir dari seri.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-frontend-perspective-part-034.md">⬅️ Part 034 — Case Studies: Diagnosing Real Browser HTTP Incidents</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

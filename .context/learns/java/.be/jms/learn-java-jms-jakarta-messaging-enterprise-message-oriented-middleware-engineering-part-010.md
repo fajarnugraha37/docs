@@ -2875,7 +2875,6 @@ Kita akan membahas:
 - broker guarantee vs business guarantee;
 - bagaimana mendesain reliability contract yang realistis.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-009.md">⬅️ Part 9 — Acknowledgement Semantics: AUTO, CLIENT, DUPS\_OK, SESSION\_TRANSACTED, dan Jakarta Context Modes</a>

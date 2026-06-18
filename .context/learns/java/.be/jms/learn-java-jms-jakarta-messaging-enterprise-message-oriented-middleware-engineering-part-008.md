@@ -2761,8 +2761,6 @@ Selesai: Part 0 sampai Part 8.
 Belum selesai: Part 9 sampai Part 35.  
 Seri belum mencapai bagian terakhir.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-007.md">⬅️ Part 7 — Producer Engineering: Send Path, Delivery Mode, Priority, TTL, Delay, Async Send</a>

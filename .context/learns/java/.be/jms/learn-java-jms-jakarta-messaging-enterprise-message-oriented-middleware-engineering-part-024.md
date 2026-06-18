@@ -2468,7 +2468,6 @@ Part ini menyelesaikan fondasi correctness di sisi consumer dan side effect. Set
 **Selesai sampai:** Part 24 dari 35.  
 **Berikutnya:** Part 25 — Backpressure and Capacity Engineering: Throughput, Latency, Queue Depth, Consumer Lag, dan Saturation.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-023.md">⬅️ Part 23 — Schema and Contract Engineering: Versioning, Compatibility, Envelope, Registry, dan Consumer Evolution</a>

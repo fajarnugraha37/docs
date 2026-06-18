@@ -2120,7 +2120,6 @@ Berikutnya: Part 2
 Status: belum selesai
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-jms-jakarta-messaging-enterprise-message-oriented-middleware-engineering-part-000.md">⬅️ Part 0 — Orientation: JMS sebagai Sistem Koordinasi Asinkron, Bukan Sekadar Queue API</a>
