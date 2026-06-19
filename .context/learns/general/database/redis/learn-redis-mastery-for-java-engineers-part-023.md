@@ -2158,7 +2158,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-024.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Redis Cluster: Hash Slots, Resharding, Multi-Key Constraints</a>

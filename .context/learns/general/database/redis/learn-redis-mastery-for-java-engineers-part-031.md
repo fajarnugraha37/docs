@@ -2240,7 +2240,6 @@ This current part gave the positive pattern catalog. The next part will train in
 - Redis Docs — Client-side caching: https://redis.io/docs/latest/develop/clients/client-side-caching/
 - Redis Docs — Redis anti-patterns: https://redis.io/tutorials/redis-anti-patterns-every-developer-should-avoid/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Testing Redis-Backed Systems</a>

@@ -1722,7 +1722,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-025.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Memory Engineering: The Most Important Redis Skill</a>

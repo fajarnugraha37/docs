@@ -2088,8 +2088,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-015.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Distributed Locks: Useful, Dangerous, Often Misused</a>

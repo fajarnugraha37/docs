@@ -2298,7 +2298,6 @@ Part 016 — Pub/Sub: Real-Time Fanout Tanpa Durability
 
 Kita akan membedakan Redis Pub/Sub sebagai sinyal real-time ringan dari queue/event log durable, serta kapan Pub/Sub cocok untuk cache invalidation, local coordination, dan notification fanout.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Lua Scripting: Atomic Multi-Step Logic di Redis</a>

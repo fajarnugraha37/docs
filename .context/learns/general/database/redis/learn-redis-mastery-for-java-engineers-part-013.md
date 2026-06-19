@@ -1817,8 +1817,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-014.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Idempotency, Deduplication, dan Exactly-Once Illusion</a>

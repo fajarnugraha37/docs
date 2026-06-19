@@ -2073,8 +2073,6 @@ Part berikutnya akan membahas:
 Idempotency, Deduplication, dan Exactly-Once Illusion
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Cache Architecture II: Consistency, Invalidation, Stampede, Hot Key</a>

@@ -2094,7 +2094,6 @@ Fokus Part 004:
 - Java DTO mapping,
 - dan anti-pattern giant hash as table.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Redis Data Model: Keys, Values, Types, Encodings</a>

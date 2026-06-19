@@ -1748,7 +1748,6 @@ Redis Cluster: Hash Slots, Resharding, Multi-Key Constraints
 
 Di sana kita akan berpindah dari HA primary-replica/Sentinel menuju Redis Cluster sebagai model scaling horizontal dengan 16.384 hash slots, hash tags, MOVED/ASK redirects, resharding, dan constraint multi-key yang sangat penting untuk desain key Java services.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Persistence: RDB, AOF, Durability, Recovery</a>

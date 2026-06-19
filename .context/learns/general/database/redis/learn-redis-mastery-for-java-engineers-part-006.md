@@ -2593,7 +2593,6 @@ Redis Sorted Sets: Ranking, Scheduling, Priority, Time Index
 
 Di sana kita akan membahas `ZADD`, `ZRANGE`, `ZRANK`, score modeling, leaderboard, delay queue, sliding window rate limiter, time index, pagination pitfall, dan Java implementation patterns.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Redis Lists: Queue Primitive, Log Kecil, dan Blocking Pop</a>

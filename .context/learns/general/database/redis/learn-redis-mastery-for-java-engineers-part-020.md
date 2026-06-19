@@ -1774,7 +1774,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-021.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Geospatial, JSON, Search, dan Vector Set</a>

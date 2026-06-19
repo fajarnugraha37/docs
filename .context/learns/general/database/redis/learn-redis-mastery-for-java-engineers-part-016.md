@@ -1498,7 +1498,6 @@ Part berikutnya:
 Part 017 — Redis Streams: Consumer Groups, Pending Entries, dan Practical Event Processing
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Redis Functions dan Programmability Modern</a>

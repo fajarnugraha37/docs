@@ -2407,7 +2407,6 @@ Part 010 is where cache stops being a pattern and becomes a correctness/performa
 - Spring Data Redis — Redis Cache: https://docs.spring.io/spring-data/redis/reference/redis/redis-cache.html
 - AWS Whitepaper — Database Caching Strategies Using Redis: https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — TTL, Expiration, Eviction: Data Hilang Bukan Bug, Tapi Kontrak</a>

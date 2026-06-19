@@ -1073,7 +1073,6 @@ Seri selesai.
 Ini adalah bagian terakhir dari learn-redis-mastery-for-java-engineers.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Architecture Lab: Build a Production-Grade Redis Layer in Java</a>

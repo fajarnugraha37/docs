@@ -1853,7 +1853,6 @@ Part 026 — Transactions, WATCH, MULTI/EXEC, Optimistic Concurrency
 
 Fokus berikutnya adalah memahami Redis transaction secara benar: bukan SQL transaction, tidak ada rollback seperti RDBMS, connection stateful, optimistic concurrency dengan `WATCH`, dan kapan lebih baik memakai Lua dibanding `MULTI/EXEC`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Latency Engineering: Pipelining, Batching, Pooling, Timeouts</a>

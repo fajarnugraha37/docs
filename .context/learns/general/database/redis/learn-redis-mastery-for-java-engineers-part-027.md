@@ -2058,8 +2058,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-028.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Transactions, WATCH, MULTI/EXEC, dan Optimistic Concurrency</a>

@@ -2248,7 +2248,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-002.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation: Redis sebagai Sistem, Bukan Sekadar Cache</a>

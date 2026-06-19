@@ -2669,7 +2669,6 @@ Cache Architecture I: Cache-Aside dengan Java Services
 
 Di sana kita akan membangun dari konsep TTL ini menjadi desain cache-aside yang benar: read path, write path, invalidation, negative caching, key design, cache miss, observability, dan integrasi Spring/Java yang tidak rapuh.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Sorted Sets: Ranking, Scheduling, Priority, Time Index</a>

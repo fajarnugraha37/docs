@@ -2210,7 +2210,6 @@ Part 005 — Lists: Queue Primitive, Log Kecil, dan Blocking Pop
 
 Di sana kita akan membedah Redis Lists bukan sekadar `LPUSH/RPOP`, tetapi sebagai queue primitive dengan konsekuensi reliability, blocking consumer, backpressure, poison message, dan kenapa Lists bukan pengganti Kafka/RabbitMQ walaupun bisa dipakai untuk queue sederhana.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Strings: Counter, Token, Lock Value, Cache Blob</a>

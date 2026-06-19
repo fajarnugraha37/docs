@@ -2117,7 +2117,6 @@ Seri belum selesai.
 Lanjut ke Part 001.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

@@ -2765,8 +2765,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-003.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Redis Core Mental Model: Server, Keyspace, Command, Event Loop</a>

@@ -2454,7 +2454,6 @@ Part 023 — Memory Engineering: The Most Important Redis Skill
 
 Topik berikutnya sangat penting karena Redis Cluster sering dipakai untuk scaling, tetapi scaling Redis pada akhirnya tetap dibatasi oleh memory model, key overhead, value encoding, fragmentation, big keys, eviction, dan kapasitas per node.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Replication, Sentinel, Failover: Availability dengan Trade-Off</a>

@@ -77,12 +77,14 @@ nav:
           - "Overview": "general/http/index.md"
           - "Backend": "general/http/backend/index.md"
           - "Frontend": "general/http/frontend/index.md"
+          - "Openapi": "general/http/openapi/index.md"
       - "Messaging":
           - "Overview": "general/messaging/index.md"
           - "Kafka": "general/messaging/kafka/index.md"
           - "Rabbitmq": "general/messaging/rabbitmq/index.md"
       - "Ops":
           - "Overview": "general/ops/index.md"
+          - "Aws": "general/ops/aws/index.md"
           - "Nginx": "general/ops/nginx/index.md"
       - "Sql":
           - "Overview": "general/sql/index.md"

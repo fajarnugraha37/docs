@@ -2489,7 +2489,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-018.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Redis Pub/Sub: Real-Time Fanout Tanpa Durability</a>

@@ -2249,7 +2249,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-034.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Redis Anti-Patterns and Failure Case Studies</a>

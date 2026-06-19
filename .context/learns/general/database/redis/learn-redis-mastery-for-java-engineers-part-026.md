@@ -1412,7 +1412,6 @@ Belum mencapai bagian terakhir.
 Berikutnya: learn-redis-mastery-for-java-engineers-part-027.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Java Client Mastery: Lettuce, Jedis, Spring Data Redis</a>

@@ -2064,7 +2064,6 @@ Part 011 — Rate Limiting dan Quota Enforcement dengan Redis
 
 Di sana kita akan memakai Redis bukan sebagai cache, tetapi sebagai enforcement state untuk quota/rate limiting: fixed window, sliding window, token bucket, leaky bucket, Lua atomicity, multi-dimensional quota, clock assumption, dan integrasi Java/Spring.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Cache Architecture I: Cache-Aside dengan Java Services</a>

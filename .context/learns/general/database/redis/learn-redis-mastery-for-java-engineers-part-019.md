@@ -2289,7 +2289,6 @@ Persistence: RDB, AOF, Durability, Recovery
 
 Fokus berikutnya sangat penting karena setelah Redis dipakai lebih dari cache, pertanyaan durability dan recovery tidak bisa lagi diabaikan.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-redis-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Bitmaps, Bitfields, HyperLogLog: Compact State dan Approximation</a>
