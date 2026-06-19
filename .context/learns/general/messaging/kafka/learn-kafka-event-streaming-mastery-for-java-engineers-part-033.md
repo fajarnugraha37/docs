@@ -1643,8 +1643,6 @@ Capstone: Build a Production-Grade Kafka-Based Enforcement Lifecycle Platform
 
 Di Part 034, semua konsep akan disatukan menjadi desain end-to-end production-grade untuk enforcement lifecycle platform berbasis Kafka.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Governance, Platform Engineering, and Team Operating Model</a>

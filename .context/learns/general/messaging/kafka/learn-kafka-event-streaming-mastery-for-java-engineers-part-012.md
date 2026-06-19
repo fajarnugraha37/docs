@@ -1944,8 +1944,6 @@ Referensi berikut menjadi dasar konseptual bagian ini:
 2. Confluent Documentation — Kafka log compaction, topic configuration, KTable/changelog stream concepts.
 3. Kafka Streams documentation — KStream, KTable, GlobalKTable, state store, and changelog topics.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Topic Design and Governance: Naming, Retention, Compaction, ACL, Ownership</a>

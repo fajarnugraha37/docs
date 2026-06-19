@@ -1963,8 +1963,6 @@ Referensi utama untuk bagian ini:
 5. Confluent Platform Consumer Client Documentation — offset commit and group reassignment behavior.
 6. Confluent Blog — Consumer Offsets Guide and KIP-1094 context.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Partitioning Strategy: Keys, Ordering Domains, Hot Partitions, and Scalability</a>

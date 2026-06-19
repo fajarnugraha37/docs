@@ -2431,7 +2431,6 @@ Referensi utama untuk bagian ini:
 9. Confluent — Kafka Rebalancing Explained  
    https://www.confluent.io/learn/kafka-rebalancing/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Consumers Deep Dive: Poll Loop, Offset Management, Fetching, and Backpressure</a>

@@ -1862,8 +1862,6 @@ Referensi berikut digunakan sebagai dasar orientasi dan akan kembali dipakai di 
 **Part selesai:** Part 000 dari 034.  
 **Part berikutnya:** `learn-kafka-event-streaming-mastery-for-java-engineers-part-001.md` — The Log Mental Model: Topics, Partitions, Offsets, and Ordering.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

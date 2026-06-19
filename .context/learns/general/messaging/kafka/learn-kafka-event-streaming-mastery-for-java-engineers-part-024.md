@@ -2155,7 +2155,6 @@ Referensi utama yang relevan untuk bagian ini:
 7. OpenTelemetry Concepts — Distributed Tracing and Context Propagation.
 8. Google SRE Concepts — Golden Signals and SLO-based Alerting.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Testing Kafka Systems: Unit, Integration, Contract, Replay, Chaos, and Determinism</a>

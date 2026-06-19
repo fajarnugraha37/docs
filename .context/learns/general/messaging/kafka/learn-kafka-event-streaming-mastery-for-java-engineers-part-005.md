@@ -2266,7 +2266,6 @@ Part berikutnya: Part 006 — Consumers Deep Dive: Poll Loop, Offset Management,
 Total rencana: Part 000 sampai Part 034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — Producers Deep Dive: Batching, Compression, Acks, Idempotence, and Throughput</a>

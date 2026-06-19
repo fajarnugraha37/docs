@@ -2020,7 +2020,6 @@ Referensi yang relevan untuk bagian ini:
 
 Seri belum selesai. Masih ada Part 004 sampai Part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Broker Internals: Storage, Page Cache, Replication, and Durability</a>

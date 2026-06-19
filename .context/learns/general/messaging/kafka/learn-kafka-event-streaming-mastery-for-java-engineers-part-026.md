@@ -1608,7 +1608,6 @@ Judul:
 Event-Driven Architecture with Kafka: Choreography, Orchestration, Sagas, and Workflow Boundaries
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Performance Engineering: Throughput, Latency, Batching, Compression, Partitions, and Quotas</a>

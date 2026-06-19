@@ -2173,7 +2173,6 @@ Topik berikutnya:
 Governance, Platform Engineering, and Team Operating Model
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Deployment and Operations: Bare Metal, VM, Kubernetes, Cloud, and Managed Kafka</a>

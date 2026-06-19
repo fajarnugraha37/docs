@@ -2439,7 +2439,6 @@ It is an event streaming platform with architectural discipline.
 
 # End of Series
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Advanced Design Review: Kafka Architecture Decision Records and Trade-Off Analysis</a>

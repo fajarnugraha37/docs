@@ -1813,7 +1813,6 @@ Judul:
 Event Design: Facts, Commands, State Changes, and Domain Events
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Consumer Groups and Rebalancing: Assignment, Ownership, and Failure Modes</a>

@@ -2192,7 +2192,6 @@ Sisa: Part 030 sampai Part 034.
 Seri belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Kafka for Regulatory and Case Management Systems</a>

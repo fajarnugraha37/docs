@@ -2171,7 +2171,6 @@ Judul:
 Observability: Lag, Throughput, Latency, JMX, Metrics, Tracing, and Alerting
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Spring Boot and Kafka: Practical Java Integration Without Losing Kafka Semantics</a>

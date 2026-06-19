@@ -1982,8 +1982,6 @@ Kafka Connect Fundamentals: Source, Sink, Workers, Tasks, Converters
 
 Di sana kita akan membedah Kafka Connect sebagai runtime integrasi data, bukan sekadar plugin runner.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Log Compaction and KTable Mental Model</a>

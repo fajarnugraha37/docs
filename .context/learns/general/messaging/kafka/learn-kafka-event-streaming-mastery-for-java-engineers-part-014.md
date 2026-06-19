@@ -2202,7 +2202,6 @@ Seri belum selesai.
 Part berikutnya: Part 015 — Kafka Connect in Production: Scaling, Failure, DLQ, Offset, and Operational Control
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Kafka Security: TLS, SASL, ACL, Principal, Multi-Tenant Boundaries</a>

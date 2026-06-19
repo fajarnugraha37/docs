@@ -2449,8 +2449,6 @@ Referensi yang relevan untuk pendalaman:
 6. Confluent Blog — RocksDB tuning for Kafka Streams state stores.  
    `https://www.confluent.io/blog/how-to-tune-rocksdb-kafka-streams-state-stores-performance/`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Kafka Streams Fundamentals for Java Engineers</a>

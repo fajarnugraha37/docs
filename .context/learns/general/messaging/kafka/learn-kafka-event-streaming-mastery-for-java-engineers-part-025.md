@@ -1862,7 +1862,6 @@ Seri belum selesai.
 Part berikutnya: Part 026 — Failure Modelling: Data Loss, Duplication, Reordering, Lag Explosion, and Split Brain Thinking
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Observability: Lag, Throughput, Latency, JMX, Metrics, Tracing, and Alerting</a>

@@ -1936,7 +1936,6 @@ Topik berikutnya:
 Multi-Region Kafka: Replication, DR, Active-Active, Active-Passive, and Consistency
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Data Platform Patterns: Lakehouse, Object Storage, Analytics, Search, and Feature Pipelines</a>

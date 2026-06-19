@@ -2167,7 +2167,6 @@ Topik berikutnya:
 Kafka Streams Fundamentals for Java Engineers
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — ksqlDB Fundamentals: Streams, Tables, Persistent Queries, Push/Pull Queries</a>

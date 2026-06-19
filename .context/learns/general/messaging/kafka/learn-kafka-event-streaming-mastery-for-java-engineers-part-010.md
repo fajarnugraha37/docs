@@ -2378,7 +2378,6 @@ Berikutnya: Part 011 — Topic Design and Governance: Naming, Retention, Compact
 Status seri: belum selesai
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Event Design: Facts, Commands, State Changes, and Domain Events</a>

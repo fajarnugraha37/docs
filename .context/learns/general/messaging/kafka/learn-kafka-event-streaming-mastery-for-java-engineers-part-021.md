@@ -1956,8 +1956,6 @@ Referensi yang relevan untuk part ini:
 8. Confluent Documentation — Kafka Streams Joins and Processing Guarantees.
 9. Kafka Improvement Proposals terkait exactly-once dan Kafka Streams processing semantics.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Kafka Streams State: RocksDB, Changelog, Standby Replica, Restore, Interactive Queries</a>

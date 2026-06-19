@@ -2180,7 +2180,6 @@ Total rencana: Part 000 sampai Part 034
 Sisa: Part 016 sampai Part 034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Kafka Connect Fundamentals: Source, Sink, Workers, Tasks, Converters</a>

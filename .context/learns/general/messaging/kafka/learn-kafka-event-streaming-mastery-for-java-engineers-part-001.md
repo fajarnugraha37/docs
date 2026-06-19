@@ -2052,7 +2052,6 @@ Part 034 belum dibuat.
 
 Seri belum selesai dan belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation: Kafka as a Distributed Log, Not Just a Queue</a>

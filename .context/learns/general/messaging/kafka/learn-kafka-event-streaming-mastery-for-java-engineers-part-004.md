@@ -2428,7 +2428,6 @@ Topik berikutnya:
 Partitioning Strategy: Keys, Ordering Domains, Hot Partitions, and Scalability
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Kafka Cluster Architecture: KRaft, Controllers, Metadata, and Quorum</a>

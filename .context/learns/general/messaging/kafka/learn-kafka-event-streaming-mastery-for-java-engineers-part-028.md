@@ -2441,7 +2441,6 @@ Judul:
 Data Platform Patterns: Lakehouse, Object Storage, Analytics, Search, and Feature Pipelines
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Event-Driven Architecture with Kafka: Choreography, Orchestration, Sagas, and Workflow Boundaries</a>

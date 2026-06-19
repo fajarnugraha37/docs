@@ -2138,8 +2138,6 @@ Referensi yang relevan untuk part ini:
 8. Confluent Documentation — Kafka Streams Operations and Monitoring.
 9. Confluent Documentation — Schema Registry and SerDes integration.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — ksqlDB Advanced: Joins, Windows, Aggregations, Repartitioning, and State</a>

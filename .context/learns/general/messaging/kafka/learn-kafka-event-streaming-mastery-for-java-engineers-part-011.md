@@ -2857,7 +2857,6 @@ Part 012–034 belum selesai.
 Seri belum mencapai bagian terakhir.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Serialization and Schema Governance: Avro, Protobuf, JSON Schema, Compatibility</a>

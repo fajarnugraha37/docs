@@ -1991,7 +1991,6 @@ Part 034 — belum selesai
 
 Seri belum selesai. Masih ada Part 018 sampai Part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — CDC with Kafka: Database Logs, Debezium Mental Model, Outbox, and Ordering</a>

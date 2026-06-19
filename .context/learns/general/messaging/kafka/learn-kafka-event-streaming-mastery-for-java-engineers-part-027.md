@@ -2206,7 +2206,6 @@ Kafka for Regulatory and Case Management Systems
 
 Bagian berikutnya akan menerapkan semua konsep Kafka dan EDA ke domain yang lebih spesifik: lifecycle enforcement, case management, escalation, audit, correction events, temporal reconstruction, evidence stream, legal defensibility, retention, redaction, dan human-in-the-loop workflow.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Failure Modelling: Data Loss, Duplication, Reordering, Lag Explosion, and Split Brain Thinking</a>

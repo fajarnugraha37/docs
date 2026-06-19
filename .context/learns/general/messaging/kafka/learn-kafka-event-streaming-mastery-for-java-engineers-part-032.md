@@ -2105,8 +2105,6 @@ Fokus berikutnya:
 4. Failure-mode section dalam ADR.
 5. Contoh ADR untuk enforcement lifecycle dan CDC outbox integration.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — Multi-Region Kafka: Replication, DR, Active-Active, Active-Passive, and Consistency</a>

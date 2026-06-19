@@ -1846,7 +1846,6 @@ Part 003 berikutnya — Kafka Cluster Architecture: KRaft, Controllers, Metadata
 
 Seri belum selesai. Masih ada Part 003 sampai Part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — The Log Mental Model: Topics, Partitions, Offsets, and Ordering</a>

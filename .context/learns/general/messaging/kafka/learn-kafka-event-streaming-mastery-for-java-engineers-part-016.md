@@ -1862,7 +1862,6 @@ Total target: Part 000–034
 Status: Belum selesai
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Kafka Connect in Production: Scaling, Failure, DLQ, Offset, and Operational Control</a>

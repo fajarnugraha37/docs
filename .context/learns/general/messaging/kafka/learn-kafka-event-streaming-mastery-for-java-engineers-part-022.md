@@ -2275,8 +2275,6 @@ Part 023 berikutnya: Testing Kafka Systems: Unit, Integration, Contract, Replay,
 
 Seri belum selesai.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kafka-event-streaming-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Kafka Streams Processing Semantics: Windowing, Joins, Suppression, and Exactly-Once</a>
