@@ -2157,3 +2157,12 @@ Next part:
 ```text
 Part 29 — Secure Configuration and Secret Rotation Case Study
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-27-spring-boot-integration-with-aws-sdk.md">⬅️ Part 27 — Spring Boot Integration with AWS SDK</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-29-secure-configuration-and-secret-rotation-case-study.md">Part 29 — Secure Configuration and Secret Rotation Case Study ➡️</a>
+</div>

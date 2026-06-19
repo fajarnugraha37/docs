@@ -2783,7 +2783,6 @@ Filename:
 learn-java-microservices-patterns-advanced-engineering-17-idempotency-deduplication-exactly-once-business-effect.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-15-resilience-timeout-retry-circuit-breaker-bulkhead.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>

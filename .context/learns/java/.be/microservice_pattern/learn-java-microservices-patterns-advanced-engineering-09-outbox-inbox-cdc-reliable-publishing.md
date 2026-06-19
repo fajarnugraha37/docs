@@ -2163,7 +2163,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-10-consistency-and-distributed-invariants.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-08-transaction-saga-compensation.md">⬅️ Part 8 — Transaction Pattern: Local Transaction, Saga, and Compensation</a>

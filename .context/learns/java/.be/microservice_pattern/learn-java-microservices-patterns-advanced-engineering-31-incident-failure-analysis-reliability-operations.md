@@ -2218,7 +2218,6 @@ Seri belum selesai. Part berikutnya adalah:
 Part 32 — Cost, Complexity, and Architecture Economics
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-30-governance-ownership-socio-technical-architecture.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>

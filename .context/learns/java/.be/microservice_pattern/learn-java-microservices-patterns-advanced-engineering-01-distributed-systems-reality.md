@@ -2316,7 +2316,6 @@ File berikutnya:
 learn-java-microservices-patterns-advanced-engineering-02-service-boundary-engineering.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-00-introduction-and-mental-model.md">⬅️ Learn Java Microservices Patterns Advanced Engineering</a>

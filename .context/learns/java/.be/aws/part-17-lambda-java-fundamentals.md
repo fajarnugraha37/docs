@@ -2219,3 +2219,12 @@ Current: Part 17
 Remaining: Part 18 sampai Part 35
 Series status: belum selesai
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-16-sns-sqs-event-driven-architecture-patterns.md">⬅️ Part 16 — SNS + SQS Event-Driven Architecture Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-18-lambda-java-performance-cold-start-snapstart-memory-runtime-tuning.md">Part 18 — Lambda Java Performance: Cold Start, SnapStart, Memory, and Runtime Tuning ➡️</a>
+</div>

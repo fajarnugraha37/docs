@@ -2245,7 +2245,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-24-contract-schema-compatibility-engineering.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-22-observability-patterns.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>

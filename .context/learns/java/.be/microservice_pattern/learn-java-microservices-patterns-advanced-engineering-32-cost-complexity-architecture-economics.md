@@ -2324,7 +2324,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-33-antipatterns-failure-taxonomy.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-31-incident-failure-analysis-reliability-operations.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>

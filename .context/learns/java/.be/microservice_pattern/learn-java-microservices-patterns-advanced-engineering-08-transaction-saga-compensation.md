@@ -2208,7 +2208,6 @@ File berikutnya:
 learn-java-microservices-patterns-advanced-engineering-09-outbox-inbox-cdc-reliable-publishing.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-07-event-driven-architecture.md">⬅️ Part 7 — Event-Driven Architecture Deep Dive</a>

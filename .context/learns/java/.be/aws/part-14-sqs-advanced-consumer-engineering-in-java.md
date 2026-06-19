@@ -2085,3 +2085,12 @@ Bagian berikutnya:
 
 > Part 15 — SNS Fundamentals and Pub/Sub Integration
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-13-sqs-fundamentals-queue-as-reliability-boundary.md">⬅️ Part 13 — SQS Fundamentals: Queue as Reliability Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-15-sns-fundamentals-and-pubsub-integration.md">Part 15 — SNS Fundamentals and Pub/Sub Integration ➡️</a>
+</div>

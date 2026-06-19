@@ -2628,3 +2628,12 @@ Kita akan membahas:
 - AWS SDK for Java 2.x Developer Guide — Timeouts: https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/timeouts.html
 - AWS SDK for Java 2.x Developer Guide — Waiters: https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/waiters.html
 - AWS SDK for Java 2.x Developer Guide — Migration differences from 1.x to 2.x: https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/migration-whats-different.html
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-00-orientation-mental-model-java-aws-cloud-integration.md">⬅️ Part 0 — Orientation: Mental Model Java + AWS Cloud Integration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-02-credentials-region-sts-identity-resolution.md">Part 2 — Credentials, Region, STS, and Identity Resolution ➡️</a>
+</div>

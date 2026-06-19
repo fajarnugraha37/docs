@@ -2291,3 +2291,12 @@ If Part 2 is weak, all later service-specific knowledge becomes fragile. If Part
 - AWS SDK for Java 2.x — DefaultAwsRegionProviderChain Javadoc: <https://docs.aws.amazon.com/java/api/latest/software/amazon/awssdk/regions/providers/DefaultAwsRegionProviderChain.html>
 - AWS STS — AssumeRole API Reference: <https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html>
 - AWS SDKs and Tools — Standardized credential providers: <https://docs.aws.amazon.com/sdkref/latest/guide/standardized-credentials.html>
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-01-aws-sdk-java-2x-architecture-deep-dive.md">⬅️ Part 1 — AWS SDK for Java 2.x Architecture Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-03-iam-for-java-engineers-least-privilege-that-actually-works.md">Part 3 — IAM for Java Engineers: Least Privilege That Actually Works ➡️</a>
+</div>

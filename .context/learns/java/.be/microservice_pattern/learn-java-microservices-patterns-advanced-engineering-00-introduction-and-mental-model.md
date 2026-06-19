@@ -2652,7 +2652,6 @@ Part berikutnya:
 Part 1 of 35 — Distributed Systems Reality Before Microservices
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

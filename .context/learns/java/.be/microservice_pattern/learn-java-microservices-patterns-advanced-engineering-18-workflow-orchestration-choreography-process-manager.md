@@ -2045,7 +2045,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-19-state-machine-pattern.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-17-idempotency-deduplication-exactly-once-business-effect.md">⬅️ Learn Java Microservices Patterns Advanced Engineering</a>

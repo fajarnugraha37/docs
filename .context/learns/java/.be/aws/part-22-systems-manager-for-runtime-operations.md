@@ -2229,3 +2229,12 @@ Next part:
 ```text
 Part 23 — DynamoDB for Java Engineers
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-21-eventbridge-and-scheduler-for-java-engineers.md">⬅️ Part 21 — EventBridge and Scheduler for Java Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-23-dynamodb-for-java-engineers.md">Part 23 — DynamoDB for Java Engineers ➡️</a>
+</div>

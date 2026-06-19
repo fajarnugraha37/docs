@@ -2921,7 +2921,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-29-migration-monolith-decomposition-strangler-fig.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-27-performance-engineering.md">⬅️ Part 27 — Performance Engineering for Microservices</a>

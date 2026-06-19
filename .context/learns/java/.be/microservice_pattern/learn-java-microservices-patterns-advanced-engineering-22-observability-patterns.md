@@ -3203,7 +3203,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-23-testing-strategy.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-21-multi-tenancy-isolation-regulatory-segmentation.md">⬅️ Part 21 — Tenancy, Isolation, and Regulatory Segmentation</a>

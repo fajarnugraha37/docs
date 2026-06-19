@@ -2042,3 +2042,12 @@ Part 8 — S3 Fundamentals for Java Engineers
 ```
 
 Part 8 will move from general testing strategy into S3 specifically: bucket/object model, key design, metadata, versioning, consistency, encryption, presigned URL, checksum, lifecycle, and the difference between object storage and filesystem thinking.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-06-observability-for-java-aws-integration.md">⬅️ Part 6 — Observability for Java AWS Integration</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-08-s3-fundamentals-for-java-engineers.md">Part 8 — S3 Fundamentals for Java Engineers ➡️</a>
+</div>

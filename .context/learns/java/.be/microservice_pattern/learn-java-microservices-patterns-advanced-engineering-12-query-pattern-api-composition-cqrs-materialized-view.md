@@ -2580,7 +2580,6 @@ Remaining:
 
 Seri belum selesai. Ini adalah **Part 12 dari 35**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-11-data-ownership-database-per-service.md">⬅️ Part 11 — Data Ownership and Database-per-Service Pattern</a>

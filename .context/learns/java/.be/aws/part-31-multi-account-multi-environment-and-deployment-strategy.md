@@ -1901,3 +1901,12 @@ That is the level of thinking required for serious AWS-integrated Java systems.
 - AWS IAM User Guide — Delegate access across AWS accounts using IAM roles.
 - AWS Lambda Developer Guide — Lambda aliases and weighted alias routing for canary deployments.
 - AWS Management and Governance Guide — Manage and govern with a multi-account point of view.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-30-event-driven-case-management-workflow-with-sns-sqs-eventbridge.md">⬅️ Part 30 — Event-Driven Case Management Workflow with SNS/SQS/EventBridge</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-32-migration-from-aws-sdk-java-v1-to-v2.md">Part 32 — Migration from AWS SDK Java v1 to v2 ➡️</a>
+</div>

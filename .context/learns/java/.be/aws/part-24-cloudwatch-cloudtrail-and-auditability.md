@@ -2399,3 +2399,12 @@ Without that connection, incident response becomes guesswork and audit evidence 
 # End of Part 24
 
 Next part: **Part 25 — Security Hardening for Java AWS Applications**.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-23-dynamodb-for-java-engineers.md">⬅️ Part 23 — DynamoDB for Java Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-25-security-hardening-for-java-aws-applications.md">Part 25 — Security Hardening for Java AWS Applications ➡️</a>
+</div>

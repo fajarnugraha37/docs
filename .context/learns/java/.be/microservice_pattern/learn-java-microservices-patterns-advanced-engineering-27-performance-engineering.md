@@ -2058,7 +2058,6 @@ learn-java-microservices-patterns-advanced-engineering-28-caching-patterns.md
 11. OpenJDK JEP 328 — Flight Recorder.  
     https://openjdk.org/jeps/328
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-26-runtime-platform-kubernetes-service-mesh-java-runtime.md">⬅️ Part 26 — Runtime Platform Pattern: Kubernetes, Service Mesh, and Java Runtime</a>

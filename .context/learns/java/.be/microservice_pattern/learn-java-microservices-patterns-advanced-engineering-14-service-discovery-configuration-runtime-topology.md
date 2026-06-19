@@ -2463,7 +2463,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-15-resilience-timeout-retry-circuit-breaker-bulkhead.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-13-api-gateway-edge-bff-experience-layer.md">⬅️ Learn Java Microservices Patterns Advanced Engineering</a>

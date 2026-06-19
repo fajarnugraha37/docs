@@ -2401,3 +2401,12 @@ Part 9  - berikutnya
 ...
 Part 35 - target akhir seri
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-07-local-development-testing-and-emulation-strategy.md">⬅️ Part 7 — Local Development, Testing, and Emulation Strategy</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-09-s3-advanced-high-throughput-upload-download-streaming-transfer-manager.md">Part 9 — S3 Advanced: High-Throughput Upload, Download, Streaming, and Transfer Manager ➡️</a>
+</div>

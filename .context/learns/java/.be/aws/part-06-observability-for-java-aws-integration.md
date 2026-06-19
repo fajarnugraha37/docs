@@ -2425,3 +2425,12 @@ Bagian ini adalah **Part 6 dari Part 0–35**.
 Bagian berikutnya:
 
 > **Part 7 — Local Development, Testing, and Emulation Strategy**
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-05-error-taxonomy-and-failure-modelling-for-aws-calls.md">⬅️ Part 5 — Error Taxonomy and Failure Modelling for AWS Calls</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-07-local-development-testing-and-emulation-strategy.md">Part 7 — Local Development, Testing, and Emulation Strategy ➡️</a>
+</div>

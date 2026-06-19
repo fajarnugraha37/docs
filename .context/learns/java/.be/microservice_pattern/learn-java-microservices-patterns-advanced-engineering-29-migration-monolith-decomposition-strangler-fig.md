@@ -2508,7 +2508,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-30-governance-ownership-socio-technical-architecture.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-28-caching-patterns.md">⬅️ 0. Tujuan Part Ini</a>

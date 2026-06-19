@@ -2760,8 +2760,6 @@ Total:     35 parts
 
 This series is **not finished yet**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-12-query-pattern-api-composition-cqrs-materialized-view.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>

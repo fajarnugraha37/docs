@@ -2588,3 +2588,12 @@ business volume
 Jika desain tidak punya angka, desain belum production-ready.
 
 Dalam part berikutnya, kita akan masuk ke **Spring Boot Integration with AWS SDK**, yaitu bagaimana semua prinsip AWS SDK, client lifecycle, credential, timeout, observability, secret/config, LocalStack profile, dan graceful shutdown diterapkan dalam aplikasi Java/Spring Boot yang realistis.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-25-security-hardening-for-java-aws-applications.md">⬅️ Part 25 — Security Hardening for Java AWS Applications</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-27-spring-boot-integration-with-aws-sdk.md">Part 27 — Spring Boot Integration with AWS SDK ➡️</a>
+</div>

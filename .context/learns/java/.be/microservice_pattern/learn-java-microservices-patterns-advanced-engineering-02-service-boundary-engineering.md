@@ -2852,7 +2852,6 @@ Apa isi model di dalam boundary itu?
 [^azure-domain-analysis]: Microsoft Azure Architecture Center, “Use domain analysis to model microservices”, https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis
 [^azure-tactical-ddd]: Microsoft Azure Architecture Center, “Use tactical DDD to design microservices”, https://learn.microsoft.com/en-us/azure/architecture/microservices/model/tactical-domain-driven-design
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-01-distributed-systems-reality.md">⬅️ Part 1 — Distributed Systems Reality Before Microservices</a>

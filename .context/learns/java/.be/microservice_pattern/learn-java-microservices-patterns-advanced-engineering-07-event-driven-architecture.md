@@ -2464,7 +2464,6 @@ File berikutnya:
 learn-java-microservices-patterns-advanced-engineering-08-transaction-saga-compensation.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-06-asynchronous-messaging.md">⬅️ Part 6 — Communication Pattern: Asynchronous Messaging</a>

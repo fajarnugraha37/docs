@@ -2370,7 +2370,6 @@ migration path
 
 Seri belum selesai. Lanjut ke Part 31: **Incident, Failure Analysis, and Reliability Operations**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-29-migration-monolith-decomposition-strangler-fig.md">⬅️ Part 29 — Data Migration, Monolith Decomposition, and Strangler Fig</a>

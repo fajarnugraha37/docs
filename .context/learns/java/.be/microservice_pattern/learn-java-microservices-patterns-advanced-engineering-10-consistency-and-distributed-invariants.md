@@ -2453,7 +2453,6 @@ Filename berikutnya:
 learn-java-microservices-patterns-advanced-engineering-11-data-ownership-database-per-service.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-09-outbox-inbox-cdc-reliable-publishing.md">⬅️ Part 9 — Transactional Outbox, Inbox, CDC, and Reliable Publishing</a>

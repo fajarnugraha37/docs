@@ -2145,3 +2145,12 @@ Part 10 akan membahas:
 
 Kita akan naik dari “bagaimana transfer object besar dengan benar” ke “bagaimana menjadikan S3 sebagai bagian dari workflow enterprise”: landing/staging/processed/quarantine zone, S3 event notification, duplicate/out-of-order event, lifecycle, retention, legal hold, malware scanning, data lake ingestion, cross-account sharing, dan auditability.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-08-s3-fundamentals-for-java-engineers.md">⬅️ Part 8 — S3 Fundamentals for Java Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-10-s3-as-integration-boundary-archive-and-event-source.md">Part 10 — S3 as Integration Boundary, Archive, and Event Source ➡️</a>
+</div>

@@ -2223,3 +2223,12 @@ Bagian berikutnya:
 ```text
 Part 22 — Systems Manager for Runtime Operations
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-20-lambda-production-architecture-for-java-systems.md">⬅️ Part 20 — Lambda Production Architecture for Java Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-22-systems-manager-for-runtime-operations.md">Part 22 — Systems Manager for Runtime Operations ➡️</a>
+</div>

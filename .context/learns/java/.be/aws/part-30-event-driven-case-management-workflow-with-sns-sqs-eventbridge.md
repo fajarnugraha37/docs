@@ -2755,3 +2755,12 @@ The most important lesson:
 - Amazon SQS dead-letter queues: https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-dead-letter-queues.html
 - AWS Prescriptive Guidance — Transactional outbox pattern: https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/transactional-outbox.html
 - AWS Prescriptive Guidance — Event sourcing pattern: https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/event-sourcing.html
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./part-29-secure-configuration-and-secret-rotation-case-study.md">⬅️ Part 29 — Secure Configuration and Secret Rotation Case Study</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./part-31-multi-account-multi-environment-and-deployment-strategy.md">Part 31 — Multi-Account, Multi-Environment, and Deployment Strategy ➡️</a>
+</div>

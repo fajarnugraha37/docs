@@ -2060,7 +2060,6 @@ Siapa yang mengoperasikan policy-nya?
 - Eclipse MicroProfile: https://microprofile.io/
 - Spring Boot Actuator Kubernetes Probes: https://docs.spring.io/spring-boot/reference/actuator/endpoints.html#actuator.endpoints.kubernetes-probes
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-25-deployment-release-safety.md">⬅️ Part 25 — Deployment Pattern and Release Safety</a>

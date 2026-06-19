@@ -2367,7 +2367,6 @@ File berikutnya:
 learn-java-microservices-patterns-advanced-engineering-05-synchronous-api-communication.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-03-domain-modeling-for-microservices.md">⬅️ 0. Posisi Part Ini Dalam Seri</a>

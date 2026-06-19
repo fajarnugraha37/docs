@@ -2584,8 +2584,6 @@ Selanjutnya kita akan masuk ke:
 Part 20 — Service-to-Service Security Patterns
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-microservices-patterns-advanced-engineering-18-workflow-orchestration-choreography-process-manager.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>
