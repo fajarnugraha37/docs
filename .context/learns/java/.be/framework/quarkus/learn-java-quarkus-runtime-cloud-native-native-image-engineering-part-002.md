@@ -2303,8 +2303,6 @@ Part berikutnya:
 
 > **Part 003 — Quarkus Internal Architecture: Build Steps, Augmentation, Jandex, Arc, dan Extension Model**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-001.md">⬅️ Part 001 — Quarkus Mental Model: Bukan Sekadar “Spring Boot Alternatif”</a>

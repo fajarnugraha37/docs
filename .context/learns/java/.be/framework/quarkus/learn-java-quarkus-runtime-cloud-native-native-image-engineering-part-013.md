@@ -1882,7 +1882,6 @@ Part berikutnya:
 
 > Part 014 — Validation, Serialization, DTO, and API Contract Engineering
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-012.md">⬅️ Part 012 — Persistence III: Hibernate Reactive, Reactive SQL Clients, dan Transaction Semantics</a>

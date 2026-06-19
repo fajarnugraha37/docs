@@ -2958,7 +2958,6 @@ Di part berikutnya, fokus bergeser ke outbound integration:
 - client-side observability,
 - native-image implications.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-020.md">⬅️ Scheduler, Jobs, Batch, and Workload Orchestration</a>

@@ -2437,7 +2437,6 @@ Jika kamu menguasai Arc, kamu akan jauh lebih mudah memahami part berikutnya:
 - Seri belum selesai / belum mencapai bagian terakhir.
 - Berikutnya: **Part 008 — REST Layer Deep Dive: Quarkus REST, RESTEasy Reactive, Routing, Filters, Exception Mapping**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-006.md">⬅️ Part 006 — Configuration Architecture: SmallRye Config, Profiles, Secrets, Runtime vs Build-Time Properties</a>

@@ -1827,7 +1827,6 @@ Di part berikutnya, fokus naik ke testing yang lebih berat dan production-readin
 - release gates,
 - production readiness validation.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-025.md">⬅️ Observability II: Metrics, OpenTelemetry, Tracing, Profiling, Health Checks</a>

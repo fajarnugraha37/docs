@@ -2218,8 +2218,6 @@ Part berikutnya akan masuk ke:
 
 Kita akan membahas bagaimana menjaga project Quarkus tetap sehat di level dependency, build, multi-module, platform BOM, extension governance, upgrade strategy, dan enterprise repository structure.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-003.md">⬅️ Part 003 — Quarkus Internal Architecture: Build Steps, Augmentation, Jandex, Arc, dan Extension Model</a>

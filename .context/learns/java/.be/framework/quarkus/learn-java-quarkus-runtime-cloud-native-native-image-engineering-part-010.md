@@ -3391,7 +3391,6 @@ Di sana kita akan membahas Panache secara adil: kapan ia sangat produktif, kapan
 **Status seri:** belum selesai.  
 **Bagian selanjutnya:** `learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-011.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-009.md">⬅️ Part 009 — Blocking vs Reactive Execution Model: Event Loop, Worker Thread, Mutiny, dan Backpressure</a>

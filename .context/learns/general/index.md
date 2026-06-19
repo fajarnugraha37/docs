@@ -2,9 +2,10 @@
 
 > Topik fondasi engineering umum seperti Git, HTTP, messaging, database, dan operasional.
 
-Tersedia **0 artikel** dan **5 subkategori** pada bagian ini.
+Tersedia **0 artikel** dan **6 subkategori** pada bagian ini.
 
 ## Subkategori
+- [Database](./database/index.md)
 - [Git](./git/index.md)
 - [Http](./http/index.md)
 - [Messaging](./messaging/index.md)

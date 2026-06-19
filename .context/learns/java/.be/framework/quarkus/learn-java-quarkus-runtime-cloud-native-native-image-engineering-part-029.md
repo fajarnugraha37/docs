@@ -1635,7 +1635,6 @@ Di part berikutnya, fokus bergeser dari native executable ke runtime deployment:
 - deployment strategy,
 - cloud-native production checklist.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-028.md">⬅️ Native Image I: GraalVM/Mandrel Mental Model, Closed-World Assumption, Static Init</a>

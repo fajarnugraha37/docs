@@ -2029,8 +2029,6 @@ Seri baru dimulai.
 - Part 001 berikutnya: `Quarkus Mental Model: Bukan Sekadar “Spring Boot Alternatif”`.
 - Seri belum mencapai bagian terakhir.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

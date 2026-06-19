@@ -2403,7 +2403,6 @@ Di part berikutnya, fokus bergeser dari workload background ke state/cache layer
 - cache observability,
 - cache sebagai bagian dari architecture decision, bukan sekadar performance hack.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-019.md">⬅️ Part 019 — Messaging II: Event-Driven Architecture, Outbox, CDC, Saga, and Process Boundary</a>

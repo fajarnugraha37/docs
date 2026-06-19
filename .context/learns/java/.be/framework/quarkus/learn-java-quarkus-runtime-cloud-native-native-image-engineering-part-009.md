@@ -1778,8 +1778,6 @@ Quarkus memberi fleksibilitas besar karena bisa menggabungkan imperative, reacti
 - Quarkus duplicated context and context propagation
 - Quarkus virtual threads articles/guides
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-008.md">⬅️ Part 008 — REST Layer Deep Dive: Quarkus REST, RESTEasy Reactive, Routing, Filters, Exception Mapping</a>

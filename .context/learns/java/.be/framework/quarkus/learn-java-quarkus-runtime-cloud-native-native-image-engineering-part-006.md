@@ -2203,7 +2203,6 @@ Part berikutnya:
 
 **Part 007 — CDI with Arc: Dependency Injection yang Dioptimalkan untuk Build-Time**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-005.md">⬅️ Part 005 — Project Structure, Maven/Gradle, Platform BOM, Extension Governance</a>

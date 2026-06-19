@@ -1921,7 +1921,6 @@ Di part berikutnya, fokus bergeser ke runtime tuning:
 - Quarkus runtime knobs,
 - production benchmarking.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-029.md">⬅️ Native Image II: Making Real Applications Native-Compatible</a>

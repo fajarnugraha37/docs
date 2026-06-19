@@ -2317,7 +2317,6 @@ Part berikutnya:
 
 > **Part 013 — Transaction Engineering: Narayana, JTA, Reactive Transactions, Outbox, dan Consistency Boundary**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-011.md">⬅️ Part 011 — Persistence II: Panache Active Record vs Repository vs Domain-Centric Persistence</a>

@@ -1848,8 +1848,6 @@ Part berikutnya:
 Part 002 — Version Strategy: Java 8 sampai 25, Quarkus 2/3, Jakarta Migration, dan Compatibility Reality
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-000.md">⬅️ Part 0 — Orientasi Besar: Cara Belajar Quarkus sebagai Runtime Engineering Platform</a>

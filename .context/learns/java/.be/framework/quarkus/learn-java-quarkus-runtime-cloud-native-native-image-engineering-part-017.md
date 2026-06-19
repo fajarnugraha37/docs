@@ -2003,7 +2003,6 @@ Materi ini disusun dengan merujuk pada dokumentasi resmi Quarkus berikut:
 - Seri belum selesai.
 - Berikutnya: **Part 018 — Messaging I: Kafka, RabbitMQ, AMQP, SmallRye Reactive Messaging**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-016.md">⬅️ Part 016 — Security II: Authorization Model, Policy Enforcement, RBAC/ABAC, Method Security</a>

@@ -2667,7 +2667,6 @@ Part berikutnya:
 
 **Part 015 — Security I: Authentication, OIDC, Keycloak, JWT, Token Propagation**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-013.md">⬅️ Part 013 — Transaction Engineering: Narayana, JTA, Reactive Transactions, Outbox, dan Consistency Boundary</a>

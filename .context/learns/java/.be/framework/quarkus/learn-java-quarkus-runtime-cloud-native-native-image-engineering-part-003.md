@@ -2127,8 +2127,6 @@ Part berikutnya:
 
 > Part 004 — Dev Mode, Continuous Testing, Dev UI, Dev Services: Feedback Loop Engineering
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-002.md">⬅️ Part 002 — Version Strategy: Java 8 sampai 25, Quarkus 2/3, Jakarta Migration, dan Compatibility Reality</a>

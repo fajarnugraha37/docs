@@ -3383,7 +3383,6 @@ Bagian berikutnya akan membedah model eksekusi Quarkus secara lebih fundamental:
 **Status:** Part 008 selesai.  
 **Seri belum selesai dan belum mencapai bagian terakhir.**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-007.md">⬅️ Part 007 — CDI with Arc: Dependency Injection yang Dioptimalkan untuk Build-Time</a>

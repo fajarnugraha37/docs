@@ -69,6 +69,9 @@ nav:
   - Katalog Lengkap: all-notes.md
   - "General":
       - "Overview": "general/index.md"
+      - "Database":
+          - "Overview": "general/database/index.md"
+          - "Redis": "general/database/redis/index.md"
       - "Git": "general/git/index.md"
       - "Http":
           - "Overview": "general/http/index.md"

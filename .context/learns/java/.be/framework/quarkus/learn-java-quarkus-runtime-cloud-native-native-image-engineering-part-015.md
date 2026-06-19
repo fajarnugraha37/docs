@@ -2227,7 +2227,6 @@ Setelah part ini, kita siap masuk ke Part 016: authorization model, policy enfor
 - Seri belum selesai.
 - Berikutnya: Part 016 — Security II: Authorization Model, Policy Enforcement, RBAC/ABAC, Method Security.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-014.md">⬅️ Part 014 — Validation, Serialization, DTO, and API Contract Engineering</a>

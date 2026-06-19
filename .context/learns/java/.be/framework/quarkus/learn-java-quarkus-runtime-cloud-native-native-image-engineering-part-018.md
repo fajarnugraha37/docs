@@ -1850,7 +1850,6 @@ Part berikutnya:
 
 **Part 019 — Messaging II: Event-Driven Architecture, Outbox, CDC, Saga, and Process Boundary**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-017.md">⬅️ Part 017 — Security III: mTLS, Secrets, Crypto, Native Image Security, Supply Chain</a>

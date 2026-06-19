@@ -2009,7 +2009,6 @@ Di part berikutnya, fokus bergeser ke observability dasar yang benar:
 - operational log contract,
 - audit defensibility.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-022.md">⬅️ HTTP Client Engineering: REST Client Reactive, Fault Tolerance, Timeout, Retry, Circuit Breaker</a>

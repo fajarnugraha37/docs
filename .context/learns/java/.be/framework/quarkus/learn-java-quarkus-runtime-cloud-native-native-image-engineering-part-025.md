@@ -2325,7 +2325,6 @@ Di part berikutnya, fokus bergeser ke testing engineering:
 - test speed and isolation,
 - avoiding slow/flaky enterprise suites.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-024.md">⬅️ Observability I: Logging, Structured Logs, Correlation, MDC, Audit Trail</a>

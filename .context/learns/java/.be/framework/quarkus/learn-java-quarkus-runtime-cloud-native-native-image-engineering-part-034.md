@@ -1668,7 +1668,6 @@ Di part berikutnya, kita masuk ke bagian terakhir seri ini:
 - architecture review checklist,
 - “top-tier engineering standard” untuk Quarkus.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-033.md">⬅️ Custom Extension Engineering: Membuat Extension Quarkus Sendiri</a>

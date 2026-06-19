@@ -2712,7 +2712,6 @@ Part berikutnya:
 Part 006 — Configuration Architecture: SmallRye Config, Profiles, Secrets, Runtime vs Build-Time Properties
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-004.md">⬅️ Part 004 — Dev Mode, Continuous Testing, Dev UI, Dev Services: Feedback Loop Engineering</a>

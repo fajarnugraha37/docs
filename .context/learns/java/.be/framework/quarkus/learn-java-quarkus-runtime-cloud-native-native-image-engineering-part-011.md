@@ -2466,7 +2466,6 @@ Part berikutnya:
 
 **Part 012 — Persistence III: Hibernate Reactive, Reactive SQL Clients, dan Transaction Semantics**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-010.md">⬅️ Part 010 — Persistence I: Hibernate ORM di Quarkus Tanpa Mengulang JPA Dasar</a>

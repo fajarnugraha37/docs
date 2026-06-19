@@ -1922,7 +1922,6 @@ Di part berikutnya, fokus bergeser ke native image secara mendalam:
 - native memory model,
 - native failure diagnosis.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-026.md">⬅️ Testing I: Unit, Component, QuarkusTest, Profiles, Mocking, Continuous Testing</a>

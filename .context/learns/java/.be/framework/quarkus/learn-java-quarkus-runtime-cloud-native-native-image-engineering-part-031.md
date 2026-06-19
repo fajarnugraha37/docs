@@ -1862,7 +1862,6 @@ Di part berikutnya, fokus bergeser khusus ke virtual threads:
 - anti-patterns,
 - production checklist.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-030.md">⬅️ Kubernetes and Container Engineering: Image Build, Probes, ConfigMap, Secret, Service Binding</a>

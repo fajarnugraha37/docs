@@ -1573,7 +1573,6 @@ Topik besar yang telah selesai:
 
 Selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-034.md">⬅️ Enterprise Architecture with Quarkus: Modular Monolith, Microservices, Regulatory Workflows</a>

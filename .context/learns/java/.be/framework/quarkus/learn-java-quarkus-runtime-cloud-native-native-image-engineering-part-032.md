@@ -1646,7 +1646,6 @@ Di part berikutnya, fokus bergeser ke Quarkus extension model:
 - when to create extension,
 - production-grade internal platform extension.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-031.md">⬅️ Native Runtime Tuning: JVM Mode vs Native Mode, Memory, GC, Startup, Throughput</a>

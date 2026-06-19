@@ -1797,7 +1797,6 @@ Di part berikutnya, fokus bergeser ke praktik nyata:
 - native observability,
 - production migration checklist.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-027.md">⬅️ Testing II: Integration, Contract, Security, Native Image, Performance, Chaos</a>

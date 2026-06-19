@@ -2296,7 +2296,6 @@ Di part berikutnya, fokus bergeser ke:
 - dashboard design,
 - observability anti-pattern.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-023.md">⬅️ Fault Tolerance and Resilience: SmallRye Fault Tolerance, Time Budget, Isolation</a>

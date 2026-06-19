@@ -1449,7 +1449,6 @@ Di part berikutnya, fokus bergeser ke arsitektur enterprise:
 - migration strategy,
 - production architecture blueprint.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-032.md">⬅️ Virtual Threads in Quarkus: Loom, Blocking Simplicity, Reactive Trade-Off</a>

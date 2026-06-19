@@ -2359,8 +2359,6 @@ Part berikutnya akan masuk ke **Scheduler, Jobs, Batch, and Workload Orchestrati
 - Debezium Outbox Extension Documentation — reusable configurable outbox component for Quarkus with CDC pipeline.
 - Quarkus Dev Services Overview — automatic provisioning of services in dev/test mode.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-018.md">⬅️ Part 018 — Messaging I: Kafka, RabbitMQ, AMQP, SmallRye Reactive Messaging</a>

@@ -2626,7 +2626,6 @@ Part berikutnya:
 
 > Part 017 — Security III: mTLS, Secrets, Crypto, Native Image Security, Supply Chain
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-015.md">⬅️ Part 015 — Security I: Authentication, OIDC, Keycloak, JWT, Token Propagation</a>

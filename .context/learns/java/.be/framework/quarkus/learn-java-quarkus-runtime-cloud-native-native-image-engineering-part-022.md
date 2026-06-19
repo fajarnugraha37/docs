@@ -2434,7 +2434,6 @@ Di part berikutnya, fokus akan lebih general ke resilience architecture:
 - resilience testing,
 - SLO-driven failure design.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-quarkus-runtime-cloud-native-native-image-engineering-part-021.md">⬅️ Caching and State: Redis, Caffeine, Infinispan, Cache Invalidation</a>
