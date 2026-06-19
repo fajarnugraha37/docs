@@ -1803,7 +1803,6 @@ Seri belum selesai. Lanjut ke:
 learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-23.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-21.md">⬅️ Part 21 — Flow Control, Backpressure, Memory, Disk, and Overload</a>

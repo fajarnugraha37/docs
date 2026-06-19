@@ -2303,7 +2303,6 @@ The main lesson:
 - RabbitMQ Documentation — Quorum Queues: https://www.rabbitmq.com/docs/quorum-queues
 - RabbitMQ Documentation — Production Checklist: https://www.rabbitmq.com/docs/production-checklist
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-32.md">⬅️ Learn RabbitMQ Messaging & Streaming Mastery for Java Engineers — Part 32</a>

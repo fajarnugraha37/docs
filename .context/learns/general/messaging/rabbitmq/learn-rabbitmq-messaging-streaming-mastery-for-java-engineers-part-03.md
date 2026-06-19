@@ -2382,7 +2382,6 @@ Berikutnya:
 
 - Part 04 — Queue Semantics: Classic, Quorum, Stream
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-02.md">⬅️ Part 02 — AMQP 0-9-1 Deep Dive: Bahasa Internal RabbitMQ</a>

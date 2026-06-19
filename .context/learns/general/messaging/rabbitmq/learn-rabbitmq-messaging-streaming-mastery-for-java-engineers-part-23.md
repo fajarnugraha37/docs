@@ -1942,8 +1942,6 @@ We will go deeper into:
 - auditability;
 - secure production defaults.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-22.md">⬅️ Part 22 — Clustering, High Availability, Network Partitions</a>

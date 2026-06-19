@@ -2266,8 +2266,6 @@ Observability: Metrics, Logs, Tracing, and Message Forensics
 
 Security and observability are connected: you cannot secure what you cannot see, and you cannot debug what you cannot correlate.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-23.md">⬅️ Part 23 — Federation, Shovel, Multi-Region, and Edge Messaging</a>

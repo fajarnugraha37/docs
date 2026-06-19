@@ -106,6 +106,7 @@ nav:
       - "Backend":
           - "Overview": "java/.be/index.md"
           - "Authentication Patterns": "java/.be/authentication_pattern/index.md"
+          - "Authorization Patterns": "java/.be/authorization_pattern/index.md"
           - "Aws": "java/.be/aws/index.md"
           - "Cammunda": "java/.be/cammunda/index.md"
           - "Database": [{"Overview":"java/.be/database/index.md"},{"Jpa":"java/.be/database/jpa/index.md"},{"Migration":"java/.be/database/migration/index.md"},{"Mybatis":"java/.be/database/mybatis/index.md"}]

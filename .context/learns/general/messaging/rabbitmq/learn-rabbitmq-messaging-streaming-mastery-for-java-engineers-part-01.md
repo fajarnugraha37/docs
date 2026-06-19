@@ -2411,8 +2411,6 @@ Status seri: **belum selesai**.
 Progress: **part-00 selesai, part-01 selesai**.  
 Masih tersisa: **part-02 sampai part-34**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-00.md">⬅️ Part 00 — Orientation, Mental Model, dan Scope RabbitMQ Modern</a>

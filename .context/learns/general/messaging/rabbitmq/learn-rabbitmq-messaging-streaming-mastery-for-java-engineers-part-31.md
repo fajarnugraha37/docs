@@ -1930,7 +1930,6 @@ learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-32.md
 
 **Part 32 — End-to-End Case Study: Regulatory Case Management Messaging Platform**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-30.md">⬅️ Part 30 — Migration, Refactoring, and Legacy RabbitMQ Systems</a>

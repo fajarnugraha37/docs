@@ -1879,7 +1879,6 @@ part-00 sampai part-20 selesai
 
 Seri belum selesai. Masih ada part 21 sampai part 34.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-19.md">⬅️ Learn RabbitMQ Messaging & Streaming Mastery for Java Engineers</a>

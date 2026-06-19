@@ -3497,7 +3497,6 @@ That part will answer:
 
 # End of Part 12
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-11.md">⬅️ Part 11 — Spring Boot Integration Patterns</a>

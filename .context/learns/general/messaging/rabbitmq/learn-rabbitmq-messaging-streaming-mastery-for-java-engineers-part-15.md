@@ -2322,7 +2322,6 @@ We will shift from queue-oriented work delivery into stream-oriented append-only
 - when to use streams in RabbitMQ architecture.
 - when not to.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-14.md">⬅️ Part 14 — RPC, Request/Reply, Correlation, Timeout, and Why It Is Dangerous</a>

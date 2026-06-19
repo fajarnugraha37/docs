@@ -2463,7 +2463,6 @@ Progress:
 - [ ] Part 33 — Production Runbook and Operational Playbook
 - [ ] Part 34 — Mastery Review, Heuristics, and Final Mental Models
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-04.md">⬅️ Part 04 — Queue Semantics: Classic, Quorum, Stream</a>

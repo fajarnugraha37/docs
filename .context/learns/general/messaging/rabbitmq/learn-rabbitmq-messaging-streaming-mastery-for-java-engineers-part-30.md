@@ -1889,7 +1889,6 @@ Tujuannya bukan membuat RabbitMQ selalu menang, tetapi membuat kamu bisa memilih
 - Seri belum selesai.
 - Berikutnya: `part-31 — Architecture Decision Framework: RabbitMQ vs Kafka vs Database vs HTTP`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-29.md">⬅️ Part 29 — Testing Strategy for RabbitMQ-Based Java Systems</a>

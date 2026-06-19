@@ -2479,7 +2479,6 @@ Part 34 belum dimulai
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-06.md">⬅️ Part 06 — Java Client Fundamentals tanpa Spring</a>

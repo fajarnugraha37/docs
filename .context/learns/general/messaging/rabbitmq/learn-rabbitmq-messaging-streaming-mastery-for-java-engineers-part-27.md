@@ -2252,7 +2252,6 @@ If the topology does not define failure handling, ownership, observability, and 
 
 Part berikutnya: `learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-28.md` — **Anti-Patterns and Failure Case Studies**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-26.md">⬅️ Part 26 — Performance Engineering and Benchmarking</a>

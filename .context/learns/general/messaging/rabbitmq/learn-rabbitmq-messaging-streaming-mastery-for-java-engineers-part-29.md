@@ -2176,7 +2176,6 @@ Kita akan membahas bagaimana memperbaiki sistem RabbitMQ yang sudah berjalan:
 - schema compatibility window
 - blue-green messaging topology
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-28.md">⬅️ Part 28 — Anti-Patterns and Failure Case Studies</a>

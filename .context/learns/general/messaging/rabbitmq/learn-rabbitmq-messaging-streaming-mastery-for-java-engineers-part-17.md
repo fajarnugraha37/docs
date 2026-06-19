@@ -2663,8 +2663,6 @@ Di bagian itu kita akan naik dari single stream ke partitioned stream model:
 - bagaimana ordering berubah menjadi per-partition;
 - bagaimana membandingkan super stream dengan Kafka partition tanpa menyamakan keduanya secara dangkal.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-16.md">⬅️ Part 16 — RabbitMQ Streams Mental Model</a>

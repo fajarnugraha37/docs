@@ -2255,7 +2255,6 @@ If you internalize those invariants, RabbitMQ Streams become much more than “R
 - [x] Part 19 — Stream Deduplication, Filtering, and Replay Patterns
 - [ ] Part 20 — Quorum Queues Deep Dive
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-18.md">⬅️ Part 18 — Super Streams and Partitioned Streaming</a>

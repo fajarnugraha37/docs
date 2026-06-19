@@ -2095,7 +2095,6 @@ Topik:
 Workflow, Saga, and Enforcement Lifecycle Modelling with RabbitMQ
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-13.md">⬅️ Part 13 — Ordering, Concurrency, Partitioning, and Work Distribution</a>

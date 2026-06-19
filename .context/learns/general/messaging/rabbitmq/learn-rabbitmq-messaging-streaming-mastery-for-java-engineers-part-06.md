@@ -2258,7 +2258,6 @@ Sisa berikutnya:
 part-07 sampai part-34
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-05.md">⬅️ Part 05 — Hands-on Local Lab: Docker, Management UI, CLI, Definitions</a>

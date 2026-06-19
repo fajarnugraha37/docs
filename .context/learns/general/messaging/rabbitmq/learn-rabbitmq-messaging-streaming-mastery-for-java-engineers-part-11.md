@@ -2815,7 +2815,6 @@ Part berikutnya:
 
 - Part 12 — Message Contract Design untuk Java Systems
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-10.md">⬅️ Part 10 — Spring AMQP Deep Dive</a>

@@ -2284,7 +2284,6 @@ Progress saat ini:
 
 Seri belum selesai. Bagian berikutnya: `learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-27.md`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-25.md">⬅️ Part 25 — Observability: Metrics, Logs, Tracing, and Message Forensics</a>

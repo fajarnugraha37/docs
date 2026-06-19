@@ -2319,8 +2319,6 @@ We will cover:
 - chaos testing
 - deterministic testing strategy
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-27.md">⬅️ Part 27 — Production Topology Design Patterns</a>

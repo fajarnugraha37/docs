@@ -1824,8 +1824,6 @@ Kita akan membahas lebih dalam:
 - replay safety;
 - audit reconstruction.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-17.md">⬅️ Part 17 — RabbitMQ Stream Java Client</a>

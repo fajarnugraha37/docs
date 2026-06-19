@@ -2105,8 +2105,6 @@ Di sana kita akan masuk ke topology retry konkret:
 - operator workflow;
 - failure audit trail.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-07.md">⬅️ Part 07 — Publisher Reliability: Confirms, Returns, Mandatory, Idempotent Publish</a>

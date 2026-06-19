@@ -2065,7 +2065,6 @@ Referensi yang dipakai sebagai baseline resmi dan teknis:
 - RabbitMQ 4.3 Release Highlights — https://www.rabbitmq.com/blog/2026/04/23/rabbitmq-4.3-release
 - Spring AMQP Reference — https://docs.spring.io/spring-amqp/reference/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

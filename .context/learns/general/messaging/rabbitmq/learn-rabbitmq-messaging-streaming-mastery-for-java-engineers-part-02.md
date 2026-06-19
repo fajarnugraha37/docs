@@ -2243,7 +2243,6 @@ Progress saat ini:
 
 Seri belum selesai. Bagian terakhir yang direncanakan adalah `part-34`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-01.md">⬅️ Part 01 — Messaging Fundamentals yang Spesifik RabbitMQ</a>

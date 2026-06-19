@@ -1704,8 +1704,6 @@ Kita akan membahas:
 - Java production skeleton,
 - integration testing.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-15.md">⬅️ Part 15 — Workflow, Saga, and Enforcement Lifecycle Modelling with RabbitMQ</a>

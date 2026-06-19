@@ -1778,8 +1778,6 @@ learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-34.md
 
 Seri selesai.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-33.md">⬅️ Part 33 — Production Runbook and Operational Playbook</a>

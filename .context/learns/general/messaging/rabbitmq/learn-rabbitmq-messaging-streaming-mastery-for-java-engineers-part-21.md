@@ -1997,7 +1997,6 @@ Berikutnya:
 
 - Part 22 — Clustering, High Availability, Network Partitions
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-20.md">⬅️ Part 20 — Quorum Queues Deep Dive</a>

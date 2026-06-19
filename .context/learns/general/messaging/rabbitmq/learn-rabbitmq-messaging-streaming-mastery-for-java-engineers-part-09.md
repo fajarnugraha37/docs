@@ -2459,8 +2459,6 @@ The point will be:
 
 > Spring hides protocol mechanics, but it does not remove delivery semantics.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-08.md">⬅️ Part 08 — Consumer Reliability: Ack, Nack, Reject, Redelivery, Prefetch</a>

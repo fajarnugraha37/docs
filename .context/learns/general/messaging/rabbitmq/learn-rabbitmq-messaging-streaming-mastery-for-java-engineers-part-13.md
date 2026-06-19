@@ -1920,8 +1920,6 @@ RPC, Request/Reply, Correlation, Timeout, and Why It Is Dangerous
 
 Part 14 akan membahas kapan request/reply via RabbitMQ masuk akal, kenapa sering menjadi distributed synchronous dependency yang tersembunyi, bagaimana menggunakan `reply-to`, `correlationId`, direct reply-to, timeout, duplicate replies, dan kapan HTTP/gRPC lebih cocok.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-12.md">⬅️ Part 12 — Message Contract Design untuk Java Systems</a>

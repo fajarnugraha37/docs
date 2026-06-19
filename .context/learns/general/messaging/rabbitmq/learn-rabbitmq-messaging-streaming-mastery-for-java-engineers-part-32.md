@@ -2242,7 +2242,6 @@ Topik berikutnya:
 Production Runbook and Operational Playbook
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-rabbitmq-messaging-streaming-mastery-for-java-engineers-part-31.md">⬅️ Part 31 — Architecture Decision Framework: RabbitMQ vs Kafka vs Database vs HTTP</a>
