@@ -2699,7 +2699,6 @@ Part 009 memberi kita pool dan failure model. Part 010 akan memberi kita control
 - NGINX Admin Guide — HTTP Load Balancing: `https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/`
 - NGINX official documentation — Reverse proxy guide: `https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Proxy Header Contract: The Boundary Between Nginx and Application</a>

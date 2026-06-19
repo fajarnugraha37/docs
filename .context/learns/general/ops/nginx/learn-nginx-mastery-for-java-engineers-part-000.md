@@ -2397,7 +2397,6 @@ Di Part 001 kita akan masuk ke internal runtime Nginx:
 - reload lifecycle,
 - dan perbandingan dengan model thread pool Java application server.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

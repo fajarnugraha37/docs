@@ -2227,3 +2227,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-014.md` — Advanced Modelling: State Machines, Workflows, and Regulatory Case Data
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-012.md">⬅️ Part 12 — Constraints as Business Invariants</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-014.md">Part 14 — Advanced Modelling: State Machines, Workflows, and Regulatory Case Data ➡️</a>
+</div>

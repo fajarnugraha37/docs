@@ -2635,7 +2635,6 @@ Part berikutnya:
 Part 025 — Nginx in Containers and Kubernetes
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Blue-Green, Canary, Shadow Traffic, and Progressive Delivery</a>

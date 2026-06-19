@@ -1977,8 +1977,6 @@ Bagian berikutnya adalah capstone: menyatukan semua konsep seri ini ke dalam des
 - Belum selesai: **Part 030**
 - Bagian berikutnya: **Part 030 — Capstone: Designing a Production-Grade Nginx Front Door for Java Microservices**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Production Failure Modeling and Incident Playbooks</a>

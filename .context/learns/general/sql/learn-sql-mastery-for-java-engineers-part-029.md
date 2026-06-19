@@ -1923,3 +1923,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-030.md` — Observability, Operations, Backup, Restore, and Disaster Recovery
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-028.md">⬅️ Part 28 — Bulk Data, ETL, Import/Export, and Data Reconciliation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-030.md">Part 30 — Observability, Operations, Backup, Restore, and Disaster Recovery ➡️</a>
+</div>

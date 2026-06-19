@@ -1916,3 +1916,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-020.md` — Locking, MVCC, Deadlocks, and Concurrency Control
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-018.md">⬅️ Part 18 — Performance Engineering: From Slow Query to Root Cause</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-020.md">Part 20 — Locking, MVCC, Deadlocks, and Concurrency Control ➡️</a>
+</div>

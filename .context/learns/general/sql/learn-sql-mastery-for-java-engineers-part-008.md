@@ -2398,3 +2398,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-009.md` — Set Operations: UNION, INTERSECT, EXCEPT
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-007.md">⬅️ Part 7 — Aggregation, GROUP BY, HAVING, and Analytical Thinking</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-009.md">Part 9 — Set Operations: UNION, INTERSECT, EXCEPT ➡️</a>
+</div>

@@ -1611,8 +1611,6 @@ Part berikutnya:
 
 Di sana kita akan membahas bagaimana Nginx memilih backend instance, bagaimana koneksi upstream dikelola, bagaimana failure satu node memengaruhi routing, dan bagaimana load balancing berinteraksi dengan session affinity, retries, health, dan Java service behavior.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Reverse Proxy Fundamentals for Java Backends</a>

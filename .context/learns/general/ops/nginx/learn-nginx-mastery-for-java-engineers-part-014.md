@@ -2054,7 +2054,6 @@ Berikutnya: Part 015
 Target akhir: Part 030
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — HTTP/2, HTTP/3/QUIC, and Protocol-Level Trade-Offs</a>

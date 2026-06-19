@@ -2485,3 +2485,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-006.md` — Joins from First Principles
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-004.md">⬅️ Part 4 — Basic Query Semantics: SELECT, FROM, WHERE, ORDER BY, LIMIT</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-006.md">Part 6 — Joins from First Principles ➡️</a>
+</div>

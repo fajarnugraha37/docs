@@ -1679,3 +1679,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-031.md` — Analytical SQL, OLAP, Warehousing, and Reporting Systems
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-029.md">⬅️ Part 29 — Partitioning, Sharding, Replication, and Scaling Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-031.md">Part 31 — Analytical SQL, OLAP, Warehousing, and Reporting Systems ➡️</a>
+</div>

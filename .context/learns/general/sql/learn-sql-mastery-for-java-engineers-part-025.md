@@ -1916,3 +1916,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-026.md` — ORM and Query Builders: Hibernate, JPA, jOOQ, MyBatis
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-024.md">⬅️ Part 24 — Security: Permissions, Row-Level Security, SQL Injection, and Data Protection</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-026.md">Part 26 — ORM and Query Builders: Hibernate, JPA, jOOQ, MyBatis ➡️</a>
+</div>

@@ -2446,8 +2446,6 @@ Jika jawabanmu sudah jelas, kamu siap masuk ke Part 022.
 
 Seri **belum selesai**. Masih ada Part 022 sampai Part 030.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Debugging Nginx Like a Production Engineer</a>

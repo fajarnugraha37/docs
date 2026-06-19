@@ -2163,3 +2163,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-019.md` — Transactions: ACID, Isolation, Anomalies, and Real Consistency
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-017.md">⬅️ Part 17 — Query Optimizer and Execution Plans</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-019.md">Part 19 — Transactions: ACID, Isolation, Anomalies, and Real Consistency ➡️</a>
+</div>

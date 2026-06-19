@@ -2260,7 +2260,6 @@ Seri belum selesai. Masih ada 11 bagian lagi:
 030 — Capstone: Designing a Production-Grade Nginx Front Door for Java Microservices
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Security Hardening: Headers, Request Limits, Path Safety, and Config Integrity</a>

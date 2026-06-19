@@ -2131,8 +2131,6 @@ Progress saat ini:
 - [ ] Part 029 — Performance Lab: Benchmarking, Capacity Planning, and Tuning Experiments
 - [ ] Part 030 — Capstone: Designing a Production-Grade Nginx Front Door for Java Microservices
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation: Nginx as Traffic Runtime, Not Just Web Server</a>

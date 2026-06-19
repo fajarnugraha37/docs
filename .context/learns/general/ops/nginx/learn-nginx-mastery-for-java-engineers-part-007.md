@@ -3108,8 +3108,6 @@ Itu akan menjadi fokus berikutnya.
 **Progress:** Part 007 dari 030 selesai.  
 **Part berikutnya:** Part 008 — Proxy Header Contract: The Boundary Between Nginx and Application.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Static File Serving: Root, Alias, Index, Try Files, and SPA Hosting</a>

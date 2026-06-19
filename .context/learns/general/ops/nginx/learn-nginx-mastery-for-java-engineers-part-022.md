@@ -2251,8 +2251,6 @@ Untuk engineer backend Java, pemahaman ini penting karena kesalahan di Nginx ser
 
 Bagian berikutnya akan membahas **Part 023 — Blue-Green, Canary, Shadow Traffic, and Progressive Delivery**, yaitu bagaimana Nginx dapat membantu rollout, routing terkontrol, eksperimen traffic, dan rollback dengan risiko lebih rendah.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Nginx and Java Application Servers</a>

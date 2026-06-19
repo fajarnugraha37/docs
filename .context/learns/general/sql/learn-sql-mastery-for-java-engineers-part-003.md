@@ -2464,3 +2464,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-004.md` — Basic Query Semantics: SELECT, FROM, WHERE, ORDER BY, LIMIT
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-002.md">⬅️ Part 2 — SQL Language Model: DDL, DML, DQL, DCL, TCL</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-004.md">Part 4 — Basic Query Semantics: SELECT, FROM, WHERE, ORDER BY, LIMIT ➡️</a>
+</div>

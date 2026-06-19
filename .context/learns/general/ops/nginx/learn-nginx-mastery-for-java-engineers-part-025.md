@@ -2416,7 +2416,6 @@ Selesai: **Part 025 dari 030**.
 Belum selesai.  
 Bagian berikutnya: **Part 026 — Stream Module: TCP/UDP Proxying for Non-HTTP Traffic**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Nginx as Lightweight API Gateway</a>

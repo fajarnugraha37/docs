@@ -2353,7 +2353,6 @@ Bagian berikutnya:
 
 **Part 017 — Access Control, Basic Auth, IP Rules, and Internal Endpoints**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Caching with Nginx: Reverse Proxy Cache as Performance and Resilience Tool</a>

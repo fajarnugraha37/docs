@@ -2242,3 +2242,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-008.md` — Subqueries, Derived Tables, CTEs, and Query Composition
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-006.md">⬅️ Part 6 — Joins from First Principles</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-008.md">Part 8 — Subqueries, Derived Tables, CTEs, and Query Composition ➡️</a>
+</div>

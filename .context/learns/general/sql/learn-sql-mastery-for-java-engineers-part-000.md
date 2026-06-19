@@ -2158,3 +2158,12 @@ Tanpa relational thinking, SQL hanya terlihat seperti syntax. Dengan relational 
 - Bagian berikutnya: `learn-sql-mastery-for-java-engineers-part-001.md`.
 - Topik berikutnya: **Relational Thinking: Tables, Relations, Tuples, Predicates, and Sets**.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-001.md">Part 1 — Relational Thinking: Tables, Relations, Tuples, Predicates, and Sets ➡️</a>
+</div>

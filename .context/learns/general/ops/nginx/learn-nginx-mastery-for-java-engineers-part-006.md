@@ -2106,8 +2106,6 @@ Di `Part 007 — Reverse Proxy Fundamentals for Java Backends`, kita akan membah
 - client IP propagation;
 - awal dari proxy boundary contract.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Location Matching Deep Dive</a>

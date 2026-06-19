@@ -2515,7 +2515,6 @@ Di sana kita akan membahas:
 Status seri: **belum selesai**.  
 Progress: **Part 010 dari 030**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Upstream Blocks and Load Balancing</a>

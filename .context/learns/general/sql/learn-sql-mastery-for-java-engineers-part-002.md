@@ -2560,3 +2560,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-003.md` — Data Types, NULL, Three-Valued Logic, and Semantic Correctness
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-001.md">⬅️ Part 1 — Relational Thinking: Tables, Relations, Tuples, Predicates, and Sets</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-003.md">Part 3 — Data Types, NULL, Three-Valued Logic, and Semantic Correctness ➡️</a>
+</div>

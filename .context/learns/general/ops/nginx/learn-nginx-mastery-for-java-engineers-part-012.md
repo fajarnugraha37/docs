@@ -1748,7 +1748,6 @@ Part berikutnya:
 Part 013 — HTTP/2, HTTP/3/QUIC, and Protocol-Level Trade-Offs
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Connection Management and Performance Tuning</a>

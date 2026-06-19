@@ -2191,3 +2191,12 @@ SQL Mastery for Java Engineers
 ```
 
 Jika materi ini dipelajari, dipraktikkan, dan digunakan untuk code review/design review, kamu tidak hanya akan “bisa SQL”, tetapi akan mampu mendesain, mengoptimalkan, mengamankan, mengubah, dan mengoperasikan database production dengan mental model engineer senior.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-033.md">⬅️ Part 33 — SQL Design Patterns and Anti-Patterns</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<span></span>
+</div>

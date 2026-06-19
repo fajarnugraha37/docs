@@ -1773,7 +1773,6 @@ Belum selesai:
 
 Seri belum selesai. Bagian terakhir adalah **Part 030 — Capstone: Designing a Production-Grade Nginx Front Door for Java Microservices**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-012.md">⬅️ Learn Nginx Mastery for Java Engineers — Part 012</a>

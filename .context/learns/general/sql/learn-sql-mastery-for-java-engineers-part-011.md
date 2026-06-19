@@ -2463,3 +2463,12 @@ Bagian selesai:
 Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-012.md` — Constraints as Business Invariants
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-sql-mastery-for-java-engineers-part-010.md">⬅️ Part 10 — Window Functions: Professional-Grade SQL Analytics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../index.md">🏠 Home</a>
+<a href="./learn-sql-mastery-for-java-engineers-part-012.md">Part 12 — Constraints as Business Invariants ➡️</a>
+</div>

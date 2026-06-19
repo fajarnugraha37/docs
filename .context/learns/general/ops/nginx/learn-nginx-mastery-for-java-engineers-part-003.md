@@ -3038,7 +3038,6 @@ Jika server selection salah, semua location logic setelahnya tidak relevan.
 - Progress: `003 / 030`.
 - Lanjut ke: `Part 004 — Server Selection: listen, server_name, SNI, Default Server`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-nginx-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Installation, Packaging, Runtime Layout, and Environment Discipline</a>
