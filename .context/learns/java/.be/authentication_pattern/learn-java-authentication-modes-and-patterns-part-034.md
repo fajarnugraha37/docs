@@ -2462,7 +2462,6 @@ Series belum selesai.
 Part terakhir berikutnya adalah Part 35.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-033.md">⬅️ Part 33 — Migration Patterns: Legacy Java 8 to Modern Java 21/25 Authentication</a>

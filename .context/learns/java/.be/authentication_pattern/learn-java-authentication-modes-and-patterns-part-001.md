@@ -2379,7 +2379,6 @@ Part 2  berikutnya — Authentication Taxonomy: Modes, Proof Types, and Trust Mo
 Series belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-000.md">⬅️ Part 0 — Orientation: Mental Model of Authentication in Java Systems</a>

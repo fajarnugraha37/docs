@@ -2591,7 +2591,6 @@ Di Part 14, kita akan naik ke **OpenID Connect**: bagaimana authentication user 
 - Series belum selesai
 - Berikutnya: Part 14 — OpenID Connect: Authentication on Top of OAuth2
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-012.md">⬅️ Part 12 — Opaque Token Authentication and Token Introspection</a>

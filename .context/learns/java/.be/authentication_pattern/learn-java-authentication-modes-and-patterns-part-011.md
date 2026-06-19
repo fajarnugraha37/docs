@@ -2706,7 +2706,6 @@ Part berikutnya:
 Part 12 — Opaque Token Authentication and Token Introspection
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-010.md">⬅️ Part 10 — HMAC Request Signing</a>

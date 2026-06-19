@@ -2222,8 +2222,6 @@ The key lessons:
 13. OWASP Cheat Sheet Series — Authentication, Session Management, JSON Web Token for Java, REST Security, Secrets Management.
 14. NIST SP 800-63B — Digital Identity Guidelines: Authentication and Lifecycle Management.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-022.md">⬅️ Part 22 — Authentication for Mobile, Desktop, CLI, and Device Clients</a>

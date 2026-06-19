@@ -2238,7 +2238,6 @@ Part berikutnya:
 Part 13 — OAuth 2.0 for Java Engineers: Delegated Authorization as Authentication Input
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-011.md">⬅️ Part 11 — JWT Authentication: Claims, Validation, and Misuse</a>

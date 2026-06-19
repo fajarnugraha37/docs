@@ -2909,7 +2909,6 @@ Ini adalah perbedaan antara implementasi authentication biasa dan engineering au
 **Series:** belum selesai.  
 **Berikutnya:** Part 32 — Authentication Testing Strategy.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-030.md">⬅️ Part 30 — Observability, Audit, and Forensics for Authentication</a>

@@ -3081,7 +3081,6 @@ Part berikutnya:
 Part 11 — JWT Authentication: Claims, Validation, and Misuse
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-009.md">⬅️ Part 9 — API Key Authentication</a>

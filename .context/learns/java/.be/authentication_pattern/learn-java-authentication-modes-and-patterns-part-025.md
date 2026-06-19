@@ -2714,7 +2714,6 @@ Top 1% engineering mindset:
 - Series belum selesai.
 - Berikutnya: Part 26 — Multi-Tenant Authentication Architecture.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-024.md">⬅️ Part 24 — Key Management for Authentication Systems in Java 8–25</a>

@@ -2140,7 +2140,6 @@ Status:
 Series belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-018.md">⬅️ LDAP, Active Directory, Kerberos, and Enterprise Directory Authentication</a>

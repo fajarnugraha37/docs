@@ -2295,8 +2295,6 @@ Setelah memahami SAML sebagai federation protocol, kita akan turun ke enterprise
 
 SAML sering duduk di atas directory system. Banyak IdP SAML sebenarnya melakukan authentication user ke AD/LDAP/Kerberos di belakang layar.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-016.md">⬅️ Part 16 — Client Credentials and Machine-to-Machine Authentication</a>

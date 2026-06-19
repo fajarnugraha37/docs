@@ -2935,7 +2935,6 @@ Part berikutnya:
 Part 6 — Jakarta Security and Jakarta Authentication Deep Dive
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-004.md">⬅️ Part 4 — Session-Based Authentication: Cookies, Server State, and Browser Reality</a>

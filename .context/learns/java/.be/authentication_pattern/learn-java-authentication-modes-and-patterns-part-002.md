@@ -2368,7 +2368,6 @@ Jika salah satu kosong, desain authentication belum matang.
 - Series belum selesai.
 - Part berikutnya: **Part 3 — Password Authentication Done Properly**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-001.md">⬅️ Part 1 — Java Runtime Security Foundations: Subject, Principal, Credential, Context</a>

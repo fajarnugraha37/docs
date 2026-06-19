@@ -2686,8 +2686,6 @@ Part 15 — Authorization Code + PKCE for Java Web and SPA Backends
 
 Part 15 akan memperdalam satu flow paling penting dalam praktik modern: bagaimana authorization code + PKCE bekerja, bagaimana backend Java/BFF mengamankannya, bagaimana redirect/callback/state/code_verifier disimpan, dan bagaimana flow ini gagal jika desain browser/backend boundary salah.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-013.md">⬅️ Part 13 — OAuth 2.0 for Java Engineers: Delegated Authorization as Authentication Input</a>

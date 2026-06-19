@@ -2776,8 +2776,6 @@ Status:
 Series belum selesai.
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-002.md">⬅️ Part 2 — Authentication Taxonomy: Modes, Proof Types, and Trust Models</a>

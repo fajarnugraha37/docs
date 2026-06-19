@@ -2648,7 +2648,6 @@ That is the difference between basic login implementation and production-grade a
 - Spring Security Servlet Authentication Architecture — https://docs.spring.io/spring-security/reference/servlet/authentication/architecture.html
 - Spring Security OAuth2 Resource Server — https://docs.spring.io/spring-security/reference/servlet/oauth2/resource-server/index.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-029.md">⬅️ Part 29 — Authentication Failure Modeling and Attack Simulation</a>

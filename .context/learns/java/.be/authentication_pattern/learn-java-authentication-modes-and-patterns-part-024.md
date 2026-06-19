@@ -2393,7 +2393,6 @@ Key management is the bridge between protocol knowledge and production authentic
 
 # End of Part 24
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-023.md">⬅️ Part 23 — Token Lifecycle Engineering</a>

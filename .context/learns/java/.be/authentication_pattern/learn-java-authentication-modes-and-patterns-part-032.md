@@ -2568,7 +2568,6 @@ Part berikutnya:
 Part 33 — Migration Patterns: Legacy Java 8 to Modern Java 21/25 Authentication
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-031.md">⬅️ Part 31 — Performance and Scalability of Authentication</a>

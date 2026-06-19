@@ -2197,8 +2197,6 @@ The senior-level shift is this:
 - Series belum selesai.
 - Berikutnya: **Part 28 — Authentication for Messaging, Jobs, and Event-Driven Java Systems**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-026.md">⬅️ Part 26 — Multi-Tenant Authentication Architecture</a>

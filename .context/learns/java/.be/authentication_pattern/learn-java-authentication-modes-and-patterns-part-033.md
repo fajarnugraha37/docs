@@ -1908,7 +1908,6 @@ Use these as grounding references for deeper reading:
 - Series: **belum selesai**.
 - Berikutnya: **Part 34 — Reference Architectures and Decision Framework**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-032.md">⬅️ Part 32 — Authentication Testing Strategy</a>

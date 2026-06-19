@@ -2377,7 +2377,6 @@ If the system has explicit invariants, negative tests, telemetry, and incident p
 - This is not the final part.
 - Next part: **Part 30 — Observability, Audit, and Forensics for Authentication**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-028.md">⬅️ Part 28 — Authentication for Messaging, Jobs, and Event-Driven Java Systems</a>

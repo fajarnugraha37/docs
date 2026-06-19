@@ -2616,7 +2616,6 @@ Part 19 - Mutual TLS Authentication                                             
 
 Series belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-017.md">⬅️ Part 17 — SAML 2.0 Authentication in Java Enterprise Systems</a>

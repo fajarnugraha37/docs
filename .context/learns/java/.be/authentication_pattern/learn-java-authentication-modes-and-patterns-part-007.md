@@ -2632,7 +2632,6 @@ Part berikutnya:
 
 > **Part 8 — Authentication Context Propagation in Servlet, Reactive, Async, and Virtual Threads**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-006.md">⬅️ Part 6 — Jakarta Security and Jakarta Authentication Deep Dive</a>

@@ -3055,7 +3055,6 @@ Part berikutnya:
 
 > **Part 7 — Spring Security Authentication Architecture**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-005.md">⬅️ Part 5 — Servlet Container Authentication</a>

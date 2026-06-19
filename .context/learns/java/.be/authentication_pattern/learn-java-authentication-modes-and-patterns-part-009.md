@@ -2660,7 +2660,6 @@ Berikutnya:
 
 **Part 10 — HMAC Request Signing**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-008.md">⬅️ Part 8 — Authentication Context Propagation in Servlet, Reactive, Async, and Virtual Threads</a>

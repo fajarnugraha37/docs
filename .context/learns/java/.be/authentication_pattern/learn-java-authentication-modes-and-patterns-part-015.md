@@ -1920,7 +1920,6 @@ Berikutnya:
 
 **Part 16 — Client Credentials and Machine-to-Machine Authentication**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-014.md">⬅️ Part 14 — OpenID Connect: Authentication on Top of OAuth 2.0</a>

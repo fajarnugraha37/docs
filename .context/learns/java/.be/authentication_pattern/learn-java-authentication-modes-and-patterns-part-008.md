@@ -2358,7 +2358,6 @@ Part berikutnya:
 
 > **Part 9 — API Key Authentication**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-007.md">⬅️ Part 7 — Spring Security Authentication Architecture</a>

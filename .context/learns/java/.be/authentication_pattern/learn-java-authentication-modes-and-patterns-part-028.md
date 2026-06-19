@@ -2515,8 +2515,6 @@ Key conclusions:
 - Series belum selesai.
 - Berikutnya: **Part 29 — Authentication Failure Modeling and Attack Simulation**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-027.md">⬅️ Part 27 — Authentication in Microservices and Distributed Systems</a>

@@ -2225,7 +2225,6 @@ Part 22 - selesai
 Series belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-021.md">⬅️ Part 21 — Multi-Factor Authentication and Step-Up Authentication</a>

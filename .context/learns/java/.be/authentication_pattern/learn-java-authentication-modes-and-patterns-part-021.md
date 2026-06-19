@@ -2357,7 +2357,6 @@ Part berikutnya:
 
 > **Part 22 — Authentication for Mobile, Desktop, CLI, and Device Clients**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-020.md">⬅️ Part 20 — Passkeys, WebAuthn, FIDO2, and Passwordless Patterns</a>

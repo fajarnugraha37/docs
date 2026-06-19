@@ -2024,7 +2024,6 @@ Part berikutnya:
 
 > **Part 17 — SAML 2.0 Authentication in Java Enterprise Systems**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-015.md">⬅️ Part 15 — Authorization Code + PKCE for Java Web and SPA Backends</a>

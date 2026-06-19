@@ -1593,7 +1593,6 @@ Total bagian:
 - 36 file markdown
 - Status: selesai / mencapai bagian terakhir
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-034.md">⬅️ Part 34 — Reference Architectures and Decision Framework</a>

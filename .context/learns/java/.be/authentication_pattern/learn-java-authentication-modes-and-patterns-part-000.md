@@ -2786,7 +2786,6 @@ relevance in Java 8–25
 - RFC 9700, OAuth 2.0 Security Best Current Practice: https://datatracker.ietf.org/doc/rfc9700/
 - OpenJDK JDK 25 Project: https://openjdk.org/projects/jdk/25/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

@@ -2653,7 +2653,6 @@ Berikutnya:
 Part 21 — Multi-Factor Authentication and Step-Up Authentication
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-019.md">⬅️ Part 19 — Mutual TLS Authentication</a>

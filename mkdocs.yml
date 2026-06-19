@@ -74,6 +74,9 @@ nav:
           - "Overview": "general/http/index.md"
           - "Backend": "general/http/backend/index.md"
           - "Frontend": "general/http/frontend/index.md"
+      - "Messaging":
+          - "Overview": "general/messaging/index.md"
+          - "Kafka": "general/messaging/kafka/index.md"
       - "Ops":
           - "Overview": "general/ops/index.md"
           - "Nginx": "general/ops/nginx/index.md"

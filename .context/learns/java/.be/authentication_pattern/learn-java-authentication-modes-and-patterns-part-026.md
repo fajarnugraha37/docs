@@ -3518,7 +3518,6 @@ Series status: not complete.
 Next part: Part 27 — Authentication in Microservices and Distributed Systems.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-025.md">⬅️ Part 25 — Identity Provider Integration Patterns</a>

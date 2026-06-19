@@ -2252,7 +2252,6 @@ Series belum selesai.
 
 Part berikutnya: **Part 5 — Servlet Container Authentication**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authentication-modes-and-patterns-part-003.md">⬅️ Part 3 — Password Authentication Done Properly</a>
