@@ -22,12 +22,12 @@
 
 - :material-language-java: **Java**
 
-  1469 artikel tentang Java core, backend, dan Jakarta.
+  1472 artikel tentang Java core, backend, dan Jakarta.
 
   [Buka jalur Java](java/index.md)
 - :material-source-branch: **General Engineering**
 
-  168 artikel tentang Git, fondasi engineering umum, dan topik lintas stack.
+  203 artikel tentang Git, fondasi engineering umum, dan topik lintas stack.
 
   [Buka jalur General](general/index.md)
 - :material-text-box-search-outline: **Katalog Lengkap**

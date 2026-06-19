@@ -2278,7 +2278,6 @@ Seri belum selesai.
 Berikutnya: Part 25 — Testing Strategy for Template Systems.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-023.md">⬅️ Part 23 — Template Versioning, Governance, CMS-like Editing, and Multi-Tenant Templates</a>

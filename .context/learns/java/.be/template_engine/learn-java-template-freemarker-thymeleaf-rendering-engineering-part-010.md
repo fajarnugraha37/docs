@@ -2134,7 +2134,6 @@ Seri belum selesai.
 Berikutnya: Part 11 — FreeMarker in Spring Boot and Jakarta Applications.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-009.md">⬅️ Part 9 — FreeMarker Error Handling, Diagnostics, and Template Observability</a>

@@ -1922,8 +1922,6 @@ Seri learn-java-template-freemarker-thymeleaf-rendering-engineering selesai.
 Ini adalah bagian terakhir dari seri ini.
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-033.md">⬅️ Part 33 — World Blueprint III: Rule/State-Based Document Rendering for Case Management</a>

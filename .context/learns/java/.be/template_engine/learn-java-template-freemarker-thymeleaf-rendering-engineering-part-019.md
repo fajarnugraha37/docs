@@ -2387,7 +2387,6 @@ Seri belum selesai.
 Berikutnya: Part 20 — Document Generation: HTML-to-PDF, DOCX, XML, CSV, and Text Outputs.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-018.md">⬅️ Part 18 — Thymeleaf Performance, Caching, and Production Tuning</a>

@@ -3015,7 +3015,6 @@ Seri belum selesai.
 Masih lanjut ke Part 1 — Template Engine Landscape di Java: JSP, FreeMarker, Thymeleaf, Mustache, Pebble, Velocity.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

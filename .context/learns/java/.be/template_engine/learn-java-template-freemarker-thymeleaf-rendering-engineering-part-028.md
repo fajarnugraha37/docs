@@ -2465,7 +2465,6 @@ Ambil satu email template lama dan migrasikan ke FreeMarker dengan:
 - OWASP XSS Prevention Cheat Sheet.
 - OWASP Server-Side Template Injection testing guidance.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-027.md">⬅️ Part 27 — Advanced Integration Patterns: MVC, REST, Batch, Messaging, BPMN, and Case Management</a>

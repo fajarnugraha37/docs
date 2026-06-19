@@ -3009,7 +3009,6 @@ Seri belum selesai.
 Berikutnya: Part 24 — Template Security Beyond XSS: SSTI, Sandbox, Data Leakage, and Abuse Cases.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-022.md">⬅️ Part 22 — Template Data Model Design: DTO, ViewModel, Presenter, and Contract Stability</a>

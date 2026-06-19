@@ -2290,7 +2290,6 @@ Part ini sengaja lebih architectural karena di sistem case management, rendering
 - Camunda 8 Documentation — BPMN processes and user tasks.
 - OWASP guidance — injection and output encoding principles.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-032.md">⬅️ Part 32 — Real-World Blueprint II: Server-Side Rendered Admin Portal with Thymeleaf</a>

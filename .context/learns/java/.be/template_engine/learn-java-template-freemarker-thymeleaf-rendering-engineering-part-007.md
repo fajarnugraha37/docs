@@ -2215,7 +2215,6 @@ Seri belum selesai.
 Berikutnya: Part 8 — FreeMarker Output Formats, Auto-Escaping, XSS Defense, and HTML Safety.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-006.md">⬅️ Part 6 — FreeMarker Macros, Functions, Custom Directives, and Reusable Template APIs</a>

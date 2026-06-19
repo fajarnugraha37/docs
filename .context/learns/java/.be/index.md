@@ -2,9 +2,10 @@
 
 > Materi Java backend: framework, database, integration, observability, dan production patterns.
 
-Tersedia **0 artikel** dan **11 subkategori** pada bagian ini.
+Tersedia **0 artikel** dan **12 subkategori** pada bagian ini.
 
 ## Subkategori
+- [Authentication Patterns](./authentication_pattern/index.md)
 - [Aws](./aws/index.md)
 - [Cammunda](./cammunda/index.md)
 - [Database](./database/index.md)

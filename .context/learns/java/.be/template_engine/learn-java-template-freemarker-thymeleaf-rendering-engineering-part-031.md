@@ -2371,7 +2371,6 @@ Seri belum selesai.
 Berikutnya: Part 32 — Real-World Blueprint II: Server-Side Rendered Admin Portal with Thymeleaf.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-030.md">⬅️ Part 30 — Performance Lab: Benchmarking FreeMarker vs Thymeleaf</a>

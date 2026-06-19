@@ -2891,8 +2891,6 @@ Referensi utama yang relevan untuk bagian ini:
 8. Apache FreeMarker Manual — Auto-escaping and output formats.  
    `https://freemarker.apache.org/docs/dgui_misc_autoescaping.html`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-005.md">⬅️ Part 5 — FreeMarker Template Language Deep Dive II: Directives, Conditionals, Loops, Includes</a>

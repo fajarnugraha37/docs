@@ -2211,7 +2211,6 @@ Seri belum selesai.
 Berikutnya: Part 23 — Template Versioning, Governance, CMS-like Editing, and Multi-Tenant Templates.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-021.md">⬅️ Part 21 — Internationalization, Localization, Locale, Timezone, and Formatting</a>

@@ -77,7 +77,9 @@ nav:
       - "Ops":
           - "Overview": "general/ops/index.md"
           - "Nginx": "general/ops/nginx/index.md"
-      - "Sql": "general/sql/index.md"
+      - "Sql":
+          - "Overview": "general/sql/index.md"
+          - "Postgresql": "general/sql/postgresql/index.md"
   - "Java":
       - "Overview": "java/index.md"
       - "Base":
@@ -99,6 +101,7 @@ nav:
           - "Testing": "java/.base/testing/index.md"
       - "Backend":
           - "Overview": "java/.be/index.md"
+          - "Authentication Patterns": "java/.be/authentication_pattern/index.md"
           - "Aws": "java/.be/aws/index.md"
           - "Cammunda": "java/.be/cammunda/index.md"
           - "Database": [{"Overview":"java/.be/database/index.md"},{"Jpa":"java/.be/database/jpa/index.md"},{"Migration":"java/.be/database/migration/index.md"},{"Mybatis":"java/.be/database/mybatis/index.md"}]

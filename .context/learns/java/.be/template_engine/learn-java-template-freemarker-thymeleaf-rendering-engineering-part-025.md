@@ -2533,7 +2533,6 @@ Berikutnya:
 Part 26 — Building a Production Template Rendering Service
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-024.md">⬅️ Part 24 — Template Security Beyond XSS: SSTI, Sandbox, Data Leakage, and Abuse Cases</a>

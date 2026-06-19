@@ -2174,7 +2174,6 @@ Seri belum selesai.
 Berikutnya: Part 12 — Thymeleaf Fundamental Architecture.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-010.md">⬅️ Part 10 — FreeMarker Performance Engineering</a>

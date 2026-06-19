@@ -1924,7 +1924,6 @@ Berikutnya:
 Part 31 — Real-World Blueprint I: Enterprise Notification and Correspondence Platform
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-029.md">⬅️ Part 29 — Template Engine Internals and Extensibility</a>

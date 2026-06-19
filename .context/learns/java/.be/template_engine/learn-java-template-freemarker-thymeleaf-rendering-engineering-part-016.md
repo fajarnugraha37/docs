@@ -2324,7 +2324,6 @@ Berikutnya:
 Part 17 — Thymeleaf Security: XSS, CSRF, Authorization Rendering, and Safe HTML
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-015.md">⬅️ Part 15 — Thymeleaf Forms, Binding, Validation, and Error Rendering</a>

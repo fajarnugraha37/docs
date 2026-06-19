@@ -2788,7 +2788,6 @@ Seri belum selesai.
 Berikutnya: Part 3 — FreeMarker Fundamental Architecture.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-001.md">⬅️ Part 1 — Template Engine Landscape di Java: JSP, FreeMarker, Thymeleaf, Mustache, Pebble, Velocity</a>

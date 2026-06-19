@@ -2,7 +2,10 @@
 
 > Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
 
-Tersedia **35 artikel** dan **0 subkategori** pada bagian ini.
+Tersedia **35 artikel** dan **1 subkategori** pada bagian ini.
+
+## Subkategori
+- [Postgresql](./postgresql/index.md)
 
 ## Artikel
 - [Part 0 — Orientation: What It Means to Master SQL as a Java Engineer](./learn-sql-mastery-for-java-engineers-part-000.md)

@@ -2045,8 +2045,6 @@ Part 33 — Real-World Blueprint III: Rule/State-Based Document Rendering for Ca
 
 Part 33 will focus on a domain where template rendering intersects with workflow lifecycle, state machines, regulatory defensibility, immutable document snapshots, effective-date template selection, and audit-grade correspondence generation.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-031.md">⬅️ Part 31 — Real-World Blueprint I: Enterprise Notification and Correspondence Platform</a>
