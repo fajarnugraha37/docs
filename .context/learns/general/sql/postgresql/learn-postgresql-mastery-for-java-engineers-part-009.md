@@ -2918,7 +2918,6 @@ Berikutnya: Part 010 — EXPLAIN Mastery: Membaca Plan seperti Engineer Produksi
 Sisa: Part 010 sampai Part 034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Query Lifecycle: Parse, Rewrite, Plan, Execute</a>

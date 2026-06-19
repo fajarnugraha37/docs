@@ -2492,7 +2492,6 @@ Part 011 — Index Internals I: B-Tree PostgreSQL secara Mendalam
 
 Seri belum selesai. Saat ini selesai sampai Part 010 dari 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Planner Statistics: Cardinality, Histograms, MCV, Correlation, Extended Statistics</a>

@@ -2247,7 +2247,6 @@ Selesai: Part 000 sampai Part 023
 Belum:   Part 024 sampai Part 034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Stored Procedures, Functions, Triggers, dan Server-side Logic</a>

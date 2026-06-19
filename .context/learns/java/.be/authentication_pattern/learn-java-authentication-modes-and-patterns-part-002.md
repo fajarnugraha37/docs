@@ -2374,5 +2374,5 @@ Jika salah satu kosong, desain authentication belum matang.
 <a href="./learn-java-authentication-modes-and-patterns-part-001.md">⬅️ Part 1 — Java Runtime Security Foundations: Subject, Principal, Credential, Context</a>
 <a href="./index.md">📚 Kategori</a>
 <a href="../../../index.md">🏠 Home</a>
-<span></span>
+<a href="./learn-java-authentication-modes-and-patterns-part-003.md">Part 3 — Password Authentication Done Properly ➡️</a>
 </div>

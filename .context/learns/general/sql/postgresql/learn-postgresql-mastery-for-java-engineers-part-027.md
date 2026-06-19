@@ -2299,7 +2299,6 @@ Di sana kita akan naik dari mekanisme replication ke arsitektur HA utuh:
 - data correctness saat topology berubah
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Backup, Restore, PITR, dan Disaster Recovery</a>

@@ -217,7 +217,6 @@ Setelah menyelesaikan bagian ini, kamu seharusnya mampu menjelaskan topik ini bu
 
 Bagian ini menjadi fondasi untuk bagian berikutnya dalam seri. Jangan hanya menghafal istilah; gunakan mental modelnya untuk membaca gejala produksi: latency naik, lock menumpuk, koneksi habis, query berubah plan, atau recovery/replication tidak berjalan sesuai ekspektasi.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — MVCC Deep Dive: Visibility, xmin/xmax, Snapshot, dan Tuple Versioning</a>

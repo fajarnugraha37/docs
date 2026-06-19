@@ -2118,7 +2118,6 @@ Kamu sekarang seharusnya memahami:
 
 Seri belum selesai. Lanjut ke Part 023.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Read Path Performance: Access Pattern, Pagination, Caching, dan Query Shape</a>

@@ -2242,8 +2242,6 @@ Tanyakan juga: state invalid apa yang secara fisik tidak boleh bisa tersimpan?
 
 Di Part 016, kita akan masuk ke **Schema Design PostgreSQL-specific: Types, Domains, ENUM, Range, JSONB, Array** — bagaimana memilih tipe data PostgreSQL berdasarkan invariant, evolusi domain, queryability, dan mapping ke Java.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Locking Deep Dive: Table Locks, Row Locks, Predicate Locks, Advisory Locks</a>

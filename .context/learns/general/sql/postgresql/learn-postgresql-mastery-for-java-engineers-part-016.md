@@ -1881,7 +1881,6 @@ Di Part 017, fokusnya bukan hanya syntax JSONB, tetapi bagaimana menentukan bata
 **Selesai sampai:** Part 016 dari 034.  
 **Berikutnya:** Part 017 — JSONB dan Hybrid Relational Modelling.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Constraints as Invariants: PostgreSQL untuk Menjaga Kebenaran Domain</a>

@@ -3037,7 +3037,6 @@ Kamu sekarang seharusnya mampu:
 
 Seri belum selesai. Saat ini selesai sampai Part 013 dari 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Index Internals II: GIN, GiST, BRIN, Hash, dan SP-GiST</a>

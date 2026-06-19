@@ -2297,7 +2297,6 @@ Di sana fokusnya bergeser dari “melihat sistem” ke “menyelamatkan sistem d
 
 Observability membantu kamu tahu ada masalah. Backup/restore menentukan apakah kamu bisa pulih dari masalah yang merusak data.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Extensions: pg_stat_statements, pg_trgm, btree_gin, uuid, PostGIS, dan Ekosistem</a>

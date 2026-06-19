@@ -2400,7 +2400,6 @@ Seri belum selesai. Lanjutkan ke:
 learn-postgresql-mastery-for-java-engineers-part-001.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

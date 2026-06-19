@@ -2417,7 +2417,6 @@ Write path dan read path tidak bisa dipisahkan. Index yang dibuat untuk read aka
 **Status seri:** belum selesai.  
 **Progress:** selesai sampai Part 020 dari 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Vacuum, Autovacuum, Freeze, dan Bloat</a>

@@ -2450,7 +2450,6 @@ Di sana kita akan menyatukan semua bagian menjadi playbook produksi:
 
 Seri belum selesai. Saat ini selesai sampai Part 033 dari 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Workload-specific Design: OLTP, Workflow Engine, Event Log, Audit, Reporting, Multi-tenant</a>

@@ -2302,7 +2302,6 @@ Selesai sampai: Part 007 / 034
 Status: BELUM SELESAI
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — WAL, Durability, Checkpoint, dan Crash Recovery</a>

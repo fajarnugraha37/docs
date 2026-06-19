@@ -2379,7 +2379,6 @@ Belum selesai: Part 015 sampai Part 034
 
 Seri **belum selesai** dan belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Advanced Index Design: Partial, Expression, Covering, Composite, dan Constraint-backed Index</a>

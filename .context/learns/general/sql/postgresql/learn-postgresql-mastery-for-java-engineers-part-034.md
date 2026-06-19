@@ -1851,8 +1851,6 @@ Contoh lab:
 
 Itulah cara PostgreSQL knowledge berubah menjadi PostgreSQL fluency.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Performance Engineering Methodology: Benchmark, Diagnose, Tune, Verify</a>

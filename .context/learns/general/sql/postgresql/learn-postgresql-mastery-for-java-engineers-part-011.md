@@ -2559,7 +2559,6 @@ Di sana kita akan melihat kenapa B-tree bukan jawaban untuk semua bentuk data, t
 - Seri belum selesai.
 - Lanjut ke Part 012: `Index Internals II: GIN, GiST, BRIN, Hash, SP-GiST`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — EXPLAIN Mastery: Membaca Plan seperti Engineer Produksi</a>

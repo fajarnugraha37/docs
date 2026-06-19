@@ -1829,7 +1829,6 @@ Keduanya berkaitan lewat WAL, timeline, slot, lag, dan failover. Tetapi keduanya
 - Progress saat ini: `026 / 034`.
 - Lanjut ke Part 027 untuk membahas replication dan failover semantics.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Observability: Logs, Metrics, `pg_stat` Views, dan Query Intelligence</a>

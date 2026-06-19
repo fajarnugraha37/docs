@@ -2094,7 +2094,6 @@ Berikutnya:
 Part 029 — Security: Roles, Privileges, RLS, TLS, Secrets, dan Auditability
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Replication: Streaming, Logical, Slots, Lag, dan Failover Semantics</a>

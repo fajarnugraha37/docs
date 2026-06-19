@@ -2720,7 +2720,6 @@ Seri belum selesai. Bagian berikutnya:
 Part 031 — PostgreSQL dengan Java: JDBC, HikariCP, Hibernate, jOOQ, Spring Data
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Security: Roles, Privileges, RLS, TLS, Secrets, dan Auditability</a>

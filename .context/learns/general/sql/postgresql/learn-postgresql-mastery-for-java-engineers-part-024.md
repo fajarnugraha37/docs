@@ -2349,7 +2349,6 @@ Lanjut berikutnya:
 Part 025 — Observability: Logs, Metrics, pg_stat Views, dan Query Intelligence
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Full Text Search PostgreSQL</a>

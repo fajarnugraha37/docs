@@ -3239,7 +3239,6 @@ Saat ini selesai sampai Part 017 dari 034.
 Lanjut berikutnya: Part 018 — Partitioning.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Schema Design PostgreSQL-specific: Types, Domains, ENUM, Range, JSONB, Array</a>

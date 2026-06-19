@@ -2773,7 +2773,6 @@ Part 033
 Part 034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — PostgreSQL dengan Java: JDBC, HikariCP, Hibernate, jOOQ, dan Spring Data</a>

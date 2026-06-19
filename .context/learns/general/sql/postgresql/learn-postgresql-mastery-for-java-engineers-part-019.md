@@ -2175,7 +2175,6 @@ Part 020: bagaimana menulis data agar tidak menciptakan masalah sejak awal
 - PostgreSQL Documentation — MVCC and transaction isolation
 - PostgreSQL Documentation — Runtime configuration resource and client settings
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Partitioning: Range, List, Hash, Pruning, Maintenance, dan Operational Trade-off</a>

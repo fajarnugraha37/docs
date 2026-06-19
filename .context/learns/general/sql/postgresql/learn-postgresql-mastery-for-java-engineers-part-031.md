@@ -2625,8 +2625,6 @@ Kita akan memakai semua fondasi PostgreSQL dan Java integration untuk mendesain 
 - archival,
 - dan consistency boundary.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Migration dan Zero-downtime Schema Change</a>

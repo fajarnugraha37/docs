@@ -2270,7 +2270,6 @@ Kita akan masuk ke:
 - Seri belum selesai.
 - Progress saat ini: `018 / 034`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — JSONB dan Hybrid Relational Modelling</a>

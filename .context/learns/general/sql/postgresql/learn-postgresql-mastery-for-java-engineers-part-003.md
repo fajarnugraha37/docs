@@ -191,7 +191,6 @@ Setelah menyelesaikan bagian ini, kamu seharusnya mampu menjelaskan topik ini bu
 
 Bagian ini menjadi fondasi untuk bagian berikutnya dalam seri. Jangan hanya menghafal istilah; gunakan mental modelnya untuk membaca gejala produksi: latency naik, lock menumpuk, koneksi habis, query berubah plan, atau recovery/replication tidak berjalan sesuai ekspektasi.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Connection Lifecycle, Session State, dan Pooling untuk Java Applications</a>

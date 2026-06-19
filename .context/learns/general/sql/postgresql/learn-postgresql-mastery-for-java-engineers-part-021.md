@@ -2762,7 +2762,6 @@ Part berikutnya:
 Part 022 — Stored Procedures, Functions, Triggers, dan Server-side Logic
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Write Path Performance: INSERT, UPDATE, DELETE, UPSERT, Batch, dan COPY</a>

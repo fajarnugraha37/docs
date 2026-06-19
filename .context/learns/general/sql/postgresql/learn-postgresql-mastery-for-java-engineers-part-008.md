@@ -2024,7 +2024,6 @@ Berikutnya: Part 009
 Target akhir: Part 034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Buffer Manager dan Memory: Shared Buffers, OS Cache, Work Mem, Maintenance Mem</a>

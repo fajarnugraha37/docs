@@ -1726,8 +1726,6 @@ Kita akan membahas:
 - rollback reality;
 - zero-downtime checklist untuk Java services.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-postgresql-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — High Availability Architecture: Patroni, pgBackRest, HAProxy, dan Cloud-managed PostgreSQL</a>
