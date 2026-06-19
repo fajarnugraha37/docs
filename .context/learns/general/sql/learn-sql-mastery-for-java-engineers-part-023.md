@@ -2227,7 +2227,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-024.md` — Security: Permissions, Row-Level Security, SQL Injection, and Data Protection
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-022.md">⬅️ Part 22 — Views, Materialized Views, and Read Models</a>

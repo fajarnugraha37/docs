@@ -1889,7 +1889,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-022.md` — Views, Materialized Views, and Read Models
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-020.md">⬅️ Part 20 — Locking, MVCC, Deadlocks, and Concurrency Control</a>

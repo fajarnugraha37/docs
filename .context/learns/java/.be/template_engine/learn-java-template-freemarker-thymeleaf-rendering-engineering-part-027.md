@@ -2509,3 +2509,12 @@ Part 27 selesai.
 Seri belum selesai.
 Berikutnya: Part 28 — Migration Engineering: JSP to Thymeleaf/FreeMarker, Legacy Templates, and Modernization.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-026.md">⬅️ Part 26 — Building a Production Template Rendering Service</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-028.md">Part 28 — Migration Engineering: JSP to Thymeleaf/FreeMarker, Legacy Templates, and Modernization ➡️</a>
+</div>

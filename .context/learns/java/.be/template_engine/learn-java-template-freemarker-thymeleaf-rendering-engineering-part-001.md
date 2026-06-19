@@ -3007,3 +3007,12 @@ Part 1 selesai.
 Seri belum selesai.
 Berikutnya: Part 2 — Core Rendering Model: Template + Data Model = Output.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-000.md">⬅️ Part 0 — Orientation: Mental Model Template Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-002.md">Part 2 — Core Rendering Model: Template + Data Model = Output ➡️</a>
+</div>

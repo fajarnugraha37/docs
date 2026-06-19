@@ -1878,3 +1878,12 @@ Part 21 selesai.
 Seri belum selesai.
 Berikutnya: Part 22 — Template Data Model Design: DTO, ViewModel, Presenter, and Contract Stability.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-020.md">⬅️ Part 20 — Document Generation: HTML-to-PDF, DOCX, XML, CSV, and Text Outputs</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-022.md">Part 22 — Template Data Model Design: DTO, ViewModel, Presenter, and Contract Stability ➡️</a>
+</div>

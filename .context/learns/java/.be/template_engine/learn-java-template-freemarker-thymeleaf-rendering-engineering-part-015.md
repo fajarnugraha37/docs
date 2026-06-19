@@ -2283,3 +2283,12 @@ Berikutnya:
 ```text
 Part 16 — Thymeleaf Layouts, Fragments, Components, and Design System
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-014.md">⬅️ Part 14 — Thymeleaf Attributes, DOM Transformation, and Natural HTML</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-016.md">Part 16 — Thymeleaf Layouts, Fragments, Components, and Design System ➡️</a>
+</div>

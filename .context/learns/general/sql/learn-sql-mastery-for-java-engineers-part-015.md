@@ -2505,7 +2505,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-016.md` — Advanced Indexing: Partial, Functional, Full-Text, JSON, Spatial, and Specialized Indexes
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-014.md">⬅️ Part 14 — Advanced Modelling: State Machines, Workflows, and Regulatory Case Data</a>

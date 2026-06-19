@@ -2152,3 +2152,12 @@ Berikutnya:
 ```text
 Part 13 — Thymeleaf Standard Expressions Deep Dive
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-011.md">⬅️ Part 11 — FreeMarker in Spring Boot and Jakarta Applications</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-013.md">Part 13 — Thymeleaf Standard Expressions Deep Dive ➡️</a>
+</div>

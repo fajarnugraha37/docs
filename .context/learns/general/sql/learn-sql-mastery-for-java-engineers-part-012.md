@@ -2001,7 +2001,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-013.md` — Schema Design and Normalization
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-011.md">⬅️ Part 11 — Data Modification: INSERT, UPDATE, DELETE, UPSERT, MERGE</a>

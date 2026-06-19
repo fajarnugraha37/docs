@@ -2339,7 +2339,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-005.md` — Filtering Deep Dive: Predicates, Ranges, Pattern Matching, and Sargability
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-003.md">⬅️ Part 3 — Data Types, NULL, Three-Valued Logic, and Semantic Correctness</a>

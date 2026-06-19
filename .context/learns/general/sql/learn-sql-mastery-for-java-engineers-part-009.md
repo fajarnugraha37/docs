@@ -2464,7 +2464,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-010.md` — Window Functions: Professional-Grade SQL Analytics
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-008.md">⬅️ Part 8 — Subqueries, Derived Tables, CTEs, and Query Composition</a>

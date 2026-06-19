@@ -2015,7 +2015,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-021.md` — Stored Procedures, Functions, Triggers, and Database-Side Logic
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-019.md">⬅️ Part 19 — Transactions: ACID, Isolation, Anomalies, and Real Consistency</a>

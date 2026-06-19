@@ -2834,3 +2834,12 @@ Part 14 selesai.
 Seri belum selesai.
 Lanjut ke Part 15.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-013.md">⬅️ Part 13 — Thymeleaf Standard Expressions Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-015.md">Part 15 — Thymeleaf Forms, Binding, Validation, and Error Rendering ➡️</a>
+</div>

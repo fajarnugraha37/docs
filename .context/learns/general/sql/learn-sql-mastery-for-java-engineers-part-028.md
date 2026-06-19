@@ -2150,7 +2150,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-029.md` — Partitioning, Sharding, Replication, and Scaling Patterns
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-027.md">⬅️ Part 27 — Migrations and Database Change Management</a>

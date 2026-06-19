@@ -2,7 +2,7 @@
 
 > Materi Java backend: framework, database, integration, observability, dan production patterns.
 
-Tersedia **0 artikel** dan **10 subkategori** pada bagian ini.
+Tersedia **0 artikel** dan **11 subkategori** pada bagian ini.
 
 ## Subkategori
 - [Aws](./aws/index.md)
@@ -15,6 +15,7 @@ Tersedia **0 artikel** dan **10 subkategori** pada bagian ini.
 - [Mapper](./mapper/index.md)
 - [Microservice Patterns](./microservice_pattern/index.md)
 - [Telemetry](./telemetry/index.md)
+- [Template Engine](./template_engine/index.md)
 
 ---
 

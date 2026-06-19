@@ -2216,7 +2216,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-023.md` — Temporal Data, Auditability, and Historical Truth
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-021.md">⬅️ Part 21 — Stored Procedures, Functions, Triggers, and Database-Side Logic</a>

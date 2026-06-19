@@ -2323,3 +2323,12 @@ Berikutnya:
 ```text
 Part 17 — Thymeleaf Security: XSS, CSRF, Authorization Rendering, and Safe HTML
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-015.md">⬅️ Part 15 — Thymeleaf Forms, Binding, Validation, and Error Rendering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-017.md">Part 17 — Thymeleaf Security: XSS, CSRF, Authorization Rendering, and Safe HTML ➡️</a>
+</div>

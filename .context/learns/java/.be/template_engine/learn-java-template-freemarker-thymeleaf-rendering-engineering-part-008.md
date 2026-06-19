@@ -2094,3 +2094,12 @@ Part 8 selesai.
 Seri belum selesai.
 Berikutnya: Part 9 — FreeMarker Error Handling, Diagnostics, and Template Observability.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-007.md">⬅️ Part 7 — FreeMarker Object Wrapping, Type Exposure, and Security Boundary</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-009.md">Part 9 — FreeMarker Error Handling, Diagnostics, and Template Observability ➡️</a>
+</div>

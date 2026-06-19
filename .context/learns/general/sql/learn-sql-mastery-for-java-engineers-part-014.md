@@ -2333,7 +2333,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-015.md` — Index Fundamentals: B-Trees, Selectivity, Cardinality, and Access Paths
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-013.md">⬅️ Part 13 — Schema Design and Normalization</a>

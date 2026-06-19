@@ -1708,7 +1708,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-032.md` — Vendor-Specific Deep Comparison: PostgreSQL, MySQL, SQL Server, Oracle
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-030.md">⬅️ Part 30 — Observability, Operations, Backup, Restore, and Disaster Recovery</a>

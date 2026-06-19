@@ -2099,7 +2099,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-034.md` — Capstone: Designing and Operating a Regulatory Case Management Database
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-032.md">⬅️ Part 32 — Vendor-Specific Deep Comparison: PostgreSQL, MySQL, SQL Server, Oracle</a>

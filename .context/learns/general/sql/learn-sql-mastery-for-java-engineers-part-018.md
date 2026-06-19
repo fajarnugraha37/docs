@@ -2164,7 +2164,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-019.md` — Transactions: ACID, Isolation, Anomalies, and Real Consistency
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-017.md">⬅️ Part 17 — Query Optimizer and Execution Plans</a>

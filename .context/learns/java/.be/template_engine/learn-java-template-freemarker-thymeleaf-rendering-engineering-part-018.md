@@ -2408,3 +2408,12 @@ Part 18 selesai.
 Seri belum selesai.
 Berikutnya: Part 19 — Email Template Engineering with FreeMarker and Thymeleaf.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-017.md">⬅️ Part 17 — Thymeleaf Security: XSS, CSRF, Authorization Rendering, and Safe HTML</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-019.md">Part 19 — Email Template Engineering with FreeMarker and Thymeleaf ➡️</a>
+</div>

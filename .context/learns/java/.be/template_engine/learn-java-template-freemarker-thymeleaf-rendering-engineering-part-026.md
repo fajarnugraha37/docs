@@ -2802,3 +2802,12 @@ Berikutnya:
 ```text
 Part 27 — Advanced Integration Patterns: MVC, REST, Batch, Messaging, BPMN, and Case Management
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-025.md">⬅️ Part 25 — Testing Strategy for Template Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-027.md">Part 27 — Advanced Integration Patterns: MVC, REST, Batch, Messaging, BPMN, and Case Management ➡️</a>
+</div>

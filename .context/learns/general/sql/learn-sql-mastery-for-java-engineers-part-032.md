@@ -1939,7 +1939,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-033.md` — SQL Design Patterns and Anti-Patterns
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-031.md">⬅️ Part 31 — Analytical SQL, OLAP, Warehousing, and Reporting Systems</a>

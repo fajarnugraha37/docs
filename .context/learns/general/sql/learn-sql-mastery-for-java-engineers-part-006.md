@@ -2250,7 +2250,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-007.md` — Aggregation, GROUP BY, HAVING, and Analytical Thinking
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-005.md">⬅️ Part 5 — Filtering Deep Dive: Predicates, Ranges, Pattern Matching, and Sargability</a>

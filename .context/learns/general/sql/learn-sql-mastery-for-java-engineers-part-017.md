@@ -2138,7 +2138,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-018.md` — Performance Engineering: From Slow Query to Root Cause
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-016.md">⬅️ Part 16 — Advanced Indexing: Partial, Functional, Full-Text, JSON, Spatial, and Specialized Indexes</a>

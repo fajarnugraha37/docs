@@ -2486,7 +2486,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-006.md` — Joins from First Principles
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-004.md">⬅️ Part 4 — Basic Query Semantics: SELECT, FROM, WHERE, ORDER BY, LIMIT</a>

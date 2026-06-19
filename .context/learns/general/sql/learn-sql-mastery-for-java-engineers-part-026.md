@@ -1822,7 +1822,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-027.md` — Migrations and Database Change Management
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-025.md">⬅️ Part 25 — SQL from Java: JDBC, Connection Pools, Transactions, and Resource Safety</a>

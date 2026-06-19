@@ -3175,7 +3175,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-002.md` — SQL Language Model: DDL, DML, DQL, DCL, TCL
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-000.md">⬅️ Part 0 — Orientation: What It Means to Master SQL as a Java Engineer</a>

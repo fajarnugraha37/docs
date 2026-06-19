@@ -1874,7 +1874,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-025.md` — SQL from Java: JDBC, Connection Pools, Transactions, and Resource Safety
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-023.md">⬅️ Part 23 — Temporal Data, Auditability, and Historical Truth</a>

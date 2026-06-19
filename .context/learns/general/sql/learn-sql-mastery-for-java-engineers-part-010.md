@@ -2011,7 +2011,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-011.md` — Data Modification: INSERT, UPDATE, DELETE, UPSERT, MERGE
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-009.md">⬅️ Part 9 — Set Operations: UNION, INTERSECT, EXCEPT</a>

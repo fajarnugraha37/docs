@@ -2645,3 +2645,12 @@ Part 3 selesai.
 Seri belum selesai.
 Berikutnya: Part 4 — FreeMarker Template Language Deep Dive I: Values, Expressions, Interpolation.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-002.md">⬅️ Part 2 — Core Rendering Model: Template + Data Model = Output</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-004.md">Part 4 — FreeMarker Template Language Deep Dive I: Values, Expressions, Interpolation ➡️</a>
+</div>

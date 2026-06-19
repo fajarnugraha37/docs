@@ -2246,3 +2246,12 @@ Part 17 selesai.
 Seri belum selesai.
 Berikutnya: Part 18 — Thymeleaf Performance, Caching, and Production Tuning.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-016.md">⬅️ Part 16 — Thymeleaf Layouts, Fragments, Components, and Design System</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-018.md">Part 18 — Thymeleaf Performance, Caching, and Production Tuning ➡️</a>
+</div>

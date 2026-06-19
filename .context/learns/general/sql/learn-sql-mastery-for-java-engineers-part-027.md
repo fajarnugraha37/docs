@@ -1803,7 +1803,6 @@ Bagian berikutnya:
 
 - `learn-sql-mastery-for-java-engineers-part-028.md` — Bulk Data, ETL, Import/Export, and Data Reconciliation
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-sql-mastery-for-java-engineers-part-026.md">⬅️ Part 26 — ORM and Query Builders: Hibernate, JPA, jOOQ, MyBatis</a>

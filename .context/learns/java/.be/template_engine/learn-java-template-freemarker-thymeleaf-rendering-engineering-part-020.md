@@ -2195,3 +2195,12 @@ Part 21 — Internationalization, Localization, Locale, Timezone, and Formatting
 
 Kita akan membahas bagaimana rendering berubah ketika bahasa, negara, timezone, number format, currency, pluralization, dan effective-date semantics masuk ke sistem template.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-019.md">⬅️ Part 19 — Email Template Engineering with FreeMarker and Thymeleaf</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-021.md">Part 21 — Internationalization, Localization, Locale, Timezone, and Formatting ➡️</a>
+</div>

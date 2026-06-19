@@ -2598,3 +2598,12 @@ Part 13 selesai.
 Seri belum selesai.
 Berikutnya: Part 14 — Thymeleaf Attributes, DOM Transformation, and Natural HTML.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-012.md">⬅️ Part 12 — Thymeleaf Fundamental Architecture</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-template-freemarker-thymeleaf-rendering-engineering-part-014.md">Part 14 — Thymeleaf Attributes, DOM Transformation, and Natural HTML ➡️</a>
+</div>
