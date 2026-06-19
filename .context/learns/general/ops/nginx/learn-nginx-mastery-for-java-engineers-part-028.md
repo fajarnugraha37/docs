@@ -2838,3 +2838,12 @@ Poin utama:
 - Part selesai: **028 dari 030**
 - Seri belum selesai.
 - Part berikutnya: **Part 029 — Performance Lab: Benchmarking, Capacity Planning, and Tuning Experiments**
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Config Design Patterns for Large Systems</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-029.md">Part 029 — Performance Lab: Benchmarking, Capacity Planning, and Tuning Experiments ➡️</a>
+</div>

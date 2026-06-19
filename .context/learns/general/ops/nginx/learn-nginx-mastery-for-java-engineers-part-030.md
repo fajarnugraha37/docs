@@ -1994,3 +1994,12 @@ Every config change has blast radius.
 
 Jika kamu bisa melihat Nginx dengan cara itu, kamu tidak lagi sekadar “bisa konfigurasi Nginx”. Kamu bisa mendesain dan mengoperasikan traffic boundary yang bisa dipertanggungjawabkan.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Performance Lab: Benchmarking, Capacity Planning, and Tuning Experiments</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

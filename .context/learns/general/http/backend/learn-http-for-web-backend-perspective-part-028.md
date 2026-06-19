@@ -2040,7 +2040,6 @@ Judul:
 Java Backend Implementation: Servlet, Spring MVC, Filters, Interceptors
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-027.md">⬅️ Part 027 — Security Headers and HTTP Hardening</a>

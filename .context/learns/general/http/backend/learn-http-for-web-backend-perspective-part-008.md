@@ -2845,7 +2845,6 @@ Part 008 dari 032 selesai.
 Seri belum selesai.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-007.md">⬅️ Part 007 — URI, Routing, and Resource Modeling</a>

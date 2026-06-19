@@ -2145,7 +2145,6 @@ Pada part berikutnya kita akan masuk ke **status codes sebagai backend state con
 - Status: **seri belum selesai**
 - Berikutnya: **Part 004 — Status Codes as Backend State Contracts**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-002.md">⬅️ Part 002 — Request Lifecycle: From Socket to Controller</a>

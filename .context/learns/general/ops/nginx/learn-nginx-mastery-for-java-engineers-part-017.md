@@ -1957,3 +1957,12 @@ Belum selesai: **Part 018 sampai Part 030**
 
 Seri **belum mencapai bagian terakhir**.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Rate Limiting, Connection Limiting, and Abuse Resistance</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-018.md">Part 018 — Security Hardening: Headers, Request Limits, Path Safety, and Config Integrity ➡️</a>
+</div>

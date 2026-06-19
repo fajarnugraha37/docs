@@ -2514,3 +2514,12 @@ Di sana kita akan membahas:
 
 Status seri: **belum selesai**.  
 Progress: **Part 010 dari 030**.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Upstream Blocks and Load Balancing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-011.md">Part 011 — Connection Management and Performance Tuning ➡️</a>
+</div>

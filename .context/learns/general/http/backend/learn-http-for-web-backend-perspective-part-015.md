@@ -2432,7 +2432,6 @@ Judul:
 Cookies, Sessions, CSRF, and Browser-Coupled Backend
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-014.md">⬅️ Part 014 — Authentication over HTTP</a>

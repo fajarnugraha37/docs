@@ -2396,3 +2396,12 @@ Di Part 001 kita akan masuk ke internal runtime Nginx:
 - connection lifecycle,
 - reload lifecycle,
 - dan perbandingan dengan model thread pool Java application server.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-001.md">Part 001 — Nginx Architecture: Master, Worker, Event Loop, and Request Lifecycle ➡️</a>
+</div>

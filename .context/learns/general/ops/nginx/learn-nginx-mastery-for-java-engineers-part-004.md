@@ -2143,3 +2143,12 @@ maka Part 005 menjawab:
 
 Seri belum selesai. Masih ada bagian 005 sampai 030.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Configuration Grammar: Directives, Contexts, Inheritance, and Evaluation Order</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-005.md">Part 005 — Location Matching Deep Dive ➡️</a>
+</div>

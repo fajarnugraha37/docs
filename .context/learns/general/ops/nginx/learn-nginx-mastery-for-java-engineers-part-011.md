@@ -2467,3 +2467,12 @@ Part 012 — TLS Termination: Certificates, SNI, Protocols, Ciphers, and Java Im
 
 Di sana kita akan masuk ke area yang sering menjadi sumber incident production: certificate chain, SNI, TLS version, cipher, OCSP, HSTS, HTTP to HTTPS redirect, TLS termination di depan Java, dan bagaimana aplikasi Java memahami original scheme saat berada di balik Nginx.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Timeouts, Retries, Buffering, and Backpressure</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-012.md">Learn Nginx Mastery for Java Engineers — Part 012 ➡️</a>
+</div>

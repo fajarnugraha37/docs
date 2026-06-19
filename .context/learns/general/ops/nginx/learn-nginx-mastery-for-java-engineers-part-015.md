@@ -2511,3 +2511,12 @@ Bagian berikutnya:
 ```text
 Part 016 — Rate Limiting, Connection Limiting, and Abuse Resistance
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Compression, Decompression, and Content Transformation</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-016.md">Part 016 — Rate Limiting, Connection Limiting, and Abuse Resistance ➡️</a>
+</div>

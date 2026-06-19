@@ -2259,3 +2259,12 @@ Seri belum selesai. Masih ada 11 bagian lagi:
 029 — Performance Lab: Benchmarking, Capacity Planning, and Tuning Experiments
 030 — Capstone: Designing a Production-Grade Nginx Front Door for Java Microservices
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Security Hardening: Headers, Request Limits, Path Safety, and Config Integrity</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-020.md">Part 020 — Debugging Nginx Like a Production Engineer ➡️</a>
+</div>

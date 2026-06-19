@@ -1764,7 +1764,6 @@ Part 009 dari 032
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-008.md">⬅️ Part 008 — Content Negotiation and Representation Design</a>

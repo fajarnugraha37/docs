@@ -2131,7 +2131,6 @@ Kita akan membahas method HTTP bukan sebagai pilihan routing, tetapi sebagai kon
 
 Status seri: **Part 002 dari 032 — belum selesai.**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-001.md">⬅️ Part 001 — HTTP Semantics from Server Point of View</a>

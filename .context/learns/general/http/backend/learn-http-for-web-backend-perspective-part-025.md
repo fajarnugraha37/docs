@@ -2352,7 +2352,6 @@ Part berikutnya:
 Part 026 — Observability: Logs, Metrics, Traces, and HTTP Diagnostics
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-024.md">⬅️ Part 024 — API Design Styles over HTTP</a>

@@ -2287,7 +2287,6 @@ This moves from browser-origin policy into backend resource protection:
 
 CORS limits which browser origins may read responses. Rate limiting limits how much traffic a caller can consume. They solve different problems and are often both required.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-016.md">⬅️ Part 016 — Cookies, Sessions, CSRF, and Browser-Coupled Backend</a>

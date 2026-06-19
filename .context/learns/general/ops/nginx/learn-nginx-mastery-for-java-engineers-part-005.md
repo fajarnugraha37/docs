@@ -2285,3 +2285,12 @@ Di sana kita akan membahas detail static file serving:
 - Belum selesai: Part 006 sampai Part 030
 - Seri belum mencapai bagian terakhir
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — Server Selection: `listen`, `server_name`, SNI, Default Server</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-006.md">Part 006 — Static File Serving: Root, Alias, Index, Try Files, and SPA Hosting ➡️</a>
+</div>

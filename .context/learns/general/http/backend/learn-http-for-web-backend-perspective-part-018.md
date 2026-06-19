@@ -2063,8 +2063,6 @@ Part berikutnya menjawab:
 
 > Apa yang terjadi ketika request sudah masuk, tetapi sistem lambat, client disconnect, downstream macet, queue penuh, atau kapasitas runtime mulai habis?
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-017.md">⬅️ Part 017 — CORS from Backend Enforcement Perspective</a>

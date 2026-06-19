@@ -1930,7 +1930,6 @@ That question is often more valuable than simply asking whether the application 
 **Seri belum selesai.**  
 **Part berikutnya:** `learn-http-for-web-backend-perspective-part-023.md` — Reverse Proxies, Gateways, Load Balancers, and Trust Boundaries.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-021.md">⬅️ Part 021 — Streaming HTTP, SSE, Long Polling, and Async Responses</a>

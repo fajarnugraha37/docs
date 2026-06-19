@@ -2330,8 +2330,6 @@ Kita akan menggabungkan seluruh seri menjadi desain lengkap untuk regulatory enf
 - failure mode analysis,
 - production readiness checklist.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-030.md">⬅️ HTTP for Web/Backend Perspective — Part 030</a>

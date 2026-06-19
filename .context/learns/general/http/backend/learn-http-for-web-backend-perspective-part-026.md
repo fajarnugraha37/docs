@@ -1949,8 +1949,6 @@ There, we will cover:
 - Spring Security headers,
 - production hardening checklist.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-025.md">⬅️ Part 025 — API Versioning and Evolution</a>

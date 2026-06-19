@@ -2804,3 +2804,12 @@ Next:
 ```text
 Part 027 — Config Design Patterns for Large Systems
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Nginx in Containers and Kubernetes</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-027.md">Part 027 — Config Design Patterns for Large Systems ➡️</a>
+</div>

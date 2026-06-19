@@ -2418,3 +2418,12 @@ Part 024 — Nginx as Lightweight API Gateway
 
 Kita akan membahas kapan Nginx cukup sebagai API gateway ringan, bagaimana melakukan routing berbasis path/host/header, rate limiting, auth subrequest, CORS handling, request/response header manipulation, dan kapan harus naik ke API gateway yang lebih lengkap seperti Kong, Spring Cloud Gateway, Envoy, cloud gateway, atau service mesh ingress.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — WebSocket, SSE, gRPC, and Long-Lived Connections</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-024.md">Part 024 — Nginx as Lightweight API Gateway ➡️</a>
+</div>

@@ -2291,3 +2291,12 @@ Part berikutnya:
 **Part 003 — Configuration Grammar: Directives, Contexts, Inheritance, and Evaluation Order**
 
 Status seri: **belum selesai**. Saat ini selesai sampai **Part 002 dari 030**.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Nginx Architecture: Master, Worker, Event Loop, and Request Lifecycle</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-003.md">Part 003 — Configuration Grammar: Directives, Contexts, Inheritance, and Evaluation Order ➡️</a>
+</div>

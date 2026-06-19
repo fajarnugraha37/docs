@@ -2464,3 +2464,12 @@ Part berikutnya akan masuk ke observability: bagaimana membaca access log/error 
 - Seri belum selesai.
 - Progress: **018 / 030**
 - Lanjut ke: **Part 019 — Observability: Access Logs, Error Logs, Correlation IDs, and Metrics**
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Access Control, Basic Auth, IP Rules, and Internal Endpoints</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-019.md">Part 019 — Observability: Access Logs, Error Logs, Correlation IDs, and Metrics ➡️</a>
+</div>

@@ -2799,3 +2799,12 @@ Berikutnya: Part 021 — Nginx and Java Application Servers
 Sisa: Part 021 sampai Part 030
 ```
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Observability: Access Logs, Error Logs, Correlation IDs, and Metrics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-021.md">Part 021 — Nginx and Java Application Servers ➡️</a>
+</div>

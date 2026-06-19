@@ -1786,7 +1786,6 @@ Topik berikutnya:
 HTTP Attacks and Defensive Backend Design
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-026.md">⬅️ Part 026 — Observability: Logs, Metrics, Traces, and HTTP Diagnostics</a>

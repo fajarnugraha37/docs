@@ -2080,7 +2080,6 @@ A controller is just the visible surface.
 
 The real design is the contract behind it.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-031.md">⬅️ HTTP for Web/Backend Perspective — Part 031</a>

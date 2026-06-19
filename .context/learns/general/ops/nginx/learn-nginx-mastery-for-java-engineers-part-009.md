@@ -2698,3 +2698,12 @@ Part 009 memberi kita pool dan failure model. Part 010 akan memberi kita control
 - NGINX official documentation — `ngx_http_upstream_module`: `https://nginx.org/en/docs/http/ngx_http_upstream_module.html`
 - NGINX Admin Guide — HTTP Load Balancing: `https://docs.nginx.com/nginx/admin-guide/load-balancer/http-load-balancer/`
 - NGINX official documentation — Reverse proxy guide: `https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/`
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-nginx-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Proxy Header Contract: The Boundary Between Nginx and Application</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-nginx-mastery-for-java-engineers-part-010.md">Part 010 — Timeouts, Retries, Buffering, and Backpressure ➡️</a>
+</div>

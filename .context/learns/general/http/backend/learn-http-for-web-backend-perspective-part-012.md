@@ -2305,7 +2305,6 @@ We will build on validators from this part and go deeper into:
 
 Status seri: **Part 012 dari 032 selesai**. Seri **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-backend-perspective-part-011.md">⬅️ Part 011 — Idempotency, Retries, and Exactly-Once Illusions</a>
