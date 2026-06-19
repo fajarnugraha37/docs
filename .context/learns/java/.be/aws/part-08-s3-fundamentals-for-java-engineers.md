@@ -2402,7 +2402,6 @@ Part 9  - berikutnya
 Part 35 - target akhir seri
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-07-local-development-testing-and-emulation-strategy.md">⬅️ Part 7 — Local Development, Testing, and Emulation Strategy</a>

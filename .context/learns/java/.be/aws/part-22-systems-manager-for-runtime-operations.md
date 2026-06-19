@@ -2230,7 +2230,6 @@ Next part:
 Part 23 — DynamoDB for Java Engineers
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-21-eventbridge-and-scheduler-for-java-engineers.md">⬅️ Part 21 — EventBridge and Scheduler for Java Engineers</a>

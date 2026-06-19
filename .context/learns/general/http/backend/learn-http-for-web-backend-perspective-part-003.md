@@ -2144,3 +2144,12 @@ Pada part berikutnya kita akan masuk ke **status codes sebagai backend state con
 - Part saat ini: **Part 003 — Methods Deep Dive for Backend Correctness**
 - Status: **seri belum selesai**
 - Berikutnya: **Part 004 — Status Codes as Backend State Contracts**
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-002.md">⬅️ Part 002 — Request Lifecycle: From Socket to Controller</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-004.md">Part 004 — Status Codes as Backend State Contracts ➡️</a>
+</div>

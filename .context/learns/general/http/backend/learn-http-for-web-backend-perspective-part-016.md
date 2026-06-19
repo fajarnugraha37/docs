@@ -2368,3 +2368,12 @@ Seri belum selesai. Berikutnya:
 
 **Part 017 — CORS from Backend Enforcement Perspective**
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-015.md">⬅️ Part 015 — Authorization and Resource-Level Security</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-017.md">Part 017 — CORS from Backend Enforcement Perspective ➡️</a>
+</div>

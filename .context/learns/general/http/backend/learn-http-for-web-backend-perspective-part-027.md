@@ -1785,3 +1785,12 @@ Topik berikutnya:
 ```text
 HTTP Attacks and Defensive Backend Design
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-026.md">⬅️ Part 026 — Observability: Logs, Metrics, Traces, and HTTP Diagnostics</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-028.md">Part 028 — HTTP Attacks and Defensive Backend Design ➡️</a>
+</div>

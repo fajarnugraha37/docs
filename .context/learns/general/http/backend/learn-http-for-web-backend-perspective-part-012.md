@@ -2304,3 +2304,12 @@ We will build on validators from this part and go deeper into:
 - Java/Spring examples
 
 Status seri: **Part 012 dari 032 selesai**. Seri **belum selesai**.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-011.md">⬅️ Part 011 — Idempotency, Retries, and Exactly-Once Illusions</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-013.md">Part 013 — Caching for Backend Engineers ➡️</a>
+</div>

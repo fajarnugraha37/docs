@@ -2426,7 +2426,6 @@ Bagian berikutnya:
 
 > **Part 7 — Local Development, Testing, and Emulation Strategy**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-05-error-taxonomy-and-failure-modelling-for-aws-calls.md">⬅️ Part 5 — Error Taxonomy and Failure Modelling for AWS Calls</a>

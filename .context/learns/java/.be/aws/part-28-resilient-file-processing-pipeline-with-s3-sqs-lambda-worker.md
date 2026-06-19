@@ -2158,7 +2158,6 @@ Next part:
 Part 29 — Secure Configuration and Secret Rotation Case Study
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-27-spring-boot-integration-with-aws-sdk.md">⬅️ Part 27 — Spring Boot Integration with AWS SDK</a>

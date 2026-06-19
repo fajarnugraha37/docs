@@ -2400,7 +2400,6 @@ Without that connection, incident response becomes guesswork and audit evidence 
 
 Next part: **Part 25 — Security Hardening for Java AWS Applications**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-23-dynamodb-for-java-engineers.md">⬅️ Part 23 — DynamoDB for Java Engineers</a>

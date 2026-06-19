@@ -1963,3 +1963,12 @@ For each endpoint below, choose Spring MVC or WebFlux and justify:
 Status seri: **Part 030 dari 032**.  
 Seri **belum selesai**.  
 Bagian berikutnya: `learn-http-for-web-backend-perspective-part-031.md` — **Backend-to-Backend HTTP Clients**.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-029.md">⬅️ Part 029 — Java Backend Implementation: Servlet, Spring MVC, Filters, Interceptors</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-031.md">HTTP for Web/Backend Perspective — Part 031 ➡️</a>
+</div>

@@ -2192,7 +2192,6 @@ Next part:
 
 **Part 33 — Advanced Patterns: Outbox, Inbox, Idempotency, Saga, and Compensation**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-31-multi-account-multi-environment-and-deployment-strategy.md">⬅️ Part 31 — Multi-Account, Multi-Environment, and Deployment Strategy</a>

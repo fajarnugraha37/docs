@@ -2385,8 +2385,6 @@ Part 4 — SDK HTTP Layer, Connection Pooling, Timeout, Retry, and Backpressure
 
 Part 4 moves from authorization boundary to runtime communication boundary. We will study how AWS SDK for Java talks to AWS services through HTTP, how connection pools and timeouts work, how retries should be designed, and how to avoid turning AWS calls into hidden latency, thread, and cost disasters.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-02-credentials-region-sts-identity-resolution.md">⬅️ Part 2 — Credentials, Region, STS, and Identity Resolution</a>

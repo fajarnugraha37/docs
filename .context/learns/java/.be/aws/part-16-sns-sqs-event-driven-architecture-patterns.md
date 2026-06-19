@@ -2412,7 +2412,6 @@ They are the ones where the failure behavior is explicit.
 - AWS Prescriptive Guidance — Event sourcing pattern: https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/event-sourcing.html
 - AWS SDK for Java 2.x Developer Guide: https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/home.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-15-sns-fundamentals-and-pubsub-integration.md">⬅️ Part 15 — SNS Fundamentals and Pub/Sub Integration</a>

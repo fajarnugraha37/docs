@@ -1807,8 +1807,6 @@ Part 19 — Lambda Event Sources: SQS, SNS, S3, EventBridge, API Gateway
 
 Di sana kita akan membahas bagaimana performa dan correctness Lambda berubah tergantung event source. SQS, SNS, S3, EventBridge, dan API Gateway punya retry semantics, batch behavior, failure model, dan idempotency requirement yang berbeda.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-17-lambda-java-fundamentals.md">⬅️ Part 17 — Lambda Java Fundamentals</a>

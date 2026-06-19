@@ -2598,7 +2598,6 @@ Bagian berikutnya:
 Part 28 — Resilient File Processing Pipeline with S3 + SQS + Lambda/Worker
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-26-cost-and-quota-engineering.md">⬅️ Part 26 — Cost and Quota Engineering</a>

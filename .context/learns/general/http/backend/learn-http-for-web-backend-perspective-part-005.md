@@ -2297,3 +2297,12 @@ Progress saat ini:
 - Selesai: Part 000 sampai Part 005.
 - Berikutnya: Part 006.
 - Target total: Part 000 sampai Part 032.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-004.md">⬅️ Part 004 — Status Codes as Backend State Contracts</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-006.md">Part 006 — Request Body, Response Body, and Message Framing ➡️</a>
+</div>

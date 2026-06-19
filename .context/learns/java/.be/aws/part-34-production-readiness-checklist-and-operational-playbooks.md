@@ -1983,7 +1983,6 @@ Bagian ini menjadi jembatan menuju Part 35, yaitu capstone: mendesain platform i
 - Bagian berikutnya: **Part 35 — Capstone: Designing a Top-Tier Java AWS Integration Platform**
 - Part 35 adalah **bagian terakhir** dari seri ini.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-33-advanced-patterns-outbox-inbox-idempotency-saga-compensation.md">⬅️ Part 33 — Advanced Patterns: Outbox, Inbox, Idempotency, Saga, and Compensation</a>

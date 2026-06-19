@@ -2130,3 +2130,12 @@ Pada part berikutnya kita masuk ke:
 Kita akan membahas method HTTP bukan sebagai pilihan routing, tetapi sebagai kontrak correctness: safe, idempotent, retryable, cacheable, dan bagaimana memilih method untuk command/query/workflow backend yang kompleks.
 
 Status seri: **Part 002 dari 032 — belum selesai.**
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-001.md">⬅️ Part 001 — HTTP Semantics from Server Point of View</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-003.md">Part 003 — Methods Deep Dive for Backend Correctness ➡️</a>
+</div>

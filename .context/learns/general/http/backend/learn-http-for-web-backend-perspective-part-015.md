@@ -2431,3 +2431,12 @@ Judul:
 ```text
 Cookies, Sessions, CSRF, and Browser-Coupled Backend
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-014.md">⬅️ Part 014 — Authentication over HTTP</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-016.md">Part 016 — Cookies, Sessions, CSRF, and Browser-Coupled Backend ➡️</a>
+</div>

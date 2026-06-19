@@ -2400,3 +2400,12 @@ Dengan judul:
 ```text
 File Upload, Download, Multipart, and Large Payloads
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-018.md">⬅️ Part 018 — Rate Limiting, Quotas, and Abuse Control</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-020.md">Part 020 — File Upload, Download, Multipart, and Large Payloads ➡️</a>
+</div>

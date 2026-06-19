@@ -2224,7 +2224,6 @@ Bagian berikutnya:
 Part 22 — Systems Manager for Runtime Operations
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-20-lambda-production-architecture-for-java-systems.md">⬅️ Part 20 — Lambda Production Architecture for Java Systems</a>

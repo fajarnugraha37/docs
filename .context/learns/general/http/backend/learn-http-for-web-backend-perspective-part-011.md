@@ -2059,3 +2059,12 @@ Conditional Requests and Optimistic Concurrency
 ```
 
 Part berikutnya akan membahas bagaimana HTTP menyediakan mekanisme native untuk mencegah lost update menggunakan `ETag`, `If-Match`, `If-None-Match`, `Last-Modified`, `304 Not Modified`, `412 Precondition Failed`, dan `428 Precondition Required`, termasuk mapping ke database version seperti JPA `@Version`.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-010.md">⬅️ Part 010 — Error Response Design and Problem Details</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-012.md">Part 012 — Conditional Requests and Optimistic Concurrency ➡️</a>
+</div>

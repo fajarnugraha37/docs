@@ -2852,8 +2852,6 @@ Next: **Part 16 — SNS + SQS Event-Driven Architecture Patterns**.
 
 Part 15 focused on SNS fundamentals and pub/sub integration. Part 16 will combine SNS and SQS into deeper event-driven architecture patterns: fan-out per bounded context, async command vs domain event, replay strategy, event versioning, subscriber isolation, ordering trade-offs, idempotent projection, and auditability.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-14-sqs-advanced-consumer-engineering-in-java.md">⬅️ Part 14 — SQS Advanced Consumer Engineering in Java</a>

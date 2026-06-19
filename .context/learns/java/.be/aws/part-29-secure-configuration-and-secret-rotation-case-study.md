@@ -2122,7 +2122,6 @@ Part 29 selesai. Seri belum selesai.
 
 Next: `part-30-event-driven-case-management-workflow-with-sns-sqs-eventbridge.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-28-resilient-file-processing-pipeline-with-s3-sqs-lambda-worker.md">⬅️ Part 28 — Resilient File Processing Pipeline with S3 + SQS + Lambda/Worker</a>

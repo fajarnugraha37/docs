@@ -2220,7 +2220,6 @@ Remaining: Part 18 sampai Part 35
 Series status: belum selesai
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-16-sns-sqs-event-driven-architecture-patterns.md">⬅️ Part 16 — SNS + SQS Event-Driven Architecture Patterns</a>

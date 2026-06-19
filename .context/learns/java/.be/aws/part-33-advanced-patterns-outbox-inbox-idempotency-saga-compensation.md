@@ -2236,7 +2236,6 @@ Distributed systems do not fail at random places. They fail at every boundary yo
 - Amazon Builders' Library — Making retries safe with idempotent APIs: https://aws.amazon.com/builders-library/making-retries-safe-with-idempotent-APIs/
 - AWS Well-Architected Reliability Pillar — Make mutating operations idempotent: https://docs.aws.amazon.com/wellarchitected/latest/reliability-pillar/rel_prevent_interaction_failure_idempotent.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-32-migration-from-aws-sdk-java-v1-to-v2.md">⬅️ Part 32 — Migration from AWS SDK Java v1 to v2</a>

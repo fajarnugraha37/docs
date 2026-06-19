@@ -2588,8 +2588,6 @@ Seri belum selesai.
 Bagian saat ini: **Part 25 — Security Hardening for Java AWS Applications**  
 Bagian berikutnya: **Part 26 — Cost and Quota Engineering**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-24-cloudwatch-cloudtrail-and-auditability.md">⬅️ Part 24 — CloudWatch, CloudTrail, and Auditability</a>

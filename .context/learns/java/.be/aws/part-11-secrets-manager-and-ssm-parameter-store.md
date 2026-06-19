@@ -2416,7 +2416,6 @@ The next part will focus on:
 - AWS Systems Manager Parameter Store: https://docs.aws.amazon.com/systems-manager/latest/userguide/systems-manager-parameter-store.html
 - AWS Systems Manager SecureString and KMS: https://docs.aws.amazon.com/systems-manager/latest/userguide/secure-string-parameter-kms-encryption.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-10-s3-as-integration-boundary-archive-and-event-source.md">⬅️ Part 10 — S3 as Integration Boundary, Archive, and Event Source</a>

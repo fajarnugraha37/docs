@@ -2601,7 +2601,6 @@ Seri belum selesai.
 - Berikutnya: Part 24 — CloudWatch, CloudTrail, and Auditability.
 - Target akhir: Part 35.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-22-systems-manager-for-runtime-operations.md">⬅️ Part 22 — Systems Manager for Runtime Operations</a>

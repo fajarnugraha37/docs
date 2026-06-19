@@ -2039,3 +2039,12 @@ Judul:
 ```text
 Java Backend Implementation: Servlet, Spring MVC, Filters, Interceptors
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-027.md">⬅️ Part 027 — Security Headers and HTTP Hardening</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-029.md">Part 029 — Java Backend Implementation: Servlet, Spring MVC, Filters, Interceptors ➡️</a>
+</div>

@@ -2749,3 +2749,12 @@ Part berikutnya akan membahas perbedaan resource vs representation secara lebih 
 ```
 
 Seri belum selesai. Kita baru menyelesaikan Part 007 dari 032.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-006.md">⬅️ Part 006 — Request Body, Response Body, and Message Framing</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-008.md">Part 008 — Content Negotiation and Representation Design ➡️</a>
+</div>

@@ -1908,3 +1908,12 @@ Topik berikutnya:
 ```text
 Java Backend Implementation: WebFlux, Reactor Netty, and Reactive HTTP
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-028.md">⬅️ Part 028 — HTTP Attacks and Defensive Backend Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-030.md">HTTP for Web/Backend Perspective — Part 030 ➡️</a>
+</div>

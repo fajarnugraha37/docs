@@ -3358,3 +3358,12 @@ Part 001 dari 032
 
 Seri belum selesai.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-000.md">⬅️ HTTP for Web Backend Perspective — Part 000</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-002.md">Part 002 — Request Lifecycle: From Socket to Controller ➡️</a>
+</div>

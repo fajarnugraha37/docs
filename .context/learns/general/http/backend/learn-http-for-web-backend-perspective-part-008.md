@@ -2844,3 +2844,12 @@ Status seri setelah part ini:
 Part 008 dari 032 selesai.
 Seri belum selesai.
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-007.md">⬅️ Part 007 — URI, Routing, and Resource Modeling</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-009.md">Part 009 — Validation, Parsing, and Defensive Boundaries ➡️</a>
+</div>

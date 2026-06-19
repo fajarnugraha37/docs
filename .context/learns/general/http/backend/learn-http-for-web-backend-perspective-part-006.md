@@ -2082,3 +2082,12 @@ File berikutnya:
 ```text
 learn-http-for-web-backend-perspective-part-007.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-005.md">⬅️ Part 005 — Headers as Backend Control Plane</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-007.md">Part 007 — URI, Routing, and Resource Modeling ➡️</a>
+</div>

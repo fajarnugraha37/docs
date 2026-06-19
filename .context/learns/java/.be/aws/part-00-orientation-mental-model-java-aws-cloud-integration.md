@@ -3221,7 +3221,6 @@ That is the foundation of this series.
 Part 0 selesai.  
 Seri belum selesai. Masih lanjut ke Part 1: `AWS SDK for Java 2.x Architecture Deep Dive`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

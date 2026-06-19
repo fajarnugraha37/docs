@@ -2499,8 +2499,6 @@ KMS is one of the most important services for secure Java systems on AWS. But th
 
 In the next part, we move from cryptographic boundary to messaging reliability boundary: **SQS Fundamentals — Queue as Reliability Boundary**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-11-secrets-manager-and-ssm-parameter-store.md">⬅️ Part 11 — Secrets Manager and SSM Parameter Store</a>

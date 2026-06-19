@@ -2949,3 +2949,12 @@ Masih lanjut ke:
 ```text
 Part 014 — Authentication over HTTP
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-012.md">⬅️ Part 012 — Conditional Requests and Optimistic Concurrency</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-014.md">Part 014 — Authentication over HTTP ➡️</a>
+</div>

@@ -2763,8 +2763,6 @@ Dengan menyelesaikan seri ini, fondasi berikutnya yang paling natural adalah mel
 4. **Cloud Security Engineering for Java Backend Systems**.
 5. **Distributed Workflow Orchestration: Camunda, Step Functions, Temporal, and Java**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-34-production-readiness-checklist-and-operational-playbooks.md">⬅️ Part 34 — Production Readiness Checklist and Operational Playbooks</a>

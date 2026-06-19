@@ -2152,3 +2152,12 @@ Kamu sudah menyelesaikan:
 Seri belum selesai. Bagian berikutnya:
 
 `learn-http-for-web-backend-perspective-part-024.md` — **API Design Styles over HTTP**.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-022.md">⬅️ Part 022 — HTTP/1.1, HTTP/2, HTTP/3 for Backend Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-024.md">Part 024 — API Design Styles over HTTP ➡️</a>
+</div>

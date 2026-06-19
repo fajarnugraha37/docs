@@ -2322,8 +2322,6 @@ Bagian berikutnya akan masuk ke **Part 11 — Secrets Manager and SSM Parameter 
 
 Di sana fokusnya bergeser dari object/data boundary ke configuration dan secret boundary: bagaimana Java application mengambil secret/config dari AWS dengan aman, cache yang benar, rotasi credential, failure mode, KMS, Spring Boot integration, dan operational playbook.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-09-s3-advanced-high-throughput-upload-download-streaming-transfer-manager.md">⬅️ Part 9 — S3 Advanced: High-Throughput Upload, Download, Streaming, and Transfer Manager</a>

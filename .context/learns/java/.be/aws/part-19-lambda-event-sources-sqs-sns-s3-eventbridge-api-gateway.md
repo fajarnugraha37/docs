@@ -1652,7 +1652,6 @@ Bagian berikutnya:
 
 **Part 20 — Lambda Production Architecture for Java Systems**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-18-lambda-java-performance-cold-start-snapstart-memory-runtime-tuning.md">⬅️ Part 18 — Lambda Java Performance: Cold Start, SnapStart, Memory, and Runtime Tuning</a>

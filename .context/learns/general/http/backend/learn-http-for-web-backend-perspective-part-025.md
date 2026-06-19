@@ -2351,3 +2351,12 @@ Part berikutnya:
 ```text
 Part 026 — Observability: Logs, Metrics, Traces, and HTTP Diagnostics
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-024.md">⬅️ Part 024 — API Design Styles over HTTP</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-026.md">Part 026 — Observability: Logs, Metrics, Traces, and HTTP Diagnostics ➡️</a>
+</div>

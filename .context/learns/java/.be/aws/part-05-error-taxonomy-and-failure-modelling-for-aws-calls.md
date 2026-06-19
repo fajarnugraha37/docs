@@ -2549,7 +2549,6 @@ Next: **Part 6 — Observability for Java AWS Integration**.
 
 Part 6 will build on this failure taxonomy and show how to instrument Java AWS calls so production incidents can be diagnosed quickly: structured logs, metrics, traces, AWS request IDs, retry visibility, CloudWatch, X-Ray/OpenTelemetry positioning, dashboard design, and audit evidence.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-04-sdk-http-layer-connection-pooling-timeout-retry-backpressure.md">⬅️ Part 4 — SDK HTTP Layer, Connection Pooling, Timeout, Retry, and Backpressure</a>

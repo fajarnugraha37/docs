@@ -2512,3 +2512,12 @@ Part 014 dari 032
 
 Seri belum selesai.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-013.md">⬅️ Part 013 — Caching for Backend Engineers</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-015.md">Part 015 — Authorization and Resource-Level Security ➡️</a>
+</div>

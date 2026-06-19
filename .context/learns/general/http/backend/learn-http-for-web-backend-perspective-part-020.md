@@ -2065,3 +2065,12 @@ Part berikutnya:
 ```text
 Part 021 — Streaming HTTP, SSE, Long Polling, and Async Responses
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-019.md">⬅️ Part 019 — Timeouts, Cancellation, Backpressure, and Load Shedding</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-021.md">Part 021 — Streaming HTTP, SSE, Long Polling, and Async Responses ➡️</a>
+</div>

@@ -2756,7 +2756,6 @@ The most important lesson:
 - AWS Prescriptive Guidance — Transactional outbox pattern: https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/transactional-outbox.html
 - AWS Prescriptive Guidance — Event sourcing pattern: https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/event-sourcing.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-29-secure-configuration-and-secret-rotation-case-study.md">⬅️ Part 29 — Secure Configuration and Secret Rotation Case Study</a>

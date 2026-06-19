@@ -2363,3 +2363,12 @@ Judul:
 ```text
 Headers as Backend Control Plane
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-003.md">⬅️ Part 003 — Methods Deep Dive for Backend Correctness</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-005.md">Part 005 — Headers as Backend Control Plane ➡️</a>
+</div>

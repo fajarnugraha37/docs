@@ -1924,8 +1924,6 @@ Engineer yang kuat bisa mendesain queue sebagai reliability boundary yang punya:
 - replay path jelas,
 - dan domain invariant yang tetap benar meskipun distributed system berperilaku tidak nyaman.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-12-kms-for-application-engineers.md">⬅️ Part 12 — KMS for Application Engineers</a>

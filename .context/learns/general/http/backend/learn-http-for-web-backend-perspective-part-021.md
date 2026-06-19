@@ -2022,3 +2022,12 @@ Berikutnya:
 
 **Part 022 — HTTP/1.1, HTTP/2, HTTP/3 for Backend Engineers**
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-020.md">⬅️ Part 020 — File Upload, Download, Multipart, and Large Payloads</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-022.md">Part 022 — HTTP/1.1, HTTP/2, HTTP/3 for Backend Engineers ➡️</a>
+</div>

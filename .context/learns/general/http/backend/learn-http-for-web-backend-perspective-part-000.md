@@ -2446,3 +2446,12 @@ Fokus:
 - cara berpikir server saat menafsirkan request.
 
 Seri belum selesai. Ini adalah Part 000 dari 032.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-001.md">Part 001 — HTTP Semantics from Server Point of View ➡️</a>
+</div>

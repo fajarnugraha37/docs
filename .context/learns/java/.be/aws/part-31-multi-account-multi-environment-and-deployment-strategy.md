@@ -1902,7 +1902,6 @@ That is the level of thinking required for serious AWS-integrated Java systems.
 - AWS Lambda Developer Guide — Lambda aliases and weighted alias routing for canary deployments.
 - AWS Management and Governance Guide — Manage and govern with a multi-account point of view.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-30-event-driven-case-management-workflow-with-sns-sqs-eventbridge.md">⬅️ Part 30 — Event-Driven Case Management Workflow with SNS/SQS/EventBridge</a>

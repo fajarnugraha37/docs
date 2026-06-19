@@ -1763,3 +1763,12 @@ Part 009 dari 032
 ```
 
 Seri belum selesai.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-008.md">⬅️ Part 008 — Content Negotiation and Representation Design</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-010.md">Part 010 — Error Response Design and Problem Details ➡️</a>
+</div>

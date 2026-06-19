@@ -2119,3 +2119,12 @@ Seri belum selesai. Bagian berikutnya:
 
 **Part 025 — API Versioning and Evolution**
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-http-for-web-backend-perspective-part-023.md">⬅️ Part 023 — Reverse Proxies, Gateways, Load Balancers, and Trust Boundaries</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-http-for-web-backend-perspective-part-025.md">Part 025 — API Versioning and Evolution ➡️</a>
+</div>

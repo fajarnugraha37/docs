@@ -1953,7 +1953,6 @@ Bagian berikutnya:
 Part 21 — EventBridge and Scheduler for Java Engineers
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./part-19-lambda-event-sources-sqs-sns-s3-eventbridge-api-gateway.md">⬅️ Part 19 — Lambda Event Sources: SQS, SNS, S3, EventBridge, API Gateway</a>
