@@ -2044,3 +2044,12 @@ Filename berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-19-state-machine-pattern.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-17-idempotency-deduplication-exactly-once-business-effect.md">⬅️ Learn Java Microservices Patterns Advanced Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-19-state-machine-pattern.md">Part 19 — State Machine Pattern for Microservices ➡️</a>
+</div>

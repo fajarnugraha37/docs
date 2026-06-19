@@ -3023,8 +3023,6 @@ Mutation tanpa error contract yang baik tetap rapuh, karena frontend tidak bisa 
 - MDN — `ETag`, `If-Match`, `If-None-Match`, `412 Precondition Failed`, `428 Precondition Required`, status codes, Fetch API.
 - OWASP guidance terkait secure API behavior, CSRF, dan error handling.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-023.md">⬅️ Part 023 — API Design for Frontend: Resource Shape, Pagination, Filtering, Sorting</a>

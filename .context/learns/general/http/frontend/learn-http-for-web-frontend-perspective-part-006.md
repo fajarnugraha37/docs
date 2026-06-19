@@ -2888,7 +2888,6 @@ Seri belum selesai.
 Lanjut ke Part 007: Body, Payload, Representation, Media Type, and Encoding.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-005.md">⬅️ Part 005 — Status Codes: Reading Outcomes Like a Protocol Engineer</a>

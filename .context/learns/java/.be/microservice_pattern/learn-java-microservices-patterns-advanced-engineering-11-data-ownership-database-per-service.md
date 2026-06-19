@@ -2834,3 +2834,12 @@ Part berikutnya:
 Part 12 - Query Pattern: API Composition, CQRS, and Materialized Views
 ```
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-10-consistency-and-distributed-invariants.md">⬅️ Part 10 — Consistency Pattern and Distributed Invariants</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-12-query-pattern-api-composition-cqrs-materialized-view.md">Learn Java Microservices Patterns — Advanced Engineering ➡️</a>
+</div>

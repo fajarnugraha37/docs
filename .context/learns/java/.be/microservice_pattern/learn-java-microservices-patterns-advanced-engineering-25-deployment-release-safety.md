@@ -1729,3 +1729,12 @@ The key ideas:
 - Martin Fowler — Blue-Green Deployment: https://martinfowler.com/bliki/BlueGreenDeployment.html
 - Spring — Liveness and Readiness Probes with Spring Boot: https://spring.io/blog/2020/03/25/liveness-and-readiness-probes-with-spring-boot
 - Spring Boot Reference Documentation — Actuator, Availability, Graceful Shutdown: https://docs.spring.io/spring-boot/docs/current/reference/html/
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-24-contract-schema-compatibility-engineering.md">⬅️ Part 24 — Contract, Schema, and Compatibility Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-26-runtime-platform-kubernetes-service-mesh-java-runtime.md">Part 26 — Runtime Platform Pattern: Kubernetes, Service Mesh, and Java Runtime ➡️</a>
+</div>

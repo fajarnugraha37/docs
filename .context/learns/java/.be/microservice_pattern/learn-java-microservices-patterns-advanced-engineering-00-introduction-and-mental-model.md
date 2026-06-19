@@ -2651,3 +2651,12 @@ Part berikutnya:
 ```text
 Part 1 of 35 — Distributed Systems Reality Before Microservices
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<span></span>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-01-distributed-systems-reality.md">Part 1 — Distributed Systems Reality Before Microservices ➡️</a>
+</div>

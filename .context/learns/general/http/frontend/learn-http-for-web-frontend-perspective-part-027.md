@@ -2216,7 +2216,6 @@ Seri belum selesai.
 Lanjut ke Part 028: Observability: Network Debugging, Correlation, Tracing, and RUM.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-026.md">⬅️ Part 026 — Streaming, SSE, WebSocket, WebTransport, and Long Polling</a>

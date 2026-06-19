@@ -2059,3 +2059,12 @@ Siapa yang mengoperasikan policy-nya?
 - AWS Builders Library — Timeouts, retries, and backoff with jitter: https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/
 - Eclipse MicroProfile: https://microprofile.io/
 - Spring Boot Actuator Kubernetes Probes: https://docs.spring.io/spring-boot/reference/actuator/endpoints.html#actuator.endpoints.kubernetes-probes
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-25-deployment-release-safety.md">⬅️ Part 25 — Deployment Pattern and Release Safety</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-27-performance-engineering.md">Part 27 — Performance Engineering for Microservices ➡️</a>
+</div>

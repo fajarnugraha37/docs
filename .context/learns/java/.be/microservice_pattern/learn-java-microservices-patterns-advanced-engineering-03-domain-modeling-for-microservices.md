@@ -2481,3 +2481,12 @@ Progress saat ini:
 [ ] Part 34 — Capstone Architecture Review
 ```
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-02-service-boundary-engineering.md">⬅️ Learn Java Microservices Patterns Advanced Engineering — Part 2</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-04-architecture-styles.md">Learn Java Microservices Patterns — Advanced Engineering ➡️</a>
+</div>

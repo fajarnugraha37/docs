@@ -2920,3 +2920,12 @@ Filename berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-29-migration-monolith-decomposition-strangler-fig.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-27-performance-engineering.md">⬅️ Part 27 — Performance Engineering for Microservices</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-29-migration-monolith-decomposition-strangler-fig.md">Part 29 — Data Migration, Monolith Decomposition, and Strangler Fig ➡️</a>
+</div>

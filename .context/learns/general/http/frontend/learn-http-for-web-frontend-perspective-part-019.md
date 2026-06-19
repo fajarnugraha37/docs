@@ -1919,8 +1919,6 @@ Kita akan masuk lebih dalam ke HTTPS dari sudut browser:
 - cookie `Secure`;
 - debugging TLS error.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-018.md">⬅️ Part 018 — Resource Loading: HTML Parser, Preload Scanner, Priority, and Waterfall</a>

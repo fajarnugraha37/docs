@@ -2463,3 +2463,12 @@ File berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-08-transaction-saga-compensation.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-06-asynchronous-messaging.md">⬅️ Part 6 — Communication Pattern: Asynchronous Messaging</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-08-transaction-saga-compensation.md">Part 8 — Transaction Pattern: Local Transaction, Saga, and Compensation ➡️</a>
+</div>

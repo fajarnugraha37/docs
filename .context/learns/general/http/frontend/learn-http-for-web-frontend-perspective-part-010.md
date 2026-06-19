@@ -2377,7 +2377,6 @@ Bagian berikutnya akan masuk ke area yang paling sering menyebabkan incident pro
 
 _Status: Part 010 selesai. Seri belum selesai._
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-009.md">⬅️ Part 009 — XMLHttpRequest, Forms, Navigation, Beacon, and Non-Fetch Requests</a>

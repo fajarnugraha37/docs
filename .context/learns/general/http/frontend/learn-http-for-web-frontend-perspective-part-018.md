@@ -2317,7 +2317,6 @@ Seri belum selesai.
 Lanjut ke Part 019: HTTP/1.1, HTTP/2, HTTP/3: What Frontend Engineers Actually Need.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-017.md">⬅️ Part 017 — Content Negotiation, Localization, Compression, and Variants</a>

@@ -2,7 +2,7 @@
 
 > Materi Java backend: framework, database, integration, observability, dan production patterns.
 
-Tersedia **0 artikel** dan **8 subkategori** pada bagian ini.
+Tersedia **0 artikel** dan **9 subkategori** pada bagian ini.
 
 ## Subkategori
 - [Cammunda](./cammunda/index.md)
@@ -12,6 +12,7 @@ Tersedia **0 artikel** dan **8 subkategori** pada bagian ini.
 - [HTTP Client](./http_client/index.md)
 - [Jms](./jms/index.md)
 - [Mapper](./mapper/index.md)
+- [Microservice Patterns](./microservice_pattern/index.md)
 - [Telemetry](./telemetry/index.md)
 
 ---

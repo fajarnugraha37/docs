@@ -1789,3 +1789,12 @@ Next filename:
 ```text
 learn-java-microservices-patterns-advanced-engineering-16-backpressure-flow-control-capacity-aware-design.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-14-service-discovery-configuration-runtime-topology.md">⬅️ Part 14 — Service Discovery, Configuration, and Runtime Topology</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-16-backpressure-flow-control-capacity-aware-design.md">Learn Java Microservices Patterns — Advanced Engineering ➡️</a>
+</div>

@@ -3240,7 +3240,6 @@ Lanjut ke:
 Part 024 — Mutation Design: Idempotency, Optimistic UI, Concurrency, and Conflict
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-022.md">⬅️ Part 022 — Browser Isolation Policies: CORP, COEP, COOP, CORS, and Fetch Metadata</a>

@@ -2069,3 +2069,12 @@ Filename berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-18-workflow-orchestration-choreography-process-manager.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-16-backpressure-flow-control-capacity-aware-design.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-18-workflow-orchestration-choreography-process-manager.md">Learn Java Microservices Patterns — Advanced Engineering ➡️</a>
+</div>

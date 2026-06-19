@@ -2851,3 +2851,12 @@ Apa isi model di dalam boundary itu?
 [^team-topologies]: Team Topologies, “Key Concepts”, https://teamtopologies.com/key-concepts
 [^azure-domain-analysis]: Microsoft Azure Architecture Center, “Use domain analysis to model microservices”, https://learn.microsoft.com/en-us/azure/architecture/microservices/model/domain-analysis
 [^azure-tactical-ddd]: Microsoft Azure Architecture Center, “Use tactical DDD to design microservices”, https://learn.microsoft.com/en-us/azure/architecture/microservices/model/tactical-domain-driven-design
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-01-distributed-systems-reality.md">⬅️ Part 1 — Distributed Systems Reality Before Microservices</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-03-domain-modeling-for-microservices.md">0. Posisi Part Ini Dalam Seri ➡️</a>
+</div>

@@ -2579,3 +2579,12 @@ Remaining:
 ```
 
 Seri belum selesai. Ini adalah **Part 12 dari 35**.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-11-data-ownership-database-per-service.md">⬅️ Part 11 — Data Ownership and Database-per-Service Pattern</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-13-api-gateway-edge-bff-experience-layer.md">Learn Java Microservices Patterns Advanced Engineering ➡️</a>
+</div>

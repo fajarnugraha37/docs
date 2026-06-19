@@ -2546,7 +2546,6 @@ Seri belum selesai.
 Lanjut ke Part 012: Cookies Part 1: Browser Cookie Model for Frontend Engineers.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-010.md">⬅️ CORS Part 1: Same-Origin Policy and Why CORS Exists</a>

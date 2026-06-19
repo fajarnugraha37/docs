@@ -101,6 +101,7 @@ nav:
           - "HTTP Client": "java/.be/http_client/index.md"
           - "Jms": "java/.be/jms/index.md"
           - "Mapper": "java/.be/mapper/index.md"
+          - "Microservice Patterns": "java/.be/microservice_pattern/index.md"
           - "Telemetry": "java/.be/telemetry/index.md"
       - "Jakarta":
           - "Overview": "java/.jakarta/index.md"

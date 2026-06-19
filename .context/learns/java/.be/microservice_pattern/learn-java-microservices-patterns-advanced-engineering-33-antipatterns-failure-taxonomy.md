@@ -2020,3 +2020,12 @@ Filename:
 ```text
 learn-java-microservices-patterns-advanced-engineering-34-capstone-architecture-review.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-32-cost-complexity-architecture-economics.md">⬅️ 0. Posisi Part Ini di Dalam Series</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-34-capstone-architecture-review.md">0. Why This Capstone Exists ➡️</a>
+</div>

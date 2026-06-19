@@ -2426,3 +2426,12 @@ Completed parts:
 ```
 
 The series is complete.
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-33-antipatterns-failure-taxonomy.md">⬅️ 0. Posisi Part Ini Dalam Seri</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<span></span>
+</div>

@@ -2851,7 +2851,6 @@ Seri belum selesai.
 Lanjut ke Part 003: HTTP Message Model: Request, Response, Header, Body.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-001.md">⬅️ Part 001 — Orientation: HTTP dari Sudut Pandang Browser</a>

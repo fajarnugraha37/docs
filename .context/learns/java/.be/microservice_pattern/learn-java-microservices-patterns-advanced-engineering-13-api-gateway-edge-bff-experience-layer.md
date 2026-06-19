@@ -2760,3 +2760,12 @@ Total:     35 parts
 
 This series is **not finished yet**.
 
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-12-query-pattern-api-composition-cqrs-materialized-view.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-14-service-discovery-configuration-runtime-topology.md">Part 14 — Service Discovery, Configuration, and Runtime Topology ➡️</a>
+</div>

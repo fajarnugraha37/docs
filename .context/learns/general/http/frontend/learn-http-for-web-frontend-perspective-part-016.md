@@ -2894,7 +2894,6 @@ Seri belum selesai.
 Lanjut ke Part 017: Content Negotiation, Localization, Compression, and Variants.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-015.md">⬅️ Part 015 — HTTP Caching Part 2: ETag, Last-Modified, Revalidation, and 304</a>

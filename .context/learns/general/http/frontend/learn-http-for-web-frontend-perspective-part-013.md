@@ -2340,7 +2340,6 @@ Seri belum selesai.
 Lanjut ke Part 014: HTTP Caching Part 1: Browser Cache Mental Model.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-012.md">⬅️ Part 012 — Cookies Part 1: Browser Cookie Model for Frontend Engineers</a>

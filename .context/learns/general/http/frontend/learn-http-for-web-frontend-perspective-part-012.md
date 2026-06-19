@@ -2561,7 +2561,6 @@ Seri belum selesai.
 Lanjut ke Part 013: Cookies Part 2: Session, CSRF, Auth, and SPA Reality.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-011.md">⬅️ CORS Part 2: Preflight, Credentials, Cookies, and Real Production Bugs</a>

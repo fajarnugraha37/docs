@@ -2207,3 +2207,12 @@ File berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-09-outbox-inbox-cdc-reliable-publishing.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-07-event-driven-architecture.md">⬅️ Part 7 — Event-Driven Architecture Deep Dive</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-09-outbox-inbox-cdc-reliable-publishing.md">Part 9 — Transactional Outbox, Inbox, CDC, and Reliable Publishing ➡️</a>
+</div>

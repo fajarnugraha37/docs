@@ -2462,3 +2462,12 @@ Filename berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-15-resilience-timeout-retry-circuit-breaker-bulkhead.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-13-api-gateway-edge-bff-experience-layer.md">⬅️ Learn Java Microservices Patterns Advanced Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-15-resilience-timeout-retry-circuit-breaker-bulkhead.md">Learn Java Microservices Patterns — Advanced Engineering ➡️</a>
+</div>

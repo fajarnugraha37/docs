@@ -2652,3 +2652,12 @@ Filename berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-06-asynchronous-messaging.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-04-architecture-styles.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-06-asynchronous-messaging.md">Part 6 — Communication Pattern: Asynchronous Messaging ➡️</a>
+</div>

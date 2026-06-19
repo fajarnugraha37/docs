@@ -2382,7 +2382,6 @@ Seri belum selesai.
 Lanjut ke Part 004: HTTP Methods: Semantics, Safety, Idempotency, and Frontend Consequences.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-002.md">⬅️ Part 002 — URL, Origin, Site, Scheme, Host, Port, Path, Query, Fragment</a>

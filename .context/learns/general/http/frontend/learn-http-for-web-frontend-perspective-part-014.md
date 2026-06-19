@@ -2923,7 +2923,6 @@ Seri belum selesai.
 Lanjut ke Part 015: HTTP Caching Part 2: ETag, Last-Modified, Revalidation, and 304.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-013.md">⬅️ Part 013 — Cookies Part 2: Session, CSRF, Auth, and SPA Reality</a>

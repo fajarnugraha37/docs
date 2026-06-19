@@ -2554,3 +2554,12 @@ Filename:
 ```text
 learn-java-microservices-patterns-advanced-engineering-25-deployment-release-safety.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-23-testing-strategy.md">⬅️ 0. Posisi Part Ini Dalam Seri</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-25-deployment-release-safety.md">Part 25 — Deployment Pattern and Release Safety ➡️</a>
+</div>

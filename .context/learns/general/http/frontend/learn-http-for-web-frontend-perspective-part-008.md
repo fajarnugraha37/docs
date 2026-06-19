@@ -2394,7 +2394,6 @@ Seri belum selesai.
 Lanjut ke Part 009: XMLHttpRequest, Forms, Navigation, Beacon, and Non-Fetch Requests.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-007.md">⬅️ Body, Payload, Representation, Media Type, and Encoding</a>

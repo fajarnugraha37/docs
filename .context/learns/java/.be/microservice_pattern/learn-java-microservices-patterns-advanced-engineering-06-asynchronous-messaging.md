@@ -2673,3 +2673,12 @@ File berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-07-event-driven-architecture.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-05-synchronous-api-communication.md">⬅️ Part 5 — Communication Pattern: Synchronous APIs</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-07-event-driven-architecture.md">Part 7 — Event-Driven Architecture Deep Dive ➡️</a>
+</div>

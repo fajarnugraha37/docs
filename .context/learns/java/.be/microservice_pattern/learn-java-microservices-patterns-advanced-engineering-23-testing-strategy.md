@@ -2244,3 +2244,12 @@ Filename berikutnya:
 ```text
 learn-java-microservices-patterns-advanced-engineering-24-contract-schema-compatibility-engineering.md
 ```
+
+
+<!-- NAVIGATION_FOOTER -->
+<div class="page-nav">
+<a href="./learn-java-microservices-patterns-advanced-engineering-22-observability-patterns.md">⬅️ Learn Java Microservices Patterns — Advanced Engineering</a>
+<a href="./index.md">📚 Kategori</a>
+<a href="../../../index.md">🏠 Home</a>
+<a href="./learn-java-microservices-patterns-advanced-engineering-24-contract-schema-compatibility-engineering.md">Part 24 — Contract, Schema, and Compatibility Engineering ➡️</a>
+</div>

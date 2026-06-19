@@ -1893,7 +1893,6 @@ Seri belum selesai.
 Lanjut ke Part 002: URL, Origin, Site, Scheme, Host, Port, Path, Query, Fragment.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-http-for-web-frontend-perspective-part-000.md">⬅️ Part 000 — Fondasi Seri: Cara Berpikir HTTP dari Perspektif Web/Frontend</a>
