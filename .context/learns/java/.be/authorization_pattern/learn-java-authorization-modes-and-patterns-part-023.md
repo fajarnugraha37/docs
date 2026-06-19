@@ -2696,8 +2696,6 @@ Kunci utamanya:
 
 Pada part berikutnya kita akan masuk ke **Part 24 — Token Scopes, Claims, and Authorization Boundaries**, yaitu membedah lebih dalam token sebagai evidence authorization: scope vs permission, claim vs authority, token bloat, stale claim, audience, consent, token exchange, on-behalf-of, dan boundary antara token validation dengan policy decision.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-022.md">⬅️ Part 22 — Temporal, Risk-Based, and Contextual Authorization</a>

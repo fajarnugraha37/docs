@@ -2030,7 +2030,6 @@ Belum selesai. Part berikutnya:
 
 **Part 17 — Authorization in REST APIs, GraphQL, gRPC, and Messaging**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-015.md">⬅️ Part 15 — Spring Domain Authorization Patterns</a>

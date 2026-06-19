@@ -2952,8 +2952,6 @@ Part berikutnya:
 
 > **Part 1 — Authorization Vocabulary, Semantics, and Invariants**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

@@ -2173,7 +2173,6 @@ Berikutnya:
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-010.md">⬅️ Part 10 — Resource Ownership, Tenancy, and Data Boundary Enforcement</a>

@@ -2287,7 +2287,6 @@ Berikutnya:
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-028.md">⬅️ Part 28 — Secure Authorization Testing Strategy</a>

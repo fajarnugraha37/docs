@@ -2634,7 +2634,6 @@ Belum selesai. Part berikutnya:
 [ ] Part 5 — Permission and Capability Modeling
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-003.md">⬅️ Java Authorization Modes and Patterns — Advanced Engineering</a>

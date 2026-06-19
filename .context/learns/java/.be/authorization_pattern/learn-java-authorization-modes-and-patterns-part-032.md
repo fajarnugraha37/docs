@@ -2011,7 +2011,6 @@ Berikutnya:
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-031.md">⬅️ Part 31 — Building an Internal Authorization Service</a>

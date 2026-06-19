@@ -1848,7 +1848,6 @@ Part berikutnya akan membahas **Hierarchical Organizations and Complex Role Reso
 - AWS Prescriptive Guidance: implementing PDP with OPA — contoh policy decoupling dan externalized PDP.
 - Open Policy Agent documentation — policy engine dan Rego untuk policy-as-code.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-019.md">⬅️ Learn Java Authorization Modes and Patterns — Part 19</a>

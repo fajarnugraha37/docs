@@ -2796,8 +2796,6 @@ Belum selesai. Lanjut ke:
 
 - Part 19 — Workflow, State Machine, and Case Management Authorization
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-017.md">⬅️ Part 17 — Authorization in REST APIs, GraphQL, gRPC, and Messaging</a>

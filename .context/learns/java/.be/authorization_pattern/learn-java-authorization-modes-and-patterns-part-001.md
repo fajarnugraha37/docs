@@ -3091,7 +3091,6 @@ Part berikutnya:
 Part 2 — Java Platform Authorization Primitives: What Still Matters, What Doesn’t
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-000.md">⬅️ Part 0 — Authorization Mental Model: From “Role Check” to Decision System</a>

@@ -2746,7 +2746,6 @@ Belum selesai. Part berikutnya:
 [ ] Part 3 — Authorization Architecture Patterns: PEP, PDP, PAP, PIP
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-001.md">⬅️ Part 1 — Authorization Vocabulary, Semantics, and Invariants</a>

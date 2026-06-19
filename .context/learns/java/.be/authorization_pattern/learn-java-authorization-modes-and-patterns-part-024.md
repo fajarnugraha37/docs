@@ -2354,7 +2354,6 @@ Belum selesai. Part berikutnya:
 
 - Part 25 — Authorization Caching, Performance, and Scalability
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-023.md">⬅️ Part 23 — Authorization for Microservices and Distributed Systems</a>

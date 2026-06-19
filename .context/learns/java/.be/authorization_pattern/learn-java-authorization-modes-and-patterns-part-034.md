@@ -1732,7 +1732,6 @@ Daftar bagian yang telah selesai:
 - RFC 8707 — OAuth 2.0 Resource Indicators: https://datatracker.ietf.org/doc/html/rfc8707
 - RFC 8693 — OAuth 2.0 Token Exchange: https://datatracker.ietf.org/doc/html/rfc8693
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-033.md">⬅️ Part 33 — Authorization Migration and Refactoring Legacy Systems</a>

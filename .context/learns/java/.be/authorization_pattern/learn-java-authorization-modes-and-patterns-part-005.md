@@ -2648,7 +2648,6 @@ Belum selesai. Part berikutnya:
 [ ] Part 6 — ABAC: Attribute-Based Authorization
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-004.md">⬅️ Java Authorization Modes and Patterns — Part 4</a>

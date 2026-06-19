@@ -2877,7 +2877,6 @@ Belum selesai. Part berikutnya:
 [ ] Part 9 — ACL and Domain Object Security
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-007.md">⬅️ Java Authorization Modes and Patterns — Part 7</a>

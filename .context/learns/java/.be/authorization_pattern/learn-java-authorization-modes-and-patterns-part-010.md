@@ -2541,7 +2541,6 @@ Berikutnya:
 
 Status: **seri belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-009.md">⬅️ Part 9 — ACL and Domain Object Security</a>

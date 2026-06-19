@@ -2997,7 +2997,6 @@ Belum selesai. Part berikutnya:
 [ ] Part 4 — RBAC Done Properly: Role-Based Access Control Beyond ADMIN
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-002.md">⬅️ Part 2 — Java Platform Authorization Primitives: What Still Matters, What Doesn’t</a>

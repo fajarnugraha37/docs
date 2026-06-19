@@ -1700,7 +1700,6 @@ Berikutnya:
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-016.md">⬅️ Part 16 — Jakarta EE / Jakarta Security / Jakarta Authorization</a>

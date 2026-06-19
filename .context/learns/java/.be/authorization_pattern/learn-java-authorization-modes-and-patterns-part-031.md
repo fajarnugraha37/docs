@@ -2756,8 +2756,6 @@ Seri belum selesai. Part berikutnya:
 
 **Part 32 — External Policy Engine Integration from Java**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-030.md">⬅️ Java Authorization Modes and Patterns — Advanced Engineering</a>

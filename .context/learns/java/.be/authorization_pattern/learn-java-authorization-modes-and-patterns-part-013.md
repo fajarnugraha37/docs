@@ -2110,7 +2110,6 @@ May this actor perform this business operation?
 9. OWASP API Security 2023 — Broken Object Level Authorization.  
    https://owasp.org/API-Security/editions/2023/en/0xa1-broken-object-level-authorization/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-012.md">⬅️ Part 12 — Authorization in Layered Java Applications</a>

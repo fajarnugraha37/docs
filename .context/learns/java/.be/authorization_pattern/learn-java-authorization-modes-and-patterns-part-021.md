@@ -2654,7 +2654,6 @@ Belum selesai. Part berikutnya:
 
 - [ ] Part 22 — Temporal, Risk-Based, and Contextual Authorization
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-020.md">⬅️ Java Authorization Modes and Patterns — Part 20</a>

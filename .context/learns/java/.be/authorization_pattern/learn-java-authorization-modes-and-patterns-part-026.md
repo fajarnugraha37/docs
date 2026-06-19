@@ -1784,8 +1784,6 @@ Berikutnya:
 
 - Part 27 — Auditability, Explainability, and Regulatory Defensibility
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-025.md">⬅️ Part 25 — Authorization Caching, Performance, and Scalability</a>

@@ -2376,7 +2376,6 @@ Belum selesai. Berikutnya:
 
 - Part 26 — Authorization Failure Semantics and Error Handling
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-024.md">⬅️ Learn Java Authorization Modes and Patterns — Part 24</a>

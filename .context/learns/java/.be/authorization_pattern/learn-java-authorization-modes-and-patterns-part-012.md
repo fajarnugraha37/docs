@@ -2289,7 +2289,6 @@ That is how layered applications avoid both extremes: chaotic duplicate checks a
 
 Seri belum selesai. Lanjut ke Part 13.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-011.md">⬅️ Part 11 — IDOR, BOLA, and Object-Level Authorization</a>

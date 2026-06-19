@@ -2821,7 +2821,6 @@ Belum selesai. Part berikutnya:
 [ ] Part 20 — Delegation, Impersonation, Acting Roles, and Break-Glass Access
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-018.md">⬅️ Part 18 — Data-Level Authorization and Query Scoping</a>

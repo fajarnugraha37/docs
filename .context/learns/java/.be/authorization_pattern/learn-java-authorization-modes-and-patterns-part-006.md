@@ -2771,7 +2771,6 @@ Berikutnya:
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-005.md">⬅️ Part 5 — Permission and Capability Modeling</a>

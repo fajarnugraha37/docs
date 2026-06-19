@@ -2306,7 +2306,6 @@ Part berikutnya:
 Part 23 — Authorization for Microservices and Distributed Systems
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-021.md">⬅️ Java Authorization Modes and Patterns — Part 21</a>

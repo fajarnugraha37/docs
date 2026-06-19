@@ -2289,7 +2289,6 @@ Berikutnya:
 
 - Part 28 — Secure Authorization Testing Strategy
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-026.md">⬅️ Java Authorization Modes and Patterns — Advanced Engineering</a>

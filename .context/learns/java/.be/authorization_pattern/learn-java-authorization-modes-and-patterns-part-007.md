@@ -3562,7 +3562,6 @@ Belum selesai. Part berikutnya:
 
 - Part 8 — ReBAC: Relationship-Based Authorization
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-authorization-modes-and-patterns-part-006.md">⬅️ Part 6 — ABAC: Attribute-Based Authorization</a>
