@@ -2153,7 +2153,6 @@ Remaining parts: 17
 Next: Part 014 — Contract Testing: Validating Providers and Consumers Against OpenAPI
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-012.md">⬅️ OpenAPI Mastery for Java Engineers — Part 012</a>

@@ -2762,7 +2762,6 @@ Remaining parts: 27
 Next: Part 004 — Paths and Operations: Modelling API Capabilities Correctly
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-002.md">⬅️ OpenAPI Mastery for Java Engineers — Part 002</a>

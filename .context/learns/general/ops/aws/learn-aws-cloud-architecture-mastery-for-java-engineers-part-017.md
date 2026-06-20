@@ -1763,7 +1763,6 @@ Judul:
 Observability on AWS: CloudWatch, X-Ray, Logs, Metrics, Traces, Alarms
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Security Architecture I: Network, Identity, Encryption, Secret, dan Isolation</a>

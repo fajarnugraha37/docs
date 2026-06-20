@@ -2005,7 +2005,6 @@ Judul:
 Storage Architecture: S3, EBS, EFS, FSx, dan Object Lifecycle
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — ECS and Fargate for Java Services: Managed Containers tanpa Kubernetes Overhead</a>

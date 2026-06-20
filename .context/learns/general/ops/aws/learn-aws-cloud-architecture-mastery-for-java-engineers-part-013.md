@@ -2111,7 +2111,6 @@ Judul:
 Event Integration on AWS: SQS, SNS, EventBridge, Kinesis, Step Functions
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Application Data on AWS: Managed Relational, Key-Value, Document, Search, Cache without Repeating Database Internals</a>

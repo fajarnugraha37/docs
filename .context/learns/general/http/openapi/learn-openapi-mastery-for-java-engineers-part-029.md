@@ -2511,7 +2511,6 @@ Remaining parts: 1
 Next: Part 030 — OpenAPI Mastery Capstone: Designing an Enforcement Lifecycle API Contract
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-028.md">⬅️ OpenAPI Mastery for Java Engineers — Part 028</a>

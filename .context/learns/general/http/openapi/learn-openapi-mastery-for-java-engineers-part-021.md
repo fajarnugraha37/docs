@@ -2455,7 +2455,6 @@ Remaining parts: 9
 Next: Part 022 — SDK and Client Generation: Power, Limits, and Architecture Decisions
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-020.md">⬅️ OpenAPI Mastery for Java Engineers — Part 020</a>

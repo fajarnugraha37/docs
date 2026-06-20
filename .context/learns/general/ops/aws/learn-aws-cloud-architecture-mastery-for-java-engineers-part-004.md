@@ -2008,7 +2008,6 @@ Judul:
 Networking in AWS: VPC as Programmable Network Boundary
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — IAM Deep Model: Identity, Trust, Permission, Session, dan Authorization Evaluation</a>

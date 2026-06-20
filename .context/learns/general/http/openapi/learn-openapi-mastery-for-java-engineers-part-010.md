@@ -2728,7 +2728,6 @@ Remaining parts: 20
 Next: Part 011 — Modelling Domain Resources Without Leaking Persistence Models
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-009.md">⬅️ OpenAPI Mastery for Java Engineers — Part 009</a>

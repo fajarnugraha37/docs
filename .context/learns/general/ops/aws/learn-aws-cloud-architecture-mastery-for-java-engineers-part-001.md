@@ -1861,7 +1861,6 @@ Judul:
 AWS Account Architecture: Account sebagai Security, Billing, dan Blast-Radius Boundary
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — AWS Learning Map, Mental Model, dan Cara Belajar Cloud Architecture untuk Java Engineer</a>

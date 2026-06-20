@@ -1407,7 +1407,6 @@ Judul:
 Security Architecture II: KMS, Policy Composition, Cross-Account Access, dan Data Protection
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Workflow and Orchestration: Step Functions for Long-Running Business Processes</a>

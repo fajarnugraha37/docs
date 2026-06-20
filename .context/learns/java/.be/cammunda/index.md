@@ -2,7 +2,10 @@
 
 > Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
 
-Tersedia **31 artikel** dan **0 subkategori** pada bagian ini.
+Tersedia **31 artikel** dan **1 subkategori** pada bagian ini.
+
+## Subkategori
+- [Bpm Platform](./bpm_platform/index.md)
 
 ## Artikel
 - [Part 0 — Orientation: Dari CRUD Engineer ke Process Orchestration Engineer](./learn-java-bpmn-camunda-part-00-orientation.md)

@@ -2857,7 +2857,6 @@ Next part:
 Part 029 — Building a Production-Grade OpenAPI from Scratch: End-to-End Case Study
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-027.md">⬅️ OpenAPI Mastery for Java Engineers — Part 027</a>

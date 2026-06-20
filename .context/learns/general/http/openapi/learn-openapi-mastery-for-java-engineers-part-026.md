@@ -1972,7 +1972,6 @@ Part 027 — Advanced Schema Evolution: Long-Lived APIs, Consumer Diversity, and
 
 Part 027 will go deeper into schema evolution, long-lived API compatibility, consumer diversity, enum evolution, optional/nullable semantics, field replacement, semantic drift, and how to evolve APIs without creating constant version explosions.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-025.md">⬅️ OpenAPI Mastery for Java Engineers — Part 025</a>

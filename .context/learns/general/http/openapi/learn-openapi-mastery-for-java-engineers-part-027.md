@@ -2581,7 +2581,6 @@ Remaining parts: 3
 Next: Part 028 — OpenAPI Anti-Patterns and Failure Modes in Real Projects
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-026.md">⬅️ OpenAPI Mastery for Java Engineers — Part 026</a>

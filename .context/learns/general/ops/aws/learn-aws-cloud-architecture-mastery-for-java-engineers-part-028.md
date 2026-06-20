@@ -1878,7 +1878,6 @@ Judul:
 Data Movement and Analytics on AWS: Glue, Athena, Lake Formation, Redshift, EMR, MSK, Firehose
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Multi-Tenant SaaS on AWS: Tenant Isolation, Account Strategy, Data Partitioning, dan Noisy Neighbor Control</a>

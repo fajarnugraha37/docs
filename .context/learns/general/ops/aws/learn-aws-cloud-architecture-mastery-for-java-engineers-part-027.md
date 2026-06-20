@@ -2344,7 +2344,6 @@ Judul berikutnya:
 Resilient Integration with AWS APIs: Retry, Timeout, Idempotency, Throttling, Quota, dan Backoff
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Governance, Audit, and Compliance: CloudTrail, Config, Control Tower, Security Hub</a>

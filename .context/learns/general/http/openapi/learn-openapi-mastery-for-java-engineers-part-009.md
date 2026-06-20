@@ -2261,7 +2261,6 @@ Di Part 010, kita akan masuk ke topik yang lebih tajam: `allOf`, `oneOf`, `anyOf
 - JSON Schema Draft 2020-12 concepts as referenced by OpenAPI Specification.
 - OpenAPI Initiative guidance on specification structure and schema modelling.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-008.md">⬅️ OpenAPI Mastery for Java Engineers — Part 008</a>

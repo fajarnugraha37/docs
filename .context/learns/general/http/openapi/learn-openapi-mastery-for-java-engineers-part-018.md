@@ -2960,7 +2960,6 @@ That matters because many real systems cannot honestly complete everything insid
 Series status: `018 / 030` complete.  
 Next file: `learn-openapi-mastery-for-java-engineers-part-019.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-017.md">⬅️ OpenAPI Mastery for Java Engineers — Part 017</a>

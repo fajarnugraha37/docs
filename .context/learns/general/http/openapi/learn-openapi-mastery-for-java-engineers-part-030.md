@@ -2490,8 +2490,6 @@ Those promises must be clear, testable, evolvable, automatable, and defensible.
 
 That is the standard to aim for.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Building a Production-Grade OpenAPI from Scratch: End-to-End Case Study</a>

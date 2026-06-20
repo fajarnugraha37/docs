@@ -2597,7 +2597,6 @@ Remaining parts: 19
 Next: Part 012 — API Design with OpenAPI: Design-First, Code-First, Contract-First, and Hybrid Workflows
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-010.md">⬅️ OpenAPI Mastery for Java Engineers — Part 010</a>

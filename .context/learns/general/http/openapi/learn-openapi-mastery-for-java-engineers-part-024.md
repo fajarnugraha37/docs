@@ -2212,8 +2212,6 @@ The next part will go deeper into the boundary between OpenAPI and API gateways:
 - how gateway import/export can help or harm,
 - how to prevent drift between contract, gateway, and implementation.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-023.md">⬅️ OpenAPI Mastery for Java Engineers — Part 023</a>

@@ -2502,7 +2502,6 @@ Remaining parts: 22
 Next: Part 009 — Schema Object Deep Dive: Types, Constraints, Formats, and Validation Semantics
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-007.md">⬅️ OpenAPI Mastery for Java Engineers — Part 007</a>

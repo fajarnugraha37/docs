@@ -1723,7 +1723,6 @@ Judul:
 Migration to AWS: Discovery, 6R Strategy, Strangler Fig, Hybrid, dan Cutover
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Data Movement and Analytics on AWS: Glue, Athena, Lake Formation, Redshift, EMR, MSK, Firehose</a>

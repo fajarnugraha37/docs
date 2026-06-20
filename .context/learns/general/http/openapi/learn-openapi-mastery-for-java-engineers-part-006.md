@@ -1681,7 +1681,6 @@ Next part:
 
 `learn-openapi-mastery-for-java-engineers-part-007.md` — Responses: Status Codes, Content, Headers, Errors, and Invariants.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Parameters: Path, Query, Header, Cookie, Style, Explode, and Encoding</a>

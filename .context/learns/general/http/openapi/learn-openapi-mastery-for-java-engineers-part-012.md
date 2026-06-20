@@ -1813,7 +1813,6 @@ Next part:
 
 `learn-openapi-mastery-for-java-engineers-part-013.md` — Java/Spring OpenAPI Ecosystem: Springdoc, Swagger Core, OpenAPI Generator, and Build Integration
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-011.md">⬅️ OpenAPI Mastery for Java Engineers — Part 011</a>

@@ -2029,7 +2029,6 @@ Judul berikutnya:
 AWS DNS and Traffic Entry: Route 53, ALB, NLB, CloudFront, Global Accelerator
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — Credentials for Java Applications: SDK, Provider Chain, STS, AssumeRole, dan Runtime Identity</a>

@@ -2674,7 +2674,6 @@ We will cover:
 
 # End of Part 022
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-021.md">⬅️ OpenAPI Mastery for Java Engineers — Part 021</a>

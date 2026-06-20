@@ -2576,7 +2576,6 @@ Remaining parts: 13
 Next: Part 018 — Pagination, Filtering, Sorting, Search, and Bulk Operations
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-016.md">⬅️ OpenAPI Mastery for Java Engineers — Part 016</a>

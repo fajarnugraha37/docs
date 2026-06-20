@@ -2227,7 +2227,6 @@ Judul berikutnya:
 API Architecture on AWS: API Gateway, ALB, Lambda, ECS, Auth, Throttling, dan Contracts
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Deployment Architecture: CodePipeline, CodeBuild, CodeDeploy, Artifact, Promotion, Rollback</a>

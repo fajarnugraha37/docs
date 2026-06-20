@@ -2899,7 +2899,6 @@ AWS Mental Model: Cloud sebagai Control Plane, Data Plane, dan Failure Domain
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

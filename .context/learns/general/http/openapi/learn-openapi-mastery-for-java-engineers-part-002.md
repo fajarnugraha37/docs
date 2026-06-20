@@ -2175,7 +2175,6 @@ Remaining parts: 28
 Next: Part 003 — Anatomy of an OpenAPI Document
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-001.md">⬅️ OpenAPI Mastery for Java Engineers — Part 001</a>

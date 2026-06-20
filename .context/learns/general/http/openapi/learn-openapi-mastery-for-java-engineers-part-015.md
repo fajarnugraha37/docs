@@ -3321,7 +3321,6 @@ Part 016 — Examples, Samples, Mocks, and Documentation as Executable Understan
 
 That part will cover how examples become more than documentation: they become onboarding material, mock data, test fixtures, validation inputs, scenario documentation, and executable understanding for API consumers.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-014.md">⬅️ OpenAPI Mastery for Java Engineers — Part 014</a>

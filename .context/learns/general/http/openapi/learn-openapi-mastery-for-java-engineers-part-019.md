@@ -2500,7 +2500,6 @@ Remaining parts: 11
 Next: Part 020 — Governance: Style Guides, Linting, Review, Standards, and API Portfolio Control
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-018.md">⬅️ OpenAPI Mastery for Java Engineers — Part 018</a>

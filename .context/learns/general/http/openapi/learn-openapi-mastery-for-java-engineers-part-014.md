@@ -2538,7 +2538,6 @@ You have completed this part if you can explain:
 
 Part 015 — Breaking Changes and Compatibility: The Hardest Part of API Evolution
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Java/Spring OpenAPI Ecosystem: Springdoc, Swagger Core, OpenAPI Generator, and Build Integration</a>

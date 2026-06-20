@@ -85,6 +85,7 @@ nav:
       - "Ops":
           - "Overview": "general/ops/index.md"
           - "Aws": "general/ops/aws/index.md"
+          - "Kubernetes": "general/ops/kubernetes/index.md"
           - "Nginx": "general/ops/nginx/index.md"
       - "Sql":
           - "Overview": "general/sql/index.md"
@@ -113,7 +114,7 @@ nav:
           - "Authentication Patterns": "java/.be/authentication_pattern/index.md"
           - "Authorization Patterns": "java/.be/authorization_pattern/index.md"
           - "Aws": "java/.be/aws/index.md"
-          - "Cammunda": "java/.be/cammunda/index.md"
+          - "Cammunda": [{"Overview":"java/.be/cammunda/index.md"},{"Bpm Platform":"java/.be/cammunda/bpm_platform/index.md"}]
           - "Database": [{"Overview":"java/.be/database/index.md"},{"Jpa":"java/.be/database/jpa/index.md"},{"Migration":"java/.be/database/migration/index.md"},{"Mybatis":"java/.be/database/mybatis/index.md"}]
           - "Design Patterns": "java/.be/design_pattern/index.md"
           - "Framework": [{"Overview":"java/.be/framework/index.md"},{"Jersey":"java/.be/framework/jersey/index.md"},{"Quarkus":"java/.be/framework/quarkus/index.md"}]

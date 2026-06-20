@@ -1965,7 +1965,6 @@ Judul berikutnya:
 ECS and Fargate for Java Services: Managed Containers tanpa Kubernetes Overhead
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Compute Choices: EC2, Auto Scaling, ECS, EKS, Lambda, App Runner, Batch</a>

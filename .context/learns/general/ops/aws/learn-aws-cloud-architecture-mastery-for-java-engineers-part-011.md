@@ -2334,7 +2334,6 @@ Application Data on AWS: Managed Relational, Key-Value, Document, Search, Cache 
 
 Fokus berikutnya adalah data services managed di AWS: RDS, Aurora, DynamoDB, ElastiCache, OpenSearch, DocumentDB, Neptune, Timestream, Redshift, DMS, dan bagaimana memilih/menjalankannya tanpa mengulang materi database internal yang sudah dibahas di seri lain.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Lambda for Java Engineers: Event Runtime, Concurrency, Idempotency, dan Cold Start</a>

@@ -1885,7 +1885,6 @@ Pada bagian berikutnya, kita akan masuk ke Lambda untuk Java engineers: event ru
 **Status seri:** belum selesai.  
 **Bagian berikutnya:** `learn-aws-cloud-architecture-mastery-for-java-engineers-part-010.md` — *Lambda for Java Engineers: Event Runtime, Concurrency, Idempotency, dan Cold Start*.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — EC2 Production Architecture: Instance, AMI, Launch Template, Auto Scaling Group</a>

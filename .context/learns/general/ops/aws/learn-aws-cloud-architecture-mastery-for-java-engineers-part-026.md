@@ -2216,7 +2216,6 @@ Judul:
 Multi-Tenant SaaS on AWS: Tenant Isolation, Account Strategy, Data Partitioning, dan Noisy Neighbor Control
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — API Architecture on AWS: API Gateway, ALB, Lambda, ECS, Auth, Throttling, dan Contracts</a>

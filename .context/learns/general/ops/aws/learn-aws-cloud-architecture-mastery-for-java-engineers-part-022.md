@@ -1762,7 +1762,6 @@ Top AWS engineer tidak hanya bisa menulis template. Mereka tahu bagaimana peruba
 - Terraform Remote State Documentation.
 - AWS Well-Architected Framework.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Cost Engineering: Unit Economics, FinOps, Tagging, Budgets, dan Architectural Cost Control</a>

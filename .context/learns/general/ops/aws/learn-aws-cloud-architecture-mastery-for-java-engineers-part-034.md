@@ -1431,7 +1431,6 @@ Judul:
 AWS Mastery Capstone: Design, Build, Operate, Break, and Defend a Production Workload
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — AWS Architecture Case Studies: Production-Grade Java Systems</a>

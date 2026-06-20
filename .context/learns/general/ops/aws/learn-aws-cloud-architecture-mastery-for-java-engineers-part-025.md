@@ -2438,7 +2438,6 @@ Judul:
 Governance, Audit, and Compliance: CloudTrail, Config, Control Tower, Security Hub
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Configuration and Secrets: Parameter Store, Secrets Manager, AppConfig, Runtime Flags</a>

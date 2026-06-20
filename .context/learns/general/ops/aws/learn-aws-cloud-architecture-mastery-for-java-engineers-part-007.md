@@ -1975,7 +1975,6 @@ Di part berikutnya, kita akan membahas bagaimana menjalankan aplikasi produksi d
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — AWS DNS and Traffic Entry: Route 53, ALB, NLB, CloudFront, Global Accelerator</a>

@@ -1514,7 +1514,6 @@ Judul:
 AWS Architecture Review Method: How Top Engineers Evaluate Designs
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Enterprise Architecture on AWS: Platform Engineering, Shared Services, Golden Path, dan Developer Experience</a>

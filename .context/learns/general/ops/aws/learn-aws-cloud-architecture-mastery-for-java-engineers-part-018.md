@@ -2148,7 +2148,6 @@ Judul:
 Reliability Engineering on AWS: Multi-AZ, Backup, Restore, DR, dan Chaos Thinking
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Security Architecture II: KMS, Policy Composition, Cross-Account Access, dan Data Protection</a>

@@ -2084,7 +2084,6 @@ Judul berikutnya:
 Credentials for Java Applications: SDK, Provider Chain, STS, AssumeRole, dan Runtime Identity
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — AWS Account Architecture: Account sebagai Security, Billing, dan Blast-Radius Boundary</a>

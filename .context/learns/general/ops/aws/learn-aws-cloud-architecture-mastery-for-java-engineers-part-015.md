@@ -2618,7 +2618,6 @@ Anda sudah menyelesaikan:
 
 Bagian berikutnya adalah Part 016.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Event Integration on AWS: SQS, SNS, EventBridge, Kinesis, Step Functions</a>

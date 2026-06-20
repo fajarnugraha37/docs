@@ -2263,7 +2263,6 @@ Judul:
 Cost Engineering: Unit Economics, FinOps, Tagging, Budgets, dan Architectural Cost Control
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Reliability Engineering on AWS: Multi-AZ, Backup, Restore, DR, dan Chaos Thinking</a>

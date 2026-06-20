@@ -2205,8 +2205,6 @@ learn-aws-cloud-architecture-mastery-for-java-engineers
 
 The AWS series is now complete.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-034.md">⬅️ Part 034 — AWS Architecture Review Method: How Top Engineers Evaluate Designs</a>

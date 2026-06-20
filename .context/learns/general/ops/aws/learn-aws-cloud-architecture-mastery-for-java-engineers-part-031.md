@@ -1696,7 +1696,6 @@ Judul:
 Enterprise Architecture on AWS: Platform Engineering, Shared Services, Golden Path, dan Developer Experience
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Machine Learning and AI Services on AWS for Backend Engineers</a>

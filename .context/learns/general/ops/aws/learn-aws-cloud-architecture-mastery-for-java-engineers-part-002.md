@@ -2400,7 +2400,6 @@ Di Part 003 kita akan masuk lebih dalam ke IAM:
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — AWS Mental Model: Cloud sebagai Control Plane, Data Plane, dan Failure Domain</a>

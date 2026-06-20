@@ -2195,7 +2195,6 @@ Remaining parts: 5
 Next: Part 026 — OpenAPI for Regulated, Auditable, and High-Risk Systems
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-024.md">⬅️ OpenAPI Mastery for Java Engineers — Part 024</a>

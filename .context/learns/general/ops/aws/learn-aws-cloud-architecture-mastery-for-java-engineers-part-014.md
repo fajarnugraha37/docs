@@ -2686,7 +2686,6 @@ Judul:
 Workflow and Orchestration: Step Functions for Long-Running Business Processes
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — DynamoDB for System Designers: Partition, Access Pattern, Transaction, Stream, dan Global Table</a>

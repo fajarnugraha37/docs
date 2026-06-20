@@ -2431,7 +2431,6 @@ Remaining parts: 23
 Next: Part 008 — Components: Reuse Without Coupling Yourself Into a Corner
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-006.md">⬅️ OpenAPI Mastery for Java Engineers — Part 006</a>

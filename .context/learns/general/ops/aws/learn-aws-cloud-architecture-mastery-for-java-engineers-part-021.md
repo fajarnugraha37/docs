@@ -1831,7 +1831,6 @@ Judul:
 Infrastructure as Code: CloudFormation, CDK, Terraform, dan Drift Control
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Performance Efficiency: Latency, Throughput, Scaling, Caching, dan Regional Design</a>

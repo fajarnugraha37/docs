@@ -1912,7 +1912,6 @@ Remaining parts: 26
 Next: Part 005 — Parameters: Path, Query, Header, Cookie, Style, Explode, and Encoding
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Anatomy of an OpenAPI Document</a>

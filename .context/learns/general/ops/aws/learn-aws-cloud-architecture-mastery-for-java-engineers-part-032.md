@@ -1858,7 +1858,6 @@ Judul:
 AWS Architecture Case Studies: Production-Grade Java Systems
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — Migration to AWS: Discovery, 6R Strategy, Strangler Fig, Hybrid, dan Cutover</a>

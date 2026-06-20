@@ -1892,7 +1892,6 @@ Next topic:
 
 **OpenAPI for Microservices and Platform Engineering**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-022.md">⬅️ OpenAPI Mastery for Java Engineers — Part 022</a>

@@ -2241,7 +2241,6 @@ Remaining parts: 10
 Next: Part 021 — CI/CD Pipeline for OpenAPI: Validate, Lint, Bundle, Diff, Publish, Generate
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-019.md">⬅️ OpenAPI Mastery for Java Engineers — Part 019</a>

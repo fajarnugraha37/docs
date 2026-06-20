@@ -2298,7 +2298,6 @@ Judul:
 Compute Choices: EC2, Auto Scaling, ECS, EKS, Lambda, App Runner, Batch
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Networking in AWS: VPC as Programmable Network Boundary</a>

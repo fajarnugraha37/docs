@@ -1917,7 +1917,6 @@ The series is not complete. Continue with:
 
 **Part 002 — OpenAPI Specification Landscape: Swagger, OAS 2.0, 3.0, 3.1, 3.2**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-000.md">⬅️ OpenAPI Mastery for Java Engineers — Part 000</a>

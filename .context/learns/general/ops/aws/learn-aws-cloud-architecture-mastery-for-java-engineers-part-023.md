@@ -2132,7 +2132,6 @@ Judul:
 Configuration and Secrets: Parameter Store, Secrets Manager, AppConfig, Runtime Flags
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Infrastructure as Code: CloudFormation, CDK, Terraform, dan Drift Control</a>

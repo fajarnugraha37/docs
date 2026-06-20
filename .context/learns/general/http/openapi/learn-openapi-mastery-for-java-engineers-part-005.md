@@ -3028,8 +3028,6 @@ Part 006 — Request Bodies: Media Types, Content Negotiation, Validation, and S
 
 Part 006 will move from request input outside the body into request payloads. We will cover JSON, form data, multipart, binary upload, media types, request/response model separation, validation boundaries, PATCH semantics, and why request body design should not mirror database entities.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-openapi-mastery-for-java-engineers-part-004.md">⬅️ OpenAPI Mastery for Java Engineers — Part 004</a>

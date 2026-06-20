@@ -1594,7 +1594,6 @@ Part ini membangun fondasi reliability engineering di AWS. Di bagian berikutnya,
 Reliability bertanya: “apakah sistem tetap benar dan pulih saat terjadi gangguan?”  
 Performance bertanya: “apakah sistem memenuhi target latency/throughput secara efisien dalam kondisi beban nyata?”
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Observability on AWS: CloudWatch, X-Ray, Logs, Metrics, Traces, Alarms</a>

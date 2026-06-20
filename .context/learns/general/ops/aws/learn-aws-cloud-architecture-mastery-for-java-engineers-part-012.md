@@ -2060,8 +2060,6 @@ Primary AWS references used for this part:
 17. AWS DMS sources — https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Source.html
 18. AWS DMS targets — https://docs.aws.amazon.com/dms/latest/userguide/CHAP_Introduction.Targets.html
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-aws-cloud-architecture-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Storage Architecture: S3, EBS, EFS, FSx, dan Object Lifecycle</a>
