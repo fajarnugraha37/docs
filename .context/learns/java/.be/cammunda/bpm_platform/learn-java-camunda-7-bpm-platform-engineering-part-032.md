@@ -1963,7 +1963,6 @@ Di sana kita akan masuk ke strategi upgrade yang realistis: Camunda minor versio
 - Camunda 7.24 Manual — External Tasks: https://docs.camunda.org/manual/7.24/user-guide/process-engine/external-tasks/
 - Camunda 7 Support Announcements: https://docs.camunda.org/enterprise/announcement/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-031.md">⬅️ Part 031 — Extending the Engine: ProcessEnginePlugin, Custom Incident Handler, History Event Handler, Custom Batch, dan Extension Governance</a>

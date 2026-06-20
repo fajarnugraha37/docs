@@ -2079,7 +2079,6 @@ Recommended next learning paths after this series:
 9. Production Incident Simulation and Game Day Practice.
 10. Multi-Cluster Traffic, DR, and Global Reliability Engineering.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-034.md">⬅️ Part 034 — Advanced Failure Modeling and Production Case Studies</a>

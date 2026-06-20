@@ -2154,7 +2154,6 @@ Seri belum selesai. Lanjut ke:
 
 `learn-java-camunda-7-bpm-platform-engineering-part-021.md` — Spring Boot Integration Advanced: Embedded Engine, Transactions, Beans, Profiles, Testing.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-019.md">⬅️ Part 019 — Multi-Tenancy, Engine Partitioning, Authorization Boundary, dan Shared Platform Design</a>

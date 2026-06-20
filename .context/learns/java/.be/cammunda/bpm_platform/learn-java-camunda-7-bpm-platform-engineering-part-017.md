@@ -1896,7 +1896,6 @@ You should now be able to:
 - Seri keseluruhan: **belum selesai**.
 - Lanjut ke: `learn-java-camunda-7-bpm-platform-engineering-part-018.md` — **Process Versioning, Deployment, Migration, dan Long-Running Instance Evolution**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-016.md">⬅️ Part 016 — History, Auditability, Regulatory Traceability, dan Data Retention</a>

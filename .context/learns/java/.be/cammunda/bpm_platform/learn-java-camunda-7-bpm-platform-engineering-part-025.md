@@ -2142,8 +2142,6 @@ Untuk memperkuat pemahaman, coba jawab:
 9. Apa retry storm scenario paling mungkin?
 10. Apa capacity envelope realistis untuk workload production Anda?
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-024.md">⬅️ DMN/CMMN in Camunda 7: Decision Automation, Case Management, and When Not to Use Them</a>

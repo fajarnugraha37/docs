@@ -2086,8 +2086,6 @@ Bagian berikutnya:
 
 `learn-java-camunda-7-bpm-platform-engineering-part-035.md` — Capstone: Designing a Production-Grade Regulatory Case Management Platform with Camunda 7.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-033.md">⬅️ Part 033 — Upgrade and Compatibility Strategy: Camunda 7.x, Java 8–25, Spring Generations, Containers, and Libraries</a>

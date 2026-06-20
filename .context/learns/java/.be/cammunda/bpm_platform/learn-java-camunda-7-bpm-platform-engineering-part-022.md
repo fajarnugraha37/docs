@@ -1329,7 +1329,6 @@ Before approving Camunda 7 Java EE/shared engine architecture, verify:
 - Seri: **belum selesai**.
 - Lanjut ke: `learn-java-camunda-7-bpm-platform-engineering-part-023.md` — **REST API, Client Architecture, OpenAPI, Remote Engine, dan API Governance**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-021.md">⬅️ Part 021 — Spring Boot Integration Advanced: Embedded Engine, Transactions, Beans, Profiles, Testing</a>

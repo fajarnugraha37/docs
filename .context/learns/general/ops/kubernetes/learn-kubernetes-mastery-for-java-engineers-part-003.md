@@ -2151,7 +2151,6 @@ Jika kamu bisa menempatkan gejala pada lapisan yang benar, Kubernetes menjadi si
 - Kubernetes Documentation — Options for Highly Available Topology: https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/ha-topology/
 - Kubernetes Documentation — Operating etcd clusters for Kubernetes: https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Kubernetes API, Resources, and Object Lifecycle</a>

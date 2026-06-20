@@ -2279,7 +2279,6 @@ Topik berikutnya:
 JavaDelegate, ExecutionListener, TaskListener, ParseListener, dan Extension Point Discipline
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-008.md">⬅️ Variable System Deep Dive: Serialization, Typed Values, Spin, JSON/XML, Object Variables</a>

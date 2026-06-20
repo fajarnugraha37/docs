@@ -1674,8 +1674,6 @@ Part 016 — Autoscaling: HPA, VPA, Cluster Autoscaler, KEDA Concepts
 
 Kita akan membahas bagaimana Kubernetes menambah/mengurangi kapasitas berdasarkan metrik, event backlog, resource usage, dan demand. Ini akan melanjutkan diskusi probe karena autoscaling hanya aman jika startup, readiness, resource request, dan workload semantics sudah benar.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Deployment Strategies and Release Engineering</a>

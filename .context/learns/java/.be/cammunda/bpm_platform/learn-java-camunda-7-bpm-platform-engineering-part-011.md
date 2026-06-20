@@ -1996,7 +1996,6 @@ Seri belum selesai. Lanjut ke:
 
 `learn-java-camunda-7-bpm-platform-engineering-part-012.md` — **Service Invocation Patterns: JavaDelegate vs External Task vs Message vs Outbox**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-010.md">⬅️ Part 010 — JavaDelegate, ExecutionListener, TaskListener, ParseListener, dan Extension Point Discipline</a>

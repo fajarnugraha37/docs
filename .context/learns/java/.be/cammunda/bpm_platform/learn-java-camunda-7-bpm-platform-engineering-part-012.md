@@ -2660,7 +2660,6 @@ That topic deserves its own deep dive because message/event correlation is one o
 - Camunda 7.24 Manual — Transactions in Processes: https://docs.camunda.org/manual/7.24/user-guide/process-engine/transactions-in-processes/
 - Camunda Best Practices — Invoking services from a Camunda 7 process: https://unsupported.docs.camunda.io/8.1/docs/components/best-practices/development/invoking-services-from-the-process-c7/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-011.md">⬅️ External Task Pattern Advanced: Pull Workers, Locking, Long Polling, Backpressure, dan Worker Fleet Design</a>

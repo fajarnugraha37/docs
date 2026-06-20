@@ -1541,7 +1541,6 @@ Part saat ini: 008 dari 035.
 Part berikutnya: 009 — Service Discovery and Service Abstractions.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Resources, QoS, JVM Memory, and CPU Reality</a>

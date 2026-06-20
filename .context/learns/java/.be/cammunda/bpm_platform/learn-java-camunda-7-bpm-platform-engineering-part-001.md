@@ -3009,8 +3009,6 @@ Referensi utama untuk part ini:
 - Camunda 7 Javadocs — `ProcessEngineServices`: `https://docs.camunda.org/javadoc/camunda-bpm-platform/7.22/org/camunda/bpm/engine/ProcessEngineServices.html`
 - Camunda 7 Javadocs — `org.camunda.bpm.engine` package summary: `https://docs.camunda.org/javadoc/camunda-bpm-platform/7.3/org/camunda/bpm/engine/package-summary.html`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-000.md">⬅️ Part 000 — Orientation, Scope, Mental Model, dan Peta Belajar Camunda 7 Platform Engineering</a>

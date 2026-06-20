@@ -1685,7 +1685,6 @@ Seri belum selesai. Lanjut ke:
 
 `learn-java-camunda-7-bpm-platform-engineering-part-024.md` — **DMN/CMMN in Camunda 7: Decision Automation, Case Management, and When Not to Use Them**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-022.md">⬅️ Part 022 — Jakarta EE / Java EE Runtime Integration: Shared Engine, Container Transactions, JNDI, Classloading</a>

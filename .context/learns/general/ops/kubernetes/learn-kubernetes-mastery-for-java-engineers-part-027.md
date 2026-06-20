@@ -1797,8 +1797,6 @@ Kita akan membahas cara menjalankan workload non-request/response di Kubernetes:
 - scheduler singleton,
 - event-driven autoscaling.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Operators, CRDs, and Extending Kubernetes</a>

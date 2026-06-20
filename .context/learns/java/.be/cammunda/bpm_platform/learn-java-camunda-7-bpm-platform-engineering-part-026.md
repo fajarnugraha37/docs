@@ -1977,7 +1977,6 @@ Kita akan membahas bagaimana mengobservasi Camunda 7 secara serius:
 - Camunda 7.24 Manual — Database Schema: https://docs.camunda.org/manual/7.24/user-guide/process-engine/database/database-schema/
 - Camunda 7 Best Practice — Performance tuning Camunda 7: https://docs.camunda.io/docs/8.7/components/best-practices/operations/performance-tuning-camunda-c7/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-025.md">⬅️ Part 025 — Performance Engineering: Throughput, Latency, Hot Tables, Query Patterns, and Load Testing</a>

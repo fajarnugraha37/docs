@@ -1598,7 +1598,6 @@ Seri belum selesai.
 Masih lanjut ke Part 031.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-029.md">⬅️ Part 029 — Modelling for Correctness: Invariants, State Machines, Escalation Logic, and Regulatory Workflow Design</a>

@@ -1758,8 +1758,6 @@ Jika ingin melanjutkan setelah seri ini, jalur paling natural adalah:
 - Camunda migration guide — Migrating from Camunda 7: https://docs.camunda.io/docs/guides/migrating-from-camunda-7/
 - Camunda blog — Camunda 7 Enterprise EoL extension: https://camunda.com/blog/2025/02/camunda-7-enterprise-end-of-life-extension/
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-034.md">⬅️ Part 034 — Migration Strategy: Camunda 7 ke Camunda 8, Replatforming, Coexistence, dan Strangler Patterns</a>

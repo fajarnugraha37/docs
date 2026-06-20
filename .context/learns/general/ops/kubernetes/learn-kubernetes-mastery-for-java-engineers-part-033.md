@@ -2383,7 +2383,6 @@ Jika part sebelumnya mengajarkan cara merancang workload, part ini mengajarkan b
 - Kubernetes Documentation — Cluster Architecture
 - Kubernetes Documentation — Feature Gates
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Cost, Capacity, Performance, and Efficiency Engineering</a>

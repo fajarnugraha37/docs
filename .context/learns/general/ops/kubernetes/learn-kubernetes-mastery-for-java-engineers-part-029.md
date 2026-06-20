@@ -2072,8 +2072,6 @@ Part 030 — Platform Engineering: Building Internal Kubernetes Developer Platfo
 
 Di sana kita akan membahas bagaimana organisasi tidak seharusnya meminta setiap developer menulis semua YAML mentah dari nol, tetapi membangun golden path, platform API, guardrails, templates, policy, dan ownership model yang tetap fleksibel.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Batch, Scheduling, Workers, and Event-Driven Workloads</a>

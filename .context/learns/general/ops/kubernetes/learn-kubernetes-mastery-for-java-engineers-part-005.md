@@ -2439,7 +2439,6 @@ Part saat ini: 005 dari 035.
 Part berikutnya: 006 — Scheduling Model: How Pods Land on Nodes.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — Pods Deep Dive: The Smallest Operational Unit</a>

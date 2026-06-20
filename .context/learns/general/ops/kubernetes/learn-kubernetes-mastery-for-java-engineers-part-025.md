@@ -2815,7 +2815,6 @@ Part saat ini: 025 dari 035.
 Part berikutnya: 026 — Operators, CRDs, and Extending Kubernetes.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — GitOps and Delivery Control Planes</a>

@@ -2072,7 +2072,6 @@ That is the real purpose of history, auditability, traceability, and retention e
 - Camunda 7.24 Documentation — History Cleanup: https://docs.camunda.org/manual/7.24/user-guide/process-engine/history/history-cleanup/
 - Camunda 7.24 Documentation — Database Schema: https://docs.camunda.org/manual/7.24/user-guide/process-engine/database/database-schema/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-015.md">⬅️ Part 015 — Human Task Engineering: Task Lifecycle, Assignment, Candidate Groups, Authorization, and Work Queue Design</a>

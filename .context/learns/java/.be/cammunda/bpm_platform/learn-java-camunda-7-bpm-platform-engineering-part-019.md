@@ -2140,7 +2140,6 @@ They ask:
 - Camunda 7.24 Manual — External Tasks: https://docs.camunda.org/manual/7.24/user-guide/process-engine/external-tasks/
 - Camunda 7.24 Manual — Transactions in Processes: https://docs.camunda.org/manual/7.24/user-guide/process-engine/transactions-in-processes/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-018.md">⬅️ Part 018 — Process Versioning, Deployment, Migration, dan Long-Running Instance Evolution</a>

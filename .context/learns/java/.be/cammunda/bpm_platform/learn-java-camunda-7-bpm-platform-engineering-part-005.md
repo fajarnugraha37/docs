@@ -2289,7 +2289,6 @@ learn-java-camunda-7-bpm-platform-engineering-part-006.md
 - Camunda 7.24 Manual — Deployment descriptors and job executor configuration.
 - Camunda 7.24 Manual — Transactions in Processes: transaction boundaries and async continuation behavior.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-004.md">⬅️ Part 004 — Async Continuations, Job Creation, Retry Semantics, dan Idempotency Design</a>

@@ -2212,7 +2212,6 @@ Topik berikutnya:
 
 **Job Executor Internals: Acquisition, Locking, Backoff, Deployment Awareness, dan Cluster Behavior**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-003.md">⬅️ Transaction Boundaries, Wait States, Atomic Operations, dan Consistency Model</a>

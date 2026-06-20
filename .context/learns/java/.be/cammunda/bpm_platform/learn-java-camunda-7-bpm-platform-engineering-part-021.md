@@ -2247,7 +2247,6 @@ Part ini selesai.
 - Berikutnya: `part-022 — Jakarta EE / Java EE Runtime Integration: Shared Engine, Container Transactions, JNDI, Classloading`
 - Status seri: **belum selesai**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-020.md">⬅️ Part 020 — Authorization, Identity, Security Hardening, dan Webapp/API Exposure</a>

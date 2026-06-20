@@ -2090,7 +2090,6 @@ Part saat ini: 012 dari 035.
 Part berikutnya: 013 — Stateful Workloads: Databases, Brokers, and Why Kubernetes Is Not Magic.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Ingress, Gateway API, and North-South Traffic</a>

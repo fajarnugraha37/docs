@@ -2960,7 +2960,6 @@ Part saat ini: 024 dari 035.
 Part berikutnya: 025 — Admission Control, Policy, and Governance.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Kubernetes Manifests: YAML, Kustomize, Helm, and Configuration Composition</a>

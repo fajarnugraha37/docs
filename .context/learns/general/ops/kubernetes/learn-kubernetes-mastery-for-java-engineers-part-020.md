@@ -1689,7 +1689,6 @@ Jika salah satu step lemah, credential bisa bocor atau workload tidak terpercaya
 - Kubernetes Documentation — Ingress TLS: https://kubernetes.io/docs/concepts/services-networking/ingress/
 - Kubernetes Documentation — Projected Volumes: https://kubernetes.io/docs/concepts/storage/projected-volumes/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Pod Security, Security Context, and Workload Hardening</a>

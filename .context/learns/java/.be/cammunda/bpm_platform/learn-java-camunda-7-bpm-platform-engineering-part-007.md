@@ -2074,8 +2074,6 @@ Seri belum selesai. Lanjut ke:
 
 `learn-java-camunda-7-bpm-platform-engineering-part-008.md` — **Variable System Deep Dive: Serialization, Typed Values, Spin, JSON/XML, Object Variables**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-006.md">⬅️ Part 006 — Database Schema Mastery: ACT_RU, ACT_HI, ACT_RE, ACT_GE, ACT_ID</a>

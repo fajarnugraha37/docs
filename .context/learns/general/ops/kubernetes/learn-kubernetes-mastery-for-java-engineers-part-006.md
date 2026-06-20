@@ -2766,7 +2766,6 @@ Part saat ini: 006 dari 035.
 Part berikutnya: 007 — Resources, QoS, JVM Memory, and CPU Reality.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Workload Controllers: Deployment, ReplicaSet, StatefulSet, DaemonSet, Job, CronJob</a>

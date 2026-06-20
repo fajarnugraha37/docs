@@ -2209,8 +2209,6 @@ Part saat ini: 000 dari 035.
 Part berikutnya: 001 — Kubernetes Mental Model: Cluster as a Reconciliation Machine.
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

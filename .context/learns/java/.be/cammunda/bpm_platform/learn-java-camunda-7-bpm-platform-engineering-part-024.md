@@ -1931,7 +1931,6 @@ We will move from modelling/runtime semantics into performance engineering: job 
 - Camunda 7.24 Documentation — Process Engine History.
 - Camunda 7.24 Documentation — Process Engine Versioning and Deployment.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-023.md">⬅️ Part 023 — REST API, Client Architecture, OpenAPI, Remote Engine, dan API Governance</a>

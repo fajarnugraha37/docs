@@ -2064,8 +2064,6 @@ Part berikutnya: 020 — Secrets, Certificates, TLS, and Supply Chain Security.
 
 Part berikutnya akan membahas lapisan keamanan yang berhubungan dengan Secret, certificate, TLS, registry trust, image provenance, SBOM, signing, secret rotation, dan supply-chain risk untuk workload Kubernetes.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — RBAC, ServiceAccount, Authentication, and Authorization</a>

@@ -2113,7 +2113,6 @@ Part saat ini: 014 dari 035.
 Part berikutnya: 015 — Health, Probes, and Lifecycle Management.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Stateful Workloads: Databases, Brokers, and Why Kubernetes Is Not Magic</a>

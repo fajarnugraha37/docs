@@ -2540,7 +2540,6 @@ and operationally defensible.
 - Helm Documentation — Chart Development Tips and Tricks
 - Helm Documentation — Values Best Practices
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Debugging Kubernetes: A Systematic Failure Investigation Method</a>

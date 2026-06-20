@@ -2733,7 +2733,6 @@ Part saat ini: 002 dari 035.
 Part berikutnya: 003 — Cluster Architecture: Control Plane, Nodes, and Runtime Boundaries.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Kubernetes Mental Model: Cluster as a Reconciliation Machine</a>

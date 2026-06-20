@@ -2659,8 +2659,6 @@ Kamu siap lanjut ke Part 005 jika bisa menjawab:
 - Kubernetes Documentation — Container Lifecycle Hooks
 - Kubernetes Documentation — Configure Liveness, Readiness, and Startup Probes
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Cluster Architecture: Control Plane, Nodes, and Runtime Boundaries</a>

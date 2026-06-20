@@ -1952,7 +1952,6 @@ Itulah standar testing untuk production-grade Camunda 7 platform.
 - Camunda Blog — Test Your Processes With JUnit 5
 - Camunda Best Practices — Operating Camunda 7
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-027.md">⬅️ Part 027 — Observability and Troubleshooting: Metrics, Logs, Cockpit, SQL Diagnostics, and Incident Forensics</a>

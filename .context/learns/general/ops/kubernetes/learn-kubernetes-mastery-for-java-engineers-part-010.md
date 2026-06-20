@@ -1906,7 +1906,6 @@ Part saat ini: 010 dari 035.
 Part berikutnya: 011 — Ingress, Gateway API, and North-South Traffic.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Service Discovery and Service Abstractions</a>

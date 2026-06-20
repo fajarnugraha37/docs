@@ -2553,8 +2553,6 @@ Utamakan dokumentasi resmi dan spesifikasi aktif:
 
 Gunakan dokumentasi vendor cloud hanya untuk detail implementasi managed cluster, bukan sebagai pengganti mental model Kubernetes.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Health, Probes, and Lifecycle Management</a>

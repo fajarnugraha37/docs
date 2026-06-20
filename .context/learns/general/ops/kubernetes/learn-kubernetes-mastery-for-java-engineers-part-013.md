@@ -1939,7 +1939,6 @@ Part saat ini: 013 dari 035.
 Part berikutnya: 014 — Deployment Strategies and Release Engineering.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Storage: Volumes, PersistentVolume, PVC, StorageClass, CSI</a>

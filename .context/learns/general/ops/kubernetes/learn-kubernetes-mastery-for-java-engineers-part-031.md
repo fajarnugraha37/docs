@@ -2015,8 +2015,6 @@ or guarantee disaster recovery without tested design.
 - Kubernetes Documentation — Debugging Applications
 - Kubernetes Blog — Kubernetes Federation Evolution
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Platform Engineering: Building Internal Kubernetes Developer Platforms</a>

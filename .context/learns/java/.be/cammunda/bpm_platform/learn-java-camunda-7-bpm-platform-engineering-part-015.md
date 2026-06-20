@@ -1867,7 +1867,6 @@ Topik berikutnya:
 History, Auditability, Regulatory Traceability, dan Data Retention
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-014.md">⬅️ Timers, Due Dates, Time Zones, Calendar Semantics, dan SLA Modelling</a>

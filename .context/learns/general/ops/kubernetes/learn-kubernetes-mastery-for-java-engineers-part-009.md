@@ -2061,7 +2061,6 @@ Part saat ini: 009 dari 035.
 Part berikutnya: 010 — Kubernetes Networking Model: Pods, Services, CNI, and Network Policy.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Configuration: ConfigMap, Secret, Environment, Files, and Reloadability</a>

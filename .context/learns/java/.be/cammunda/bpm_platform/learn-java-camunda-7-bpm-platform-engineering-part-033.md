@@ -1855,7 +1855,6 @@ Topik berikutnya:
 Migration Strategy: Camunda 7 to Camunda 8, Replatforming, Coexistence, and Strangler Patterns
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-032.md">⬅️ Part 032 — Deployment Topologies: Monolith, Modular Monolith, Microservices, Remote Engine, Kubernetes, and Clustering</a>

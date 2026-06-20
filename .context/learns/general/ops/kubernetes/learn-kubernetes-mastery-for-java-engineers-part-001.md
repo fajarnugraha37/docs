@@ -2688,7 +2688,6 @@ Dengan kata lain, Part 001 memberi mental model. Part 002 akan membedah anatomi 
 - Finalizers: https://kubernetes.io/docs/concepts/overview/working-with-objects/finalizers/
 - Horizontal Pod Autoscaling: https://kubernetes.io/docs/concepts/workloads/autoscaling/horizontal-pod-autoscale/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation, Scope, Prerequisites, and Learning Contract</a>

@@ -2104,8 +2104,6 @@ Jika jawabannya “instance lama juga harus berubah”, maka kita masuk wilayah 
 
 Di part berikutnya kita akan membahas **multi-tenancy, engine partitioning, authorization boundary, dan shared platform design**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-017.md">⬅️ Part 017 — Incidents, Error Taxonomy, BPMN Error, Escalation, Compensation, dan Recovery Semantics</a>

@@ -2715,8 +2715,6 @@ Part 035 — Capstone: Design a Production Kubernetes Platform for Java Distribu
 
 Di part terakhir, kita akan menyusun desain end-to-end platform Kubernetes untuk Java distributed systems, mencakup namespace, workload, ingress/gateway, GitOps, policy, observability, autoscaling, security, DR, runbook, dan failure-mode matrix.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Cluster Operations: Upgrades, Maintenance, Backup, and Incident Readiness</a>

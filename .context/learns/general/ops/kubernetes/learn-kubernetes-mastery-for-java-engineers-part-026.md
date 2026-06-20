@@ -2413,7 +2413,6 @@ Part saat ini: 026 dari 035.
 Part berikutnya: 027 — Service Mesh and East-West Traffic Control.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Admission Control, Policy, and Governance</a>

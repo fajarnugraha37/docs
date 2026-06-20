@@ -1737,7 +1737,6 @@ Seri belum selesai. Lanjut ke:
 
 `learn-java-camunda-7-bpm-platform-engineering-part-015.md` — Human Task Engineering: Task Lifecycle, Assignment, Candidate Groups, Authorization, Forms.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-013.md">⬅️ Part 013 — Message Correlation, Signal, Event, Business Key, dan Race Condition Control</a>

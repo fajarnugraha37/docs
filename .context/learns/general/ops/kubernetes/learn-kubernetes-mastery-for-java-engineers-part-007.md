@@ -2555,7 +2555,6 @@ Part saat ini: 007 dari 035.
 Part berikutnya: 008 — Configuration: ConfigMap, Secret, Environment, Files, and Reloadability.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Scheduling Model: How Pods Land on Nodes</a>

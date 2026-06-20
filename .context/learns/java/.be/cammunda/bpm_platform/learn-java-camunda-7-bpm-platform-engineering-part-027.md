@@ -1821,7 +1821,6 @@ The next part, `part-028`, will focus on **Testing Strategy**: unit tests, proce
 - Seri belum selesai.
 - Lanjut ke: `learn-java-camunda-7-bpm-platform-engineering-part-028.md`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-026.md">⬅️ Part 026 — Database Operations: Indexing, Cleanup, Archival, Partitioning, Vacuum/Shrink, and Maintenance Windows</a>

@@ -1740,7 +1740,6 @@ Seri belum selesai. Lanjut ke:
 
 `learn-java-camunda-7-bpm-platform-engineering-part-009.md` — Expression Language, Delegation Code, Bean Resolution, dan Runtime Binding.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-007.md">⬅️ Part 007 — Persistence, Flush Ordering, Optimistic Locking, dan Database Isolation</a>

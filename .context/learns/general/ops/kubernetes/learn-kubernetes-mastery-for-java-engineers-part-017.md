@@ -2699,8 +2699,6 @@ Setelah memahami boundary namespace, part berikutnya akan membahas RBAC dan Serv
 - Kubernetes Documentation — Pod Security Admission
 - Kubernetes Documentation — RBAC Authorization
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Autoscaling: HPA, VPA, Node Autoscaling, and KEDA Concepts</a>

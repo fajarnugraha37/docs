@@ -2481,7 +2481,6 @@ Part berikutnya:
 Part 022 — Debugging Kubernetes: A Systematic Failure Investigation Method
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Secrets, Certificates, TLS, and Supply Chain Security</a>

@@ -2388,8 +2388,6 @@ A top-tier engineer does not debug north-south traffic by guessing. They walk th
 - Kubernetes Documentation — DNS for Services and Pods
 - Kubernetes Documentation — Network Policies
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Kubernetes Networking Model: Pods, Services, CNI, and Network Policy</a>

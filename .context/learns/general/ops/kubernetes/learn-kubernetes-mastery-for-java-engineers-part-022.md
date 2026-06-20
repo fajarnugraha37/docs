@@ -1485,7 +1485,6 @@ Kubernetes memberi banyak sinyal, tetapi tidak otomatis menyusun cerita untukmu.
 
 Part berikutnya akan membahas manifest composition: YAML, Kustomize, Helm, dan bagaimana mengelola konfigurasi Kubernetes lintas environment tanpa menciptakan template chaos.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Observability: Logs, Metrics, Traces, Events, and Debuggability</a>

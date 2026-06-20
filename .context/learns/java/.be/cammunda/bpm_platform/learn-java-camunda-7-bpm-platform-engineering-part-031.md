@@ -1938,8 +1938,6 @@ The main lesson:
 
 In the next part, we move from extension internals to deployment reality: **how Camunda 7 should be deployed across monolith, modular monolith, microservices, remote engine, Kubernetes, and clustered database-backed topologies**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-030.md">⬅️ Part 030 — Advanced Patterns and Anti-Patterns: Saga, Process Manager, Orchestration, Choreography, and Workflow Smells</a>

@@ -2674,7 +2674,6 @@ Part saat ini: 018 dari 035.
 Part berikutnya: 019 — Pod Security, Security Context, and Workload Hardening.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Namespaces, Multi-Tenancy, Quotas, and Platform Boundaries</a>

@@ -2887,7 +2887,6 @@ Topik berikutnya:
 
 **Persistence, Flush Ordering, Optimistic Locking, dan Database Isolation**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-005.md">⬅️ Part 005 — Job Executor Internals: Acquisition, Locking, Backoff, Deployment Awareness, dan Cluster Behavior</a>

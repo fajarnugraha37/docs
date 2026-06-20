@@ -2723,8 +2723,6 @@ Status part ini: **selesai**.
 Status seri: **belum selesai**.  
 Lanjut ke: `learn-java-camunda-7-bpm-platform-engineering-part-004.md`.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-002.md">⬅️ Part 002 — BPMN Execution Tree, Token Semantics, Scope, Activity Instance, dan Event Scope</a>

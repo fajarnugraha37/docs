@@ -1907,7 +1907,6 @@ Referensi ini digunakan sebagai basis orientasi dan akan makin diperluas pada pa
 - Seri keseluruhan: **belum selesai**.
 - Berikutnya: `learn-java-camunda-7-bpm-platform-engineering-part-001.md` — **Camunda 7 Architecture Deep Dive: Engine, Runtime, Services, Command Context**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

@@ -2536,7 +2536,6 @@ Part saat ini: 030 dari 035.
 Part berikutnya: 031 — Multi-Cluster, Multi-Region, and Disaster Recovery.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Java Microservices on Kubernetes: Production Runtime Blueprint</a>

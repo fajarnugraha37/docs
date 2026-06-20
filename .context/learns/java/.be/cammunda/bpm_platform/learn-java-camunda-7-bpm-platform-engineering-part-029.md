@@ -1564,7 +1564,6 @@ part-030 — Advanced Patterns and Anti-Patterns: Saga, Process Manager, Orchest
 
 Di sana kita akan membedah pattern besar yang sering muncul di sistem enterprise: saga orchestration, process manager, choreography, event-driven workflow, integration glue, god process, dan bagaimana membedakan workflow orchestration yang sehat dari workflow yang menjadi bottleneck arsitektur.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-028.md">⬅️ Part 028 — Testing Strategy: Unit, Process Scenario, Integration, Contract, Migration, and Chaos Testing</a>

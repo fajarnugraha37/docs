@@ -1843,8 +1843,6 @@ Di sana kita akan membedah external task bukan sebagai “service task remote”
 - REST worker vs Java client,
 - dan kapan external task lebih tepat daripada JavaDelegate.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-009.md">⬅️ Part 009 — Expression Language, Delegation Code, Bean Resolution, dan Runtime Binding</a>

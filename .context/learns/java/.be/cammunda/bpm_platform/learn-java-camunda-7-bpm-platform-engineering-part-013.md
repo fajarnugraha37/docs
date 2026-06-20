@@ -2574,8 +2574,6 @@ Referensi utama yang relevan untuk bagian ini:
 
 Gunakan dokumentasi sesuai versi Camunda 7 yang dipakai di project. Untuk estate legacy, jangan mengasumsikan perilaku minor version terbaru tersedia di versi lama tanpa verifikasi.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-012.md">⬅️ Part 012 — Service Invocation Patterns: JavaDelegate vs External Task vs Message vs Outbox</a>

@@ -2541,7 +2541,6 @@ Part saat ini: 028 dari 035.
 Part berikutnya: 029 — Java Microservices on Kubernetes: Production Runtime Blueprint.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-kubernetes-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Service Mesh and East-West Traffic Control</a>

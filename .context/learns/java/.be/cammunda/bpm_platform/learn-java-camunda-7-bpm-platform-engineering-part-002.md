@@ -1893,7 +1893,6 @@ Topik berikutnya:
 Transaction Boundaries, Wait States, Atomic Operations, dan Consistency Model
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-7-bpm-platform-engineering-part-001.md">⬅️ Part 001 — Camunda 7 Architecture Deep Dive: Engine, Runtime, Services, Command Context</a>
