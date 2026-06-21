@@ -2547,8 +2547,6 @@ Berikutnya    : 06-environment-propertysource-profiles-config-binding.md
 
 Seri belum mencapai bagian terakhir.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./04-annotation-metadata-component-scanning-internals.md">⬅️ Part 4 — Annotation Metadata and Component Scanning Internals</a>

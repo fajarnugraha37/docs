@@ -1,0 +1,149 @@
+{
+  "series": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers",
+  "parts": "000-034",
+  "total_parts": 35,
+  "created_at_utc": "2026-06-21T15:11:09Z",
+  "files": [
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-000.md",
+      "size_bytes": 67478
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-001.md",
+      "size_bytes": 53823
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-002.md",
+      "size_bytes": 39545
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-003.md",
+      "size_bytes": 37625
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-004.md",
+      "size_bytes": 38142
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-005.md",
+      "size_bytes": 33281
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-006.md",
+      "size_bytes": 40825
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-007.md",
+      "size_bytes": 39758
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-008.md",
+      "size_bytes": 43952
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-009.md",
+      "size_bytes": 50227
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-010.md",
+      "size_bytes": 44502
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-011.md",
+      "size_bytes": 43241
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-012.md",
+      "size_bytes": 45276
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-013.md",
+      "size_bytes": 37418
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-014.md",
+      "size_bytes": 36905
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-015.md",
+      "size_bytes": 34620
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-016.md",
+      "size_bytes": 36937
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-017.md",
+      "size_bytes": 34938
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-018.md",
+      "size_bytes": 31584
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-019.md",
+      "size_bytes": 34698
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-020.md",
+      "size_bytes": 31228
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-021.md",
+      "size_bytes": 28791
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-022.md",
+      "size_bytes": 31066
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-023.md",
+      "size_bytes": 30250
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-024.md",
+      "size_bytes": 29203
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-025.md",
+      "size_bytes": 27440
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-026.md",
+      "size_bytes": 25843
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-027.md",
+      "size_bytes": 26766
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-028.md",
+      "size_bytes": 27419
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-029.md",
+      "size_bytes": 26408
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-030.md",
+      "size_bytes": 26900
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-031.md",
+      "size_bytes": 29889
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-032.md",
+      "size_bytes": 27247
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-033.md",
+      "size_bytes": 27252
+    },
+    {
+      "filename": "learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-034.md",
+      "size_bytes": 28859
+    }
+  ],
+  "missing": []
+}

@@ -3593,7 +3593,6 @@ Ketika sebuah constructor meminta dependency X,
 bagaimana tepatnya Spring menentukan bean mana yang diberikan?
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./00-spring-as-runtime-scope-roadmap.md">⬅️ Part 0 — Spring as a Runtime: Peta Mental, Scope, dan Batas Seri</a>

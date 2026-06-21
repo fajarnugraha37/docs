@@ -1759,8 +1759,6 @@ Top 1% engineer tidak hanya tahu cara menulis `.from().transform().handle()`. Ia
 
 Jika pertanyaan-pertanyaan itu bisa dijawab secara eksplisit, Spring Integration menjadi alat engineering yang kuat, bukan sekadar abstraksi tambahan.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./22-spring-messaging-jms-amqp-kafka-boundary.md">⬅️ Part 22 — Spring Messaging: JMS, AMQP/RabbitMQ, Kafka, and Integration Boundary</a>

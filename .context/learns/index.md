@@ -27,7 +27,7 @@
   [Buka jalur Java](java/index.md)
 - :material-source-branch: **General Engineering**
 
-  551 artikel tentang Git, fondasi engineering umum, dan topik lintas stack.
+  689 artikel tentang Git, fondasi engineering umum, dan topik lintas stack.
 
   [Buka jalur General](general/index.md)
 - :material-text-box-search-outline: **Katalog Lengkap**

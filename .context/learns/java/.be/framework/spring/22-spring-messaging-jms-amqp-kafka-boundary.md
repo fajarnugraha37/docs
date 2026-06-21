@@ -2504,7 +2504,6 @@ Berikutnya    : 23-spring-integration-enterprise-integration-patterns.md
 
 Part berikutnya akan membahas **Spring Integration and Enterprise Integration Patterns**: channel, endpoint, transformer, filter, router, splitter, aggregator, gateway, poller, error channel, flow DSL, transactional flow, dan kapan Spring Integration tepat dipakai dibanding BPM engine, message listener biasa, atau orchestration service.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./21-virtual-threads-concurrency-spring-java-21-25.md">⬅️ Part 21 — Virtual Threads, Concurrency, and Spring on Java 21–25</a>

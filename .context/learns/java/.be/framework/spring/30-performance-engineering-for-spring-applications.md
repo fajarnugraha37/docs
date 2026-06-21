@@ -2502,7 +2502,6 @@ Status        : belum selesai
 Berikutnya    : 31-spring-cloud-distributed-system-integration.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./29-native-image-aot-runtime-hints.md">⬅️ Native Image, AOT, Reflection, and Runtime Hints</a>

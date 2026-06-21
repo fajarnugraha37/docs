@@ -3034,7 +3034,6 @@ Series status  : not finished
 Next part      : 29-native-image-aot-runtime-hints.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./27-modular-monolith-spring-modulith.md">⬅️ Part 27 — Modular Monolith with Spring and Spring Modulith</a>

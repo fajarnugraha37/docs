@@ -2737,8 +2737,6 @@ Sisa          : 1 part terakhir
 
 Part berikutnya adalah capstone. Di sana semua konsep dari Part 0 sampai Part 34 akan digabungkan menjadi desain sistem Spring production-grade end-to-end.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./33-migration-engineering-spring5-6-7-boot2-3-4.md">⬅️ Part 33 — Migration Engineering: Spring 5 → 6 → 7, Boot 2 → 3 → 4</a>

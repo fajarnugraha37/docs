@@ -72,8 +72,12 @@ nav:
       - "Database":
           - "Overview": "general/database/index.md"
           - "Clickhouse": "general/database/clickhouse/index.md"
+          - "Elasticsearch": "general/database/elasticsearch/index.md"
           - "Mongodb": "general/database/mongodb/index.md"
+          - "Neo4j": "general/database/neo4j/index.md"
+          - "Questdb": "general/database/questdb/index.md"
           - "Redis": "general/database/redis/index.md"
+          - "Scylladb": "general/database/scylladb/index.md"
       - "Git": "general/git/index.md"
       - "Http":
           - "Overview": "general/http/index.md"

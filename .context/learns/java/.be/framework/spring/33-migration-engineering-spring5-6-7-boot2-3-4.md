@@ -2441,7 +2441,6 @@ Part 34 — Building Internal Spring Platform: Starters, Conventions, Guardrails
 Part 35 — Capstone: Designing a Production-Grade Spring System End-to-End
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./32-spring-security-advanced-authorization-policy.md">⬅️ Spring Security Advanced: Authorization Architecture and Policy Enforcement</a>

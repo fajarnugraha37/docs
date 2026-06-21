@@ -2715,7 +2715,6 @@ Berikutnya    : 18-spring-security-application-architecture.md
 
 Part berikutnya akan masuk ke **Spring Security Architecture for Spring Applications**: `SecurityFilterChain`, filter ordering, `AuthenticationManager`, `AuthenticationProvider`, `SecurityContext`, session/stateless behavior, CSRF/CORS integration, OAuth2 resource server/client, method security, JWT decoder, authority mapping, custom authentication, testing, dan misconfiguration failure model.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./16-validation-binding-conversion-data-boundary.md">⬅️ Part 16 — Validation, Binding, Conversion, and Data Boundary</a>

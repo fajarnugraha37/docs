@@ -2757,8 +2757,6 @@ Status        : belum selesai
 Berikutnya    : 13-rest-api-engineering-with-spring.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./11-spring-data-integration-model.md">⬅️ Part 11 — Spring Data Integration Model Without Repeating JPA</a>

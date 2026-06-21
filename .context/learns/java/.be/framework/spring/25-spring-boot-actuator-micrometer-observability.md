@@ -2585,7 +2585,6 @@ Status        : belum selesai
 Berikutnya    : 26-testing-spring-applications-at-scale.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./24-spring-batch-stateful-job-runtime.md">⬅️ Part 24 — Spring Batch Architecture: Stateful Job Runtime, Restartability, and Operational Recovery</a>

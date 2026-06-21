@@ -2605,8 +2605,6 @@ Part berikutnya akan membahas:
 
 Di sana fokusnya bukan mengulang JPA/Hibernate, tetapi memahami bagaimana Spring Data membangun repository proxy, query method, repository factory, fragment, auditing, exception translation, dan integration boundary lintas datastore.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./09-spring-aop-proxy-method-interception.md">⬅️ Spring AOP, Proxy Model, and Method Interception</a>

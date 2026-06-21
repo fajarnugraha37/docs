@@ -2103,7 +2103,6 @@ Status        : belum selesai
 Berikutnya    : 09-spring-aop-proxy-method-interception.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./07-spring-boot-auto-configuration-internals.md">⬅️ Part 7 — Spring Boot Auto-Configuration Internals</a>

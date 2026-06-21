@@ -1717,7 +1717,6 @@ Status        : belum selesai
 Berikutnya    : 32-spring-security-advanced-authorization-policy.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./30-performance-engineering-for-spring-applications.md">⬅️ Part 30 — Performance Engineering for Spring Applications</a>

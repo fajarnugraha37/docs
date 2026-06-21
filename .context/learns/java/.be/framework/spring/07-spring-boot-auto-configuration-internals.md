@@ -3516,7 +3516,6 @@ Status        : belum selesai
 Berikutnya    : 08-application-startup-bootstrap-failure-diagnostics.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./06-environment-propertysource-profiles-config-binding.md">⬅️ Environment, PropertySource, Profiles, and Config Binding</a>

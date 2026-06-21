@@ -2823,7 +2823,6 @@ Part berikutnya akan masuk ke:
 
 Di sana kita akan membahas bagaimana membangun aplikasi Spring besar yang tetap modular, terverifikasi boundary-nya, dan tidak berubah menjadi big ball of mud.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./25-spring-boot-actuator-micrometer-observability.md">⬅️ Part 25 — Spring Boot Actuator, Micrometer, Observability, and Runtime Operations</a>

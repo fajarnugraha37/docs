@@ -2299,8 +2299,6 @@ Status        : belum selesai
 Berikutnya    : 28-multitenancy-enterprise-platform-patterns.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./26-testing-spring-applications-at-scale.md">⬅️ Testing Spring Applications at Scale</a>

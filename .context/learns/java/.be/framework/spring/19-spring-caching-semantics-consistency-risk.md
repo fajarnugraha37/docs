@@ -2186,7 +2186,6 @@ Fokus berikutnya:
 - Spring Framework Reference — Transaction Management
 - Spring Framework Reference — AOP Proxying
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./18-spring-security-application-architecture.md">⬅️ Part 18 — Spring Security Application Architecture</a>
