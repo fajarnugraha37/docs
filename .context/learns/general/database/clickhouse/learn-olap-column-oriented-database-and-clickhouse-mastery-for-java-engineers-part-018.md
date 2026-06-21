@@ -2401,7 +2401,6 @@ Part berikutnya:
 Part 019 — Updates, Deletes, Deduplication, and Mutable Analytics
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Joins in ClickHouse: Algorithms, Dictionaries, Denormalization, and Trade-offs</a>

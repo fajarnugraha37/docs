@@ -1579,7 +1579,6 @@ Part berikutnya:
 
 - Part 005 — MergeTree Internals II: Background Merges, Mutations, TTL, and Part Explosion
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — ClickHouse Architecture Overview: Server, Tables, Parts, Blocks, and Pipelines</a>

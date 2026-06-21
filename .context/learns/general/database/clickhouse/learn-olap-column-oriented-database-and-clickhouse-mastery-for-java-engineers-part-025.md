@@ -2155,7 +2155,6 @@ Part berikutnya:
 Part 026 — Data Modeling Patterns: Events, Metrics, Logs, Traces, Audits, and Case Lifecycles
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Performance Engineering II: Query Optimization Patterns</a>

@@ -2150,7 +2150,6 @@ Part berikutnya:
 Part 017 — Joins in ClickHouse: Algorithms, Dictionaries, Denormalization, and Trade-offs
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Materialized Views II: Rollups, Pre-Aggregation, and Serving Tables</a>

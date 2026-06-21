@@ -2035,7 +2035,6 @@ Part berikutnya:
 Part 028 — Java Integration II: Spring Boot Analytics Service, Query Builder, Exports, and Operational Patterns
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Data Modeling Patterns: Events, Metrics, Logs, Traces, Audits, and Case Lifecycles</a>

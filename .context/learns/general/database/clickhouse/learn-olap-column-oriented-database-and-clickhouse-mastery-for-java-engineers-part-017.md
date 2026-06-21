@@ -2317,7 +2317,6 @@ Part berikutnya:
 Part 018 — ClickHouse Table Engines Beyond Basic MergeTree
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Projections, Data Skipping Indexes, and Secondary Access Paths</a>

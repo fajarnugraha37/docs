@@ -1803,8 +1803,6 @@ Part berikutnya:
 Part 008 — Partitioning Strategy: Lifecycle Boundary, Not Query Silver Bullet
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Schema Design for ClickHouse: Physical Design Before Logical Beauty</a>

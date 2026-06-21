@@ -2633,7 +2633,6 @@ Masih tersisa:
 Part 016 sampai Part 034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Materialized Views I: Incremental Transformation Mental Model</a>

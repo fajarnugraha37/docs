@@ -2771,8 +2771,6 @@ Seri belum selesai. Part berikutnya:
 Part 013 — Aggregation Deep Dive: GROUP BY, States, Approximation, and Memory
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Ingestion Architecture II: Streaming, CDC, Object Storage, and Batch Loads</a>

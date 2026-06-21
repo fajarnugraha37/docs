@@ -1733,7 +1733,6 @@ That is mastery.
 
 Seri selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Advanced Production Architectures and Case Studies: Multi-Tenant Analytics, Observability, Regulatory Reporting, and Cost Engineering</a>

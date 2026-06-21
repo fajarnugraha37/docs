@@ -1934,7 +1934,6 @@ Part berikutnya:
 Part 023 — Performance Engineering I: Reading EXPLAIN, Query Logs, and System Tables
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Distributed ClickHouse II: Consistency, Failover, Keeper, and Operational Realities</a>

@@ -121,7 +121,7 @@ nav:
           - "Cammunda": [{"Overview":"java/.be/cammunda/index.md"},{"Bpm Platform":"java/.be/cammunda/bpm_platform/index.md"},{"Zeebe":"java/.be/cammunda/zeebe/index.md"}]
           - "Database": [{"Overview":"java/.be/database/index.md"},{"Jpa":"java/.be/database/jpa/index.md"},{"Migration":"java/.be/database/migration/index.md"},{"Mybatis":"java/.be/database/mybatis/index.md"}]
           - "Design Patterns": "java/.be/design_pattern/index.md"
-          - "Framework": [{"Overview":"java/.be/framework/index.md"},{"Jersey":[{"Overview":"java/.be/framework/jersey/index.md"},{"Deployment":"java/.be/framework/jersey/deployment/index.md"},{"Glassfish":"java/.be/framework/jersey/glassfish/index.md"}]},{"Quarkus":"java/.be/framework/quarkus/index.md"}]
+          - "Framework": [{"Overview":"java/.be/framework/index.md"},{"Jersey":[{"Overview":"java/.be/framework/jersey/index.md"},{"Deployment":"java/.be/framework/jersey/deployment/index.md"},{"Glassfish":"java/.be/framework/jersey/glassfish/index.md"}]},{"Quarkus":"java/.be/framework/quarkus/index.md"},{"Spring":"java/.be/framework/spring/index.md"}]
           - "HTTP Client": "java/.be/http_client/index.md"
           - "Jms": "java/.be/jms/index.md"
           - "Mapper": "java/.be/mapper/index.md"

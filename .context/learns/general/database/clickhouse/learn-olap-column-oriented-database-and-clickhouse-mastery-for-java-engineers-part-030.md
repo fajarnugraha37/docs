@@ -1956,7 +1956,6 @@ Part berikutnya:
 Part 031 — Operations II: Security, Governance, Privacy, Access Control, and Compliance
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Production Ingestion Pipelines: Kafka, CDC, Backfills, Validation, and Reconciliation</a>

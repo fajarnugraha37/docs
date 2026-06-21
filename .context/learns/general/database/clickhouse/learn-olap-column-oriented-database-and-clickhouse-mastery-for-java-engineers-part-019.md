@@ -2700,7 +2700,6 @@ Part berikutnya:
 Part 020 — Distributed ClickHouse I: Shards, Replicas, Distributed Tables, and Query Routing
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — ClickHouse Table Engines Beyond Basic MergeTree</a>

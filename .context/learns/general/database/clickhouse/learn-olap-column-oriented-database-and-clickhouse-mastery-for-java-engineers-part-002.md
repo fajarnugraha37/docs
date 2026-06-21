@@ -2233,8 +2233,6 @@ Referensi yang relevan untuk part ini:
 6. ClickHouse engineering articles on why columnar databases are fast.
 7. Research and industry literature on columnar formats, vectorized execution, compression, and data skipping.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — OLAP Workload Anatomy: Queries, Facts, Dimensions, Events, and Metrics</a>

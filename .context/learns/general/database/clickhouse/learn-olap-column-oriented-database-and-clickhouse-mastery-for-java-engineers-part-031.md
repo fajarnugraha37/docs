@@ -1757,7 +1757,6 @@ Part berikutnya:
 Part 032 — Operations III: Backup, Restore, Disaster Recovery, Migration, and Upgrade Playbooks
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Operations I: Deployment, Configuration, Monitoring, Alerting, and Day-2 Runbooks</a>

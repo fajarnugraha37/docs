@@ -2405,7 +2405,6 @@ This is where schema design meets real application architecture.
 - ClickHouse Engineering — Database compression: encodings, codecs and ratios: https://clickhouse.com/resources/engineering/database-compression
 - ClickHouse Blog — Optimizing ClickHouse with schemas and codecs: https://clickhouse.com/blog/optimize-clickhouse-codecs-compression-schema
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Partitioning Strategy: Lifecycle Boundary, Not Query Silver Bullet</a>

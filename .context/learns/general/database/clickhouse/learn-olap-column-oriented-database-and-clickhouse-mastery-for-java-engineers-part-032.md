@@ -1837,7 +1837,6 @@ Part berikutnya:
 Part 033 — Advanced Production Architectures and Case Studies: Multi-Tenant Analytics, Observability, Regulatory Reporting, and Cost Engineering
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — Operations II: Security, Governance, Privacy, Access Control, and Compliance</a>

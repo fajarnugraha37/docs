@@ -2347,7 +2347,6 @@ We will go deeper into:
 - ClickHouse Docs — Manage data with TTL: https://clickhouse.com/docs/guides/developer/ttl
 - ClickHouse Docs — Dropping partitions: https://clickhouse.com/docs/managing-data/drop_partition
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Sorting Key Design: The Most Important Performance Decision</a>

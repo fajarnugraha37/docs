@@ -1915,7 +1915,6 @@ Part berikutnya:
 Part 022 — Cloud-Native ClickHouse: Object Storage, Separation of Compute/Storage, and SharedMergeTree
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Distributed ClickHouse I: Shards, Replicas, Distributed Tables, and Query Routing</a>

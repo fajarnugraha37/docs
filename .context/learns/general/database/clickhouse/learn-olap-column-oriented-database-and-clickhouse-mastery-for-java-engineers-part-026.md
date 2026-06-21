@@ -2346,7 +2346,6 @@ Part berikutnya:
 Part 027 — Java Integration I: JDBC, HTTP, Native Clients, Types, Batching, and Query APIs
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Performance Engineering III: CPU, Memory, Disk, Network, and Concurrency</a>

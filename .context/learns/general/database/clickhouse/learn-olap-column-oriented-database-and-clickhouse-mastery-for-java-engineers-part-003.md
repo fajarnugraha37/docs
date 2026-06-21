@@ -2827,7 +2827,6 @@ Part 034 final capstone
 
 Seri belum selesai. Ini adalah **Part 003 dari 034**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Columnar Storage Mental Model: From Rows to Columns to Compressed Blocks</a>

@@ -1785,7 +1785,6 @@ Progress saat ini:
 
 Total rencana seri: `35 part`, dari `part-000` sampai `part-034`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — MergeTree Internals I: Parts, Granules, Marks, Primary Index, and Sorting Key</a>

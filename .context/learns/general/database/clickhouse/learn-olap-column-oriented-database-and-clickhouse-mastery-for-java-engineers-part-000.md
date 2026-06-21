@@ -2156,7 +2156,6 @@ Di sana kita akan membedah bentuk workload OLAP secara lebih formal: fact, dimen
 
 **Status seri:** belum selesai. Ini adalah **Part 000 dari 35**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

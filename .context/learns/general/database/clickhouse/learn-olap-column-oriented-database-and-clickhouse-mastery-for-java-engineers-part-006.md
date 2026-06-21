@@ -2449,8 +2449,6 @@ Kita akan membahas lebih dalam:
 - regulatory case lifecycle pattern,
 - anti-pattern sorting key yang sering menghancurkan performa.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — MergeTree Internals II: Background Merges, Mutations, TTL, and Part Explosion</a>

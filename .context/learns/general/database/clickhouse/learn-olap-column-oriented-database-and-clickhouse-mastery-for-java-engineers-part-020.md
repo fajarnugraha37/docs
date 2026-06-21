@@ -2505,7 +2505,6 @@ Part berikutnya:
 Part 021 — Distributed ClickHouse II: Consistency, Failover, Keeper, and Operational Realities
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Updates, Deletes, Deduplication, and Mutable Analytics</a>

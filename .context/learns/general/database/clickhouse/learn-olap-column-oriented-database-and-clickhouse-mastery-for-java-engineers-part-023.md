@@ -2091,7 +2091,6 @@ Part berikutnya:
 Part 024 — Performance Engineering II: Query Optimization Patterns
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Cloud-Native ClickHouse: Object Storage, Separation of Compute/Storage, and SharedMergeTree</a>

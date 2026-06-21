@@ -1839,7 +1839,6 @@ Part berikutnya:
 Part 029 — Production Ingestion Pipelines: Kafka, CDC, Backfills, Validation, and Reconciliation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Java Integration I: JDBC, HTTP, Native Clients, Types, Batching, and Query APIs</a>

@@ -1596,7 +1596,6 @@ Part berikutnya adalah bagian terakhir:
 Part 034 — Capstone: ClickHouse Mastery Roadmap, System Design Review, Interview Playbook, and Top-1% Operating Principles
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Operations III: Backup, Restore, Disaster Recovery, Migration, and Upgrade Playbooks</a>

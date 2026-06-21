@@ -1644,7 +1644,6 @@ Di sana kita akan membedah kenapa columnar storage cepat secara fisik: row store
 
 Status seri: **belum selesai — Part 001 dari 034 selesai.**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation: Why OLAP Is a Different Engineering Discipline</a>

@@ -2431,7 +2431,6 @@ Sisa part berikutnya:
 - Part 033 — Comparative Architecture: ClickHouse vs Druid, Pinot, BigQuery, Snowflake, DuckDB, Elasticsearch
 - Part 034 — Capstone: Designing a Production-Grade Real-Time Analytics Platform
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Query Execution Model: From SQL Text to Pipeline Execution</a>

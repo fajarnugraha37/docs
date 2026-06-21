@@ -2965,7 +2965,6 @@ Di part berikutnya kita akan membahas jalur ingestion yang lebih besar dan lebih
 - exactly-once illusion,
 - dan architecture decision matrix untuk pipeline besar.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Data Types, Compression, Encoding, and Storage Cost Engineering</a>

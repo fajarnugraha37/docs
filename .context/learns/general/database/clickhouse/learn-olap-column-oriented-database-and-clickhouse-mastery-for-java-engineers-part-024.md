@@ -2309,7 +2309,6 @@ Part berikutnya:
 Part 025 — Performance Engineering III: CPU, Memory, Disk, Network, and Concurrency
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Performance Engineering I: Reading EXPLAIN, Query Logs, and System Tables</a>

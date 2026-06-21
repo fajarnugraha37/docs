@@ -2061,7 +2061,6 @@ Use these references for deeper verification and continued reading:
 7. ClickHouse Documentation — MergeTree Engine  
    `https://clickhouse.com/docs/engines/table-engines/mergetree-family/mergetree`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Aggregation Deep Dive: GROUP BY, States, Approximation, and Memory</a>

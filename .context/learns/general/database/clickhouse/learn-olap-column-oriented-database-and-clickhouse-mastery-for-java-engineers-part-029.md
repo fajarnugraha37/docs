@@ -1959,7 +1959,6 @@ Part berikutnya:
 Part 030 — Operations I: Deployment, Configuration, Monitoring, Alerting, and Day-2 Runbooks
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Java Integration II: Spring Boot Analytics Service, Query Builder, Exports, and Operational Patterns</a>

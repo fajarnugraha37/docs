@@ -2848,8 +2848,6 @@ Part berikutnya:
 Part 012 — Query Execution Model: From SQL Text to Pipeline Execution
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-olap-column-oriented-database-and-clickhouse-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Ingestion Architecture I: Inserts, Batching, Idempotency, and Backpressure</a>
