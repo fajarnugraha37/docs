@@ -2382,7 +2382,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-019.md
 Part 019 — Network Stack IV: Packet Path, NIC, qdisc, nftables, and Load Balancing
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Network Stack II: TCP Internals for Backend Engineers</a>

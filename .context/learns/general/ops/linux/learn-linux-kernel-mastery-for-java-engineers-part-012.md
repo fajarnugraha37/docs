@@ -2597,7 +2597,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-013.md
 Part 013 — Time, Clocks, Timers, and Latency Measurement
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — CPU Scheduling I: How Linux Decides What Runs</a>

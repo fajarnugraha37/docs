@@ -2371,7 +2371,6 @@ Part berikutnya:
 
 **Part 14 — JMS dan OpenMQ di GlassFish: Broker, Destination, MDB, Reliability**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-012.md">⬅️ Part 12 — JDBC Resources dan Connection Pool Engineering</a>

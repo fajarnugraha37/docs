@@ -2344,7 +2344,6 @@ Berikutnya:
 
 Seri **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-013.md">⬅️ Part 13 — Transaction Service: JTA, XA, Recovery, Timeout, dan Failure Semantics</a>

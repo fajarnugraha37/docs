@@ -1653,7 +1653,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-009.md
 Part 009 — Memory Model I: Virtual Memory and Address Space
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Virtual Filesystems: VFS, inode, dentry, mount</a>

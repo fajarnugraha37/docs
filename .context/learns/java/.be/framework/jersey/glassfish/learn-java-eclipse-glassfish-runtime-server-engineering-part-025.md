@@ -1719,7 +1719,6 @@ Part berikutnya:
 Part 26 — Containerization dan Kubernetes Deployment untuk GlassFish
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-024.md">⬅️ Part 24 — Troubleshooting Runtime Failures: Thread Dump, Heap Dump, Stuck Request, Deadlock, Timeout</a>

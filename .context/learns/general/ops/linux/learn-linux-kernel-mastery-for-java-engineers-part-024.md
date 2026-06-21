@@ -2520,7 +2520,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-025.md
 Part 025 — Observability II: strace, lsof, ss, perf, and eBPF
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Security Boundaries: Users, Groups, Capabilities, seccomp, LSM</a>

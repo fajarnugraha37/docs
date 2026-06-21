@@ -1771,7 +1771,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-035.md
 Part 035 — Final Synthesis: Linux Kernel Mental Models, Senior Engineering Heuristics, and Next Learning Roadmap
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Kernel Source Reading Guide: Syscall, Scheduler, Memory, Network, and Filesystem Paths</a>

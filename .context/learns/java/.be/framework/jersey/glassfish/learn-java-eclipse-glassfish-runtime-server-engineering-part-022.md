@@ -1941,7 +1941,6 @@ Part berikutnya:
 Part 23 — Memory, GC, Native Memory, Class Metadata, dan Leak Diagnosis
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-021.md">⬅️ Part 21 — Monitoring, Metrics, Health, JMX, dan Observability</a>

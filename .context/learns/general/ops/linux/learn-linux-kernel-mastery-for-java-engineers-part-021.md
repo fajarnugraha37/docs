@@ -2472,7 +2472,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-022.md
 Part 022 — Modern Linux I/O: io_uring, AIO, splice, sendfile, and zero-copy
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — DNS, Name Resolution, and Linux User-Space Networking</a>

@@ -2503,7 +2503,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-004.md
 Part 004 — Threads, Tasks, and the JVM Execution Model
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Boot Process, Init, systemd, and Runtime Lifecycle</a>

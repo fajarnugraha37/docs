@@ -2921,8 +2921,6 @@ Part berikutnya:
 Part 4 — asadmin Deep Dive: Admin CLI sebagai Automation Surface
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-002.md">⬅️ Part 2 — Installation, Distribution Layout, dan Runtime Anatomy</a>

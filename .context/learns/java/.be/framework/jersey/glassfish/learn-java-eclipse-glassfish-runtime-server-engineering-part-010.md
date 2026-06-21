@@ -1825,8 +1825,6 @@ Part berikutnya:
 Part 11 — Thread Pools, Executor Model, Blocking, Async, dan Virtual Threads
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-009.md">⬅️ Part 9 — GlassFish-Specific Descriptors dan Vendor Extension</a>

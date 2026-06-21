@@ -2949,7 +2949,6 @@ Seri **belum selesai**. Bagian berikutnya adalah:
 Part 9 — GlassFish-Specific Descriptors dan Vendor Extension
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-007.md">⬅️ Part 7 — Classloading Architecture: Parent Delegation, Isolation, Libraries, dan Konflik Dependency</a>

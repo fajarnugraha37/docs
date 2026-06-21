@@ -2644,7 +2644,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-006.md
 Part 006 — File Descriptors: The Universal Handle
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — Threads, Tasks, and the JVM Execution Model</a>

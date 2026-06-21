@@ -42,7 +42,6 @@ Included files:
 - learn-linux-kernel-mastery-for-java-engineers-part-034.md
 - learn-linux-kernel-mastery-for-java-engineers-part-035.md
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-035.md">⬅️ Part 035 — Final Synthesis: Linux Kernel Mental Models, Senior Engineering Heuristics, and Next Learning Roadmap</a>

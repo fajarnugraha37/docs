@@ -1541,7 +1541,6 @@ Part berikutnya:
 Part 32 — Production Architecture Patterns dengan GlassFish
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-030.md">⬅️ Part 30 — GlassFish Source Code, Modules, Build, dan Contribution-Level Understanding</a>

@@ -2436,7 +2436,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-018.md
 Part 018 — Network Stack III: epoll, Event Loops, and High-Concurrency Servers
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Network Stack I: From Socket API to Kernel</a>

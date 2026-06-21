@@ -2082,7 +2082,6 @@ Part berikutnya:
 Part 22 — Performance Tuning: JVM, GC, Thread, Pool, HTTP, DB, dan Deployment
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-020.md">⬅️ Part 20 — Logging Architecture: Server Logs, App Logs, JUL, Log Rotation, Correlation</a>

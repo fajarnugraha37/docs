@@ -2134,7 +2134,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-032.md
 Part 032 — Kernel Build, Modules, eBPF Internals, and Safe Experimentation Labs
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Production Failure Playbooks: CPU, Memory, Network, Disk, and Container Incidents</a>

@@ -38,7 +38,6 @@ Isi bundle:
 - `learn-java-eclipse-glassfish-runtime-server-engineering-part-033.md`
 - `learn-java-eclipse-glassfish-runtime-server-engineering-part-034.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

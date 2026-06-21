@@ -1361,7 +1361,6 @@ learn-linux-kernel-mastery-for-java-engineers
 
 telah mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-034.md">⬅️ Part 034 — Capstone: End-to-End Java Service on Linux/Kubernetes — Design, Deploy, Observe, Break, and Fix</a>

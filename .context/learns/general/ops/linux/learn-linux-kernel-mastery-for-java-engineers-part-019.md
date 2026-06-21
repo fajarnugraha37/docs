@@ -2624,7 +2624,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-020.md
 Part 020 — DNS, Name Resolution, and Linux User-Space Networking
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Network Stack III: epoll, Event Loops, and High-Concurrency Servers</a>

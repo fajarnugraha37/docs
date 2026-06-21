@@ -2229,8 +2229,6 @@ Skill ini membuat Anda mampu membedakan:
 
 Part ini membangun peta. Part berikutnya mulai membedah arsitektur Linux dari first principles.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

@@ -1869,7 +1869,6 @@ Part berikutnya:
 Part 16 — CDI/HK2 Boundary: Service Locator, Injection Runtime, dan Extension Point GlassFish
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-014.md">⬅️ Part 14 — JMS dan OpenMQ di GlassFish: Broker, Destination, MDB, Reliability</a>

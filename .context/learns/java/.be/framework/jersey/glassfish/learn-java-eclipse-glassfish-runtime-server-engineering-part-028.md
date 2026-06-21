@@ -1621,7 +1621,6 @@ Part berikutnya:
 Part 29 — Security Hardening dan Production Baseline
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-027.md">⬅️ Part 27 — CI/CD, Release Engineering, dan Safe Deployment Pipeline</a>

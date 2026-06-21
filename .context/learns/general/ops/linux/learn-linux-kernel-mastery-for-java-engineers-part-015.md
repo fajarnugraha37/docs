@@ -2116,7 +2116,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-016.md
 Part 016 — Network Stack I: From Socket API to Kernel
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Signals, Process Control, and Graceful Shutdown</a>

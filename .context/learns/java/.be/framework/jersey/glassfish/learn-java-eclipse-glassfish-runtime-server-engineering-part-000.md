@@ -1874,7 +1874,6 @@ Part berikutnya:
 
 > **Part 1 — Version Matrix, Compatibility, dan Migration Map dari Java 8 sampai Java 25**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-MANIFEST.md">⬅️ Complete Bundle</a>

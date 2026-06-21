@@ -2681,7 +2681,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-011.md
 Part 011 — CPU Scheduling I: How Linux Decides What Runs
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Memory Model I: Virtual Memory and Address Space</a>

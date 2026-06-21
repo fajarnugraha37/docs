@@ -2,9 +2,10 @@
 
 > Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
 
-Tersedia **33 artikel** dan **1 subkategori** pada bagian ini.
+Tersedia **33 artikel** dan **2 subkategori** pada bagian ini.
 
 ## Subkategori
+- [Deployment](./deployment/index.md)
 - [Glassfish](./glassfish/index.md)
 
 ## Artikel

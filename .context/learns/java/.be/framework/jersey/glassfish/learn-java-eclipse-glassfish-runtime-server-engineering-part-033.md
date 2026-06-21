@@ -1723,7 +1723,6 @@ Part berikutnya:
 Part 34 — Top 1% GlassFish Engineer Playbook: Invariants, Heuristics, dan Decision Framework
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-032.md">⬅️ Part 32 — Production Architecture Patterns dengan GlassFish</a>

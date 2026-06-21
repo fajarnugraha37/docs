@@ -2270,7 +2270,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-021.md
 Part 021 — Block I/O, Disks, Page Cache, and Storage Latency
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Network Stack IV: Packet Path, NIC, qdisc, nftables, and Load Balancing</a>

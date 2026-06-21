@@ -1872,7 +1872,6 @@ Part berikutnya:
 Part 25 — Clustering, Load Balancing, Session Replication, dan High Availability
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-023.md">⬅️ Part 23 — Memory, GC, Native Memory, Class Metadata, dan Leak Diagnosis</a>

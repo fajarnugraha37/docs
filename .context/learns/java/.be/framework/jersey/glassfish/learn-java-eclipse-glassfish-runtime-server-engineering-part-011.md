@@ -2146,8 +2146,6 @@ Part berikutnya:
 
 > **Part 12 — JDBC Resources dan Connection Pool Engineering**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-010.md">⬅️ Part 10 — HTTP Stack dan Grizzly Runtime Internals</a>

@@ -1500,7 +1500,6 @@ Part berikutnya:
 Part 30 — GlassFish Source Code, Modules, Build, dan Contribution-Level Understanding
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-028.md">⬅️ Part 28 — Legacy Modernization: GlassFish 4/5 Java EE ke GlassFish 7/8 Jakarta EE</a>

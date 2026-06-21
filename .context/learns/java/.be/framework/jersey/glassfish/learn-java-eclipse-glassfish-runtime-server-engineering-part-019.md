@@ -2157,7 +2157,6 @@ Part berikutnya:
 Part 20 — Logging Architecture: Server Logs, App Logs, JUL, Log Rotation, Correlation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-018.md">⬅️ Part 18 — Naming, JNDI, Resource References, dan Cross-Module Binding</a>

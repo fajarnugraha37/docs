@@ -1876,7 +1876,6 @@ Part berikutnya:
 Part 33 — Case Study: Building a Production-Grade GlassFish Runtime from Zero
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-031.md">⬅️ Part 31 — Comparative Engineering: GlassFish vs Payara vs WildFly vs Liberty vs Spring Boot</a>

@@ -1956,7 +1956,6 @@ Kenapa CPU limit kecil membuat GC, event loop, dan request handler saling mengga
 Bagaimana membaca cpu.max, cpu.stat, CPU quota, period, share/weight, dan cpuset?
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Memory Model II: Page Cache, Reclaim, Swap, and OOM</a>

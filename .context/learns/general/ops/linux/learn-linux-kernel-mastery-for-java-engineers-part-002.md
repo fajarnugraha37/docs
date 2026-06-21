@@ -2499,7 +2499,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-003.md
 Part 003 — Processes: The Real Runtime Unit
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Linux Architecture from First Principles</a>

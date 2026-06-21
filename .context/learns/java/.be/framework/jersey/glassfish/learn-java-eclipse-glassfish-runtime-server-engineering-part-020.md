@@ -2084,7 +2084,6 @@ Part berikutnya:
 Part 21 — Monitoring, Metrics, Health, JMX, dan Observability
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-019.md">⬅️ Part 19 — Resource Adapter / JCA Engineering</a>

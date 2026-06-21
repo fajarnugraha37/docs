@@ -2641,7 +2641,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-008.md
 Part 008 — Filesystem Semantics for Correct Applications
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — File Descriptors: The Universal Handle</a>

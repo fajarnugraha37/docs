@@ -2470,7 +2470,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-034.md
 Part 034 — Capstone: End-to-End Java Service on Linux/Kubernetes — Design, Deploy, Observe, Break, and Fix
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Kernel Build, Modules, eBPF Internals, and Safe Experimentation Labs</a>

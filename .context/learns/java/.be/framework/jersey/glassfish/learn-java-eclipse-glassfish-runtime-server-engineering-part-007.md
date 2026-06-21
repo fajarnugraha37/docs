@@ -2900,7 +2900,6 @@ Part berikutnya:
 
 **Part 8 — Deployment Model: WAR, EAR, EJB-JAR, RAR, App Client, dan Deployment Descriptor**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-006.md">⬅️ Part 6 — Bootstrap Lifecycle: Dari JVM Start sampai Aplikasi Ready</a>

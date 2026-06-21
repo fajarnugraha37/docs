@@ -2360,7 +2360,6 @@ Part berikutnya:
 Part 18 — Naming, JNDI, Resource References, dan Cross-Module Binding
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-016.md">⬅️ Part 16 — CDI/HK2 Boundary: Service Locator, Injection Runtime, dan Extension Point GlassFish</a>

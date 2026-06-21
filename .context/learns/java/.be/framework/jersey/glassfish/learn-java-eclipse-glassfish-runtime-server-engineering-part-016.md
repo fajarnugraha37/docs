@@ -2360,7 +2360,6 @@ Part berikutnya:
 
 **Part 17 — Security Runtime: Realm, Principal, Role Mapping, TLS, Admin Security, dan Secret Handling**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-015.md">⬅️ Part 15 — EJB Container Runtime: Pooling, Passivation, Timers, Remote Calls, dan ORB</a>

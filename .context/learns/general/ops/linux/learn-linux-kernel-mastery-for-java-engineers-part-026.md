@@ -2358,7 +2358,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-027.md
 Part 027 — Containers I: Namespaces from First Principles
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Observability II: strace, lsof, ss, perf, and eBPF</a>

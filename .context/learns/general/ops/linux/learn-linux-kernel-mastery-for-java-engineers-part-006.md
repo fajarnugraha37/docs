@@ -2338,7 +2338,6 @@ Part 007 — Virtual Filesystems: VFS, inode, dentry, mount
 Filename: learn-linux-kernel-mastery-for-java-engineers-part-007.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — System Calls: The Contract Between Java and Linux</a>

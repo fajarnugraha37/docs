@@ -2288,7 +2288,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-024.md
 Part 024 — Observability I: /proc, /sys, Kernel Counters, and Mental Models
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Modern Linux I/O: io_uring, AIO, splice, sendfile, and zero-copy</a>

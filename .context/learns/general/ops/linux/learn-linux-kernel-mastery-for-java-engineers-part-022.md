@@ -2203,7 +2203,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-023.md
 Part 023 — Security Boundaries: Users, Groups, Capabilities, seccomp, LSM
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Block I/O, Disks, Page Cache, and Storage Latency</a>

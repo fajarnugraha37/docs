@@ -2510,7 +2510,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-029.md
 Part 029 — Containers III: Images, OverlayFS, Runtime, CRI, and Kubernetes Node Internals
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Containers I: Namespaces from First Principles</a>

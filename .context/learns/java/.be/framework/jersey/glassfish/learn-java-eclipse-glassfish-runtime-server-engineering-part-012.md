@@ -2505,8 +2505,6 @@ Part berikutnya:
 
 Status seri: **belum selesai**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-011.md">⬅️ Part 11 — Thread Pools, Executor Model, Blocking, Async, dan Virtual Threads</a>

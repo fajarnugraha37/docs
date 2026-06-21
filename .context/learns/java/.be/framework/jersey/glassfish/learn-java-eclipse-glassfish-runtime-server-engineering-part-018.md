@@ -1753,7 +1753,6 @@ Part berikutnya:
 Part 19 — Resource Adapter / JCA Engineering
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-017.md">⬅️ Part 17 — Security Runtime: Realm, Principal, Role Mapping, TLS, Admin Security, dan Secret Handling</a>

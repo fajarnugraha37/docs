@@ -2115,7 +2115,6 @@ Part 002 — Boot Process, Init, systemd, and Runtime Lifecycle
 Filename: learn-linux-kernel-mastery-for-java-engineers-part-002.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation: Why Linux Kernel Matters for Java Engineers</a>

@@ -1860,8 +1860,6 @@ Part berikutnya:
 
 > **Part 10 — HTTP Stack dan Grizzly Runtime Internals**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-008.md">⬅️ Part 8 — Deployment Model: WAR, EAR, EJB-JAR, RAR, App Client, dan Deployment Descriptor</a>

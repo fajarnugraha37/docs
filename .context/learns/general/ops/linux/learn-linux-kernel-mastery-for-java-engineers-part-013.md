@@ -2424,7 +2424,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-014.md
 Part 014 — Signals, Process Control, and Graceful Shutdown
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — CPU Scheduling II: Cgroups, Quotas, Throttling, and Containers</a>

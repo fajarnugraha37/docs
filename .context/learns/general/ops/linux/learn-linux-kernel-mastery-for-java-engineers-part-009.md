@@ -1801,7 +1801,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-010.md
 Part 010 — Memory Model II: Page Cache, Reclaim, Swap, and OOM
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-008.md">⬅️ Learn Linux & Kernel Mastery for Java Engineers</a>

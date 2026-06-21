@@ -2168,7 +2168,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-015.md
 Part 015 — IPC: Pipes, Unix Sockets, Shared Memory, Futex
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Time, Clocks, Timers, and Latency Measurement</a>

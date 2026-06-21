@@ -2307,7 +2307,6 @@ Di Part 5, kita akan membahas tiga surface administrasi GlassFish:
 2. REST Admin API sebagai programmable admin surface.
 3. Configuration as Code sebagai pendekatan engineering untuk mencegah drift dan membuat domain configuration repeatable.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-003.md">⬅️ Part 3 — Domain Model: DAS, Instance, Node, Cluster, Config, dan Target</a>

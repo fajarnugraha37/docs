@@ -2589,7 +2589,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-017.md
 Part 017 — Network Stack II: TCP Internals for Backend Engineers
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — IPC: Pipes, Unix Sockets, Shared Memory, Futex</a>

@@ -2505,7 +2505,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-026.md
 Part 026 — Observability III: Flame Graphs, Off-CPU Analysis, JFR, and JVM-Kernel Correlation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Observability I: /proc, /sys, Kernel Counters, and Mental Models</a>

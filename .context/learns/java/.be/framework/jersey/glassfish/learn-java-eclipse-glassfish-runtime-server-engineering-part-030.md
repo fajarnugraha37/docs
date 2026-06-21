@@ -1828,7 +1828,6 @@ Part berikutnya:
 Part 31 — Comparative Engineering: GlassFish vs Payara vs WildFly vs Liberty vs Spring Boot
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-029.md">⬅️ Part 29 — Security Hardening dan Production Baseline</a>

@@ -2259,7 +2259,6 @@ Seri belum selesai.
 - Part 1: selesai.
 - Berikutnya: **Part 2 — Installation, Distribution Layout, dan Runtime Anatomy**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-000.md">⬅️ Part 0 — Orientation: GlassFish sebagai Runtime Enterprise, Bukan Sekadar Server Jakarta EE</a>

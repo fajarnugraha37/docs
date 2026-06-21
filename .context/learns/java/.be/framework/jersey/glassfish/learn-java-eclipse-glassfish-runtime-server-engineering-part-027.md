@@ -1729,7 +1729,6 @@ Part berikutnya:
 Part 28 — Legacy Modernization: GlassFish 4/5 Java EE ke GlassFish 7/8 Jakarta EE
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-026.md">⬅️ Part 26 — Containerization dan Kubernetes Deployment untuk GlassFish</a>

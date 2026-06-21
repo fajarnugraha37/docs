@@ -2378,7 +2378,6 @@ Part 3 — Domain Model: DAS, Instance, Node, Cluster, Config, dan Target
 
 Di part berikutnya kita akan membedah model domain lebih dalam: apa itu DAS, instance, node, cluster, config, target, bagaimana relasinya, dan bagaimana cara berpikir tentang GlassFish sebagai control plane + data plane.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-glassfish-runtime-server-engineering-part-001.md">⬅️ Part 1 — Version Matrix, Compatibility, dan Migration Map dari Java 8 sampai Java 25</a>

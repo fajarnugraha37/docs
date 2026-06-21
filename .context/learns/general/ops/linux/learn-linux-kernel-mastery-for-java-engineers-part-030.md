@@ -2596,7 +2596,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-031.md
 Part 031 — Performance Engineering: Methodology, Benchmarking, Load Testing, and Capacity Planning
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Containers III: Images, OverlayFS, Runtime, CRI, and Kubernetes Node Internals</a>

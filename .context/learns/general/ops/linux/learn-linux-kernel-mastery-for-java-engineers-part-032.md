@@ -2034,7 +2034,6 @@ learn-linux-kernel-mastery-for-java-engineers-part-033.md
 Part 033 — Kernel Source Reading Guide: Syscall, Scheduler, Memory, Network, and Filesystem Paths
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-linux-kernel-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — Performance Engineering: Methodology, Benchmarking, Load Testing, and Capacity Planning</a>
