@@ -1865,7 +1865,6 @@ Topik berikutnya:
 ENTRYPOINT and CMD: Process Contract, Override Semantics, PID 1
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Multi-Stage Build for Java: Maven, Gradle, JAR, Layers</a>

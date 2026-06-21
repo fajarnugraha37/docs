@@ -2397,7 +2397,6 @@ So Part 11 will compare:
 - Jakarta RESTful Web Services 4.0: https://jakarta.ee/specifications/restful-ws/4.0/
 - OpenJDK JDK 25 Project: https://openjdk.org/projects/jdk/25/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-009.md">⬅️ Part 9 — Classpath, Module Path, JPMS, dan Split-Package Problem</a>

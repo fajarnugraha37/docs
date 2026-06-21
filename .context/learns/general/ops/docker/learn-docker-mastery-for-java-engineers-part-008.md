@@ -2476,7 +2476,6 @@ Belum selesai: Part 009 sampai Part 031
 Part ini bukan bagian terakhir.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Docker Build Internals: Build Context, Cache, Layer Reuse, BuildKit</a>

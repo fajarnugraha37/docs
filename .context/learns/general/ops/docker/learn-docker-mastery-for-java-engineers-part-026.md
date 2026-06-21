@@ -1967,7 +1967,6 @@ Topik berikutnya:
 Local Developer Platform: Docker as Team Workflow Contract
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Multi-Platform Images: amd64, arm64, Buildx, Manifest Lists</a>

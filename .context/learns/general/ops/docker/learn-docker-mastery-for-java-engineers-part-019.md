@@ -2050,7 +2050,6 @@ Berikutnya:
 
 - Part 020 — Performance and Resource Management: CPU, Memory, IO, Startup, Image Size
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Image Supply Chain: Registry, Tags, Digests, SBOM, Signing, Scanning</a>

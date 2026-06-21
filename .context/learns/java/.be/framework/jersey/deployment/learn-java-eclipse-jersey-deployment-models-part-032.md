@@ -2140,7 +2140,6 @@ This turns conceptual mastery into operational skill.
 - Apache Tomcat 10.1 HTTP Connector Configuration Reference: https://tomcat.apache.org/tomcat-10.1-doc/config/http.html
 - Open Liberty Jakarta EE overview: https://openliberty.io/docs/latest/jakarta-ee.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-031.md">⬅️ Part 31 — Production Deployment Patterns and Decision Framework</a>

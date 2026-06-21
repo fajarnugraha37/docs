@@ -3278,8 +3278,6 @@ Progress seri:
 
 Seri belum selesai. Lanjut ke Part 014.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Docker Networking: Bridge, Host, None, DNS, Port Publishing</a>

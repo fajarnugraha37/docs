@@ -2319,7 +2319,6 @@ We will zoom into the traffic entry layer:
 - Kubernetes documentation — Pod Lifecycle: https://kubernetes.io/docs/concepts/workloads/pods/pod-lifecycle/
 - Kubernetes documentation — Assign Memory Resources to Containers and Pods: https://kubernetes.io/docs/tasks/configure-pod-container/assign-memory-resource/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-020.md">⬅️ Part 20 — Docker Deployment Model for Jersey</a>

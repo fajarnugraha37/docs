@@ -2874,8 +2874,6 @@ Belum selesai: Part 006 sampai Part 031
 
 Seri belum mencapai bagian terakhir.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — Container Lifecycle: Create, Start, Stop, Restart, Remove</a>

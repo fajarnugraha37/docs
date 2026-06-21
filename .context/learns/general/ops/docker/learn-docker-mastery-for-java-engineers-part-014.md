@@ -2567,7 +2567,6 @@ Belum selesai. Berikutnya:
 
 - Part 015 — Container Health: Healthcheck, Readiness, Liveness, Startup Semantics
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Docker Compose as Local System Model</a>

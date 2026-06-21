@@ -2227,7 +2227,6 @@ We will focus specifically on what changes when a Jersey application moves from 
 - Red Hat Developers — OpenJDK containers memory tuning: https://developers.redhat.com/articles/2023/03/07/overhauling-memory-tuning-openjdk-containers-updates
 - OpenJDK bug JDK-8230305 — cgroups v2 container awareness: https://bugs.openjdk.org/browse/JDK-8230305
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-019.md">⬅️ Part 19 — Fat Jar, Uber Jar, Thin Jar, dan Distribution Layout</a>

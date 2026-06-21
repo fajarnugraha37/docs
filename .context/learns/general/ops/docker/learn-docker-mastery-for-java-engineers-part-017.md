@@ -1954,7 +1954,6 @@ Belum selesai:
 
 - Part 018–031
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Configuration and Secrets: Env, Files, Build Args, Runtime Injection</a>

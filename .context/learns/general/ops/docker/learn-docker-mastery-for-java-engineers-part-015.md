@@ -2543,7 +2543,6 @@ Topik berikutnya:
 Configuration and Secrets: Env, Files, Build Args, Runtime Injection
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Compose for Java Development: Databases, Brokers, Mock Services</a>

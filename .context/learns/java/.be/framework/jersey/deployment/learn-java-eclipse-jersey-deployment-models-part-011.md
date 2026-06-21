@@ -2070,7 +2070,6 @@ We will evaluate where the built-in JDK server is useful, where it is dangerous,
 - Eclipse Jetty 12 documentation: https://jetty.org/docs/jetty/12.1/index.html
 - Jakarta RESTful Web Services 4.0: https://jakarta.ee/specifications/restful-ws/4.0/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-010.md">⬅️ Part 10 — Embedded Grizzly Deployment Model</a>

@@ -1938,7 +1938,6 @@ We will cover:
 - Eclipse Jetty 12.1 Threading Architecture: https://jetty.org/docs/jetty/12.1/programming-guide/arch/threads.html
 - Open Liberty documentation — Performance tuning: https://openliberty.io/docs/latest/performance-tuning.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-028.md">⬅️ Part 28 — Failure Modes: Startup, Runtime, Redeploy, Shutdown</a>

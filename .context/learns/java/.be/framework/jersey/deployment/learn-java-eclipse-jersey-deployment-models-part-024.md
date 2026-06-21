@@ -2112,7 +2112,6 @@ We will focus on:
 - AWS Application Load Balancer attributes: https://docs.aws.amazon.com/elasticloadbalancing/latest/application/application-load-balancers.html
 - AWS Load Balancer idle timeout configuration: https://docs.aws.amazon.com/elasticloadbalancing/latest/application/edit-load-balancer-attributes.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-023.md">⬅️ Part 23 — Threading Model Across Deployment Modes</a>

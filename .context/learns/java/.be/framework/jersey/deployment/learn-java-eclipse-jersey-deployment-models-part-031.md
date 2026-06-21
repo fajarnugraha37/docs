@@ -2178,7 +2178,6 @@ The final part will synthesize the entire series into a full end-to-end architec
 - Open Liberty feature overview: https://openliberty.io/docs/latest/reference/feature/feature-overview.html
 - IBM Liberty features documentation: https://www.ibm.com/docs/en/was-liberty/base?topic=management-liberty-features
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-030.md">⬅️ Part 30 — Migration Playbook: Jersey 2 → 3 → 4</a>

@@ -2349,7 +2349,6 @@ Total:   Part 000 sampai Part 031
 Next:    Part 008 — Multi-Stage Build for Java: Maven, Gradle, JAR, Layers
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Dockerfile Foundations: Instruction Semantics, Not Recipes</a>

@@ -2092,7 +2092,6 @@ We will map failure modes across the full lifecycle:
 - Apache Tomcat Monitoring and Managing Tomcat: https://tomcat.apache.org/tomcat-9.0-doc/monitoring.html
 - Apache Tomcat Access Log Valve documentation: https://tomcat.apache.org/tomcat-9.0-doc/config/valve.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-026.md">⬅️ Part 26 — Security Deployment Model</a>

@@ -2154,7 +2154,6 @@ We will compare:
 - Eclipse Jersey 2.x User Guide — Servlet containers without integrated JAX-RS implementation: https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest/user-guide.html
 - Jersey `ServletContainer` API: https://eclipse-ee4j.github.io/jersey.github.io/apidocs/2.35/jersey/org/glassfish/jersey/servlet/ServletContainer.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-014.md">⬅️ Part 14 — Jakarta EE Server Deployment: GlassFish, Payara, Open Liberty, WildFly, dan Runtime Managed Model</a>

@@ -2047,7 +2047,6 @@ Part berikutnya akan membahas deployment model lain yang mirip tetapi punya kons
 - Jakarta Servlet Specification: https://jakarta.ee/specifications/servlet/
 - Apache Tomcat Class Loader HOW-TO: https://tomcat.apache.org/tomcat-10.1-doc/class-loader-howto.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-004.md">⬅️ Part 4 — WAR Deployment Model di Servlet Container</a>

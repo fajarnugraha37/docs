@@ -1957,7 +1957,6 @@ Part berikutnya:
 Part 2 — Deployment Invariants: Apa yang Tidak Boleh Salah di Semua Model
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-000.md">⬅️ Part 0 — Orientation: Mental Model Deployment Jersey dari Java 8 sampai Java 25</a>

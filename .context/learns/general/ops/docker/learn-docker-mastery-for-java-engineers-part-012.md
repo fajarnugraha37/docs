@@ -2428,7 +2428,6 @@ Part berikutnya:
 
 - Part 013 — Docker Compose as Local System Model
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Filesystem and Volumes: Immutable Image, Mutable Runtime State</a>

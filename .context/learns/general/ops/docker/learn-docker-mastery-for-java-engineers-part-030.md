@@ -2251,7 +2251,6 @@ Capstone: Build a Production-Grade Dockerized Java Service
 
 Part berikutnya akan menjadi final capstone yang mengikat semua materi menjadi satu skenario end-to-end.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Failure Mode Catalogue: Docker Problems Senior Engineers Must Recognize</a>

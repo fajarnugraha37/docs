@@ -2126,7 +2126,6 @@ The goal is to understand where request code actually runs and how blocking, poo
 - ingress-nginx rewrite examples: https://kubernetes.github.io/ingress-nginx/examples/rewrite/
 - RFC 7239 — Forwarded HTTP Extension: https://www.rfc-editor.org/rfc/rfc7239
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-021.md">⬅️ Part 21 — Kubernetes Deployment Model</a>

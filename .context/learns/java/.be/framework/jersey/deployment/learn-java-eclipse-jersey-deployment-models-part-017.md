@@ -2161,7 +2161,6 @@ Part 18 will focus on:
 - Payara Documentation — Using the JDBC API for Database Access: https://docs.payara.fish/community/docs/Technical%20Documentation/Application%20Development/Using%20the%20JDBC%20API%20for%20Database%20Access.html
 - Payara Documentation — Elements of Deployment Descriptors: https://docs.payara.fish/community/docs/Technical%20Documentation/Payara%20Server%20Documentation/Application%20Deployment/Elements%20of%20Deployment%20Descriptors.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-016.md">⬅️ Part 16 — Jetty External Deployment: WAR vs Embedded Trade-Off</a>

@@ -2094,8 +2094,6 @@ Part berikutnya akan masuk ke mental model container sebagai process boundary: n
 - Status: seri belum selesai
 - Lanjut berikutnya: `learn-docker-mastery-for-java-engineers-part-001.md` — Container Mental Model: Process, Namespace, Cgroup, Filesystem Boundary
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

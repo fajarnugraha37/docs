@@ -1945,7 +1945,6 @@ We will go deeper into:
 - Java SE 25 API — `Executors`: https://docs.oracle.com/en/java/javase/25/docs/api/java.base/java/util/concurrent/Executors.html
 - Kubernetes Resource Management for Pods and Containers: https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-022.md">⬅️ Part 22 — Reverse Proxy and API Gateway Deployment</a>

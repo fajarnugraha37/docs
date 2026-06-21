@@ -2547,7 +2547,6 @@ learn-docker-mastery-for-java-engineers-part-028.md
 Production Readiness Without Kubernetes: Docker on VM, Systemd, Restart, Backup
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Docker Desktop vs Linux Server: Development Convenience vs Runtime Reality</a>

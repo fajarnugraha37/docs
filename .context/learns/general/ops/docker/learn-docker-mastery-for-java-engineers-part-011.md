@@ -1138,8 +1138,6 @@ Lanjut ke:
 learn-docker-mastery-for-java-engineers-part-012.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — ENTRYPOINT and CMD: Process Contract, Override Semantics, PID 1</a>

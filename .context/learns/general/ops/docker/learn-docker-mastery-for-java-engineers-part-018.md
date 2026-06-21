@@ -2292,7 +2292,6 @@ Part 019 — Base Image Strategy for Java: JDK, JRE, Alpine, Distroless, Slim
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Docker Security Fundamentals: Root, Capabilities, Seccomp, AppArmor</a>

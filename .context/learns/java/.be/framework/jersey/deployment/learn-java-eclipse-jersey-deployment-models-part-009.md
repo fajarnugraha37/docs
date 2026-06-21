@@ -2491,7 +2491,6 @@ To:
 - Jakarta EE Platform 11 specification page: https://jakarta.ee/specifications/platform/11/
 - OpenJDK JDK 25 project: https://openjdk.org/projects/jdk/25/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-008.md">⬅️ Part 8 — Programmatic Deployment with `ResourceConfig`</a>

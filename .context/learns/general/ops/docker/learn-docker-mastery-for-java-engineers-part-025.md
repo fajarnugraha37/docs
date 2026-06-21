@@ -1888,7 +1888,6 @@ Topik berikutnya:
 Docker Desktop vs Linux Server: Development Convenience vs Runtime Reality
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — CI/CD with Docker: Build Once, Cache Correctly, Promote Safely</a>

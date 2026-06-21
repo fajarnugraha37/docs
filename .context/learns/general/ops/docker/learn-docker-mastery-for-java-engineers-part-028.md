@@ -1994,7 +1994,6 @@ Judul berikutnya:
 Failure Mode Catalogue: Docker Problems Senior Engineers Must Recognize
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-027.md">⬅️ Local Developer Platform: Docker as Team Workflow Contract</a>

@@ -1878,7 +1878,6 @@ We will synthesize everything into decision patterns:
 - Apache Tomcat Jakarta EE migration tool: https://github.com/apache/tomcat-jakartaee-migration
 - OpenRewrite Jakarta migration recipe: https://docs.openrewrite.org/recipes/java/migrate/jakarta/javaxmigrationtojakarta
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-029.md">⬅️ Part 29 — Performance Engineering for Deployment Models</a>

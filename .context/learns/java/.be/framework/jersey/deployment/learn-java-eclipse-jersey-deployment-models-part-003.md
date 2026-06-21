@@ -2033,7 +2033,6 @@ Seri belum selesai. Part berikutnya:
 Part 4 — WAR Deployment Model di Servlet Container
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-002.md">⬅️ Part 2 — Deployment Invariants: Apa yang Tidak Boleh Salah di Semua Model</a>

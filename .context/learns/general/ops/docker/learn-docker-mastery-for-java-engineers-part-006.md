@@ -2251,7 +2251,6 @@ Belum selesai. Berikutnya:
 
 - Part 007 — Docker Build Internals: Build Context, Cache, Layer Reuse, BuildKit
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Docker CLI Fluency: From Command User to Runtime Inspector</a>

@@ -2255,7 +2255,6 @@ Selesai: Part 000 sampai Part 020
 Belum:   Part 021 sampai Part 031
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Base Image Strategy for Java: JDK, JRE, Alpine, Distroless, Slim</a>

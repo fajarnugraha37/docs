@@ -2457,7 +2457,6 @@ Docker for Automated Testing: Integration Test, Testcontainers, Ephemeral Infra
 
 Kita akan membahas bagaimana Docker dipakai untuk membuat test Java lebih realistis tanpa membuat test suite lambat, flaky, atau bergantung pada environment lokal developer.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Logging and Diagnostics: stdout, stderr, Drivers, Crash Forensics</a>

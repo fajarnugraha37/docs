@@ -2065,7 +2065,6 @@ Berikutnya:
 
 **Part 7 — Servlet Mapping Semantics: `/`, `/*`, `/api/*`, Extension Mapping, dan Edge Cases**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-005.md">⬅️ Part 5 — Jersey as Servlet: `ServletContainer` Deep Dive</a>

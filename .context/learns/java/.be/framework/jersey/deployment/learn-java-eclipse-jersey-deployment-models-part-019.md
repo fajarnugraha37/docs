@@ -1977,7 +1977,6 @@ We will go deeper into:
 - CycloneDX Maven Plugin: https://github.com/CycloneDX/cyclonedx-maven-plugin
 - SPDX Software Bill of Materials: https://spdx.dev/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-018.md">⬅️ Part 18 — Open Liberty Deployment: Feature-Based Runtime</a>

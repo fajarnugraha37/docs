@@ -2641,7 +2641,6 @@ Part 8  berikutnya
 Total rencana: 32 part
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-006.md">⬅️ Part 6 — Jersey as Servlet Filter: Filter-Based Deployment Model</a>

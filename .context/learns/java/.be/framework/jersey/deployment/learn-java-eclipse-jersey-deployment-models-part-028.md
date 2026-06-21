@@ -2046,7 +2046,6 @@ We will focus on:
 - Open Liberty getting started — logs and FFDC: https://openliberty.io/guides/getting-started.html
 - IBM documentation — Troubleshooting Liberty: https://www.ibm.com/docs/en/was-liberty/base?topic=troubleshooting-liberty
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-027.md">⬅️ Part 27 — Observability per Deployment Model</a>

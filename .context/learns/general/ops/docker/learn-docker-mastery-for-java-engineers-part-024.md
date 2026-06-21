@@ -2440,7 +2440,6 @@ Part 025–031 belum dibuat.
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Docker for Automated Testing: Integration Test, Testcontainers, Ephemeral Infra</a>

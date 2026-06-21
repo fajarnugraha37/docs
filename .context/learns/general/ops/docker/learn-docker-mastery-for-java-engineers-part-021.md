@@ -2116,7 +2116,6 @@ Dengan topik:
 Debugging Running Containers: exec, nsenter, Inspect, Events, Minimal Images
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Performance and Resource Management: CPU, Memory, IO, Startup, Image Size</a>

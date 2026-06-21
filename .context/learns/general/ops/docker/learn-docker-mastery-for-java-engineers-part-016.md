@@ -1900,7 +1900,6 @@ Docker Security Fundamentals: Root, Capabilities, Seccomp, AppArmor
 
 Status series: belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Container Health: Healthcheck, Readiness, Liveness, Startup Semantics</a>

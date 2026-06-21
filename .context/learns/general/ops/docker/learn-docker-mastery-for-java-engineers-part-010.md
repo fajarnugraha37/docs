@@ -1982,7 +1982,6 @@ Kita akan memisahkan dengan jelas:
 - backup/restore;
 - dan failure mode stateful container.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Java Runtime in Containers: Memory, CPU, GC, Signals</a>

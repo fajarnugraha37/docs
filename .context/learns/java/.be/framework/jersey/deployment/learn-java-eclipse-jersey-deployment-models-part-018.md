@@ -2106,7 +2106,6 @@ We will cover:
 - Open Liberty guide — Docker: https://openliberty.io/guides/docker.html
 - Open Liberty blog — Jakarta EE 11 Platform, Java 26, and more in 26.0.0.4-beta: https://openliberty.io/blog/2026/04/07/26.0.0.4-beta.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-017.md">⬅️ Part 17 — GlassFish/Payara Deployment: Reference Runtime, Jakarta EE Alignment, dan Admin Model</a>

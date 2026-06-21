@@ -1693,7 +1693,6 @@ We will focus on:
 - Eclipse Jetty 12.1 Quickstart: https://jetty.org/docs/jetty/12.1/operations-guide/quickstart/index.html
 - Eclipse Jersey documentation — Application Deployment and Runtime: https://eclipse-ee4j.github.io/jersey.github.io/documentation/latest3x/deployment.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-015.md">⬅️ Part 15 — Tomcat Deployment: Practical Production Model</a>

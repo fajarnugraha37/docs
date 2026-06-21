@@ -1900,7 +1900,6 @@ Referensi berikut digunakan sebagai basis faktual untuk orientasi part ini:
 5. Jakarta RESTful Web Services 4.0 Specification Page: https://jakarta.ee/specifications/restful-ws/4.0/
 6. OpenJDK JDK 25 Project Page: https://openjdk.org/projects/jdk/25/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

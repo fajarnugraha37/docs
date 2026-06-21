@@ -2317,7 +2317,6 @@ Berikutnya:
 Part 3 — The Hosting Contract: Bagaimana Request Masuk ke Jersey
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-001.md">⬅️ Part 1 — Version Matrix: Java 8–25, Jersey 2.x/3.x/4.x, `javax.*` vs `jakarta.*`</a>

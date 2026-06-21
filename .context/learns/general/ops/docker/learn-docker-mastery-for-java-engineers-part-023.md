@@ -2234,7 +2234,6 @@ Topik berikutnya:
 CI/CD with Docker: Build Once, Cache Correctly, Promote Safely
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Debugging Running Containers: `exec`, Inspect, Events, Minimal Images</a>

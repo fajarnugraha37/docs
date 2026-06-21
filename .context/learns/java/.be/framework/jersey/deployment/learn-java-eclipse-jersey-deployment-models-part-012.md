@@ -2123,7 +2123,6 @@ In Part 13 we will focus on:
 - Oracle JDK 25 API — `HttpsServer`: https://docs.oracle.com/en/java/javase/25/docs/api/jdk.httpserver/com/sun/net/httpserver/HttpsServer.html
 - Jakarta RESTful Web Services 4.0: https://jakarta.ee/specifications/restful-ws/4.0/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-011.md">⬅️ Part 11 — Embedded Jetty Deployment Model</a>

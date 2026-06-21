@@ -2088,7 +2088,6 @@ We will cover:
 - Docker documentation — Manage sensitive data with Docker secrets: https://docs.docker.com/engine/swarm/secrets/
 - Open Liberty server configuration overview: https://openliberty.io/docs/latest/reference/config/server-configuration-overview.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-024.md">⬅️ Part 24 — Connection, Timeout, and Backpressure Engineering</a>

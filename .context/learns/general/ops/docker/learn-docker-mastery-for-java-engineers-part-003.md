@@ -2076,7 +2076,6 @@ Topik berikutnya:
 Container Lifecycle: Create, Start, Stop, Restart, Remove
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Docker Architecture: Client, Daemon, Engine, containerd, runc</a>

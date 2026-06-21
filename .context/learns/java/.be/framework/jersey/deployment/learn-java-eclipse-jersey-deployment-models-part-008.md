@@ -2669,8 +2669,6 @@ Part 9  — berikutnya
 Part 32 — target akhir seri
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-007.md">⬅️ Servlet Mapping Semantics: `/`, `/*`, `/api/*`, Extension Mapping, dan Edge Cases</a>

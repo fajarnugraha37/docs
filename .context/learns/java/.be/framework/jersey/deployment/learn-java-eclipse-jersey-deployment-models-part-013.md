@@ -1811,7 +1811,6 @@ Part 14 will focus on:
 - Maven Central — `jersey-container-netty-http`: https://repo1.maven.org/maven2/org/glassfish/jersey/containers/jersey-container-netty-http/
 - Jakarta RESTful Web Services 4.0: https://jakarta.ee/specifications/restful-ws/4.0/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-012.md">⬅️ Part 12 — JDK HTTP Server and Lightweight Deployment</a>

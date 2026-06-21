@@ -2137,7 +2137,6 @@ So Part 15 will focus on:
 - Payara Enterprise documentation — Class Loaders: https://docs.payara.fish/enterprise/docs/Technical%20Documentation/Application%20Development/Class%20Loaders.html
 - Open Liberty guide — Creating a RESTful web service: https://openliberty.io/guides/rest-intro.html
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-013.md">⬅️ Part 13 — Netty-Based Deployment Model</a>

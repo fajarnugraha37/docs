@@ -2294,8 +2294,6 @@ Fokus berikutnya:
 - `docker port`
 - membaca Docker CLI sebagai runtime observability interface, bukan sekadar daftar command
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Image Mental Model: Layer, Digest, Tag, Manifest, Platform</a>

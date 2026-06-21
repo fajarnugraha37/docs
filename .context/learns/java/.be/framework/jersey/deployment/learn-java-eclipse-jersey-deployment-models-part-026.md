@@ -2002,7 +2002,6 @@ We will cover:
 - RFC 9110 — HTTP Semantics: https://www.rfc-editor.org/rfc/rfc9110.html
 - RFC 7239 — Forwarded HTTP Extension: https://www.rfc-editor.org/rfc/rfc7239
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-eclipse-jersey-deployment-models-part-025.md">⬅️ Part 25 — Deployment-Time Configuration Architecture</a>

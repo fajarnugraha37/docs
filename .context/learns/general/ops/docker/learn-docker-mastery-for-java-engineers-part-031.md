@@ -1375,8 +1375,6 @@ Daftar part yang telah selesai:
 - Part 030 — Design Patterns and Anti-Patterns for Java Services in Docker
 - Part 031 — Capstone: Build a Production-Grade Dockerized Java Service
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-docker-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Design Patterns and Anti-Patterns for Java Services in Docker</a>
