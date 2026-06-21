@@ -2881,8 +2881,6 @@ Referensi yang relevan untuk part ini:
 9. Elastic documentation — ICU analysis plugin.
 10. Elastic documentation — ICU folding / normalization / transform filters.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Highlighting, Suggestions, Autocomplete, and Spell Correction</a>

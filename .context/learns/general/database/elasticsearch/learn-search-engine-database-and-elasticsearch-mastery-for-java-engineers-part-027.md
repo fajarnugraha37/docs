@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-027.md
 
 # Part 027 — Failure Modes and Incident Response
@@ -2193,7 +2192,6 @@ Topics:
 - Elastic Docs — Task queue backlog: https://www.elastic.co/docs/troubleshoot/elasticsearch/task-queue-backlog
 - Elastic Docs — Fix common cluster issues: https://www.elastic.co/docs/troubleshoot/elasticsearch/fix-common-cluster-issues
 - Elastic Docs — Size your shards: https://www.elastic.co/docs/deploy-manage/production-guidance/optimize-performance/size-shards
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

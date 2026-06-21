@@ -1795,7 +1795,6 @@ Dengan kata lain, Part 002 mulai menjawab:
 Part 001 selesai.  
 Seri belum selesai. Lanjut ke Part 002: `Information Retrieval Core Model`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-000.md">⬅️ Learn Search Engine Database and Elasticsearch Mastery for Java Engineers — Part 000</a>

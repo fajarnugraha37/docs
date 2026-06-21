@@ -1899,7 +1899,6 @@ Part berikutnya:
 
 - Part 011 — Relevance Engineering II: Domain-Aware Ranking
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Full-Text Query Patterns</a>

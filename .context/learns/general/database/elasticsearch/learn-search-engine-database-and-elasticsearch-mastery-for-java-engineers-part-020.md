@@ -3321,8 +3321,6 @@ Security and performance are connected: permission filters add cost, DLS/FLS can
 - Elastic Docs — Security limitations: https://www.elastic.co/docs/deploy-manage/security/limitations
 - Elastic Docs — Elasticsearch REST APIs / Security APIs: https://www.elastic.co/docs/reference/elasticsearch/rest-apis
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Multilingual and Domain-Specific Search</a>

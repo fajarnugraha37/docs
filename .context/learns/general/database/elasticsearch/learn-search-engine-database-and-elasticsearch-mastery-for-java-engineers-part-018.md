@@ -2738,7 +2738,6 @@ Dengan kata lain, Part 019 akan menjawab:
 - Elastic Documentation — Fuzzy query: https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-fuzzy-query
 - Elastic Documentation — `search_analyzer`: https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/search-analyzer
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Search API Design for Backend Engineers</a>

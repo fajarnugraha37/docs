@@ -2532,8 +2532,6 @@ Fokus berikutnya:
 - search latency decomposition
 - why shard count is a design decision
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Information Retrieval Core Model</a>

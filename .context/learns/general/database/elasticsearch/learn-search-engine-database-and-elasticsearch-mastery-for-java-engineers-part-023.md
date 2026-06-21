@@ -2043,7 +2043,6 @@ Part 024 menjawab:
 
 > “Bagaimana topology itu tetap sehat ketika data terus bertambah dan menua?”
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Performance Engineering II: Indexing Performance</a>

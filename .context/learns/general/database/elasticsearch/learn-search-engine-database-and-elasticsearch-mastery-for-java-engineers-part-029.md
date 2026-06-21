@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-029.md
 
 # Part 029 — Advanced Search Features
@@ -2015,7 +2014,6 @@ Topics:
 - Elastic Docs — Terms query and terms lookup: https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-terms-query
 - Elastic Docs — Search shard routing and preference: https://www.elastic.co/docs/reference/elasticsearch/rest-apis/search-shard-routing
 - Elastic Docs — Retrieve selected fields: https://www.elastic.co/docs/reference/elasticsearch/rest-apis/retrieve-selected-fields
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

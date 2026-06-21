@@ -2120,7 +2120,6 @@ Top-tier Elasticsearch systems treat both as first-class architecture concerns.
 - Elastic Docs — Data tiers: https://www.elastic.co/docs/manage-data/lifecycle/data-tiers
 - Elastic Docs — Configure lifecycle policy: https://www.elastic.co/docs/manage-data/lifecycle/index-lifecycle-management/configure-lifecycle-policy
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Shard, Replica, and Capacity Planning</a>

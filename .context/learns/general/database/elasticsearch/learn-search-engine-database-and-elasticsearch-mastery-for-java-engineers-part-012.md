@@ -3091,8 +3091,6 @@ Ini akan melengkapi Part 012 karena search UX production selalu menggabungkan:
 query + filter + facet + sort + pagination
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Relevance Engineering II: Domain-Aware Ranking</a>

@@ -2310,7 +2310,6 @@ Kita akan masuk ke integrasi Java secara lebih konkret:
 
 Seri belum selesai. Ini adalah Part 015 dari total 035 part.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-014.md">⬅️ Learn Search Engine Database and Elasticsearch Mastery for Java Engineers</a>

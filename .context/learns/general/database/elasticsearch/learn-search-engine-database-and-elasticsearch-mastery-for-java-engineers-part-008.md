@@ -2954,8 +2954,6 @@ Kita akan masuk lebih dalam ke:
 - autocomplete architecture,
 - dan bagaimana membangun search UI behavior yang sesuai dengan backend query reality.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Text Analysis Pipeline</a>

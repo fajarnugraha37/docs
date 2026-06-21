@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-030.md
 
 # Part 030 — Vector Search and Semantic Search
@@ -1827,7 +1826,6 @@ Topics:
 - Elastic Docs — ELSER: https://www.elastic.co/docs/explore-analyze/machine-learning/nlp/ml-nlp-elser
 - Elastic Docs — Hybrid search with semantic_text: https://www.elastic.co/docs/solutions/search/hybrid-semantic-text
 - Elastic Docs — Optimize dense vector storage for semantic search: https://www.elastic.co/docs/solutions/search/vector/vector-storage-for-semantic-search
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

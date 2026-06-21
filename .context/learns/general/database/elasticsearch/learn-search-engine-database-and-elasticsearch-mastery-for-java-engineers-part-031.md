@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-031.md
 
 # Part 031 — Hybrid Search and RAG-Oriented Retrieval
@@ -1855,7 +1854,6 @@ Topics:
 - Elastic Docs — Semantic search: https://www.elastic.co/docs/solutions/search/semantic-search
 - Elastic Docs — kNN query: https://www.elastic.co/docs/reference/query-languages/query-dsl/query-dsl-knn-query
 - Elastic Docs — Get started with vector search / RRF example: https://www.elastic.co/docs/solutions/search/get-started/semantic-search
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

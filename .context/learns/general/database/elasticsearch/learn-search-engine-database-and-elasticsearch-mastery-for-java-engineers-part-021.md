@@ -2335,7 +2335,6 @@ Kita akan membahas bulk sizing, refresh interval, replica strategy saat backfill
 
 Status seri: belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Security, Authorization, and Permission-Aware Search</a>

@@ -2571,8 +2571,6 @@ Referensi utama yang relevan untuk part ini:
 - Elastic API Docs — Cat shards API.
 - Apache Lucene documentation — index package and segment concepts.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Apache Lucene Under the Hood</a>

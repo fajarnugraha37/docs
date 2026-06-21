@@ -2485,8 +2485,6 @@ Topik:
 
 Kita akan membahas mapping sebagai schema search: `text` vs `keyword`, dynamic mapping, multi-fields, doc values, `_source`, field explosion, templates, mapping immutability, dan governance mapping untuk sistem besar.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — Elasticsearch Architecture Deep Dive</a>

@@ -2074,7 +2074,6 @@ Kita akan membahas bagaimana filter dan facet membentuk search experience, bagai
 - Elastic Documentation — Painless score context
 - Elastic Documentation — Search API
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Relevance Engineering I: Scoring, Ranking, and BM25</a>

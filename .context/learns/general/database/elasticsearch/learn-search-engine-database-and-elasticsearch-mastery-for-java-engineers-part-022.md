@@ -1967,8 +1967,6 @@ Part 023: how to size the cluster so writes and reads have room to survive
 - Elastic Docs — Task queue backlog troubleshooting.
 - Elastic Docs — General index settings.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Performance Engineering I: Query Performance</a>

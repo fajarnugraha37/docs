@@ -3063,7 +3063,6 @@ Indexing is about making sure the right searchable state exists in the first pla
 - Elastic Documentation — Sort search results: `https://www.elastic.co/docs/reference/elasticsearch/rest-apis/sort-search-results`
 - Elastic Documentation — Index sorting: `https://www.elastic.co/docs/reference/elasticsearch/index-settings/sorting`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Filtering, Faceting, and Aggregations for Search UX</a>

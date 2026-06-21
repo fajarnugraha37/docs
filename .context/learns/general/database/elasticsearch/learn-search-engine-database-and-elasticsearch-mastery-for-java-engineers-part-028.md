@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-028.md
 
 # Part 028 — Backup, Restore, Disaster Recovery, and Data Repair
@@ -2148,7 +2147,6 @@ Topics:
 - Elastic Docs — Searchable snapshots: https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore/searchable-snapshots
 - Elastic Docs — Searchable snapshot ILM action: https://www.elastic.co/docs/reference/elasticsearch/index-lifecycle-actions/ilm-searchable-snapshot
 - Elastic Docs — Modify a data stream: https://www.elastic.co/docs/manage-data/data-store/data-streams/modify-data-stream
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

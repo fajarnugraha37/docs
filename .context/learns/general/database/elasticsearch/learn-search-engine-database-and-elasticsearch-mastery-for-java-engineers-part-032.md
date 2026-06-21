@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-032.md
 
 # Part 032 — Relevance Testing, Evaluation, and Continuous Improvement
@@ -1708,7 +1707,6 @@ Topics:
 - Elastic Docs — Hybrid search: https://www.elastic.co/docs/solutions/search/hybrid-search
 - Elastic Docs — Search templates: https://www.elastic.co/docs/solutions/search/search-templates
 - Elastic Docs — Search profile API: https://www.elastic.co/docs/reference/elasticsearch/rest-apis/search-profile
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

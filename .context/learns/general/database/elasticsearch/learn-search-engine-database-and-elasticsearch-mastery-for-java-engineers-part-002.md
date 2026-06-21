@@ -2042,8 +2042,6 @@ Dengan Part 002, Anda sudah punya vocabulary untuk memahami Lucene bukan sebagai
 - Elastic Blog — Practical BM25 Part 2 menjelaskan intuisi BM25, termasuk query terms, inverse document frequency, term frequency, dan document length.
 - Lucene BM25Similarity API Documentation — menjelaskan kebutuhan scoring seperti collection-level weight, IDF, dan average document length.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Search Problem Fundamentals: From Lookup to Relevance</a>

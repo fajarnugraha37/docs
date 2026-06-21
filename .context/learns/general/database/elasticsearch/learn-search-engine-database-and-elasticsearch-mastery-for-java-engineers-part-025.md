@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-025.md
 
 # Part 025 — Schema Evolution and Zero-Downtime Reindexing
@@ -3163,7 +3162,6 @@ Topics:
 - Elastic Docs — Index basics: https://www.elastic.co/docs/manage-data/data-store/index-basics
 - Elastic Docs — Migrate data with minimal downtime: https://www.elastic.co/docs/manage-data/migrate/migrate-data-between-elasticsearch-clusters-with-minimal-downtime
 - Elastic Docs — Modify a data stream: https://www.elastic.co/docs/manage-data/data-store/data-streams/modify-data-stream
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

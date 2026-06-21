@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-026.md
 
 # Part 026 — Observability and Production Operations
@@ -2647,7 +2646,6 @@ Topics:
 - Elastic Docs — High CPU usage and hot threads: https://www.elastic.co/docs/troubleshoot/elasticsearch/high-cpu-usage
 - Elastic Docs — Clusters, nodes, and shards: https://www.elastic.co/docs/deploy-manage/distributed-architecture/clusters-nodes-shards
 - Elastic Docs — Tune for search speed: https://www.elastic.co/docs/deploy-manage/production-guidance/optimize-performance/search-speed
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

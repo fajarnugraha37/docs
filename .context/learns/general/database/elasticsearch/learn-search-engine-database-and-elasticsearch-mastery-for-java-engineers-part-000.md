@@ -2542,7 +2542,6 @@ Referensi berikut digunakan untuk memastikan istilah teknis dan positioning mode
 8. Apache Lucene API — BM25Similarity  
    <https://lucene.apache.org/core/9_12_0/core/org/apache/lucene/search/similarities/BM25Similarity.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

@@ -2564,8 +2564,6 @@ Referensi yang relevan untuk part ini:
 - Elastic Docs — Data streams and ILM concepts.
 - Elastic Docs — Index settings, especially refresh interval.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Pagination, Sorting, and Result Window Design</a>

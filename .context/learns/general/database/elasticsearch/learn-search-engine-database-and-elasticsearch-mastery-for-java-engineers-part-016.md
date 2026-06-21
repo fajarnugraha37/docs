@@ -2564,7 +2564,6 @@ Part berikutnya akan naik ke level API design:
 - Elastic — Near real-time search: https://www.elastic.co/docs/manage-data/data-store/near-real-time-search
 - Elastic — Optimistic concurrency control: https://www.elastic.co/docs/reference/elasticsearch/rest-apis/optimistic-concurrency-control
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-015.md">⬅️ Learn Search Engine Database and Elasticsearch Mastery for Java Engineers</a>

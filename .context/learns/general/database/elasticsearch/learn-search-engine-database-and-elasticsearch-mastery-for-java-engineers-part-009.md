@@ -2500,7 +2500,6 @@ Jika Part 009 adalah tentang memilih query pattern, Part 010 adalah tentang mema
 **Part selesai:** 009 / 034.  
 **Next:** Part 010 — Relevance Engineering I: Scoring, Ranking, and BM25.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Query DSL Foundations</a>

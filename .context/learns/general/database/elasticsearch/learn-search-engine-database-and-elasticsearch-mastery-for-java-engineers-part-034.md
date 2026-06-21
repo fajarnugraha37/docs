@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-034.md
 
 # Part 034 — End-to-End Capstone: Production-Grade Java + Elasticsearch Search Platform
@@ -1637,7 +1636,6 @@ It is knowing how to turn domain truth into secure, relevant, observable, repair
 - Elastic Docs — Security limitations: https://www.elastic.co/docs/deploy-manage/security/limitations
 - Elastic Docs — Security event audit logging: https://www.elastic.co/docs/deploy-manage/security/logging-configuration/security-event-audit-logging
 - Elastic Docs — Snapshot and restore: https://www.elastic.co/docs/deploy-manage/tools/snapshot-and-restore
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

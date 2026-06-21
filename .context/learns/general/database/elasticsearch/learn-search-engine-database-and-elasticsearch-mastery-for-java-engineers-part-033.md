@@ -1,4 +1,3 @@
-
 # learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-033.md
 
 # Part 033 — Elasticsearch in Enterprise / Regulatory Case Management Systems
@@ -2052,7 +2051,6 @@ It will combine the entire series into a practical reference architecture:
 - Elastic Docs — Hybrid search with semantic_text: https://www.elastic.co/docs/solutions/search/hybrid-semantic-text
 - Elastic Docs — RAG: https://www.elastic.co/docs/solutions/search/rag
 - Elastic Docs — Field data types: https://www.elastic.co/docs/reference/elasticsearch/mapping-reference/field-data-types
-
 
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">

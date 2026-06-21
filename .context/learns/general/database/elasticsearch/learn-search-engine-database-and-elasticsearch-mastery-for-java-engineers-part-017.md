@@ -2694,8 +2694,6 @@ Part 018 akan masuk ke fitur search UX yang sering berada di atas API ini:
 
 Jika Part 017 adalah kontrak search API, Part 018 adalah bagaimana membuat search terasa responsif, membantu, dan ramah user tanpa mengorbankan correctness dan performance.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-search-engine-database-and-elasticsearch-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Java Integration Mastery</a>
