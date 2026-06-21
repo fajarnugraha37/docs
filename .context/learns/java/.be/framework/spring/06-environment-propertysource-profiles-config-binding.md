@@ -2825,7 +2825,6 @@ Status        : belum selesai
 Berikutnya    : 07-spring-boot-auto-configuration-internals.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./05-configuration-model-bean-full-lite-mode.md">⬅️ Part 5 — Configuration Model: `@Configuration`, `@Bean`, Lite Mode, Full Mode</a>

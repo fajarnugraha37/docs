@@ -2109,7 +2109,6 @@ Status        : belum selesai
 Berikutnya    : 15-spring-http-clients-restclient-webclient-http-interface.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./13-rest-api-engineering-with-spring.md">⬅️ Part 13 — REST API Engineering with Spring MVC and Boot</a>

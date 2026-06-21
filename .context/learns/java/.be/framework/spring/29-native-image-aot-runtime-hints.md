@@ -2405,7 +2405,6 @@ Status        : belum selesai
 Berikutnya    : 30-performance-engineering-for-spring-applications.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./28-multitenancy-enterprise-platform-patterns.md">⬅️ Part 28 — Multi-Tenancy, Multi-Module, and Enterprise Platform Patterns</a>

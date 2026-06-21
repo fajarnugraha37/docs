@@ -2578,7 +2578,6 @@ Status        : belum selesai
 Berikutnya    : 10-spring-transaction-management-beyond-transactional.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./08-application-startup-bootstrap-failure-diagnostics.md">⬅️ Part 8 — Application Startup, Bootstrap, Failure Analysis, and Diagnostics</a>

@@ -1839,8 +1839,6 @@ Part berikutnya akan masuk ke:
 
 Fokusnya adalah bagaimana Spring mengubah input mentah menjadi object aplikasi melalui conversion, binding, validation, method validation, dan data boundary yang aman.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./14-webflux-reactive-spring-architecture.md">⬅️ Part 14 — WebFlux and Reactive Spring Architecture</a>

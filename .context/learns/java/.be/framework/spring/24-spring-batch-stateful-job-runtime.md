@@ -1997,7 +1997,6 @@ Bagian berikutnya akan masuk ke:
 
 Di sana kita akan membahas bagaimana Spring Boot Actuator, Micrometer, Observation API, health/readiness/liveness, metrics, traces, dan custom business observability dipakai untuk membuat Spring application benar-benar operable di production.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./23-spring-integration-enterprise-integration-patterns.md">⬅️ Part 23 — Spring Integration and Enterprise Integration Patterns</a>

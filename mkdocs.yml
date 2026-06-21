@@ -73,7 +73,9 @@ nav:
           - "Overview": "general/database/index.md"
           - "Clickhouse": "general/database/clickhouse/index.md"
           - "Mongodb": "general/database/mongodb/index.md"
+          - "Questdb": "general/database/questdb/index.md"
           - "Redis": "general/database/redis/index.md"
+          - "Scylladb": "general/database/scylladb/index.md"
       - "Git": "general/git/index.md"
       - "Http":
           - "Overview": "general/http/index.md"

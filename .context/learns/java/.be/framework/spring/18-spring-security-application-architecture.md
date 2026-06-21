@@ -2488,7 +2488,6 @@ Part berikutnya akan membahas caching:
 
 Caching terlihat sederhana, tetapi di sistem enterprise ia bisa merusak correctness, authorization, tenant isolation, transaction semantics, dan audit jika tidak didesain dengan benar.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./17-error-handling-problem-details-failure-semantics.md">⬅️ Error Handling, Problem Details, and Failure Semantics</a>

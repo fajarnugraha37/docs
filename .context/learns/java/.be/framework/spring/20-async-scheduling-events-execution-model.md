@@ -2300,8 +2300,6 @@ Part berikutnya:
 
 Di sana kita akan masuk lebih dalam ke Java 21–25, virtual threads, pinning, ThreadLocal, transaction/security context, pool bottleneck, dan bagaimana memilih antara MVC + virtual threads, WebFlux, dan executor-based async.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./19-spring-caching-semantics-consistency-risk.md">⬅️ Part 19 — Spring Caching Semantics and Consistency Risk</a>

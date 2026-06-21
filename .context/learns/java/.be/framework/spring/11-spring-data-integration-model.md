@@ -2209,7 +2209,6 @@ Ia sangat produktif untuk query standar, tetapi bisa menjadi sumber technical de
 
 Part berikutnya akan masuk ke **Spring Web MVC Runtime Internals**, yaitu bagaimana HTTP request diproses oleh `DispatcherServlet`, `HandlerMapping`, `HandlerAdapter`, argument resolver, message converter, validation, exception resolver, dan response handling.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./10-spring-transaction-management-beyond-transactional.md">⬅️ Spring Transaction Management Beyond `@Transactional`</a>

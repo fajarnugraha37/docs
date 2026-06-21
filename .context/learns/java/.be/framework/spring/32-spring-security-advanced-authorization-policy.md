@@ -2285,7 +2285,6 @@ Status        : belum selesai
 Berikutnya    : 33-migration-engineering-spring5-6-7-boot2-3-4.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./31-spring-cloud-distributed-system-integration.md">⬅️ Part 31 — Spring Cloud and Distributed System Integration</a>

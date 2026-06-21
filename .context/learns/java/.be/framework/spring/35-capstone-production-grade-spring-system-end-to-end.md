@@ -2203,8 +2203,6 @@ Daftar lengkap:
 35-capstone-production-grade-spring-system-end-to-end.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./34-building-internal-spring-platform-starters-guardrails.md">⬅️ Part 34 — Building Internal Spring Platform: Starters, Conventions, Guardrails</a>

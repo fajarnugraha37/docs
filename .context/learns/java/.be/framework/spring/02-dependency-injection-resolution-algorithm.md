@@ -2618,8 +2618,6 @@ Gunakan dokumentasi sesuai versi Spring yang dipakai proyek Anda.
 - Spring Boot Reference — Features — Auto-configuration
 - Spring Boot Reference — Testing
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./01-ioc-container-beandefinition-beanfactory-applicationcontext.md">⬅️ Part 1 — IoC Container Deep Dive: `BeanDefinition`, `BeanFactory`, and `ApplicationContext`</a>

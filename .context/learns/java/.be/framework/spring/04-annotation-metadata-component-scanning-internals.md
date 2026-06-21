@@ -3155,7 +3155,6 @@ Part saat ini: 4 dari 35
 Status seri: belum selesai  
 Part berikutnya: `05-configuration-model-bean-full-lite-mode.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./03-bean-lifecycle-extension-points.md">⬅️ Bean Lifecycle and Extension Points</a>

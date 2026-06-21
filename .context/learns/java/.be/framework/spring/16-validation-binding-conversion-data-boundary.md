@@ -2400,7 +2400,6 @@ Bagian berikutnya akan melanjutkan ke:
 
 Di sana kita akan membangun model error yang lebih lengkap: bagaimana membedakan validation error, domain error, conflict, authorization failure, integration failure, retryable error, dan bagaimana memetakannya ke HTTP Problem Details serta observability produksi.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./15-spring-http-clients-restclient-webclient-http-interface.md">⬅️ Part 15 — Spring HTTP Clients: RestTemplate, RestClient, WebClient, and HTTP Interface</a>

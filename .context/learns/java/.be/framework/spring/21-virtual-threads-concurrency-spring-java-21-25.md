@@ -2330,7 +2330,6 @@ Status        : belum selesai
 Berikutnya    : 22-spring-messaging-jms-amqp-kafka-boundary.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./20-async-scheduling-events-execution-model.md">⬅️ Part 20 — Async, Scheduling, Events, and Execution Model</a>
