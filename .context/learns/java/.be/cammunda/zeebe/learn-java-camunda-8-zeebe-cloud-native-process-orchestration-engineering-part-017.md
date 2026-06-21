@@ -2108,7 +2108,6 @@ Judul:
 Part 018 — Operate Deep Dive: Incident Triage, Process Instance Debugging, and Production Support
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-016.md">⬅️ Part 016 — Connectors, Integration Patterns, and When Java Workers Are Still Better</a>

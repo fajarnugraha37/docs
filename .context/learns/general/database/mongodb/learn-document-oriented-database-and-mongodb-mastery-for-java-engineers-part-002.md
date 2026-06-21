@@ -2830,7 +2830,6 @@ Tujuan Part 003 adalah memahami bahwa MongoDB bukan hanya file document store, t
 - Total rencana: **Part 000 sampai Part 035**
 - Status: **Seri belum selesai**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Document Database Mental Model: Aggregate, Boundary, Locality, and Shape</a>

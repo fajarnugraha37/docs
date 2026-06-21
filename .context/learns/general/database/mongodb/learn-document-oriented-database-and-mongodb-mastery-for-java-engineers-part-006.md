@@ -2650,7 +2650,6 @@ Dengan judul:
 Part 007 — Indexing Deep Dive II: Multikey, Partial, Sparse, TTL, Unique, Text, Geo, Clustered
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Query Model: Thinking in Predicates, Shapes, and Access Paths</a>

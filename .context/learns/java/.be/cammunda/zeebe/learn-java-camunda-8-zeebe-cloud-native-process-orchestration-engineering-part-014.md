@@ -2973,7 +2973,6 @@ Judul:
 Part 015 — Worker Application Architecture: Hexagonal Boundaries, Ports, Adapters, and Contract Isolation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-013.md">⬅️ Part 013 — User Tasks, Tasklist, Forms, Assignment, Candidate Groups, and Human Workflow Architecture</a>

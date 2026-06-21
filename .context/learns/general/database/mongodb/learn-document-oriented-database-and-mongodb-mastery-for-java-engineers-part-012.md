@@ -3160,7 +3160,6 @@ Part 012 memberi kita kemampuan membaca dan menghitung data kompleks. Part 013 a
 
 > “Saat data berubah, invariant apa yang harus tetap benar, dan boundary konsistensinya di mana?”
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Aggregation Pipeline I: Mental Model and Core Stages</a>

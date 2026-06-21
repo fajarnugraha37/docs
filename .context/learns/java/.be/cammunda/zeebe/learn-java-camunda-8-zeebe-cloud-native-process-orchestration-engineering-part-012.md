@@ -1839,7 +1839,6 @@ Judul:
 Part 013 — User Tasks, Tasklist, Forms, Assignment, Candidate Groups, and Human Workflow Architecture
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-011.md">⬅️ Part 011 — Error Handling Semantics: BPMN Error, Job Failure, Incident, Escalation, and Business Rejection</a>

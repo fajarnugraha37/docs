@@ -2100,7 +2100,6 @@ Judul berikutnya:
 Part 029 — Advanced Orchestration Patterns: Saga, Compensation, Process Choreography, and Long-Running Transactions
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-027.md">⬅️ Part 027 — Process Versioning, Deployment Governance, Rollback, and Compatibility</a>

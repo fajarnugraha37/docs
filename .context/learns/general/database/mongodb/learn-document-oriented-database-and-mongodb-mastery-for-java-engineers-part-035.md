@@ -1618,7 +1618,6 @@ Part 035 — Mastery Review: Heuristics, Checklists, Trade-Offs, and Interview/A
 
 Seri ini selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-034.md">⬅️ Part 034 — Capstone II: Production-Grade Java Implementation Blueprint</a>

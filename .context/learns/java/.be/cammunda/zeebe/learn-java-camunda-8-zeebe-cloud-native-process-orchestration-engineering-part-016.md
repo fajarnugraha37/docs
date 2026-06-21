@@ -2099,7 +2099,6 @@ Kita akan membahas read-side architecture Camunda 8:
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-015.md">⬅️ Part 015 — Worker Application Architecture: Hexagonal Boundaries, Ports, Adapters, and Contract Isolation</a>

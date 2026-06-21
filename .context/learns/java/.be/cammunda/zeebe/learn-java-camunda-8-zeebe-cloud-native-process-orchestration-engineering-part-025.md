@@ -2774,7 +2774,6 @@ Judul:
 Part 026 — Testing Strategy: BPMN, Workers, Integration Tests, Testcontainers, and Contract Tests
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-024.md">⬅️ Part 024 — Reliability Engineering: Failure Modes, Recovery, Backups, Snapshots, and DR</a>

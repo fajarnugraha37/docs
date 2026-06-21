@@ -3480,7 +3480,6 @@ Selesai: Part 000 sampai Part 017
 Belum:   Part 018 sampai Part 035
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Java Driver Mastery II: Transactions, Sessions, Change Streams, Monitoring</a>

@@ -2137,7 +2137,6 @@ Part 024 — Change Streams and Event-Driven Integration Without Confusing Mongo
 
 Seri belum selesai. Masih lanjut ke Part 025 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Security: Authentication, Authorization, Encryption, Auditing, and Secrets</a>

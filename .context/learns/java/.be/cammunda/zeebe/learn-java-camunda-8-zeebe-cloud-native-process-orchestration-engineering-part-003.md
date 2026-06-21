@@ -2232,7 +2232,6 @@ Judul:
 Part 004 — BPMN Execution Semantics in Zeebe: What Actually Runs, Waits, and Persists
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-002.md">⬅️ Part 002 — Zeebe Engine Internals: Event Stream, Commands, Records, State, and Deterministic Progress</a>

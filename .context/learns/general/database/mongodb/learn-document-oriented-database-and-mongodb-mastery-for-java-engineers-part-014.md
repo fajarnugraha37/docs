@@ -2735,7 +2735,6 @@ Pada part berikutnya kita masuk ke Java Driver secara lebih praktis: connection 
 **Selesai sampai:** Part 014 / 035.  
 **Berikutnya:** Part 015 — Java Driver Mastery I: Connection, Client Lifecycle, CRUD, Codecs.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Transactions, Atomicity, Consistency, and Retryable Writes</a>

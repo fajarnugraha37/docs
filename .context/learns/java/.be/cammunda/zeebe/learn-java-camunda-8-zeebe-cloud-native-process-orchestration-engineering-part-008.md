@@ -2507,7 +2507,6 @@ Judul:
 Part 009 — BPMN Modelling for Distributed Execution: Advanced Patterns and Anti-Patterns
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-007.md">⬅️ Part 007 — Worker Correctness: Idempotency, Retries, Duplicate Execution, and External Side Effects</a>

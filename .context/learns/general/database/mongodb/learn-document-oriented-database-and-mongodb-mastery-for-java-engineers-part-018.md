@@ -3130,7 +3130,6 @@ Part 018 — Performance Engineering I: Query, Index, Memory, Working Set
 
 Seri belum selesai. Masih lanjut ke Part 019 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Spring Data MongoDB: Power, Abstractions, and Leaky Boundaries</a>

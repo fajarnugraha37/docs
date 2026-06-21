@@ -2955,7 +2955,6 @@ Judul berikutnya:
 Part 005 — Query Model: Thinking in Predicates, Shapes, and Access Paths
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — MongoDB Core Architecture: Database, Collection, Document, Replica Set, Shard</a>

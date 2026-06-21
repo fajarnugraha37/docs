@@ -1941,7 +1941,6 @@ Judul:
 Part 025 — Observability: Logs, Metrics, Traces, Correlation IDs, and Process-Aware Monitoring
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-023.md">⬅️ Part 023 — Performance Engineering: Throughput, Backpressure, Worker Tuning, and Capacity Planning</a>

@@ -3413,7 +3413,6 @@ Judul berikutnya:
 Part 011 — Aggregation Pipeline I: Mental Model and Core Stages
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Data Modelling II: Patterns for Real Systems</a>

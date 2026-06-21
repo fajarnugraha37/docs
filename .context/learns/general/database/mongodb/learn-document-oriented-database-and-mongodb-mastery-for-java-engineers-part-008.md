@@ -1983,7 +1983,6 @@ Bagian berikutnya:
 Part 009 — Data Modelling II: Patterns for Real Systems
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Indexing Deep Dive II: Multikey, Partial, Sparse, TTL, Unique, Text, Geo, Clustered</a>

@@ -2314,7 +2314,6 @@ Judul:
 Part 008 — Variables, Serialization, Payload Discipline, and Data Contracts
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-006.md">⬅️ Part 006 — Building Production-Grade Java Job Workers</a>

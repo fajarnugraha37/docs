@@ -2274,7 +2274,6 @@ Judul berikutnya:
 Part 014 — Spring Boot Integration: Camunda Spring Boot Starter, Workers, Configuration, Profiles, and Testing
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-012.md">⬅️ Part 012 — Timers, Deadlines, SLA, Escalation, and Time Semantics</a>

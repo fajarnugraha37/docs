@@ -2653,7 +2653,6 @@ Judul berikutnya:
 Part 010 — Process Instantiation, Business Keys, Correlation Keys, and Message Design
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-008.md">⬅️ Part 008 — Variables, Serialization, Payload Discipline, and Data Contracts</a>

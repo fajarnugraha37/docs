@@ -2070,7 +2070,6 @@ Seri belum selesai. Kita baru menyelesaikan:
 Part 015 / 035
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-014.md">⬅️ Part 014 — Spring Boot Integration: Camunda Spring Boot Starter, Workers, Configuration, Profiles, and Testing</a>

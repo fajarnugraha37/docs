@@ -1792,7 +1792,6 @@ Judul:
 Part 032 — Security, Compliance, Audit Trail, PII, and Regulated Workflow Defensibility
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-030.md">⬅️ Part 030 — Case Management and Regulatory Lifecycle Modelling with Camunda 8</a>

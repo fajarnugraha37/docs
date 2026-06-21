@@ -2090,7 +2090,6 @@ Fokusnya:
 Selesai sampai: **Part 015 dari 035**  
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Concurrency Control and State Machines in MongoDB</a>

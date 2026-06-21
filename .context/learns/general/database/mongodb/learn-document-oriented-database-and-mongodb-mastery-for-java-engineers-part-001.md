@@ -2438,8 +2438,6 @@ Selesai: Part 000, Part 001
 Berikutnya: Part 002 dari 035
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation: Why Document Database Exists, and When It Is the Wrong Tool</a>

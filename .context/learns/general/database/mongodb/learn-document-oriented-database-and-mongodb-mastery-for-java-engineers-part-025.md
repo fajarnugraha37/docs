@@ -2249,7 +2249,6 @@ Part 025 — Time Series, Logs, Audit Trails, and Retention-Oriented Collections
 
 Seri belum selesai. Masih lanjut ke Part 026 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Change Streams and Event-Driven Integration Without Confusing MongoDB with Kafka</a>

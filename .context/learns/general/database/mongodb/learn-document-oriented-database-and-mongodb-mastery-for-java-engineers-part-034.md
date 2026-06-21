@@ -1864,7 +1864,6 @@ Part 034 — Capstone II: Production-Grade Java Implementation Blueprint
 
 Seri belum selesai. Tinggal Part 035 sebagai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Capstone I: Designing a Regulatory Case Management Platform on MongoDB</a>

@@ -1913,7 +1913,6 @@ Part 024 — Reliability Engineering: Failure Modes, Recovery, Backups, Snapshot
 
 Fokus berikutnya adalah reliability, bukan throughput. Kita akan membahas bagaimana sistem Camunda 8 tetap benar dan recoverable ketika broker, gateway, worker, exporter, secondary storage, network, dan downstream mengalami kegagalan.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-022.md">⬅️ Part 022 — Deployment Models: SaaS, Self-Managed, Kubernetes, Helm, and Enterprise Runtime Topology</a>

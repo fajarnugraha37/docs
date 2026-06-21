@@ -3567,7 +3567,6 @@ Dokumentasi dan sumber yang relevan untuk bagian ini:
 12. Camunda 8 Docs — Backup and Restore  
     `https://docs.camunda.io/docs/self-managed/operational-guides/backup-restore/backup-and-restore/`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-032.md">⬅️ Part 032 — Security, Compliance, Audit Trail, PII, and Regulated Workflow Defensibility</a>

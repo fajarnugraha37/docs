@@ -2817,7 +2817,6 @@ Judul:
 Part 031 — Multi-Tenancy, Multi-Region, Environment Strategy, and Enterprise Isolation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-029.md">⬅️ Part 029 — Advanced Orchestration Patterns: Saga, Compensation, Process Choreography, and Long-Running Transactions</a>

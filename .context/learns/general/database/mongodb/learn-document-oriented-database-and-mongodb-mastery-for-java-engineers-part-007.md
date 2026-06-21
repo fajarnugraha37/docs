@@ -3312,8 +3312,6 @@ Topik utama Part 008:
 
 Seri **belum selesai**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Indexing Deep Dive I: B-Tree Mental Model, Compound Indexes, and Explain Plans</a>

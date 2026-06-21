@@ -2088,7 +2088,6 @@ Part 023 — Security: Authentication, Authorization, Encryption, Auditing, and 
 
 Seri belum selesai. Masih lanjut ke Part 024 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Multi-Tenancy, Data Isolation, and Regulatory Boundaries</a>

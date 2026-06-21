@@ -1885,7 +1885,6 @@ Part 020 — Replication, High Availability, Read Scaling, and Failure Modes
 
 Seri belum selesai. Masih lanjut ke Part 021 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Performance Engineering II: Write Path, Bulk Operations, Hotspots, and Backpressure</a>

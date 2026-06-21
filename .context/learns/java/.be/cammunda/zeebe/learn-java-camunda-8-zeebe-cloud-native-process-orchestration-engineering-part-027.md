@@ -2364,7 +2364,6 @@ Judul:
 Part 028 — Migration from Camunda 7 to Camunda 8: Strategy, Gaps, Refactoring, and Risk Control
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-026.md">⬅️ Part 026 — Testing Strategy: BPMN, Workers, Integration Tests, Testcontainers, and Contract Tests</a>

@@ -2156,7 +2156,6 @@ Part 022 — Multi-Tenancy, Data Isolation, and Regulatory Boundaries
 
 Seri belum selesai. Masih lanjut ke Part 023 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Sharding Deep Dive: Horizontal Scale Without Magical Thinking</a>

@@ -2291,7 +2291,6 @@ Part 033 — Capstone I: Designing a Regulatory Case Management Platform on Mong
 
 Seri belum selesai. Masih lanjut ke Part 034 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Architecture Patterns: MongoDB in Distributed Java Systems</a>

@@ -2309,7 +2309,6 @@ Judul berikutnya:
 Part 033 — Anti-Patterns, Design Smells, and Production Failure Case Studies
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-031.md">⬅️ Part 031 — Multi-Tenancy, Multi-Region, Environment Strategy, and Enterprise Isolation</a>

@@ -2118,8 +2118,6 @@ Part 035 — Mastery Checklist, Engineering Heuristics, Interview-Level Depth, a
 
 Part 035 is the final part of this series. It will consolidate mastery checklist, senior/staff-level heuristics, review questions, interview-style depth, production checklists, and recommended next advanced roadmap.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-033.md">⬅️ Part 033 — Anti-Patterns, Design Smells, and Production Failure Case Studies</a>

@@ -3165,7 +3165,6 @@ Belum selesai: Part 010 sampai Part 035
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Data Modelling I: Embed vs Reference Decision Framework</a>

@@ -2419,7 +2419,6 @@ Part 012 — Aggregation Pipeline II: Advanced Transformations, Joins, Windows, 
 Status seri setelah part ini: **belum selesai**.  
 Selesai: **Part 000 sampai Part 011 dari 035**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Schema Design for Java Applications: Entities, DTOs, POJOs, Records, and Immutability</a>

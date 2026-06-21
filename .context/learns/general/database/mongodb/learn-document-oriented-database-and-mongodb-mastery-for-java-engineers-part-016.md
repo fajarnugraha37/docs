@@ -1765,8 +1765,6 @@ Gunakan dokumentasi resmi MongoDB Java Sync Driver sebagai anchor utama untuk ba
 - Java Sync Driver — Client-Side Operation Timeout
 - Java Sync Driver — Stable API
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Java Driver Mastery I: Connection, Client Lifecycle, CRUD, Codecs</a>

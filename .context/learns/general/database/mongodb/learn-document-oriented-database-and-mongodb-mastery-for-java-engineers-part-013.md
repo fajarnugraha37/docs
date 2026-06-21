@@ -2286,7 +2286,6 @@ Judul berikutnya:
 Part 014 — Concurrency Control and State Machines in MongoDB
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Aggregation Pipeline II: Advanced Transformations, Joins, Windows, and Reports</a>

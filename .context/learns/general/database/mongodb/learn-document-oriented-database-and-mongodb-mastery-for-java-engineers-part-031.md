@@ -2267,7 +2267,6 @@ Part 031 — Anti-Patterns and Failure Case Catalogue
 
 Seri belum selesai. Masih lanjut ke Part 032 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Backup, Restore, Disaster Recovery, Retention, and Compliance</a>

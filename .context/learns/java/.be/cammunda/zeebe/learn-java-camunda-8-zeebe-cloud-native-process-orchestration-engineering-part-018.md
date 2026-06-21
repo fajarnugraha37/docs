@@ -1907,7 +1907,6 @@ Judul berikutnya:
 Part 019 — Tasklist and Human Work Management at Scale
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-017.md">⬅️ Part 017 — Exporters, Elasticsearch/OpenSearch, Operate, Tasklist, and Read-Side Architecture</a>

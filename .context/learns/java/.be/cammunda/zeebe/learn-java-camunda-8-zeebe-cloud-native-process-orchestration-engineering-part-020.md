@@ -2394,7 +2394,6 @@ Judul:
 Part 021 — Identity, Authentication, Authorization, Tenancy, and Secure Access Boundaries
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-019.md">⬅️ Part 019 — Tasklist and Human Work Management at Scale</a>

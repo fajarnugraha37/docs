@@ -2337,7 +2337,6 @@ Part 027 akan membahas bagaimana mengelola lifecycle BPMN/process deployment sec
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-025.md">⬅️ Part 025 — Observability: Logs, Metrics, Traces, Correlation IDs, and Process-Aware Monitoring</a>

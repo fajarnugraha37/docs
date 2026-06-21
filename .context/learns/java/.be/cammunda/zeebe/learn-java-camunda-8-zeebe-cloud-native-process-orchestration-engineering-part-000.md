@@ -1822,7 +1822,6 @@ Topik berikutnya:
 Camunda 8 Platform Architecture: Zeebe, Gateway, Broker, Operate, Tasklist, Optimize, Identity
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

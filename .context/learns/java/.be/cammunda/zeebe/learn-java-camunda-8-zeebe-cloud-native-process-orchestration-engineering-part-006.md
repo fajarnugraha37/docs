@@ -2904,7 +2904,6 @@ Di Part 007, kita akan membahas secara jauh lebih dalam:
 
 **Status seri: belum selesai.**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-005.md">⬅️ Part 005 — Java Client Evolution: Zeebe Java Client, Camunda Java Client, REST, gRPC, and Version Strategy</a>

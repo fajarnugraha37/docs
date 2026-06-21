@@ -1993,7 +1993,6 @@ Part 021 — Sharding Deep Dive: Horizontal Scale Without Magical Thinking
 
 Seri belum selesai. Masih lanjut ke Part 022 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Replication, High Availability, Read Scaling, and Failure Modes</a>

@@ -1774,7 +1774,6 @@ Judul:
 Part 022 — Deployment Models: SaaS, Self-Managed, Kubernetes, Helm, and Enterprise Runtime Topology
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-020.md">⬅️ Part 020 — Optimize, Process Analytics, Bottleneck Detection, and Feedback Loop Engineering</a>

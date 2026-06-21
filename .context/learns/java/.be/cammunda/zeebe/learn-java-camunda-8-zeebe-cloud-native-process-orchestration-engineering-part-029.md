@@ -2209,7 +2209,6 @@ Judul berikutnya:
 Part 030 — Case Management and Regulatory Lifecycle Modelling with Camunda 8
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-028.md">⬅️ Part 028 — Migration from Camunda 7 to Camunda 8: Strategy, Gaps, Refactoring, and Risk Control</a>

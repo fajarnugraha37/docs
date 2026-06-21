@@ -2255,7 +2255,6 @@ Part 027 — Schema Evolution, Migration, Backfill, and Zero-Downtime Changes
 
 Seri belum selesai. Masih lanjut ke Part 028 sampai Part 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-document-oriented-database-and-mongodb-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Search, Atlas Search, Text Search, Geospatial, and Vector Search</a>

@@ -1639,8 +1639,6 @@ sampai:
 part-035
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-034.md">⬅️ Part 034 — End-to-End Reference Architecture: Production-Grade Java Camunda 8 System</a>

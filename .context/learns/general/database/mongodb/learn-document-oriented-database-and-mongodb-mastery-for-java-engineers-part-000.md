@@ -1870,7 +1870,6 @@ Part 001 — Document Database Mental Model: Aggregate, Boundary, Locality, and 
 
 Part berikutnya akan masuk lebih dalam ke konsep aggregate boundary, locality, ownership, lifecycle, dan shape. Di sana kita akan mulai membangun decision framework embed/reference yang lebih tajam dan reusable untuk desain sistem nyata.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

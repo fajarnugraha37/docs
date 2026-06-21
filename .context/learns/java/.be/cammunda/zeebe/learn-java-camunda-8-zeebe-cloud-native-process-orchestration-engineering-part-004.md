@@ -2760,7 +2760,6 @@ Progress saat ini:
 - [ ] Part 034 — End-to-End Reference Architecture
 - [ ] Part 035 — Mastery Checklist and Next Roadmap
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-003.md">⬅️ Part 003 — Partitions, Replication, Raft, Scalability, and Ordering Guarantees</a>

@@ -2031,7 +2031,6 @@ Zeebe Engine Internals: Event Stream, Commands, Records, State, and Deterministi
 
 Fokus berikutnya adalah masuk ke internal engine: command, event, rejection, record stream, state transition, job lifecycle, incident lifecycle, deterministic progress, dan bagaimana semua itu memengaruhi desain Java worker production-grade.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-000.md">⬅️ Part 000 — Orientation, Scope, Mental Model, and What Changes from Camunda 7</a>

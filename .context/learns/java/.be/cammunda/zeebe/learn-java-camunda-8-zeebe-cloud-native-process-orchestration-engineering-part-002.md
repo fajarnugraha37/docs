@@ -2779,7 +2779,6 @@ Progress saat ini:
 [ ] part-035 — Mastery Checklist, Engineering Heuristics, Interview-Level Depth, and Next Roadmap
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-java-camunda-8-zeebe-cloud-native-process-orchestration-engineering-part-001.md">⬅️ Part 001 — Camunda 8 Platform Architecture: Zeebe, Gateway, Broker, Operate, Tasklist, Optimize, Identity</a>
