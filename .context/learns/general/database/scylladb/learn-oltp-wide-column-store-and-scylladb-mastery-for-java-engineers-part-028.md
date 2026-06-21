@@ -1526,7 +1526,6 @@ Part 029 akan menyatukan observability dari aplikasi Java sampai cluster ScyllaD
 
 # End of Part 028
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Operations II: Repair, Anti-Entropy, Node Replacement, Rolling Upgrades, Maintenance, Tablets Operations, Rebalancing, dan Operational Failure Modes</a>

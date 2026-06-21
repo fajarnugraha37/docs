@@ -1502,7 +1502,6 @@ Domain Case Study I: Market Data / Trading Analytics
 
 Di sana kita akan menerapkan semua konsep sebelumnya ke workload market data: trades, quotes, order book snapshots, nanosecond timestamp, OHLC, VWAP, spread, ASOF join, late ticks, correction, dan storage lifecycle.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Backfill, Replay, and Historical Data Loading</a>

@@ -1698,7 +1698,6 @@ Schema Evolution and Type Safety
 
 Part 009 will focus on how to evolve event/table schemas safely: producer contracts, auto-create risks, type inference, unit changes, metric versioning, compatibility, validation, and migration patterns.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-007.md">⬅️ Java Ingestion Client Deep Dive</a>

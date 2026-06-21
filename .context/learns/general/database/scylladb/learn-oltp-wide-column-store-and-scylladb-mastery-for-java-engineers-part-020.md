@@ -1813,7 +1813,6 @@ Part 021 akan kembali ke query execution dan performance dari ujung ke ujung.
 
 # End of Part 020
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Java Client Engineering I: Driver Architecture, Session Lifecycle, Prepared Statements, Routing, dan Async Basics</a>

@@ -2076,7 +2076,6 @@ Kita akan membahas:
 - mental model end-to-end dari producer sampai query result.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Time-Series Database as a Specialized System Class</a>

@@ -1631,7 +1631,6 @@ Indexes, Symbols, Cardinality, and Lookup Patterns
 
 Part berikutnya akan fokus pada `SYMBOL`, cardinality, indexing/lookup pattern, dan bagaimana mendesain dimension agar query cepat tanpa membuat ingestion/memory rusak.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Materialized Views and Pre-Aggregation Strategy</a>

@@ -1617,7 +1617,6 @@ Part 026 mulai membahas operasi cluster dari sisi kapasitas dan deployment.
 
 # End of Part 025
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Multi-Tenant ScyllaDB Design: Tenant Isolation, Noisy Neighbor, Hot Tenants, Quotas, dan Operational Controls</a>

@@ -1517,7 +1517,6 @@ Part 027 akan membahas lifecycle operasi cluster sehari-hari.
 
 # End of Part 026
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Multi-Region and Multi-DC Design: NetworkTopologyStrategy, LOCAL_QUORUM, Home Region, Active-Active, Failover, dan DR Trade-offs</a>

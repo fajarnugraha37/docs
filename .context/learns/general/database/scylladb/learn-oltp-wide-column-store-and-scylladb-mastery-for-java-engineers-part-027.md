@@ -1508,7 +1508,6 @@ Part 028 akan memperdalam backup/restore dan disaster recovery.
 
 # End of Part 027
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Operations I: Cluster Sizing, Capacity Planning, Hardware/Cloud Choices, Disk/IO, CPU/Memory, Shard-per-Core, Rack/AZ Placement, dan Node Lifecycle</a>

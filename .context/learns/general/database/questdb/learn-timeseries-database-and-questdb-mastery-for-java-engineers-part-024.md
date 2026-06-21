@@ -1320,7 +1320,6 @@ Security, Access, and Multi-Tenant Boundaries
 
 Part 025 will focus on authentication surfaces, network exposure, tenant boundaries, RBAC/Enterprise considerations, secrets, auditability, and secure producer onboarding.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-023.md">⬅️ Failure Modes and Production Runbooks</a>

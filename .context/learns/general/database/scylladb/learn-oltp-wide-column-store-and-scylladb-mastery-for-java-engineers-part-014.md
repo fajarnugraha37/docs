@@ -2065,7 +2065,6 @@ Part 015 membahas lifecycle data setelah delete/expiry.
 
 # End of Part 014
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Consistency Levels: ONE, QUORUM, LOCAL_QUORUM, ALL, SERIAL, dan Trade-off Praktis</a>

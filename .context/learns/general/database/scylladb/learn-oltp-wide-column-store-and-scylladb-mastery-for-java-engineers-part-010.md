@@ -2576,7 +2576,6 @@ Part 011 menerapkan tools ini pada time-series dan timeline workloads secara men
 
 # End of Part 010
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Query-First Data Modeling: Dari User Journey ke Table Design</a>

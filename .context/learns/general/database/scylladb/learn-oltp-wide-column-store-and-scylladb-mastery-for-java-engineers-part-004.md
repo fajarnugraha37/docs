@@ -1799,7 +1799,6 @@ Part 005 akan menyatukan keduanya dengan konsep tablets dan distribusi data mode
 
 # End of Part 004
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Dynamo Lineage: Ring, Token, Replication, Coordinator, Gossip</a>

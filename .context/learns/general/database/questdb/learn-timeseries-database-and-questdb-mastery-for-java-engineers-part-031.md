@@ -1798,7 +1798,6 @@ learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-032.md
 Domain Case Study III: Observability Metrics and Application Signals
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Domain Case Study I: Market Data / Trading Analytics</a>

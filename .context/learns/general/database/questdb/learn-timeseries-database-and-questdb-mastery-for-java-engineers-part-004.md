@@ -2380,7 +2380,6 @@ Kita akan membahas:
 - backfill partition-aware,
 - dan failure mode akibat partition granularity yang salah.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — QuestDB Architecture Overview</a>

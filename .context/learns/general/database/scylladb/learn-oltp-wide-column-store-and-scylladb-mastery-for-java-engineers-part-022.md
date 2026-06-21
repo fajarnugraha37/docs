@@ -1856,7 +1856,6 @@ Part 023 akan memperdalam evolusi schema dan deployment compatibility.
 
 # End of Part 022
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Query Execution and Performance: Coordinator Path, Replica Path, Paging, ALLOW FILTERING, IN Queries, dan p99 Debugging</a>

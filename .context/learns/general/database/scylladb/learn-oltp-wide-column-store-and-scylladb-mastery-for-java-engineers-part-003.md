@@ -1725,7 +1725,6 @@ Part 004 akan membuka isi satu node dan menjelaskan kenapa ScyllaDB bisa punya p
 
 # End of Part 003
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — Distributed OLTP Constraints: Latency, Throughput, Availability, Consistency</a>

@@ -1704,7 +1704,6 @@ Part 018 membahas fitur data model yang sering menjadi sumber bug/cost tersembun
 
 # End of Part 017
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Compaction Strategies: STCS, LCS, TWCS, ICS, dan Amplification Trade-offs</a>

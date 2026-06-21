@@ -1533,8 +1533,6 @@ Materialized Views and Pre-Aggregation Strategy
 
 Setelah memahami temporal query, kita akan membahas kapan query seperti `SAMPLE BY`, `ASOF JOIN`, dan rollup harus dihitung on-demand, dan kapan harus dipersist sebagai materialized view/serving table agar dashboard/API tetap cepat dan predictable.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — SQL for Time-Series: Range, Latest, Sampling, and Temporal Semantics</a>

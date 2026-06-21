@@ -2115,7 +2115,6 @@ Fokus Part 001:
 
 Setelah Part 001, baru kita masuk ke distributed OLTP constraints dan arsitektur Dynamo-style yang menjadi fondasi Cassandra/ScyllaDB.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

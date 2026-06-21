@@ -1713,8 +1713,6 @@ timezone correctness
 query guardrails
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-011.md">⬅️ Ahead Log, Durability, and WAL Apply Pipeline</a>

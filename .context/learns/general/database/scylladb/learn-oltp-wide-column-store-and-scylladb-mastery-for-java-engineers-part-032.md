@@ -1581,7 +1581,6 @@ Part 033 akan membahas migrasi dan interoperabilitas dengan sistem lain.
 
 # End of Part 032
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — Correctness Patterns: Idempotency, Deduplication, Sagas, Outbox, Event Sourcing, Versioned State Machines, Single-Writer, Reconciliation, Read-Your-Write, dan Domain Invariants</a>

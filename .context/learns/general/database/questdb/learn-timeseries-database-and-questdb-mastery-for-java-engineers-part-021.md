@@ -1560,7 +1560,6 @@ Observability, Monitoring, and Alerting
 
 Kita akan membahas bagaimana mengamati QuestDB secara produksi: ingestion freshness, WAL lag, suspended table, query latency, disk growth, memory pressure, materialized view lag, Prometheus/Grafana, dan alert design.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Deployment Models: Local, Bare Metal, VM, Kubernetes, and Production Topology</a>

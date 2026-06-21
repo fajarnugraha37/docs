@@ -72,6 +72,7 @@ nav:
       - "Database":
           - "Overview": "general/database/index.md"
           - "Clickhouse": "general/database/clickhouse/index.md"
+          - "Elasticsearch": "general/database/elasticsearch/index.md"
           - "Mongodb": "general/database/mongodb/index.md"
           - "Questdb": "general/database/questdb/index.md"
           - "Redis": "general/database/redis/index.md"

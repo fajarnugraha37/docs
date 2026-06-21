@@ -1575,7 +1575,6 @@ Contoh:
 
 Itulah area di mana SQL time-series mulai berbeda tajam dari SQL relational biasa.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-012.md">⬅️ Deduplication and Idempotent Ingestion</a>

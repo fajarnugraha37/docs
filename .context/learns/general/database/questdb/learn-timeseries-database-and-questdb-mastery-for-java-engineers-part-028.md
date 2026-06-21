@@ -1690,7 +1690,6 @@ Performance Engineering and Benchmarking
 
 Kita akan membangun metodologi benchmark yang benar: ingestion throughput, query latency, cardinality realism, partition realism, cold/warm cache, WAL/apply lag, producer bottleneck, dan cara menghindari benchmark palsu yang terlihat bagus tetapi tidak mewakili workload produksi.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-027.md">⬅️ Pipeline Architecture with Kafka/RabbitMQ Without Repeating Messaging Theory</a>

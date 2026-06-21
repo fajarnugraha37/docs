@@ -2100,8 +2100,6 @@ Referensi utama untuk part ini:
 6. Apache Cassandra Documentation — CQL DDL / primary key and clustering columns.  
    `https://cassandra.apache.org/doc/latest/cassandra/developing/cql/ddl.html`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation: OLTP Wide-Column Store, ScyllaDB, dan Cara Belajar Seri Ini</a>

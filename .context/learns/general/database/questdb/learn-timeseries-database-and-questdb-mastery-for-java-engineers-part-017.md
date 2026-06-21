@@ -1420,7 +1420,6 @@ Retention, TTL, Parquet, and Hot/Warm/Cold Lifecycle
 
 Setelah memahami dimension/index/cardinality, kita akan membahas lifecycle data: kapan data harus tetap hot, kapan cukup warm/cold, bagaimana TTL bekerja, bagaimana partition-level lifecycle lebih efisien daripada row delete, dan bagaimana Parquet/object storage mengubah cost model time-series.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-016.md">⬅️ Query Engine and Execution Mental Model</a>

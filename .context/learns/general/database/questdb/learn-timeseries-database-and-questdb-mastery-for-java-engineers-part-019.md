@@ -1832,7 +1832,6 @@ Deployment Models: Local, Bare Metal, VM, Kubernetes, and Production Topology
 
 Kita akan membahas bagaimana menjalankan QuestDB sebagai service produksi: Docker/local dev, bare metal, VM, Kubernetes, filesystem, NVMe, page cache, container memory, volume, backup path, dan kapan Kubernetes justru bukan pilihan awal terbaik.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Retention, TTL, Parquet, and Hot/Warm/Cold Lifecycle</a>

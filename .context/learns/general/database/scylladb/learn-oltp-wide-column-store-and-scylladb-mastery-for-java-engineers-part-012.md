@@ -2408,7 +2408,6 @@ Part 013 akan menjelaskan bagaimana memilih consistency level untuk tiap operasi
 
 # End of Part 012
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Time-Series Modeling di ScyllaDB</a>

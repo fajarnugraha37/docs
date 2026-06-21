@@ -1569,7 +1569,6 @@ production readiness
 # End of Part 034
 # End of Series
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Migration and Interoperability: Cassandra/PostgreSQL/MongoDB Migration, Dual-Write, CDC, Data Validation, Cutover, Rollback, Compatibility, dan Ecosystem Integration</a>

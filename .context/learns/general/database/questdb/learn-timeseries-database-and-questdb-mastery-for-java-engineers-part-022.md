@@ -2190,7 +2190,6 @@ corrupt/partial backfill
 recovery decision tree
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-021.md">⬅️ Configuration Engineering</a>

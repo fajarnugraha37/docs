@@ -1535,7 +1535,6 @@ Part 031 akan membahas pattern correctness untuk membuat sistem tetap benar mesk
 
 # End of Part 030
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Observability: Metrics, Logs, Tracing, Dashboards, Alerts, SLOs, Driver Metrics, Table/Tenant-Level Monitoring, dan p99 Incident Diagnosis</a>

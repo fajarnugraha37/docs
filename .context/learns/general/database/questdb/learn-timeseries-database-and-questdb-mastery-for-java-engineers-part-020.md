@@ -1527,7 +1527,6 @@ Configuration Engineering
 
 Part 021 akan membahas `server.conf`, port, worker pools, WAL-related settings, Cairo/table settings, SQL memory, materialized view settings, metrics/telemetry config, safe rollout, and config drift detection.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-019.md">⬅️ Storage Capacity Planning</a>

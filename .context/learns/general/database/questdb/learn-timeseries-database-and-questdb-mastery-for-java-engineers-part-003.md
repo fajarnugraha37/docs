@@ -918,7 +918,6 @@ Pertanyaan utama part berikutnya:
 Given a domain event, how do we choose the QuestDB table shape that will remain queryable, ingestible, and operable after 10x data growth?
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — QuestDB Positioning: What It Is Optimized For</a>

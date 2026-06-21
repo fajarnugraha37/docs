@@ -1828,7 +1828,6 @@ Part 024 akan membahas desain multi-tenant yang tahan skew dan noisy neighbor.
 
 # End of Part 023
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — Batching, Bulk Loading, Backfill, dan High-Volume Write Pipelines</a>

@@ -1646,7 +1646,6 @@ Setelah part 003, istilah seperti “coordinator”, “replica”, “token ran
 
 # End of Part 002
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Wide-Column Store Mental Model: Bukan SQL, Bukan Document DB, Bukan OLAP Columnar</a>

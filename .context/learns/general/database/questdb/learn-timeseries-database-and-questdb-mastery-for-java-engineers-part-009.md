@@ -2143,7 +2143,6 @@ learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-010.md
 Out-of-Order Data and Late Arrival Engineering
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-008.md">⬅️ Event Modeling for Time-Series: Metrics, Ticks, States, and Facts</a>

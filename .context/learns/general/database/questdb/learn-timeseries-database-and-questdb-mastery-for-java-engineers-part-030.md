@@ -2402,7 +2402,6 @@ Part berikutnya akan menerapkan semua konsep pada telemetry/IoT:
 - multi-tenant retention;
 - operational dashboards.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-029.md">⬅️ Performance Engineering and Benchmarking</a>

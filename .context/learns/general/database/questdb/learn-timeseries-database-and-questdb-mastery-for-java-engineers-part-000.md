@@ -2376,8 +2376,6 @@ Fokus:
 - Bagaimana menilai workload sebelum memilih QuestDB.
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

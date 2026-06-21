@@ -2650,7 +2650,6 @@ Part 009 akan memberi proses desain end-to-end.
 
 # End of Part 008
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — CQL Deep Dive I: Keyspace, Table, Types, DDL, DML</a>

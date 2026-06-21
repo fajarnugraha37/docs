@@ -1614,7 +1614,6 @@ How do we define RPO/RTO for time-series data?
 How do WAL, backups, snapshots, replication, and restore drills fit together?
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-022.md">⬅️ Observability, Monitoring, and Alerting</a>

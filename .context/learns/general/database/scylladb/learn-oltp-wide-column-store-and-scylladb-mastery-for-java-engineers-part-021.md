@@ -1696,7 +1696,6 @@ Part 022 akan membahas high-volume write workflows secara production-grade.
 
 # End of Part 021
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Java Client Engineering II: Timeouts, Retries, Paging, Backpressure, Observability, dan Production Hardening</a>

@@ -1761,7 +1761,6 @@ Part 032 akan membahas security/compliance untuk ScyllaDB-backed Java systems.
 
 # End of Part 031
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Failure Modelling: Partial Failures, Timeouts, Unknown Outcomes, Network Partitions, Slow Replicas, Retry Storms, Split-Brain, Data Corruption, Operator Errors, dan Graceful Degradation</a>

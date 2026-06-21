@@ -2558,7 +2558,6 @@ Part 010 akan memberi quantitative tools untuk sizing dan hot-spot prevention.
 
 # End of Part 009
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — Primary Key Design: Partition Key, Clustering Key, dan Physical Query Shape</a>

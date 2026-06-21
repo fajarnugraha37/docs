@@ -1529,7 +1529,6 @@ Query Engine and Execution Mental Model
 
 We will move beneath SQL syntax and learn how to reason from query text to execution cost: partition pruning, columnar scan, symbol filtering, ordering, joins, memory pressure, and why two queries that look similar can behave very differently.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Advanced Temporal Querying: ASOF JOIN, LT JOIN, SPLICE JOIN, WINDOW JOIN</a>

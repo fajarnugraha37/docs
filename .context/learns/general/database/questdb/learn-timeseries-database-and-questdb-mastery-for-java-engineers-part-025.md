@@ -1508,7 +1508,6 @@ Part berikutnya akan membahas bagaimana aplikasi Java berinteraksi dengan QuestD
 - integration tests,
 - deployment topology.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Backup, Restore, Replication, and Disaster Recovery</a>

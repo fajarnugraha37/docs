@@ -1969,7 +1969,6 @@ Part 014 akan menjelaskan conditional correctness.
 
 # End of Part 013
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Multi-Access-Pattern Design: Duplicate Tables, Fanout, dan Derived Views</a>

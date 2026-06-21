@@ -1791,7 +1791,6 @@ That is the difference between “QuestDB works in a demo” and “QuestDB rema
 - QuestDB documentation — Capacity planning and O3 memory considerations.
 - QuestDB documentation — Deduplication.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Schema Evolution and Type Safety</a>

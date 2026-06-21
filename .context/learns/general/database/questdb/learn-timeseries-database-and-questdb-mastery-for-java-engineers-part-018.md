@@ -1082,7 +1082,6 @@ Storage Capacity Planning
 
 Part berikutnya akan menghitung storage dari first principles: rows/sec, bytes/row, symbol overhead, WAL overhead, partition growth, disk sizing, SSD endurance, backup multiplier, compression, Parquet savings, dan capacity planning spreadsheet mental model.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-017.md">⬅️ Indexes, Symbols, Cardinality, and Lookup Patterns</a>

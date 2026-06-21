@@ -1674,7 +1674,6 @@ Di part itu kita akan masuk lebih dalam ke operasi historis:
 - migration dari TSDB lama,
 - dan cutover produksi.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Java Application Integration Patterns</a>

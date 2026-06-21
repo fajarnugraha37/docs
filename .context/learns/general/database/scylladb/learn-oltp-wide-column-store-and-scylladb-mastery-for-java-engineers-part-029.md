@@ -1747,7 +1747,6 @@ Part 030 akan membangun failure model secara sistematis agar desain aplikasi tid
 
 # End of Part 029
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Operations III: Backup, Restore, Disaster Recovery, Snapshots, PITR Considerations, Tenant Restore, Backup Validation, dan DR Runbooks</a>

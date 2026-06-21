@@ -1791,7 +1791,6 @@ learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-033.md
 Architecture Review, Decision Framework, and Production Checklist
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — Domain Case Study II: Industrial IoT / Telemetry Platform</a>

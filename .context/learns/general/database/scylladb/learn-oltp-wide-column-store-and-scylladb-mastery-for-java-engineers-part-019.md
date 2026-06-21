@@ -1768,7 +1768,6 @@ Part 020 akan membuatnya tahan beban dan failure.
 
 # End of Part 019
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Counters, Atomicity Boundaries, Static Columns, Collections, dan UDT</a>

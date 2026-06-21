@@ -1730,7 +1730,6 @@ Part 016 menjelaskan mesin yang membersihkan dan mengorganisasi SSTable lifecycl
 
 # End of Part 015
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Lightweight Transactions, CAS, Paxos/Raft Semantics, dan Conditional Correctness</a>

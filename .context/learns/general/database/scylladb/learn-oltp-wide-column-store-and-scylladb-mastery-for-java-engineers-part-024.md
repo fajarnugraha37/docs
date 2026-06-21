@@ -1770,7 +1770,6 @@ Part 025 akan memperdalam multi-region dan multi-datacenter.
 
 # End of Part 024
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Schema Evolution: DDL Safety, Rolling Deploy, Compatibility, Dual-Write, Backfill, dan Migration Playbooks</a>

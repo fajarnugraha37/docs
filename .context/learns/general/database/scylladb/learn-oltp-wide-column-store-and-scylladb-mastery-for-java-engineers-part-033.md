@@ -1538,7 +1538,6 @@ Part 034 akan menjadi bagian terakhir seri ini: capstone end-to-end.
 
 # End of Part 033
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Security and Compliance: Authentication, Authorization, TLS, Secrets, Encryption, Tenant Isolation, PII, Audit Logs, Privacy Deletion, Backup Security, dan Compliance-Oriented Data Design</a>

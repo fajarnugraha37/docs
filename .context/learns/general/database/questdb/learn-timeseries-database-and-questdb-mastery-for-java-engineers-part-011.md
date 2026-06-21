@@ -1470,7 +1470,6 @@ We will go deeper into:
 - Java producer identity contract,
 - exactly-once illusion vs practical correctness.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Out-of-Order Data and Late Arrival Engineering</a>

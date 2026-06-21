@@ -2343,7 +2343,6 @@ Part 012 akan memperluas ke desain banyak access pattern dalam satu domain tanpa
 
 # End of Part 011
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Partition Sizing, Cardinality, Hot Partition, dan Bucketing</a>

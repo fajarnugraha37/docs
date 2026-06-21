@@ -1817,7 +1817,6 @@ Part 017 menjelaskan alternate access paths yang dibangun di atas lifecycle ters
 
 # End of Part 016
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Deletes, TTL, Tombstones, gc_grace_seconds, dan Zombie Data</a>

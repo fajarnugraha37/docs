@@ -1626,7 +1626,6 @@ Pipeline Architecture with Kafka/RabbitMQ Without Repeating Messaging Theory
 
 Part berikutnya akan membahas bagaimana menempatkan QuestDB di belakang broker/event stream tanpa mengulang teori Kafka/RabbitMQ yang sudah dibahas di seri lain. Fokusnya adalah pipeline boundary: replay, ordering, idempotency, lag, backfill, dual-write avoidance, and serving-store semantics.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Security, Access, and Multi-Tenant Boundaries</a>

@@ -1534,8 +1534,6 @@ Kita akan membahas ingestion path QuestDB:
 - auto table/column creation;
 - dan bagaimana memilih ingestion interface berdasarkan workload.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-004.md">⬅️ Data Model: Timestamp, Symbol, Column Type, and Table Shape</a>

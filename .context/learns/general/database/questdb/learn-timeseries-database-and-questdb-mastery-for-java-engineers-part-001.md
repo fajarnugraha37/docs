@@ -1765,8 +1765,6 @@ QuestDB Positioning: What It Is Optimized For
 
 Kita akan membedah QuestDB sebagai produk/sistem: apa yang ia optimalkan, apa yang sengaja tidak ia optimalkan, kapan ia menang, kapan ia harus dihindari, dan bagaimana memosisikannya dalam arsitektur Java/backend modern.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-000.md">⬅️ Part 000 — Orientation: Cara Berpikir Seperti Engineer Time-Series</a>

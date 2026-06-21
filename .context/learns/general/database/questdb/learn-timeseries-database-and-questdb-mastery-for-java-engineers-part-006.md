@@ -1489,7 +1489,6 @@ Part 006: which ingestion path and why.
 Part 007: how to implement the Java ingestion path safely.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Partitioning: The Physical Boundary of Time</a>

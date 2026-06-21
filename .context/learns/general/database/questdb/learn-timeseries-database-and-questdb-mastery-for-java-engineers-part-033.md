@@ -1380,8 +1380,6 @@ Total part:
 
 Total: **34 part**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-032.md">⬅️ Domain Case Study III: Observability Metrics and Application Signals</a>

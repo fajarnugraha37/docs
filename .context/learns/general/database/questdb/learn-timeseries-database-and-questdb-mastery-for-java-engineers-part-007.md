@@ -1554,7 +1554,6 @@ Event Modeling for Time-Series: Metrics, Ticks, States, and Facts
 
 Kita akan naik satu level dari client mechanics ke domain modeling: bagaimana membedakan metric sample, tick, event fact, state snapshot, correction, heartbeat, dan derived signal; lalu bagaimana menerjemahkannya menjadi table design yang benar di QuestDB.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-timeseries-database-and-questdb-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Ingestion Model: ILP, PGWire, REST, CSV, and Embedded Java</a>

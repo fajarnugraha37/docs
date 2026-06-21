@@ -2257,7 +2257,6 @@ Part 008 akan menjadikan primary key design sebagai skill utama.
 
 # End of Part 007
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Storage Engine Internals: Commitlog, Memtable, SSTable, Cache, dan Flush</a>

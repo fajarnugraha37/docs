@@ -1546,7 +1546,6 @@ Part 006 menjelaskan apa yang terjadi setelah request mencapai replica/shard dan
 
 # End of Part 005
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — ScyllaDB Architecture: Shard-per-Core, Seastar, Reactor, dan Shared-Nothing Node</a>

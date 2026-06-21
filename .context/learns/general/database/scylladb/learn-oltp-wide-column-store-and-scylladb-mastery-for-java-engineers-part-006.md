@@ -2143,7 +2143,6 @@ Part 007 akan menunjukkan bagaimana model storage/distribusi ini muncul di synta
 
 # End of Part 006
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Tablets, VNodes, Token Ranges, dan Data Distribution Modern ScyllaDB</a>

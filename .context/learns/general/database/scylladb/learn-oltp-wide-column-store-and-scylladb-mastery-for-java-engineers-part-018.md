@@ -1741,7 +1741,6 @@ Part 019 mulai menghubungkan semua desain ini ke implementasi Java production-gr
 
 # End of Part 018
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-oltp-wide-column-store-and-scylladb-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Secondary Indexes, Local Secondary Indexes, dan Materialized Views</a>
