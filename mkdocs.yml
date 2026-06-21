@@ -71,6 +71,7 @@ nav:
       - "Overview": "general/index.md"
       - "Database":
           - "Overview": "general/database/index.md"
+          - "Clickhouse": "general/database/clickhouse/index.md"
           - "Mongodb": "general/database/mongodb/index.md"
           - "Redis": "general/database/redis/index.md"
       - "Git": "general/git/index.md"
