@@ -1495,7 +1495,6 @@ Berikutnya:
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-014.md">⬅️ Go Runtime Deep Dive: Goroutine Scheduler, P/M/G Model, Preemption, GC, and Runtime Metrics</a>

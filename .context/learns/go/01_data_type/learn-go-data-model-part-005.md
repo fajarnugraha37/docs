@@ -2214,7 +2214,6 @@ learn-go-data-model-part-006.md
 Text Model I: byte, rune, string, UTF-8, dan Unicode Reality
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-004.md">⬅️ Part 004 — Boolean, Integer, Float, Complex: Numeric Foundations</a>

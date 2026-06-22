@@ -2491,8 +2491,6 @@ Pertanyaan yang akan muncul di part berikutnya:
 - Go Code Review Comments — https://go.dev/wiki/CodeReviewComments
 - Go Memory Model — https://go.dev/ref/mem
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-007.md">⬅️ Go Generics: Type Parameters, Constraints, Type Sets, dan Generic API Design</a>

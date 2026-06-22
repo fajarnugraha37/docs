@@ -2120,7 +2120,6 @@ part-030  Concurrency-Safe Data: Ownership, Copy, Immutability, Sync Boundaries
 
 Seri belum selesai. Masih ada part 030 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-028.md">⬅️ Part 028 — Time as Data: time.Time, Duration, Monotonic Clock, Time Zone</a>

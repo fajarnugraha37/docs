@@ -2120,7 +2120,6 @@ part-028  Time as Data: time.Time, Duration, Monotonic Clock, Time Zone
 
 Seri belum selesai. Masih ada part 028 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-026.md">⬅️ Part 026 — Encoding Data: JSON, XML, CSV, Gob, Binary, Text Marshaling</a>

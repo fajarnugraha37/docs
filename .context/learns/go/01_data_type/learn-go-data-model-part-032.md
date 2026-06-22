@@ -2099,7 +2099,6 @@ part-033  Performance Engineering for Data Types and Collections
 
 Seri belum selesai. Masih ada part 033 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-031.md">⬅️ Part 031 — API Design with Types: Public Contract, Compatibility, Evolvability</a>

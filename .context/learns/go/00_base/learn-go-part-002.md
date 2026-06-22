@@ -2567,7 +2567,6 @@ Functions: multiple return, named return, variadic parameters, closures, defer, 
 
 The next part is where Go starts to feel very different from Java. Function design in Go is not only about parameters and return values. It is about API contracts, error paths, cleanup order, resource ownership, and whether control flow remains obvious under failure.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-001.md">⬅️ Part 001 — Go Toolchain, Workspace, Module, Build, Install, Cross-Compilation, Environment, dan `go` Command Deep Dive</a>

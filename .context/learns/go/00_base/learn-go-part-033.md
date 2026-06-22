@@ -2056,7 +2056,6 @@ Berikutnya:
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-032.md">⬅️ Go Service Architecture: REST/gRPC boundaries, hexagonal architecture, package layering, and clean dependency graph</a>

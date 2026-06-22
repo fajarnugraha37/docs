@@ -1508,7 +1508,6 @@ Kita sudah menyelesaikan seluruh seri:
 
 Status seri: **selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-033.md">⬅️ Go Cloud-native Engineering: container images, Kubernetes probes, resource limits, signals, config, and rollout safety</a>

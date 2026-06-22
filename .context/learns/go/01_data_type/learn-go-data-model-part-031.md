@@ -2187,7 +2187,6 @@ part-032  Testing Data Semantics: Equality, Fuzzing, Golden, Property, Boundary
 
 Seri belum selesai. Masih ada part 032 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-030.md">⬅️ Part 030 — Concurrency-Safe Data: Ownership, Copy, Immutability, Sync Boundaries</a>

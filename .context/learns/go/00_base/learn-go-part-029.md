@@ -2143,7 +2143,6 @@ Berikutnya:
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-028.md">⬅️ Go Database Engineering: database/sql, pooling, transaction boundaries, context timeout, scan/null handling</a>

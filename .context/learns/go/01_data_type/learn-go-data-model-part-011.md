@@ -2443,7 +2443,6 @@ part-012  Map II: Production Patterns, Set, Multimap, Index, Cache, Counter
 
 Seri belum selesai. Masih ada part 012 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-010.md">⬅️ Slice II: Growth, Copy, Delete, Insert, Filter, Reuse, dan Leak</a>

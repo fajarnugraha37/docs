@@ -2480,7 +2480,6 @@ Zero Value, Initialization, Valid State, dan Invariant Design
 
 Status seri: **belum selesai**. Ini adalah **part 001 dari 034**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-000.md">⬅️ Part 000 — Orientation: Go Data Model untuk Java Engineer</a>

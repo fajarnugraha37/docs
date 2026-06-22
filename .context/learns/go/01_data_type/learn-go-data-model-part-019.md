@@ -1896,7 +1896,6 @@ part-020  Error as Data: Sentinel, Typed Error, Wrapping, Matching
 
 Seri belum selesai. Masih ada part 020 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-018.md">⬅️ Part 018 — Interface I: Structural Typing, Method Set, Implicit Satisfaction</a>

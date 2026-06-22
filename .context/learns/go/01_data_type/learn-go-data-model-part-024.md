@@ -2085,7 +2085,6 @@ part-025  Unsafe, uintptr, Memory Views, and When Not To Be Clever
 
 Seri belum selesai. Masih ada part 025 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-023.md">⬅️ Part 023 — Comparability, Equality, Ordering, Hashability</a>

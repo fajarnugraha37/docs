@@ -1935,7 +1935,6 @@ part-024  Reflection: Type Metadata, Value Mutation, Tags, Dynamic Data
 
 Seri belum selesai. Masih ada part 024 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-022.md">⬅️ Part 022 — Generics II: Generic Collections, Algorithms, Zero Value, API Design</a>

@@ -2004,7 +2004,6 @@ Berikutnya: part-010 — Slice II: Growth, Copy, Delete, Insert, Filter, Reuse, 
 Sisa: part-010 sampai part-034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-008.md">⬅️ Part 008 — Array: Fixed-Size Value, Copy Semantics, Memory Layout</a>

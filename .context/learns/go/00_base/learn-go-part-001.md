@@ -2689,7 +2689,6 @@ Core Syntax, Declarations, Zero Value, Constants, iota, Operators, Control Flow,
 
 Status seri: belum selesai. Ini adalah part 001 dari 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-000.md">⬅️ Go Lang Part 000 — Orientation, Mental Model, dan Peta Belajar untuk Java Engineer</a>

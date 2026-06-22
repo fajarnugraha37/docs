@@ -2108,7 +2108,6 @@ part-015  Struct III: Domain Modeling, DTO, Entity, Config, Option, Event
 
 Seri belum selesai. Masih ada part 015 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-013.md">⬅️ Part 013 — Struct I: Field Layout, Alignment, Padding, Embedding</a>

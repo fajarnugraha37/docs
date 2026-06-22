@@ -2007,7 +2007,6 @@ part-021  Generics I: Type Parameters, Constraints, Approximation, Type Sets
 
 Seri belum selesai. Masih ada part 021 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-019.md">⬅️ Part 019 — Interface II: Runtime Representation, Boxing, Type Assertion, Type Switch</a>

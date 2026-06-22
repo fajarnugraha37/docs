@@ -1845,7 +1845,6 @@ part-014  Struct II: Value Receiver, Pointer Receiver, Mutability Contract
 
 Seri belum selesai. Masih ada part 014 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-012.md">⬅️ Part 012 — Map II: Production Patterns, Set, Multimap, Index, Cache, Counter</a>

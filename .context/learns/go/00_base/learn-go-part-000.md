@@ -1599,7 +1599,6 @@ Part 001 akan membahas:
 
 Status seri: belum selesai. Kita baru menyelesaikan `part 000` dari total rencana `35 part` (`000` sampai `034`).
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-MANIFEST.md">⬅️ go Complete Series Manifest</a>

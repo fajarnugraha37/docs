@@ -2190,7 +2190,6 @@ part-017  Nil: The Most Expensive Small Word in Go
 
 Seri belum selesai. Masih ada part 017 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-015.md">⬅️ Part 015 — Struct III: Domain Modeling, DTO, Entity, Config, Option, Event</a>

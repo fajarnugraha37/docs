@@ -1878,8 +1878,6 @@ Progress saat ini:
 [ ] part 034 — Production Case Studies
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-005.md">⬅️ Go Data Model — Part 005: Numeric Correctness — Money, Counter, ID, Duration, Version, Score</a>

@@ -2149,7 +2149,6 @@ The engineering goal is not to “use arrays more”. The goal is to know when f
 - Go GC Guide — object graph and GC cost background: https://go.dev/doc/gc-guide
 - Package `crypto/subtle` — constant-time comparison functions: https://pkg.go.dev/crypto/subtle
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-007.md">⬅️ Text Model II: `strings`, `bytes`, `strings.Builder`, `bytes.Buffer`, dan Boundary Efisiensi</a>

@@ -2099,7 +2099,6 @@ part-031  API Design with Types: Public Contract, Compatibility, Evolvability
 
 Seri belum selesai. Masih ada part 031 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-029.md">⬅️ Part 029 — Memory, Allocation, Escape, GC Pressure from Data Shape</a>

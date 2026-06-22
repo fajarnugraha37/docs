@@ -1817,7 +1817,6 @@ We will cover:
 - Go GC Guide: https://go.dev/doc/gc-guide
 - Effective Go: https://go.dev/doc/effective_go
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-009.md">⬅️ Part 009 — Slice I: Descriptor, Backing Array, `len`/`cap`, dan Aliasing</a>

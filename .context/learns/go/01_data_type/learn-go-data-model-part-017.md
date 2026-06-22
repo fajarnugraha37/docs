@@ -1935,7 +1935,6 @@ part-018  Interface I: Structural Typing, Method Set, Implicit Satisfaction
 
 Seri belum selesai. Masih ada part 018 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-016.md">⬅️ Part 016 — Pointer: Addressability, Nil, Indirection, Optionality, Escape</a>

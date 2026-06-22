@@ -2080,7 +2080,6 @@ part-022  Generics II: Generic Collections, Algorithms, Zero Value, API Design
 
 Seri belum selesai. Masih ada part 022 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-020.md">⬅️ Part 020 — Error as Data: Sentinel, Typed Error, Wrapping, Matching</a>

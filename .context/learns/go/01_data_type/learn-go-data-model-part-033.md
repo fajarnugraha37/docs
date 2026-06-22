@@ -2098,7 +2098,6 @@ part-034  Production Case Studies: Data Modeling Failure and Repair
 
 Seri hampir selesai. Masih ada part 034 sebagai final part.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-032.md">⬅️ Part 032 — Testing Data Semantics: Equality, Fuzzing, Golden, Property, Boundary</a>

@@ -2401,7 +2401,6 @@ part-013  Struct I: Field Layout, Alignment, Padding, Embedding
 
 Seri belum selesai. Masih ada part 013 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-011.md">⬅️ Part 011 — Map I: Hash Table Semantics, Key Rules, `nil` Map, Iteration</a>

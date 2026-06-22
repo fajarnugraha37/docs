@@ -2232,8 +2232,6 @@ Seri belum selesai. Lanjutkan ke:
 learn-go-data-model-part-005.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-003.md">⬅️ Part 003 — Constants, Untyped Values, `iota`, dan Compile-Time Semantics</a>

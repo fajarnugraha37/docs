@@ -2414,7 +2414,6 @@ This part introduced embedding only briefly. The next part will treat it as a fi
 - Go 1.26 Release Notes — <https://go.dev/doc/go1.26>
 - A Guide to the Go Garbage Collector — <https://go.dev/doc/gc-guide>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-003.md">⬅️ Go Functions: Multiple Return, Named Return, Variadic, Closures, `defer`, `panic`/`recover`, dan Lifecycle Cleanup</a>

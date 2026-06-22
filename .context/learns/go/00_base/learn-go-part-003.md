@@ -2653,7 +2653,6 @@ Total rencana: 035 part, dari 000 sampai 034
 Status: BELUM SELESAI
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-002.md">⬅️ Part 002 — Go Syntax Core: Declarations, Zero Value, Constants, `iota`, Operators, Control Flow, and Package Initialization</a>

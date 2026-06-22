@@ -2234,8 +2234,6 @@ Jika kamu memahami part ini, kamu akan lebih mudah memahami part berikutnya tent
 - Seri belum selesai
 - Berikutnya: `learn-go-part-006.md` — Interfaces: structural typing, implicit implementation, nil interface traps, dan API boundary design
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-004.md">⬅️ Go Types: Primitive, Alias vs Defined Type, Structs, Tags, Methods, and Receiver Semantics</a>

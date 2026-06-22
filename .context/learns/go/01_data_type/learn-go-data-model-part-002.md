@@ -3195,8 +3195,6 @@ We will discuss:
 
 Status seri: **belum selesai**. Ini adalah **part 002 dari 034**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-001.md">⬅️ Part 001 — Type System Core: Defined Type, Alias, Underlying Type, Assignability</a>

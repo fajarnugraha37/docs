@@ -2518,7 +2518,6 @@ part-023  Comparability, Equality, Ordering, Hashability
 
 Seri belum selesai. Masih ada part 023 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-021.md">⬅️ Part 021 — Generics I: Type Parameters, Constraints, Approximation, Type Sets</a>

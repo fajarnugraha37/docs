@@ -1599,7 +1599,6 @@ Status: belum selesai
 Part berikutnya: learn-go-data-model-part-008.md — Array: Fixed-Size Value, Copy Semantics, Memory Layout
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-006.md">⬅️ Part 006 — Text Model I: `byte`, `rune`, `string`, UTF-8, dan Unicode Reality</a>

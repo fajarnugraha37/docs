@@ -2341,7 +2341,6 @@ part-027  Database Boundary: Null, Decimal, Time, JSON, Enum, ID
 
 Seri belum selesai. Masih ada part 027 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-025.md">⬅️ Part 025 — Unsafe, uintptr, Memory Views, and When Not To Be Clever</a>

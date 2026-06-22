@@ -1850,7 +1850,6 @@ Total rencana: 035 part, dari 000 sampai 034
 Status: belum selesai
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-009.md">⬅️ Go Package Design: Exported API, `internal`, `cmd`, Module Layout, Dependency Direction, dan Stable Public Contracts</a>

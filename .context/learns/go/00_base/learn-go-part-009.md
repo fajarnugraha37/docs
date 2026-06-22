@@ -2065,7 +2065,6 @@ Berikutnya: part 010
 Target akhir: part 034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-008.md">⬅️ Go Error Handling: Explicit Errors, Wrapping, Sentinel Errors, Typed Errors, Classification, dan Retryability</a>

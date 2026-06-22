@@ -2634,7 +2634,6 @@ part-016  Pointer: Addressability, Nil, Indirection, Optionality, Escape
 
 Seri belum selesai. Masih ada part 016 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-014.md">⬅️ Part 014 — Struct II: Value Receiver, Pointer Receiver, Mutability Contract</a>

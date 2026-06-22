@@ -2017,7 +2017,6 @@ part-029  Memory, Allocation, Escape, GC Pressure from Data Shape
 
 Seri belum selesai. Masih ada part 029 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-027.md">⬅️ Part 027 — Database Boundary: Null, Decimal, Time, JSON, Enum, ID</a>

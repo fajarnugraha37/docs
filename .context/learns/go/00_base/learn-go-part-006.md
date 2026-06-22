@@ -2179,7 +2179,6 @@ Memahami interface dengan benar membuat generics jauh lebih mudah dipahami.
 - Go 1.26 Release Notes: https://go.dev/doc/go1.26
 - Go Release History: https://go.dev/doc/devel/release
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-005.md">⬅️ Go Composition over Inheritance: Embedding, Method Promotion, dan Object Modelling tanpa Class Hierarchy</a>

@@ -2479,7 +2479,6 @@ Boolean, Integer, Float, Complex: Numeric Foundations
 
 Status seri: belum selesai. Masih tersisa part 004 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-002.md">⬅️ Part 002 — Zero Value, Initialization, Valid State, dan Invariant Design</a>

@@ -2574,7 +2574,6 @@ part-034  Production Case Studies
 
 Seri `learn-go-data-model` **selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-033.md">⬅️ Part 033 — Performance Engineering for Data Types and Collections</a>

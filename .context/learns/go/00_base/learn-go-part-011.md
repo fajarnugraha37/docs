@@ -1997,8 +1997,6 @@ Progress: part 011 dari 034 selesai
 Next: learn-go-part-012.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-010.md">⬅️ Go Modules & Dependency Management: `go.mod`, Semantic Import Versioning, Proxy, Checksum DB, Private Modules, Vendor, and Production Upgrade Strategy</a>

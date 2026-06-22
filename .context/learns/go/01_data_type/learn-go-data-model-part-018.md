@@ -1985,7 +1985,6 @@ part-019  Interface II: Runtime Representation, Boxing, Type Assertion, Type Swi
 
 Seri belum selesai. Masih ada part 019 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-model-part-017.md">⬅️ Part 017 — Nil: The Most Expensive Small Word in Go</a>

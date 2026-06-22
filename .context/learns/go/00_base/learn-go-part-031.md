@@ -2033,7 +2033,6 @@ Berikutnya:
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-030.md">⬅️ Go Security Engineering: TLS, x509, crypto APIs, FIPS 140 mode, secret handling, and secure defaults</a>

@@ -1840,7 +1840,6 @@ Berikutnya:
 
 Status seri: **belum selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-016.md">⬅️ Go Concurrency Primitives: Goroutines, Channels, select, Close Semantics, Ownership, and Lifecycle</a>

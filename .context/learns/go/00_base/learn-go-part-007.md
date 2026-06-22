@@ -2043,8 +2043,6 @@ Part tersisa: 008 sampai 034
 
 Seri belum mencapai bagian terakhir.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-part-006.md">⬅️ Go Interfaces: Structural Typing, Implicit Implementation, Nil Interface Traps, dan API Boundary Design</a>

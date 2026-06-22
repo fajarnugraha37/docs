@@ -2645,8 +2645,6 @@ Status: belum mencapai bagian terakhir
 Next: learn-go-data-model-part-001.md
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>
