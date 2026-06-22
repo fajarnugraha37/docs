@@ -2647,8 +2647,6 @@ Neo4j Architecture: Storage, Query Engine, and Runtime Mental Model
 
 Di sana kita akan membahas bagaimana Neo4j menyimpan dan mengeksekusi graph: node store, relationship store, property store, adjacency/traversal locality, page cache, heap, transaction log, query planning, runtime operators, cardinality, dan bottleneck umum.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — Graph Thinking: From Entities to Relationships to Paths</a>

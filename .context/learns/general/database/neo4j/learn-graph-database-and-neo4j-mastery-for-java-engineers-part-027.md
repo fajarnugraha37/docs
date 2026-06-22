@@ -2273,8 +2273,6 @@ Seri belum selesai.
 Masih ada Part 028 sampai Part 032.
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-026.md">⬅️ Part 026 — Knowledge Graphs, Ontologies, Semantics, and Inference Boundaries</a>

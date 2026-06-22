@@ -16,7 +16,6 @@ Recommended reading order:
 021 → 022 → 023 → 024 → 025 → 026
 027 → 028 → 029 → 030 → 031 → 032
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — Capstone: Designing a Production-Grade Graph Platform for Complex Case Management</a>

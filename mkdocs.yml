@@ -95,8 +95,10 @@ nav:
           - "Kubernetes": "general/ops/kubernetes/index.md"
           - "Linux": "general/ops/linux/index.md"
           - "Nginx": "general/ops/nginx/index.md"
+          - "Scripting": "general/ops/scripting/index.md"
       - "Sql":
           - "Overview": "general/sql/index.md"
+          - "Mysql": "general/sql/mysql/index.md"
           - "Postgresql": "general/sql/postgresql/index.md"
   - "Java":
       - "Overview": "java/index.md"

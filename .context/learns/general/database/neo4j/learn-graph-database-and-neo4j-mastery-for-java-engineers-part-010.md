@@ -2223,7 +2223,6 @@ Seri belum selesai.
 Masih ada Part 011 sampai Part 032.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Schema, Constraints, Indexes, and Data Integrity in Neo4j</a>

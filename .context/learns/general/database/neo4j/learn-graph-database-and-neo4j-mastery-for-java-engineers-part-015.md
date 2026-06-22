@@ -2093,8 +2093,6 @@ Apakah script import selesai tanpa error?
 
 Pada part berikutnya, kita akan masuk ke **Transactions, Consistency, and Correctness in Graph Workloads**: bagaimana menjaga invariant graph saat aplikasi melakukan mutation kompleks, concurrent writes, retry, causal consistency, dan compensating action.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Spring Data Neo4j: Productivity, Boundaries, and Traps</a>

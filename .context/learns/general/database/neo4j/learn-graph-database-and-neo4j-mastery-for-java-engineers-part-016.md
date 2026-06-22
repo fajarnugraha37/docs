@@ -1857,8 +1857,6 @@ Di Part 017, kita akan berpindah dari correctness di level transaction/applicati
 - security baseline,
 - production readiness checklist.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Data Import, ETL, CDC, and Graph Projection Pipelines</a>

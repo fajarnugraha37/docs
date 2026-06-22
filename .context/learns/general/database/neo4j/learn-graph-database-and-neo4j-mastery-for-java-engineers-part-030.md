@@ -2397,7 +2397,6 @@ Topik:
 Comparative Architecture: Neo4j vs Relational, Document, Search, OLAP, Cache, and Stream Systems
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — Domain Case Study: IAM, Entitlements, Policy, and Access Graph</a>

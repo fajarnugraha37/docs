@@ -2084,8 +2084,6 @@ Centrality melihat “node penting”. Part berikutnya melihat **struktur kelomp
 - link prediction,
 - fraud ring/entity resolution/recommendation use cases.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Graph Data Science Fundamentals</a>

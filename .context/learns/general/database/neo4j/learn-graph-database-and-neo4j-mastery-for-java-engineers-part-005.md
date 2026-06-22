@@ -2538,8 +2538,6 @@ Graph Modelling Methodology: From Requirements to Graph Shape
 
 Di sana kita akan membahas cara sistematis mengubah requirement menjadi graph model: mulai dari pertanyaan, path yang harus murah, relationship taxonomy, cardinality analysis, mutation pattern, hingga model validation checklist.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — Cypher Fundamentals: Pattern Matching as a Query Language</a>

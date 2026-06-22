@@ -2424,7 +2424,6 @@ Seri belum selesai.
 Masih ada Part 009 sampai Part 032.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Advanced Graph Modelling Patterns</a>

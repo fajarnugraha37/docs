@@ -1769,8 +1769,6 @@ Use tools to accelerate understanding and controlled change.
 Do not let tools become invisible architecture.
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-019.md">⬅️ Part 019 — Security, Access Control, Multi-Tenancy, and Regulatory Defensibility</a>

@@ -2,7 +2,7 @@
 
 > Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
 
-Tersedia **0 artikel** dan **5 subkategori** pada bagian ini.
+Tersedia **0 artikel** dan **6 subkategori** pada bagian ini.
 
 ## Subkategori
 - [Aws](./aws/index.md)
@@ -10,6 +10,7 @@ Tersedia **0 artikel** dan **5 subkategori** pada bagian ini.
 - [Kubernetes](./kubernetes/index.md)
 - [Linux](./linux/index.md)
 - [Nginx](./nginx/index.md)
+- [Scripting](./scripting/index.md)
 
 ---
 

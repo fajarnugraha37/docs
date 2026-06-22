@@ -2143,8 +2143,6 @@ Derived edge/materialized relationship
 
 Part 006 selesai. Seri belum selesai.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Cypher Path Semantics: Variable-Length Traversal, Shortest Path, and Expansion Control</a>

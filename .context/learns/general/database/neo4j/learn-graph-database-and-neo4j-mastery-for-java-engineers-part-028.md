@@ -2270,7 +2270,6 @@ Topik:
 Domain Case Study: IAM, Entitlements, Policy, and Access Graph
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Domain Case Study: Fraud, Risk, Enforcement, and Investigation Graph</a>

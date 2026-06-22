@@ -2433,7 +2433,6 @@ Topik:
 Testing, Migration, Refactoring, and Evolution of Graph Systems
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Domain Case Study: Recommendation, Personalization, and Similarity Graph</a>

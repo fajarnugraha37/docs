@@ -2228,7 +2228,6 @@ Seri belum selesai.
 Lanjut ke Part 018 — Neo4j Clustering and High Availability.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — Transactions, Consistency, and Correctness in Graph Workloads</a>

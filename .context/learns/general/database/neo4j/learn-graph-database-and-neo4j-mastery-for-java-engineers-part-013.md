@@ -4210,8 +4210,6 @@ Part 013 selesai — Java Application Integration with Neo4j
 
 Seri belum selesai. Masih ada Part 014 sampai Part 032.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — Supernodes, Dense Graphs, and Traversal Explosion</a>

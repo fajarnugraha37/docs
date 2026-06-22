@@ -1821,7 +1821,6 @@ Bagian berikutnya akan membahas **Data Import, ETL, CDC, and Graph Projection Pi
 - Neo4j Constraints: https://neo4j.com/docs/cypher-manual/current/schema/constraints/
 - Neo4j Indexes: https://neo4j.com/docs/cypher-manual/current/indexes/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Java Application Integration with Neo4j</a>

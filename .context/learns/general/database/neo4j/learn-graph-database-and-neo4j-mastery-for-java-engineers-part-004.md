@@ -2697,7 +2697,6 @@ Topik:
 Cypher Path Semantics: Variable-Length Traversal, Shortest Path, and Expansion Control
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Neo4j Architecture: Storage, Query Engine, and Runtime Mental Model</a>

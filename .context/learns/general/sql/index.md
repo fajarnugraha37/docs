@@ -2,9 +2,10 @@
 
 > Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
 
-Tersedia **35 artikel** dan **1 subkategori** pada bagian ini.
+Tersedia **35 artikel** dan **2 subkategori** pada bagian ini.
 
 ## Subkategori
+- [Mysql](./mysql/index.md)
 - [Postgresql](./postgresql/index.md)
 
 ## Artikel

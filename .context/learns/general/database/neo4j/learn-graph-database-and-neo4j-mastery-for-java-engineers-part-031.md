@@ -2160,7 +2160,6 @@ Topik:
 Capstone: Designing a Production-Grade Graph Platform for Complex Case Management
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Testing, Migration, Refactoring, and Evolution of Graph Systems</a>

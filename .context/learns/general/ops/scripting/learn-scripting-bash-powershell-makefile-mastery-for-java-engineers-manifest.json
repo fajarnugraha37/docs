@@ -1,0 +1,129 @@
+{
+  "series": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers",
+  "status": "complete",
+  "parts_expected": 30,
+  "parts_found": 30,
+  "generated_at_utc": "2026-06-22T06:03:57.513802+00:00",
+  "files": [
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-000.md",
+      "size_bytes": 51352
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-001.md",
+      "size_bytes": 41632
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-002.md",
+      "size_bytes": 38912
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-003.md",
+      "size_bytes": 40000
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-004.md",
+      "size_bytes": 39112
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-005.md",
+      "size_bytes": 39797
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-006.md",
+      "size_bytes": 38993
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-007.md",
+      "size_bytes": 40475
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-008.md",
+      "size_bytes": 35052
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-009.md",
+      "size_bytes": 36066
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-010.md",
+      "size_bytes": 31371
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-011.md",
+      "size_bytes": 35939
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-012.md",
+      "size_bytes": 29247
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-013.md",
+      "size_bytes": 30984
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-014.md",
+      "size_bytes": 35233
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-015.md",
+      "size_bytes": 31320
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-016.md",
+      "size_bytes": 31066
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-017.md",
+      "size_bytes": 33992
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-018.md",
+      "size_bytes": 30803
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-019.md",
+      "size_bytes": 31452
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-020.md",
+      "size_bytes": 33549
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-021.md",
+      "size_bytes": 33461
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-022.md",
+      "size_bytes": 31231
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-023.md",
+      "size_bytes": 30498
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-024.md",
+      "size_bytes": 26533
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-025.md",
+      "size_bytes": 28795
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-026.md",
+      "size_bytes": 26938
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-027.md",
+      "size_bytes": 23835
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-028.md",
+      "size_bytes": 27737
+    },
+    {
+      "filename": "learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-029.md",
+      "size_bytes": 35521
+    }
+  ]
+}

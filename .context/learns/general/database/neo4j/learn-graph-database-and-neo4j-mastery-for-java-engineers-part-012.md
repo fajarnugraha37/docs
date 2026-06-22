@@ -2554,8 +2554,6 @@ Supernode adalah pengingat bahwa graph modelling bukan hanya membuat node dan re
 
 > Model graph yang baik bukan graph yang paling connected, tetapi graph yang membuat path penting murah, path tidak relevan sulit, dan path berbahaya mustahil dijalankan tanpa sadar.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Query Performance: `PROFILE`, `EXPLAIN`, Cardinality, and Plan Tuning</a>

@@ -2078,8 +2078,6 @@ Domain Case Study: Fraud, Risk, Enforcement, and Investigation Graph
 
 Di Part 027, kita akan memakai seluruh konsep sebelumnya untuk membangun case study end-to-end yang dekat dengan sistem enforcement lifecycle dan complex case management: entity, case, evidence, risk signal, investigation workflow, related party discovery, conflict of interest, repeat offender detection, escalation, dan defensible decision support.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Graph Embeddings, Vector Indexes, and GenAI/RAG with Neo4j</a>

@@ -2414,7 +2414,6 @@ Topik:
 APOC and Neo4j Tooling Ecosystem
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Neo4j Clustering and High Availability</a>

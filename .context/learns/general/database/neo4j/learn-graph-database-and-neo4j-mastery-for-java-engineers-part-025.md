@@ -2470,7 +2470,6 @@ Topik:
 Knowledge Graphs, Ontologies, Semantics, and Inference Boundaries
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Path Finding, Routing, and Impact Analysis</a>

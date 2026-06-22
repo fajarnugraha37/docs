@@ -2642,7 +2642,6 @@ Topik berikutnya:
 Anti-Patterns in Graph Modelling
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — Graph Modelling Methodology: From Requirements to Graph Shape</a>

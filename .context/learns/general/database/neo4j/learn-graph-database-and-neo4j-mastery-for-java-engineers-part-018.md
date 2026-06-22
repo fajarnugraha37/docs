@@ -2045,7 +2045,6 @@ Hal terpenting:
 
 Part berikutnya akan membahas **Security, Access Control, Multi-Tenancy, and Regulatory Defensibility**: bagaimana mendesain Neo4j untuk sistem yang perlu tenant isolation, audit trail, provenance, retention, path-based access control, dan keputusan yang bisa dipertanggungjawabkan.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-graph-database-and-neo4j-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Neo4j Operations: Deployment, Configuration, Backup, Monitoring, and Capacity</a>
