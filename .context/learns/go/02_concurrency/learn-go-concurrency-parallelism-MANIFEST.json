@@ -1,0 +1,148 @@
+{
+  "series": "Go Thread, Concurrency, Parallelism & Runtime Engineering",
+  "generated_at": "2026-06-22T14:24:08.579119Z",
+  "part_range": "000-034",
+  "total_parts": 35,
+  "files": [
+    {
+      "filename": "learn-go-concurrency-parallelism-part-000.md",
+      "size_bytes": 66502
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-001.md",
+      "size_bytes": 72217
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-002.md",
+      "size_bytes": 64680
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-003.md",
+      "size_bytes": 53262
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-004.md",
+      "size_bytes": 43811
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-005.md",
+      "size_bytes": 43498
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-006.md",
+      "size_bytes": 49562
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-007.md",
+      "size_bytes": 41034
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-008.md",
+      "size_bytes": 64320
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-009.md",
+      "size_bytes": 46189
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-010.md",
+      "size_bytes": 50802
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-011.md",
+      "size_bytes": 43260
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-012.md",
+      "size_bytes": 44245
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-013.md",
+      "size_bytes": 46095
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-014.md",
+      "size_bytes": 41009
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-015.md",
+      "size_bytes": 37888
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-016.md",
+      "size_bytes": 32587
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-017.md",
+      "size_bytes": 35531
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-018.md",
+      "size_bytes": 35925
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-019.md",
+      "size_bytes": 35491
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-020.md",
+      "size_bytes": 32999
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-021.md",
+      "size_bytes": 34102
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-022.md",
+      "size_bytes": 28871
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-023.md",
+      "size_bytes": 27422
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-024.md",
+      "size_bytes": 29007
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-025.md",
+      "size_bytes": 30833
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-026.md",
+      "size_bytes": 31563
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-027.md",
+      "size_bytes": 24969
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-028.md",
+      "size_bytes": 26961
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-029.md",
+      "size_bytes": 30868
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-030.md",
+      "size_bytes": 26573
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-031.md",
+      "size_bytes": 30025
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-032.md",
+      "size_bytes": 27886
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-033.md",
+      "size_bytes": 31863
+    },
+    {
+      "filename": "learn-go-concurrency-parallelism-part-034.md",
+      "size_bytes": 27080
+    }
+  ]
+}
