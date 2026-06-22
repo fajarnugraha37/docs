@@ -33,7 +33,7 @@ Tersedia **36 artikel** dan **0 subkategori** pada bagian ini.
 - [Part 25 — Deployment Security Hardening](./learn-java-deployment-runtime-release-delivery-engineering-part-25-deployment-security-hardening.md)
 - [Part 26 — Multi-Environment Deployment: DEV, SIT, UAT, Staging, Production, DR](./learn-java-deployment-runtime-release-delivery-engineering-part-26-multi-environment-deployment.md)
 - [Part 27 — Multi-Service and Distributed Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-27-multi-service-distributed-java-deployment.md)
-- [Part 28 — Legacy Java Deployment: Java 8, App Servers, Monoliths, and Migration Constraints](./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration-constraints.md)
+- [Part 28 — Legacy Java Deployment: Java 8, App Servers, Monoliths, and Migration Constraints](./learn-java-deployment-runtime-release-delivery-engineering-part-28-deployment-java-8-app-servers-monoliths-migration.md)
 - [Part 29 — Modern Java Deployment: Java 17, 21, 25, Containers, Virtual Threads, Cloud Native](./learn-java-deployment-runtime-release-delivery-engineering-part-29-java-17-21-25-containers-virtual-threads-cloud-native.md)
 - [Part 30 — Failure Modeling: Deployment Incident Patterns and Root Cause Analysis](./learn-java-deployment-runtime-release-delivery-engineering-part-30-failure-modeling-deployment-incident-patterns-rca.md)
 - [Part 31 — Runbook Engineering for Java Deployment](./learn-java-deployment-runtime-release-delivery-engineering-part-31-runbook-engineering-for-java-deployment.md)
