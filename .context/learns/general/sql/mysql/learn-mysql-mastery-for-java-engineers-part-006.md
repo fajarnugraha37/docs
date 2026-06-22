@@ -1751,7 +1751,6 @@ Di part berikutnya kita akan masuk ke isolation level MySQL, terutama kenapa `RE
 - Lanjut ke: `learn-mysql-mastery-for-java-engineers-part-007.md`
 - Judul berikutnya: **Isolation Levels in MySQL: Repeatable Read Is Not What Many Think**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-005.md">⬅️ Part 005 — Character Sets, Collations, and Text Comparison Bugs</a>

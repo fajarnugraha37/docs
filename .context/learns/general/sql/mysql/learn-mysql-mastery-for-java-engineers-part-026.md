@@ -1652,8 +1652,6 @@ Observability: Performance Schema, sys Schema, Slow Query Log
 
 Di bagian berikutnya kita akan masuk ke kemampuan melihat apa yang benar-benar terjadi di MySQL production: query digest, wait events, slow query, lock inspection, buffer pool metrics, connection metrics, dan dashboard incident.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-025.md">⬅️ Part 025 — Metadata Locks and Operational Surprises</a>

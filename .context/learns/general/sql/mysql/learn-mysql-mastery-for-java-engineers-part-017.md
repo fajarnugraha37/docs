@@ -1830,7 +1830,6 @@ Buffer Pool, Memory, and I/O Behavior
 
 Kita akan masuk lebih dalam ke memory/I/O: buffer pool, dirty page flushing, read-ahead, adaptive hash index, change buffer, temporary memory, per-connection buffers, working set, dan hubungan langsung dengan sizing connection pool Java.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-016.md">⬅️ Part 016 — JDBC, Connector/J, HikariCP, and MySQL Protocol Details</a>

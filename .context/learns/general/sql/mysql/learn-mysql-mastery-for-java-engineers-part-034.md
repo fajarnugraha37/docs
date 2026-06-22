@@ -2038,7 +2038,6 @@ Gunakan dokumentasi resmi sebagai sumber utama saat melakukan production review:
 
 Dokumentasi resmi MySQL 8.4 menyatakan manual tersebut mencakup MySQL 8.4 sampai 8.4.9. Untuk sistem production modern, gunakan dokumentasi versi yang sama dengan server yang benar-benar dijalankan, karena behavior, default, dan fitur bisa berubah antar versi.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-033.md">⬅️ Part 033 — Performance Engineering Methodology</a>

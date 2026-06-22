@@ -2635,8 +2635,6 @@ Bagian berikutnya akan masuk ke pola concurrency aplikasi yang lebih desain-leve
 
 Kita akan membahas optimistic locking, pessimistic locking, unique constraint as concurrency control, idempotency key, work queue dengan `SKIP LOCKED`, reservation pattern, state transition guard, outbox/inbox, dan exactly-once illusion.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-027.md">⬅️ Part 027 — Observability: Performance Schema, sys Schema, Slow Query Log</a>

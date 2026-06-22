@@ -1620,7 +1620,6 @@ Progress:
 
 **Seri ini selesai.**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Refactoring Legacy Scripts</a>

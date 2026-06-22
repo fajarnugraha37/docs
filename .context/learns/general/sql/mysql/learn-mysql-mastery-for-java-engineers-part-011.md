@@ -2417,8 +2417,6 @@ MySQL Optimizer: Cost Model, Statistics, and Execution Plans
 
 Kita akan membahas bagaimana MySQL memilih execution plan, kenapa optimizer kadang memilih index yang tampak “salah”, bagaimana membaca `EXPLAIN`, kapan memakai `EXPLAIN ANALYZE`, bagaimana statistik dan histogram mempengaruhi keputusan, dan bagaimana engineer harus men-debug plan instability secara sistematis.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-010.md">⬅️ Part 010 — Index Internals: B+Tree, Clustered Index, Secondary Index Cost</a>

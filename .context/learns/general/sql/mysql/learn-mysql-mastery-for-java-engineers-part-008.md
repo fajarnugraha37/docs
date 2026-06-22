@@ -2652,7 +2652,6 @@ Kita akan membahas:
 - Status: **Belum selesai**
 - Berikutnya: `learn-mysql-mastery-for-java-engineers-part-009.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-007.md">⬅️ Part 007 — Isolation Levels in MySQL: Repeatable Read Is Not What Many Think</a>

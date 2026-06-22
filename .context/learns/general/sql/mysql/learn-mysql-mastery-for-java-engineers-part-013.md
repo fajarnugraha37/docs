@@ -2232,7 +2232,6 @@ Judul:
 Pagination, Search, Filtering, and Case-Management Query Design
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-012.md">⬅️ Part 012 — MySQL Optimizer: Cost Model, Statistics, and Execution Plans</a>

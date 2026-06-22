@@ -2379,7 +2379,6 @@ Di sana kita akan membahas apa yang benar-benar terjadi saat MySQL menjalankan j
 - Total rencana: `part-000` sampai `part-034`
 - Status: **belum selesai**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Designing Indexes for Real Workloads, Not Individual Queries</a>

@@ -2291,7 +2291,6 @@ InnoDB MVCC: Read Views, Undo Logs, and Consistent Reads
 
 Di bagian berikutnya, kita akan masuk ke salah satu pusat perilaku transaksi MySQL: bagaimana InnoDB membuat consistent read, bagaimana snapshot dibentuk, bagaimana undo log digunakan, kenapa long-running transaction berbahaya, dan kenapa Java transaction boundary dapat merusak performa database walau query-nya terlihat sederhana.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-004.md">⬅️ Part 004 — MySQL Data Types: Physical Cost, Semantics, and Java Mapping</a>

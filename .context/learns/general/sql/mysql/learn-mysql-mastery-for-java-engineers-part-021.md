@@ -2031,7 +2031,6 @@ Topik berikutnya:
 High Availability: Failover, Topologies, and Failure Modes
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-020.md">⬅️ Part 020 — Binary Log and Replication Fundamentals</a>

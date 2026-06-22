@@ -2097,7 +2097,6 @@ Judul:
 
 **Write Path Internals: Redo Log, Undo Log, Binlog, Doublewrite**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-015.md">⬅️ Part 015 — Transactions in Java Applications: Boundaries, Timeouts, and Side Effects</a>

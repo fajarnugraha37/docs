@@ -2018,7 +2018,6 @@ Part 002 akan menjawab:
 **Progress:** Part `001 / 034` selesai.  
 **Berikutnya:** `learn-mysql-mastery-for-java-engineers-part-002.md` — InnoDB Storage Model: Pages, Extents, Tablespaces, Rows.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-000.md">⬅️ Learn MySQL Mastery for Java Engineers — Part 000</a>

@@ -2416,8 +2416,6 @@ Progress saat ini:
 - Selesai: Part 000 sampai Part 015
 - Berikutnya: Part 016 — `JDBC, Connector/J, HikariCP, and MySQL Protocol Details`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-014.md">⬅️ Part 014 — Pagination, Search, Filtering, and Case-Management Query Design</a>

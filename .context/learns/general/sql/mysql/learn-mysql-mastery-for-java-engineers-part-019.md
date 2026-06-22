@@ -2219,7 +2219,6 @@ Topik berikutnya:
 Binary Log and Replication Fundamentals
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-018.md">⬅️ Part 018 — Buffer Pool, Memory, and I/O Behavior</a>

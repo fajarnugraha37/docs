@@ -1559,8 +1559,6 @@ Bagian berikutnya:
 
 - `learn-mysql-mastery-for-java-engineers-part-030.md` — **Partitioning, Archiving, Retention, and Large Tables**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-028.md">⬅️ Part 028 — Debugging Production Incidents in MySQL</a>

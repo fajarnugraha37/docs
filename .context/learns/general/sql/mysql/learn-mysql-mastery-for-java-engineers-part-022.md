@@ -1869,8 +1869,6 @@ menjadi:
 
 > “Bagaimana kita benar-benar memulihkan data yang rusak, hilang, atau salah berubah?”
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-021.md">⬅️ Part 021 — Replication Lag, Read/Write Splitting, and Consistency Boundaries</a>

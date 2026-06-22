@@ -1995,7 +1995,6 @@ Progress saat ini:
 
 Total rencana seri: 35 bagian, `part-000` sampai `part-034`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-001.md">⬅️ Part 001 — MySQL Architecture: From Client Connection to Storage Engine</a>

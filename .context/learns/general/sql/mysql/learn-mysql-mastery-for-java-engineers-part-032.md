@@ -2376,8 +2376,6 @@ Performance Engineering Methodology
 
 Kita akan fokus ke cara mengukur, membuat workload model, membaca latency distribution, menghindari benchmark palsu, melakukan capacity planning, dan mencegah performance regression pada sistem Java + MySQL.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-031.md">⬅️ Part 031 — JSON, Generated Columns, Full-Text, and Semi-Structured Data</a>

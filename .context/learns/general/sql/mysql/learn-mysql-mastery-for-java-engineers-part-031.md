@@ -1999,7 +1999,6 @@ Bagian berikutnya:
 
 `learn-mysql-mastery-for-java-engineers-part-032.md` — **MySQL in Distributed Systems and Microservices**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-030.md">⬅️ Part 030 — Partitioning, Archiving, Retention, and Large Tables</a>

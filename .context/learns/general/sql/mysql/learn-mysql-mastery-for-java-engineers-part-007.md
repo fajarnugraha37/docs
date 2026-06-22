@@ -2081,7 +2081,6 @@ Topik berikutnya:
 InnoDB Locking: Record Locks, Gap Locks, Next-Key Locks
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-006.md">⬅️ Part 006 — InnoDB MVCC: Read Views, Undo Logs, and Consistent Reads</a>

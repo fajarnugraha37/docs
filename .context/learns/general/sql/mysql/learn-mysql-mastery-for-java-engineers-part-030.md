@@ -1811,7 +1811,6 @@ Progress saat ini:
 - Tersisa: Part 031 sampai Part 034
 - Bagian terakhir seri: Part 034 — Production Readiness Checklist and Capstone Architecture
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-029.md">⬅️ Part 029 — MySQL and Application-Level Concurrency Patterns</a>

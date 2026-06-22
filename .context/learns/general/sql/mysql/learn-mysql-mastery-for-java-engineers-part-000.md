@@ -1526,7 +1526,6 @@ Referensi ini tidak perlu dibaca semua sekarang. Daftar ini menjadi anchor agar 
 **Part berikutnya:** `001 — MySQL Architecture: From Client Connection to Storage Engine`  
 **Seri sudah selesai?** Belum. Ini adalah bagian pembuka dari total 35 part.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

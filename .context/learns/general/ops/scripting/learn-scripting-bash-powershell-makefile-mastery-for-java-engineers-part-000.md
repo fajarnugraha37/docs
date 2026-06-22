@@ -2414,7 +2414,6 @@ Part 001 — Shell Mental Model: Process, Stream, Exit Code, Environment
 
 Seri belum selesai. Ini adalah Part 000 dari 029.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

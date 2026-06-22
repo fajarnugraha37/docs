@@ -2481,7 +2481,6 @@ Judul:
 Index Internals: B+Tree, Clustered Index, Secondary Index Cost
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-008.md">⬅️ Part 008 — InnoDB Locking: Record Locks, Gap Locks, Next-Key Locks</a>

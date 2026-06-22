@@ -2409,8 +2409,6 @@ Kita akan membahas MySQL security dari sudut production engineering:
 - access traceability,
 - dan desain privilege untuk sistem Java/regulatory.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-024.md">⬅️ Part 024 — Schema Migration Without Taking Production Down</a>

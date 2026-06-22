@@ -1610,7 +1610,6 @@ Progress:
 - [ ] Part 028 — Refactoring Legacy Scripts
 - [ ] Part 029 — Capstone: Production-Grade Automation Toolkit for a Java Service
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-scripting-bash-powershell-makefile-mastery-for-java-engineers-part-011.md">⬅️ Part 011 — Security Model for Shell Scripts</a>

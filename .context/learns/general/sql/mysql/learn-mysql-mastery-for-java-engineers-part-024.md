@@ -2237,8 +2237,6 @@ Part berikutnya akan masuk lebih dalam ke salah satu failure mode paling sering 
 
 Di sana kita akan membedah metadata lock sebagai sistem antrean, bagaimana SELECT biasa bisa menghalangi DDL, bagaimana DDL pending bisa menahan query baru, dan bagaimana membuat runbook untuk stuck migration.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-023.md">⬅️ Part 023 — Backup, Restore, PITR, and Disaster Recovery</a>

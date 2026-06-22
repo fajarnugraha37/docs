@@ -2713,8 +2713,6 @@ Sebagai Java engineer, jangan menyerahkan semua keputusan index ke ORM, auto-gen
 
 **Status seri:** belum selesai. Ini adalah `Part 010 / 034`.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-009.md">⬅️ Part 009 — Deadlocks and Lock Wait Timeouts: Diagnosis and Design</a>

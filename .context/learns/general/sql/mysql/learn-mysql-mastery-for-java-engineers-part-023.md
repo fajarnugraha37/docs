@@ -2187,8 +2187,6 @@ Bagian berikutnya akan membahas sesuatu yang sangat sering menjadi sumber outage
 
 Kita akan membahas metadata lock, online DDL, instant DDL, expand-contract migration, backfill, Flyway/Liquibase, rollback reality, dan bagaimana merancang migration yang aman untuk sistem MySQL production.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-022.md">⬅️ Part 022 — High Availability: Failover, Topologies, and Failure Modes</a>

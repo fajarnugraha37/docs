@@ -2198,7 +2198,6 @@ Ini penting karena banyak bug MySQL production bukan berasal dari query yang sal
 
 Status seri: belum selesai. Ini baru Part 004 dari 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-003.md">⬅️ Part 003 — Primary Key Design in MySQL: The Hidden Architecture Decision</a>

@@ -2258,8 +2258,6 @@ Di sana kita akan membangun prinsip konfigurasi MySQL production:
 - config drift,
 - checklist konfigurasi production.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-017.md">⬅️ Part 017 — Write Path Internals: Redo Log, Undo Log, Binlog, Doublewrite</a>

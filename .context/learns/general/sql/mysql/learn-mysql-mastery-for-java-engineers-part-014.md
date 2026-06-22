@@ -3459,7 +3459,6 @@ Status: BELUM SELESAI
 Bagian berikutnya: part-015 — Transactions in Java Applications: Boundaries, Timeouts, and Side Effects
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-013.md">⬅️ Part 013 — Query Execution Patterns: Joins, Sorting, Temp Tables, Filesort</a>

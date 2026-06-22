@@ -2207,7 +2207,6 @@ Di part terakhir, seluruh konsep akan digabungkan menjadi checklist produksi dan
 - observability,
 - operational runbook.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-032.md">⬅️ Part 032 — MySQL in Distributed Systems and Microservices</a>

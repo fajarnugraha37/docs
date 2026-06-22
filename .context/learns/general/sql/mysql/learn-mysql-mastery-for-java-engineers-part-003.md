@@ -1942,7 +1942,6 @@ Bagian berikutnya:
 Part 004 — MySQL Data Types: Physical Cost, Semantics, and Java Mapping
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-mysql-mastery-for-java-engineers-part-002.md">⬅️ Part 002 — InnoDB Storage Model: Pages, Extents, Tablespaces, Rows</a>
