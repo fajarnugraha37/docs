@@ -2140,8 +2140,6 @@ Progress saat ini:
 - [x] Part 003 — Method set formal, receiver, addressability, dan interface satisfaction
 - [ ] Part 004 — Struct embedding: promoted fields/methods, shadowing, ambiguity, dan desain composition yang aman
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-002.md">⬅️ Part 002 — Defined Type, Alias, Receiver, Method, dan Konsekuensi Desain API</a>

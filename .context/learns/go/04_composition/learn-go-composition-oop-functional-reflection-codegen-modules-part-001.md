@@ -1869,8 +1869,6 @@ Catatan: bagian ini sengaja memakai sumber resmi Go sebagai fondasi. Artikel kom
 - Seri sudah selesai? **Belum**
 - Lanjut berikutnya: `learn-go-composition-oop-functional-reflection-codegen-modules-part-002.md`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-000.md">⬅️ Part 000 — Peta Seri, Mental Model, Scope, dan Cara Belajar Efisien</a>

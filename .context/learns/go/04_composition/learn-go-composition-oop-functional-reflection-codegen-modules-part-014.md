@@ -2366,7 +2366,6 @@ Part 015 will move from function-based abstraction to runtime type inspection. W
 - Go package `database/sql`: https://pkg.go.dev/database/sql
 - Go package `bufio`: https://pkg.go.dev/bufio
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-013.md">⬅️ Part 013 — Higher-Order API Design: Middleware, Interceptor, Handler Chain, Mapper, Reducer, dan Function Composition yang Tetap Go-like</a>

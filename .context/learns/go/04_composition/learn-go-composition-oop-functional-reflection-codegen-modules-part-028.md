@@ -2513,7 +2513,6 @@ Topik utama:
 
 Status seri: **belum selesai**. Part ini adalah **028 dari 030**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-027.md">⬅️ Part 027 — Private Modules & Enterprise Supply Chain: `GOPRIVATE`, Proxy, SumDB, Private Git Auth, Registry, Provenance, dan CI/CD Secret Handling</a>

@@ -2661,7 +2661,6 @@ Pada Part 009, kita akan masuk ke topik: **OOP tanpa class — polymorphism, enc
 - Status: **belum selesai**
 - Lanjut ke: `learn-go-composition-oop-functional-reflection-codegen-modules-part-009.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-007.md">⬅️ Part 007 — Structural Typing Deep Dive: Implicit Implementation, Compile-Time Guarantees, dan API Evolution</a>

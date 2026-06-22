@@ -2061,7 +2061,6 @@ Setelah memahami reflection, generics, dan code generation, kita akan masuk ke d
 - Seri: **belum selesai**
 - Bagian terakhir yang direncanakan: **Part 030 — Capstone handbook: designing a production-grade Go platform library end-to-end**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-022.md">⬅️ Part 022 — Annotation-like Design di Go: Struct Tags, Marker Interfaces, Directives, Registries, dan Build Tags</a>

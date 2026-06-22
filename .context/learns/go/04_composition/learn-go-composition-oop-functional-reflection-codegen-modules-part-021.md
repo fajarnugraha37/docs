@@ -2351,7 +2351,6 @@ Topik berikutnya:
 Annotation-like design in Go: struct tags, marker interfaces, directives, registries, build tags
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-020.md">⬅️ Part 020 — AST-Based Generation: `go/parser`, `go/ast`, `go/token`, Formatting, Comments, Directives, and Deterministic Generators</a>

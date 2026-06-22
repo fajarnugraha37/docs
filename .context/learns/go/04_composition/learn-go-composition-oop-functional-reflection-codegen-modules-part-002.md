@@ -2551,7 +2551,6 @@ Part 003 berikutnya
 Part 030 target akhir
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-001.md">⬅️ Part 001 — Dari Java Class Hierarchy ke Go Behavior Composition</a>

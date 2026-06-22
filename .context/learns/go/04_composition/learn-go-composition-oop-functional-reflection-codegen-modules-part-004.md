@@ -2412,8 +2412,6 @@ Part yang sudah dibuat:
 - Part 003 — Method set secara formal
 - Part 004 — Struct embedding
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-003.md">⬅️ Part 003 — Method Set Secara Formal: Value Receiver, Pointer Receiver, Addressability, dan Interface Satisfaction</a>

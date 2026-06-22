@@ -2270,7 +2270,6 @@ Part 026 akan menambahkan layer **toolchain dan enterprise reproducibility**.
 - Status: **belum selesai**
 - Berikutnya: **Part 026 — Modern module governance: toolchain directive, `go` directive, `godebug`, workspace, vendoring**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-024.md">⬅️ Part 024 — Package Design: Naming, Export Surface, `internal`, Dependency Direction, dan Package Cohesion</a>

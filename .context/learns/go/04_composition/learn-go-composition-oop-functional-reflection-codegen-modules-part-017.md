@@ -2093,7 +2093,6 @@ Bagian berikutnya akan membahas **Reflection vs Generics vs Code Generation** se
 - Berikutnya: Part 018 — Reflection vs Generics vs Code Generation: Decision Framework dan Trade-off Matrix
 - Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-016.md">⬅️ Part 016 — Reflection for Struct Metadata: Tags, Visible Fields, Mapping, Validation, Serialization</a>

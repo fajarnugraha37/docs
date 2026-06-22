@@ -2773,8 +2773,6 @@ Part berikutnya akan membahas **iterator-style design, `iter` ecosystem mindset,
 - Status: **belum selesai**
 - Berikutnya: `learn-go-composition-oop-functional-reflection-codegen-modules-part-014.md`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-012.md">⬅️ Part 012 — Functional Options Pattern: Configuration API, Validation, Defaulting, dan Immutable Boundary</a>

@@ -2506,7 +2506,6 @@ Progress saat ini:
 - Berikutnya: Part 006.
 - Target akhir: Part 030.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-004.md">⬅️ Part 004 — Struct Embedding: Promoted Fields/Methods, Shadowing, Ambiguity, dan Composition yang Aman</a>

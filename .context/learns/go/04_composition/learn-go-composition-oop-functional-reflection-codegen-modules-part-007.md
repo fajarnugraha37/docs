@@ -1920,7 +1920,6 @@ Part berikutnya akan masuk ke **interface type sets & generics constraints**: ba
 - Seri belum selesai.
 - Lanjut ke: `learn-go-composition-oop-functional-reflection-codegen-modules-part-008.md`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-006.md">⬅️ Part 006 — Interface Sebagai Behavioral Contract: Small Interface, Consumer-Side Interface, Nil Trap, dan API Evolution</a>

@@ -2282,7 +2282,6 @@ Topik berikutnya:
 Functional Options Pattern: configuration API, validation, defaulting, immutability boundary, ordering, conflict detection, dan API compatibility.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-010.md">⬅️ Part 010 — Anti-Inheritance Migration: Menerjemahkan Java Abstract Class, Template Method, dan Framework-Style Inheritance ke Go Composition</a>

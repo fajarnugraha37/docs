@@ -2022,8 +2022,6 @@ Part ini membahas functional options sebagai pattern konfigurasi production-grad
 Status seri: **belum selesai**.  
 Part berikutnya: `learn-go-composition-oop-functional-reflection-codegen-modules-part-013.md`.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-011.md">⬅️ Part 011 — Functional Style di Go: Function, Closure, Strategy, Option, dan Pipeline Tanpa Over-Abstraction</a>

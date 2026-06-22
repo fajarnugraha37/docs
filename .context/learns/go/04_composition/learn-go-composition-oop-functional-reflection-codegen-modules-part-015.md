@@ -1759,7 +1759,6 @@ Part 015 dari 030 selesai.
 Next: Part 016 — Reflection for Struct Metadata.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-014.md">⬅️ Part 014 — Iterator-Style Design, Lazy Sequence, dan API Ergonomics Modern Go</a>

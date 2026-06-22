@@ -2373,7 +2373,6 @@ Topik utama:
 
 Status seri: **belum selesai**. Part ini adalah **026 dari 030**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-025.md">⬅️ Part 025 — Go Module Fundamentals: `go.mod`, `go.sum`, MVS, Semantic Import Versioning, `replace`, `exclude`, dan `retract`</a>

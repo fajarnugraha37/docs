@@ -1882,8 +1882,6 @@ Part berikutnya akan naik dari syntax-level ke **type-aware generation** menggun
 - Status: **belum selesai**
 - Part berikutnya: **Part 021 — Type-aware generation: `go/types`, package loading, import resolution, generic type inspection**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-019.md">⬅️ Part 019 — Code Generation Fundamentals: `go generate`, Generated-File Contract, Reproducibility, dan CI Policy</a>

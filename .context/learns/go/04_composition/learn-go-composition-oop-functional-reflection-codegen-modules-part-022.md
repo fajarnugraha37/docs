@@ -1976,8 +1976,6 @@ Desain top-tier di Go bukan menolak metadata, tetapi menempatkan metadata pada l
 - Seri: **belum selesai**.
 - Berikutnya: **Part 023 — Generating Production APIs: DTO, Mapper, Validator, Enum Stringer, Error Codes, Mocks, Clients**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-021.md">⬅️ Aware Code Generation: `go/types`, Package Loading, Import Resolution, dan Generic Type Inspection</a>

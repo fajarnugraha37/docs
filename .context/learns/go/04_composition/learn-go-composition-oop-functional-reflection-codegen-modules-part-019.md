@@ -1915,7 +1915,6 @@ Part 019 / 030 selesai.
 Next: Part 020 / 030.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-018.md">⬅️ Part 018 — Reflection vs Generics vs Code Generation: Decision Framework untuk Production Go</a>

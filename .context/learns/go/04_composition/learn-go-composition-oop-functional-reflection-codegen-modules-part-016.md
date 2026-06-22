@@ -1936,8 +1936,6 @@ Reflection performance & safety: allocation, caching metadata, unsafe boundary, 
 
 Kita akan masuk lebih dalam ke biaya runtime reflection, escape/allocation pattern, cache strategy, concurrency, unsafe temptation, dan cara memutuskan kapan reflection harus diganti oleh generics atau code generation.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-015.md">⬅️ Part 015 — Reflection Mental Model: Type, Value, Kind, Addressability, Settability, Zero Value, dan Panic Surface</a>

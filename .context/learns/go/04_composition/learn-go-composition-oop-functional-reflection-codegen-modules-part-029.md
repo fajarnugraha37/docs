@@ -2227,7 +2227,6 @@ Topik utama:
 
 Status seri: **belum selesai**. Part ini adalah **029 dari 030**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-028.md">⬅️ Part 028 — Large-Scale Repo Architecture: Monorepo, Multi-Module, `/cmd`, `/internal`, `/pkg`, Dependency Direction, Ownership Boundary, dan Migration Strategy</a>

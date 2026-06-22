@@ -1985,7 +1985,6 @@ Nama file berikutnya:
 learn-go-composition-oop-functional-reflection-codegen-modules-part-011.md
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-009.md">⬅️ Part 009 — OOP Tanpa Class: Polymorphism, Encapsulation, Lifecycle, Invariant, dan Domain Modeling di Go</a>

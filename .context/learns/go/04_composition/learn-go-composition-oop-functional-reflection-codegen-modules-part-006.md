@@ -3113,8 +3113,6 @@ Di Part 006 kita memahami interface sebagai kontrak behavior. Part 007 akan masu
 - Status: **belum selesai**
 - Part terakhir yang direncanakan: **Part 030 — Capstone handbook: designing a production-grade Go platform library end-to-end**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-005.md">⬅️ Part 005 — Composition Patterns: Delegation, Wrapper, Adapter, Decorator, Facade, Capability Object</a>

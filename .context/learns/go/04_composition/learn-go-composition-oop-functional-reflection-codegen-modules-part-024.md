@@ -2340,8 +2340,6 @@ Kita akan membahas:
 7. Go Blog — Package names: <https://go.dev/blog/package-names>
 8. Go Style Best Practices: <https://google.github.io/styleguide/go/best-practices.html>
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-composition-oop-functional-reflection-codegen-modules-part-023.md">⬅️ Part 023 — Generating Production APIs: DTO, Mapper, Validator, Enum Stringer, Error Codes, Mocks, and Clients</a>
