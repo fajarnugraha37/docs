@@ -1,0 +1,46 @@
+# Jpa
+
+> Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
+
+Tersedia **35 artikel** dan **0 subkategori** pada bagian ini.
+
+## Artikel
+- [Part 0 — Orientation: ORM as State Synchronization Engine, Not Just Mapping](./00-orientation-orm-as-state-synchronization-engine.md)
+- [Part 1 — JPA Specification vs Provider Reality](./01-jpa-specification-vs-provider-reality.md)
+- [Part 2 — Persistence Unit, Bootstrap, Metadata, and Provider Initialization](./02-persistence-unit-bootstrap-metadata-provider-initialization.md)
+- [Part 3 — Entity Identity: Java Object Identity, Database Identity, Persistence Context Identity](./03-entity-identity-java-database-persistence-context.md)
+- [Part 4 — Persistence Context, Unit of Work, and First-Level Cache](./04-persistence-context-unit-of-work-first-level-cache.md)
+- [Part 5 — Dirty Checking Internals and Change Detection](./05-dirty-checking-internals-change-detection.md)
+- [Part 6 — Flush Semantics: Action Queue and SQL Ordering](./06-flush-semantics-action-queue-sql-ordering.md)
+- [Part 7 — SQL Generation Pipeline and Dialect Behavior](./07-sql-generation-pipeline-dialect-behavior.md)
+- [Part 8 — Mapping Strategy Beyond Annotation Memorization](./08-mapping-strategy-beyond-annotation-memorization.md)
+- [Part 9 — Association Mapping: Ownership, Foreign Keys, Join Tables, and Graph Mutation](./09-association-mapping-ownership-foreign-keys-join-tables.md)
+- [Part 10 — Collection Mapping: Bags, Lists, Sets, Maps, Ordering, and Hidden Costs](./10-collection-mapping-bags-lists-sets-maps-ordering-hidden-costs.md)
+- [Part 11 — Cascades, Orphan Removal, Lifecycle Propagation, and Aggregate Boundaries](./11-cascades-orphan-removal-lifecycle-aggregate-boundaries.md)
+- [Part 12 — Inheritance Mapping: Object Hierarchy vs Relational Shape](./12-inheritance-mapping-object-hierarchy-relational-shape.md)
+- [Part 13 — Embeddables, Value Objects, Attribute Converters, and Type Systems](./13-embeddables-value-objects-converters-type-systems.md)
+- [Part 14 — Fetching Mental Model: Lazy, Eager, Proxies, Enhancement, and Load Plans](./14-fetching-mental-model-lazy-eager-proxies-enhancement-load-plans.md)
+- [Part 15 — N+1, Cartesian Explosion, and Fetch Plan Engineering](./15-n-plus-one-cartesian-explosion-fetch-plan-engineering.md)
+- [Part 16 — JPQL, HQL, Criteria, Native Query, and Query Plan Discipline](./16-jpql-hql-criteria-native-query-query-plan-discipline.md)
+- [Part 17 — Bulk Operations, Batching, Stateless Sessions, and High-Volume Data Mutation](./17-bulk-operations-batching-stateless-sessions-high-volume-mutation.md)
+- [Part 18 — Transaction Integration: Resource Local, JTA, Spring, Jakarta EE, and Boundary Design](./18-transaction-integration-resource-local-jta-spring-jakarta-ee-boundary.md)
+- [Part 19 — Concurrency Control: Optimistic Locking, Pessimistic Locking, and Lost Updates](./19-concurrency-control-optimistic-pessimistic-locking-lost-updates.md)
+- [Part 20 — Merge, Detach, DTO Mapping, and API Boundary Safety](./20-merge-detach-dto-mapping-api-boundary-safety.md)
+- [Part 21 — Second-Level Cache, Query Cache, Natural ID Cache, and Cache Correctness](./21-second-level-cache-query-cache-natural-id-cache-correctness.md)
+- [Part 22 — Schema Generation, Validation, Migration, and DDL Discipline](./22-schema-generation-validation-migration-ddl-discipline.md)
+- [Part 23 — Provider Enhancement and Weaving: Bytecode, Proxies, Lazy Fields, and Build Pipelines](./23-provider-enhancement-weaving-bytecode-proxies-build-pipelines.md)
+- [Part 24 — Hibernate ORM Deep Dive: Architecture, Session, Event System, Interceptors, and Extensions](./24-hibernate-orm-architecture-session-events-interceptors-extensions.md)
+- [Part 25 — EclipseLink Deep Dive: Sessions, Descriptors, Weaving, Cache, and Advanced Mappings](./25-eclipselink-sessions-descriptors-weaving-cache-advanced-mappings.md)
+- [Part 26 — Hibernate vs EclipseLink: Behavioral Differences That Matter](./26-hibernate-vs-eclipselink-behavioral-differences-that-matter.md)
+- [Part 27 — Observability: SQL Logging, Statistics, Metrics, Tracing, and Production Diagnosis](./27-observability-sql-logging-statistics-metrics-tracing-production-diagnosis.md)
+- [Part 28 — Performance Engineering: Cost Model from Object Graph to Database Work](./28-performance-engineering-cost-model-object-graph-to-database-work.md)
+- [Part 29 — Domain Modeling with ORM: Aggregates, Invariants, State Machines, and Regulatory Workflows](./29-domain-modeling-with-orm-aggregates-invariants-state-machines-regulatory-workflows.md)
+- [Part 30 — Multi-Tenancy, Security, Filters, Row-Level Isolation, and Data Leakage Prevention](./30-multi-tenancy-security-filters-row-level-isolation-data-leakage.md)
+- [Part 31 — Testing ORM Correctness: Beyond Repository Happy Path](./31-testing-orm-correctness-beyond-repository-happy-path.md)
+- [Part 32 — Migration Engineering: Javax to Jakarta, Hibernate 5 to 6/7, EclipseLink 2 to 4/5](./32-migration-engineering-javax-jakarta-hibernate-eclipselink.md)
+- [Part 33 — Production Failure Playbook: Symptoms, Root Causes, and Fix Patterns](./33-production-failure-playbook-symptoms-root-causes-fix-patterns.md)
+- [Part 34 — Capstone: Designing a Production-Grade Persistence Layer for Complex Case Management](./34-capstone-production-grade-persistence-layer-complex-case-management.md)
+
+---
+
+[🏠 Kembali ke Home](../../../../index.md)

@@ -1,0 +1,24 @@
+# 03 Backend
+
+> Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
+
+Tersedia **0 artikel** dan **13 subkategori** pada bagian ini.
+
+## Subkategori
+- [Authentication Patterns](./authentication_pattern/index.md)
+- [Authorization Patterns](./authorization_pattern/index.md)
+- [Aws](./aws/index.md)
+- [Cammunda](./cammunda/index.md)
+- [Database](./database/index.md)
+- [Design Patterns](./design_pattern/index.md)
+- [Framework](./framework/index.md)
+- [HTTP Client](./http_client/index.md)
+- [Jms](./jms/index.md)
+- [Mapper](./mapper/index.md)
+- [Microservice Patterns](./microservice_pattern/index.md)
+- [Telemetry](./telemetry/index.md)
+- [Template Engine](./template_engine/index.md)
+
+---
+
+[🏠 Kembali ke Home](../../index.md)

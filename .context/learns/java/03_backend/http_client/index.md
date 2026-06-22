@@ -1,0 +1,46 @@
+# HTTP Client
+
+> Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
+
+Tersedia **35 artikel** dan **0 subkategori** pada bagian ini.
+
+## Artikel
+- [Part 0 — Orientation: HTTP Client sebagai Production Subsystem, Bukan Utility](./00-orientation-http-client-as-production-subsystem.md)
+- [Part 1 — Java HTTP Client Landscape di Java 8–25](./01-java-http-client-landscape-java-8-to-25.md)
+- [Part 2 — Request Lifecycle Deep Dive: Dari Method Call Sampai Response Body](./02-http-request-lifecycle-from-call-to-response.md)
+- [Part 3 — URI, URL, Encoding, Query Parameter, dan Canonical Request](./03-uri-url-encoding-query-and-canonical-request.md)
+- [Part 4 — Headers, Content Negotiation, Compression, dan Metadata Contract](./04-http-headers-content-negotiation-compression-metadata.md)
+- [Part 5 — Body Handling: JSON, Form, Multipart, Streaming, File Upload/Download](./05-request-response-body-json-form-multipart-streaming.md)
+- [Part 6 — Timeout Engineering: Connect, Read, Write, Call, Pool, DNS, TLS](./06-timeout-engineering-connect-read-write-call-pool-dns-tls.md)
+- [Part 7 — Connection Pooling, Keep-Alive, HTTP/2 Multiplexing, dan Resource Reuse](./07-connection-pooling-keepalive-http2-multiplexing-resource-reuse.md)
+- [Part 8 — DNS, Proxy, Load Balancer, NAT, dan Network Topology Awareness](./08-dns-proxy-loadbalancer-nat-network-topology-awareness.md)
+- [Part 9 — TLS, mTLS, Trust Store, Key Store, ALPN, Certificate Pinning](./09-tls-mtls-truststore-keystore-alpn-certificate-pinning.md)
+- [Part 10 — Authentication Client-Side: Basic, Bearer, OAuth2, API Key, HMAC, Token Refresh](./10-client-side-auth-basic-bearer-oauth2-apikey-hmac-token-refresh.md)
+- [Part 11 — Retry Engineering: Idempotency, Backoff, Jitter, Retry Budget, dan Hedging](./11-retry-engineering-idempotency-backoff-jitter-budget-hedging.md)
+- [Part 12 — Rate Limiting, Throttling, Bulkhead, dan Client-Side Load Shedding](./12-rate-limiting-throttling-bulkhead-client-side-load-shedding.md)
+- [Part 13 — Circuit Breaker, Timeout, Retry, dan Fallback Composition](./13-circuit-breaker-timeout-retry-fallback-composition.md)
+- [Part 14 — JDK `HttpClient` Deep Dive: `java.net.http` sebagai Native HTTP Client Modern Java](./14-jdk-httpclient-deep-dive-java-net-http.md)
+- [Part 15 — OkHttp Deep Dive: Client, Dispatcher, Interceptor, ConnectionPool](./15-okhttp-deep-dive-client-dispatcher-interceptor-connectionpool.md)
+- [Part 16 — Retrofit Deep Dive: Type-Safe API Client di Atas OkHttp](./16-retrofit-deep-dive-type-safe-api-client-over-okhttp.md)
+- [Part 17 — Apache HttpClient 5 Deep Dive](./17-apache-httpclient-5-deep-dive.md)
+- [Part 18 — Spring HTTP Client Layer: RestTemplate, WebClient, RestClient](./18-spring-http-client-layer-resttemplate-webclient-restclient.md)
+- [Part 19 — API Client Architecture: Port, Adapter, Gateway, SDK, Anti-Corruption Layer](./19-api-client-architecture-port-adapter-gateway-sdk-acl.md)
+- [Part 20 — Error Modelling: Status Code, Transport Failure, Protocol Failure, Domain Failure](./20-error-modelling-status-transport-protocol-domain-failure.md)
+- [Part 21 — Observability: Logging, Metrics, Tracing, Correlation, Redaction](./21-observability-logging-metrics-tracing-correlation-redaction.md)
+- [Part 22 — Testing HTTP Clients: Unit, Contract, Integration, Chaos, Mock Server](./22-testing-http-clients-unit-contract-integration-chaos-mockserver.md)
+- [Part 23 — JSON/XML Mapping for HTTP Client Boundary](./23-json-xml-mapping-at-http-client-boundary.md)
+- [Part 24 — Performance Engineering: Throughput, Latency, Allocation, GC, Threading](./24-performance-engineering-throughput-latency-allocation-gc-threading.md)
+- [Part 25 — Virtual Threads, CompletableFuture, Reactive, dan Structured Concurrency](./25-virtual-threads-completablefuture-reactive-structured-concurrency.md)
+- [Part 26 — Security Hardening for HTTP Clients](./26-security-hardening-for-http-clients.md)
+- [Part 27 — Generated Clients: OpenAPI, Codegen, SDK Governance](./27-generated-clients-openapi-codegen-sdk-governance.md)
+- [Part 28 — Client Configuration Management: Environment, Tenant, Endpoint, Secret, Feature Flag](./28-client-configuration-management-environment-tenant-endpoint-secret-featureflag.md)
+- [Part 29 — Production Failure Playbook: Diagnosis and Incident Response](./29-production-failure-playbook-diagnosis-incident-response.md)
+- [Part 30 — Migration Patterns: Legacy Client ke Modern Client](./30-migration-patterns-legacy-client-to-modern-client.md)
+- [Part 31 — Advanced Patterns: Fan-Out Aggregator, Token Single-Flight, Client-Side Cache, Idempotent Command](./31-advanced-patterns-fanout-token-singleflight-cache-idempotent-command.md)
+- [Part 32 — Case Study: Building a Production-Grade Third-Party API Client](./32-case-study-production-grade-third-party-api-client.md)
+- [Part 33 — Case Study: Internal Microservice Client at Scale](./33-case-study-internal-microservice-client-at-scale.md)
+- [Part 34 — Final Synthesis: Decision Framework, Checklist, and Top 1% Engineering Heuristics](./34-final-synthesis-decision-framework-checklist-top-engineering-heuristics.md)
+
+---
+
+[🏠 Kembali ke Home](../../../index.md)
