@@ -3013,7 +3013,6 @@ learn-go-reliability-error-handling-part-006.md
 Error Boundary: Di Mana Error Diputuskan, Diterjemahkan, atau Dibiarkan Naik
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-004.md">⬅️ Part 004 — Error Wrapping, Error Chain, `errors.Is`, `errors.As`, `errors.Join`</a>

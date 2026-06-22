@@ -1496,7 +1496,6 @@ Topic:
 Production Incident Management: Triage, Mitigation, Postmortem, Runbook, Learning Loop
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-030.md">⬅️ Testing Error Handling and Reliability Behavior</a>

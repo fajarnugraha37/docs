@@ -1978,8 +1978,6 @@ Bacaan pendukung:
 - Go Concurrency Patterns: Context — https://go.dev/blog/context
 - Go Concurrency Patterns: Pipelines and cancellation — https://go.dev/blog/pipelines
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-006.md">⬅️ Part 006 — Synchronization Primitives: Mutex, RWMutex, Cond, Once, Pool</a>

@@ -2183,8 +2183,6 @@ Belum selesai. Bagian berikutnya:
 
 - `learn-go-reliability-error-handling-part-003.md` — The `error` Interface, Sentinel Error, Typed Error, dan Opaque Error
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-001.md">⬅️ Go Error Philosophy: Explicit Failure as API Surface</a>

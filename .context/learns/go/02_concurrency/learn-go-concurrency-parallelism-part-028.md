@@ -1249,7 +1249,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-027.md">⬅️ Part 027 — Performance Engineering for Concurrent Go: Benchmarking, Profiling, Load, Contention, and Evidence-Based Optimization</a>

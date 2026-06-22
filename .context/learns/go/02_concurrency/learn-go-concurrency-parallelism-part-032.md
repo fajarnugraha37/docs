@@ -1290,7 +1290,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-031.md">⬅️ Part 031 — Advanced Concurrency Patterns: Supervisors, Actors, Adaptive Limits, Leases, Coordination, and Resilience Composition</a>

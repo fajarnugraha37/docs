@@ -1628,7 +1628,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-019.md">⬅️ Part 019 — Timers, Tickers, Deadlines, Scheduling, and Time-Based Concurrency</a>

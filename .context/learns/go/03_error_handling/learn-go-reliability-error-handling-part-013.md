@@ -1980,7 +1980,6 @@ Topic:
 Retry Engineering: Safe Retry, Backoff, Jitter, Retry Budget, Idempotency
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-012.md">⬅️ Context Propagation Across Layers: Handler → Service → Repository → External Client</a>

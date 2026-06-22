@@ -1763,7 +1763,6 @@ Topic:
 Circuit Breaker, Bulkhead, Rate Limit, Load Shedding, Backpressure
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-021.md">⬅️ Kubernetes & Container Runtime Reliability: Probes, SIGTERM, Resource Limits, OOM, Restarts</a>

@@ -2703,8 +2703,6 @@ Seri belum selesai. Lanjutannya adalah:
 
 **Part 003 — Go Scheduler Deep Dive: G, M, P, Run Queues, Stealing, Preemption**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-001.md">⬅️ Part 001 — Foundations: Work, Time, State, Ordering, and Contention</a>

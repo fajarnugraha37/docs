@@ -1562,7 +1562,6 @@ Topic:
 Configuration, Startup, Readiness, Fail-Fast Initialization
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-027.md">⬅️ Persistence Reliability: Transactions, Locks, Consistency, Deadlock, Commit Ambiguity</a>

@@ -1642,7 +1642,6 @@ Topic:
 Fault Injection, Chaos Testing, Resilience Validation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-029.md">⬅️ Configuration, Startup, Readiness, Fail-Fast Initialization</a>

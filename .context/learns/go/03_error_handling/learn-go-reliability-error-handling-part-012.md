@@ -2537,7 +2537,6 @@ Topic:
 Timeout Engineering: Connect, TLS, Header, Body, Handler, DB, Queue
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-011.md">⬅️ Context Fundamentals for Reliability: Deadline, Timeout, Cancellation, Cause</a>

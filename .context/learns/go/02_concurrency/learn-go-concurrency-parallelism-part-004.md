@@ -1826,8 +1826,6 @@ Selesai: `part-000` sampai `part-004`
 Belum selesai: `part-005` sampai `part-034`  
 Bagian berikutnya: `learn-go-concurrency-parallelism-part-005.md` — Go Memory Model: Happens-Before, Visibility, Race Freedom
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-003.md">⬅️ Part 003 — Go Scheduler Deep Dive: G, M, P, Run Queues, Stealing, Preemption</a>

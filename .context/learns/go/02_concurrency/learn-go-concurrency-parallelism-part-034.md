@@ -1017,7 +1017,6 @@ Selesai:
 
 Seri **Go Thread, Concurrency, Parallelism & Runtime Engineering** telah mencapai bagian terakhir dan selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-033.md">⬅️ Part 033 — Case Studies: Applying Go Concurrency Engineering to Real Production Scenarios</a>

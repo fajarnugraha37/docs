@@ -1483,7 +1483,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-021.md">⬅️ Part 021 — Database Concurrency: `database/sql`, Connection Pools, Transactions, Locks, and Backpressure</a>

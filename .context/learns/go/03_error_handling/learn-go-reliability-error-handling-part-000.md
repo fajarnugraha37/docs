@@ -2403,7 +2403,6 @@ learn-go-reliability-error-handling-part-001.md
 Go Error Philosophy: Explicit Failure as API Surface
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

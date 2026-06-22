@@ -2354,8 +2354,6 @@ Belum selesai. Masih lanjut ke:
 
 - Part 004 — GOMAXPROCS, CPU Quotas, Containers, and Kubernetes Reality
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-002.md">⬅️ Part 002 — Goroutine Internals: Lifecycle, Stack, Parking, Blocking, and Leaks</a>

@@ -2499,7 +2499,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-008.md">⬅️ Part 008 — Channels Deep Dive: Semantics, Ownership, Backpressure, and Closure</a>

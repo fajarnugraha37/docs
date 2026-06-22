@@ -1805,7 +1805,6 @@ Topic:
 Graceful Shutdown I: Signal Handling, Readiness, Stop Accepting, In-flight Drain
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-017.md">⬅️ Channel Failure Semantics: Close, Done, Backpressure, Drop, Drain</a>

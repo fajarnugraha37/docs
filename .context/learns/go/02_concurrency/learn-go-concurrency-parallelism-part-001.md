@@ -2631,8 +2631,6 @@ Progress:
 - [ ] Part 033 — Case Studies: Production Concurrency Architecture Reviews
 - [ ] Part 034 — Engineering Handbook: Design Review Checklist, Decision Matrix, and Operating Model
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-000.md">⬅️ Part 000 — Orientation: Dari Java Threading ke Go Concurrency Engineering</a>

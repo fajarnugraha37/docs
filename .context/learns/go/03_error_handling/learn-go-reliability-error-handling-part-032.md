@@ -1312,7 +1312,6 @@ Topic:
 Engineering Handbook Checklist: Error Handling & Reliability Review Guide
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-031.md">⬅️ Fault Injection, Chaos Testing, Resilience Validation</a>

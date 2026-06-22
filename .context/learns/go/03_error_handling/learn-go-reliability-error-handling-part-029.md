@@ -1658,7 +1658,6 @@ Topic:
 Testing Error Handling and Reliability Behavior
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-028.md">⬅️ Messaging Reliability: At-least-once, Ordering, DLQ, Poison Message, Backoff, Rebalance</a>

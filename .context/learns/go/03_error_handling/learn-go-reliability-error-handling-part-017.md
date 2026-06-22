@@ -2279,7 +2279,6 @@ Topic:
 HTTP Server Reliability: Handler Errors, Middleware, Panic Recovery, Response Contract
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-016.md">⬅️ Concurrency Failure: Goroutine Error Propagation, `errgroup`, Cancellation Fan-out</a>

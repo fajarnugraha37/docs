@@ -2098,7 +2098,6 @@ Topic:
 Channel Failure Semantics: Close, Done, Backpressure, Drop, Drain
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-015.md">⬅️ Idempotency, Deduplication, dan Exactly-Once Illusion</a>

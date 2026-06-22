@@ -1535,7 +1535,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-024.md">⬅️ Part 024 — Race Detection, Static Analysis, and Concurrency Bug Hunting</a>

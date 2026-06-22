@@ -2305,7 +2305,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-012.md">⬅️ Part 012 — Ownership Models: Share Memory by Communicating vs Communicate by Sharing Memory</a>

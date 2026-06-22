@@ -1970,7 +1970,6 @@ learn-go-reliability-error-handling-part-009.md
 Panic, Recover, Fatal, dan Crash Semantics
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-007.md">⬅️ Domain Error Model: Business Errors yang Tidak Tercampur dengan Infrastructure Errors</a>

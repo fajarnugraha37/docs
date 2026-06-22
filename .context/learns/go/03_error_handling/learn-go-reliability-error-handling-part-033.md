@@ -1226,7 +1226,6 @@ Topic:
 Capstone Production-Grade Go Service Reliability Skeleton
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-032.md">⬅️ Production Incident Management: Triage, Mitigation, Postmortem, Runbook, Learning Loop</a>

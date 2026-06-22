@@ -1877,7 +1877,6 @@ Topic:
 Persistence Reliability: Transactions, Locks, Consistency, Deadlock, Commit Ambiguity
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-025.md">⬅️ Observability for Errors: Logs, Metrics, Traces, Correlation, Error Budgets</a>

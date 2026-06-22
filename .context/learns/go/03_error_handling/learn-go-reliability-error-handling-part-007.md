@@ -2318,8 +2318,6 @@ Di sana kita akan masuk lebih dalam ke validation sebagai deterministic rejectio
 - testing validation error;
 - desain error untuk user-facing form dan machine client.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-006.md">⬅️ Part 006 — Error Boundary: Di Mana Error Diputuskan, Diterjemahkan, atau Dibiarkan Naik</a>

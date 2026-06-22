@@ -1613,7 +1613,6 @@ Topic:
 Messaging Reliability: At-least-once, Ordering, DLQ, Poison Message, Backoff, Rebalance
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-026.md">⬅️ API Error Contract: Public Error Schema, Problem Details, Versioning, Client Semantics</a>

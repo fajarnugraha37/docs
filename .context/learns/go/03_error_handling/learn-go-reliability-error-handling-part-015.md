@@ -2198,7 +2198,6 @@ Topic:
 Concurrency Failure: Goroutine Error Propagation, errgroup, Cancellation Fan-out
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-014.md">⬅️ Retry Engineering: Safe Retry, Backoff, Jitter, Retry Budget, Idempotency</a>

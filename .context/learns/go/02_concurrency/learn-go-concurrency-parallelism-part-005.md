@@ -2269,7 +2269,6 @@ Belum selesai. Berikutnya:
 
 - Part 006 — Synchronization Primitives: Mutex, RWMutex, Cond, Once, Pool
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-004.md">⬅️ Part 004 — GOMAXPROCS, CPU Quotas, Containers, dan Realitas Kubernetes</a>

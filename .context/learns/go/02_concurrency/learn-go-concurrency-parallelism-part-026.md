@@ -1502,7 +1502,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-025.md">⬅️ Part 025 — Testing Concurrent Code: Determinism, Stress, Cancellation, Leaks, and Testability</a>

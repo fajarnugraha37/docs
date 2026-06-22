@@ -2356,8 +2356,6 @@ Progress saat ini:
 - [ ] Part 033 — Case Studies
 - [ ] Part 034 — Engineering Handbook
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

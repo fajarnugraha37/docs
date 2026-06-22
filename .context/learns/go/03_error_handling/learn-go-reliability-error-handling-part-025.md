@@ -1727,7 +1727,6 @@ Topic:
 API Error Contract: Public Error Schema, Problem Details, Versioning, Client Semantics
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-024.md">⬅️ Overload Handling: Queueing, Admission Control, Priority, Fairness, Brownout</a>

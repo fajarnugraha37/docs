@@ -1822,7 +1822,6 @@ Topic:
 Dependency Failure Management: Database, Cache, External API, DNS, Network, Auth Provider
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-020.md">⬅️ Graceful Shutdown II: Workers, Queues, Message Brokers, Dependencies, Telemetry Flush</a>

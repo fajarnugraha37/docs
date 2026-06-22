@@ -2202,7 +2202,6 @@ Topic:
 Idempotency, Deduplication, dan Exactly-Once Illusion
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-013.md">⬅️ Timeout Engineering: Connect, TLS, Header, Body, Handler, DB, Queue</a>

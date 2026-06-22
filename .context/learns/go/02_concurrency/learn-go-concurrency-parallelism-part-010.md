@@ -2636,7 +2636,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-009.md">⬅️ Part 009 — Select Semantics: Fairness, Cancellation, Timeouts, Priority, and Starvation</a>

@@ -2540,7 +2540,6 @@ Error Wrapping, Error Chain, errors.Is, errors.As, errors.Join
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-002.md">⬅️ Failure Taxonomy: Cara Mengklasifikasikan Error Secara Engineering</a>

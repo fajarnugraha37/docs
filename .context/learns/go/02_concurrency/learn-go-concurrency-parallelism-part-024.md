@@ -1499,7 +1499,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-023.md">⬅️ Part 023 — Memory, Allocation, GC, and Concurrency Pressure</a>

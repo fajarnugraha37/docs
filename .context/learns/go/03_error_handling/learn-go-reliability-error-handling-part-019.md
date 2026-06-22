@@ -1685,7 +1685,6 @@ Topic:
 Graceful Shutdown II: Workers, Queues, Message Brokers, Dependencies, Telemetry Flush
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-018.md">⬅️ HTTP Server Reliability: Handler Errors, Middleware, Panic Recovery, Response Contract</a>

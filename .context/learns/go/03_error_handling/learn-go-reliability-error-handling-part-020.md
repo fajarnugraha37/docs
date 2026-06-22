@@ -1735,7 +1735,6 @@ Topic:
 Kubernetes & Container Runtime Reliability: Probes, SIGTERM, Resource Limits, OOM, Restarts
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-019.md">⬅️ Graceful Shutdown I: Signal Handling, Readiness, Stop Accepting, In-flight Drain</a>

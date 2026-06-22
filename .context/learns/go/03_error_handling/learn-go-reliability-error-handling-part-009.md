@@ -1832,7 +1832,6 @@ learn-go-reliability-error-handling-part-010.md
 Defer, Cleanup, Resource Safety, dan Failure During Cleanup
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-008.md">⬅️ Validation Error, Field Error, dan Aggregated Error</a>

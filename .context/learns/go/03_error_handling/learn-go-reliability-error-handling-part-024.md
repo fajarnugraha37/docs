@@ -1605,7 +1605,6 @@ Topic:
 Observability for Errors: Logs, Metrics, Traces, Correlation, Error Budgets
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-reliability-error-handling-part-023.md">⬅️ Circuit Breaker, Bulkhead, Rate Limit, Load Shedding, Backpressure</a>

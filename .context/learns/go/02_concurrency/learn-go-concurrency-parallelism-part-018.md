@@ -1719,7 +1719,6 @@ Belum selesai:
 
 Seri belum mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-concurrency-parallelism-part-017.md">⬅️ Part 017 — Concurrent Data Structures: Maps, Caches, Queues, Rings, and Shards</a>
