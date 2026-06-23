@@ -1675,7 +1675,6 @@ Topik berikutnya:
 Anti-patterns: premature pooling, unsafe abuse, accidental retention, slice leaks
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-030.md">⬅️ Go Memory Systems Part 030 — Allocation Profiling Workflow: Benchmark, `-benchmem`, `pprof`, Escape Reports</a>

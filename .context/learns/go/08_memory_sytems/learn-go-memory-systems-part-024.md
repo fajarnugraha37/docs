@@ -1842,7 +1842,6 @@ Topik berikutnya:
 Finalizers, cleanup, lifetime pinning, runtime.KeepAlive, why cleanup is hard
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-023.md">⬅️ Go Memory Systems — Part 023</a>

@@ -2383,8 +2383,6 @@ Pastikan Anda bisa menjawab tanpa menghafal:
 
 Jika sudah, lanjut ke Part 006.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-004.md">⬅️ Go Memory Systems — Part 004</a>

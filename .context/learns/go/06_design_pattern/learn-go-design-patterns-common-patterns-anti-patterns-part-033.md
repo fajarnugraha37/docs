@@ -2395,7 +2395,6 @@ Kita akan mengumpulkan anti-pattern besar yang sering muncul di codebase Go prod
 - inconsistent error taxonomy
 - refactoring strategy tanpa big-bang rewrite
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-032.md">⬅️ Part 032 — Testing Seam Pattern</a>

@@ -2185,7 +2185,6 @@ Part 023 memperkenalkan mmap sebagai salah satu bentuk off-heap. Part 024 akan m
 - Go Diagnostics: https://go.dev/doc/diagnostics
 - Go Memory Model: https://go.dev/ref/mem
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-022.md">⬅️ Go Memory Systems — Part 022</a>

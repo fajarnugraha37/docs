@@ -2279,7 +2279,6 @@ Masih ada part lanjutan sampai:
 Part 035 — Capstone: Designing a Production-Grade Go Service from Zero
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-010.md">⬅️ Part 010 — Adapter and Port Pattern in Go</a>

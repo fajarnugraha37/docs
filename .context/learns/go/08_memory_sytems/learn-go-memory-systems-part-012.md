@@ -3211,8 +3211,6 @@ Anda dianggap memahami part ini jika bisa menjawab:
 - Go diagnostics documentation — benchmark, pprof, runtime investigation.
 - Go 1.26 release notes — target versi seri.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-011.md">⬅️ Go Memory Systems — Part 011: Interface Representation, Dynamic Dispatch, and Boxing-like Behavior</a>

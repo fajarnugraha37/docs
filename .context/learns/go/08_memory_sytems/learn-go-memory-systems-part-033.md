@@ -1556,7 +1556,6 @@ Capstone: building a memory-conscious streaming binary protocol pipeline
 
 Part 034 adalah bagian terakhir dari seri ini.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-032.md">⬅️ Go Memory Systems Part 032 — Anti-Patterns: Premature Pooling, Unsafe Abuse, Accidental Retention, Slice Leaks</a>

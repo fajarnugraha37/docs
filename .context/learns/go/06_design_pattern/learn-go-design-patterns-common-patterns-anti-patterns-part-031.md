@@ -2471,7 +2471,6 @@ Kita akan membahas bagaimana mendesain seam untuk testing:
 - anti-pattern over-mocking
 - testability sebagai hasil desain, bukan afterthought
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-030.md">⬅️ Part 030 — Generics-Based Pattern Design</a>

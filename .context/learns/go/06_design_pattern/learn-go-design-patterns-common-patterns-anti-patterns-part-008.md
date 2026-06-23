@@ -3012,8 +3012,6 @@ Part berikutnya:
 Part 009 — Dependency Wiring Pattern Without DI Container
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-007.md">⬅️ Part 007 — Functional Options Pattern, Properly Used</a>

@@ -2453,7 +2453,6 @@ If that is true, your wiring pattern is healthy.
 - Go `database/sql` package documentation: https://pkg.go.dev/database/sql
 - Go `net/http` package documentation: https://pkg.go.dev/net/http
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-008.md">⬅️ Part 008 — Configuration Pattern</a>

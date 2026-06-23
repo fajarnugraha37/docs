@@ -2457,7 +2457,6 @@ Kita akan membahas bagaimana menyusun codebase Go besar:
 - migration strategy
 - anti-pattern mega common package, micro-package fragmentation, dan architecture diagram yang tidak cocok dengan import graph
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-031.md">⬅️ Part 031 — Observability Pattern: Logs, Metrics, Traces, and Audit</a>

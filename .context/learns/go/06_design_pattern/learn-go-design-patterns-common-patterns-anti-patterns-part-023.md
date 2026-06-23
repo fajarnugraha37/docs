@@ -2821,7 +2821,6 @@ Berikutnya:
 
 - Part 024 — Pipeline, Fan-Out/Fan-In, and Bounded Parallelism Pattern
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-022.md">⬅️ Part 022 — Event Pattern: Domain Event, Integration Event, Outbox</a>

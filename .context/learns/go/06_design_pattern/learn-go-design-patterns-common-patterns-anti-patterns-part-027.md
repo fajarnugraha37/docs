@@ -2440,8 +2440,6 @@ Decorator sering dipakai bersama registry/strategy:
 **Belum selesai.**  
 Ini adalah **Part 027 dari 035**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-026.md">⬅️ Part 026 — Cache Pattern</a>

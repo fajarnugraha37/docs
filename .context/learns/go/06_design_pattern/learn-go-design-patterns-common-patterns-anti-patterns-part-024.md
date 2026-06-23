@@ -2624,7 +2624,6 @@ Part berikutnya akan membahas bagaimana client-side resilience didesain: timeout
 **Belum selesai.**  
 Ini adalah **Part 024 dari 035**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-023.md">⬅️ Part 023 — Worker, Job, and Background Processing Pattern</a>

@@ -2677,8 +2677,6 @@ Part 015 will move from bit-level representation into mutable byte storage: how 
 - Go 1.26 Release Notes — target version baseline for this series.
 - Go Memory Model — required background for data race and synchronization semantics.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-013.md">⬅️ Go Memory Systems — Part 013</a>

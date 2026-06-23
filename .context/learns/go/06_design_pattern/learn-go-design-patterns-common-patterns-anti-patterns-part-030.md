@@ -2574,7 +2574,6 @@ Kita akan membahas observability sebagai design pattern, bukan hanya logging:
 - privacy and redaction
 - observability anti-pattern
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-029.md">⬅️ Part 029 — Template Method, Hook, and Callback Pattern Without Inheritance</a>

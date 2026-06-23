@@ -2079,8 +2079,6 @@ Part 015 memberi vocabulary buffer. Part 016 akan mengubah buffer menjadi stream
 - Go package `sync`: `sync.Pool` semantics.
 - Go 1.26 Release Notes: target version context for this series.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-014.md">⬅️ Go Memory Systems — Part 014: Bit-Level Programming</a>

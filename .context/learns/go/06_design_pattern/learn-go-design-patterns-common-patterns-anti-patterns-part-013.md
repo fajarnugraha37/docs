@@ -2117,8 +2117,6 @@ Referensi resmi dan semi-resmi yang relevan untuk part ini:
 - Go Doc Comments — dokumentasi concurrency safety dan API contract.
 - Google Go Style Guide, Style Decisions, Best Practices — least mechanism, interface guidance, naming, API shape.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-012.md">⬅️ Part 012 — Unit of Work and Transaction Boundary Pattern</a>

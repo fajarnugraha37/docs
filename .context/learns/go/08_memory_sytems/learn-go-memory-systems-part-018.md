@@ -2705,8 +2705,6 @@ Network buffers: TCP, HTTP, request/response body streaming, avoiding buffering 
 
 Part 019 will apply the zero-copy/streaming model to real network systems: `net.Conn`, TCP stream semantics, HTTP body lifecycle, slowloris defense, `MaxBytesReader`, request cancellation, response streaming, connection reuse, body closing, and why network boundaries are where hidden memory disasters often appear.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-017.md">⬅️ Go Memory Systems — Part 017</a>

@@ -2530,8 +2530,6 @@ Kita akan membahas:
 - lifecycle ownership,
 - anti-pattern constructor yang melakukan network I/O atau menyalakan goroutine diam-diam.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-004.md">⬅️ Part 004 — API Surface Pattern</a>

@@ -1607,8 +1607,6 @@ Off-heap in Go: cgo, mmap, syscall memory, unmanaged memory, ownership model
 
 Part 023 will move from unsafe view over Go-managed memory into memory not directly managed as ordinary Go heap data: cgo allocations, mmap, syscall memory, and external/native ownership.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-021.md">⬅️ Part 021 — `unsafe` Fundamentals: Valid Pointer Patterns, `uintptr` Hazards, `unsafe.Add`, `unsafe.Slice`</a>

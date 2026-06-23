@@ -2150,7 +2150,6 @@ Topic:
 Bit-level programming: masks, flags, bitsets, packed state, protocol fields
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-012.md">⬅️ Go Memory Systems — Part 012</a>

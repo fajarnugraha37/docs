@@ -2868,8 +2868,6 @@ The practical rule remains:
 
 > Treat compiler reports as evidence, benchmarks as measurement, profiles as system-level truth, and API ownership as the design lever.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-005.md">⬅️ Go Memory Management, Pointer, Byte & Bit, Buffer, Stream, Boxing/Unboxing, Off-Heap, Zero Copy, Garbage Collection</a>

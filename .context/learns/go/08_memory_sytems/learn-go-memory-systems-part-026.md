@@ -1400,7 +1400,6 @@ Topik berikutnya:
 GC tuning: GOGC, GOMEMLIMIT, container memory, latency vs throughput
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-025.md">⬅️ Go Memory Systems Part 025 — Finalizers, Cleanup, Lifetime Pinning, `runtime.KeepAlive`, Why Cleanup Is Hard</a>

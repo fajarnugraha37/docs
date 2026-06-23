@@ -1775,8 +1775,6 @@ learn-go-memory-systems-part-022.md
 
 Topik: **Unsafe string/slice conversion: when it is valid, when it corrupts memory, Go 1.20+ APIs**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-020.md">⬅️ Part 020 — File I/O Buffers — os.File, bufio, io.Copy, sendfile, mmap Trade-offs</a>

@@ -1974,7 +1974,6 @@ Dalam Go, kekuatan desain transaction bukan berasal dari annotation atau framewo
 - Status seri: **belum selesai**
 - Berikutnya: **Part 013 — Service Layer Pattern in Go**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-011.md">⬅️ Part 011 — Repository Pattern: Useful, Dangerous, and Often Misused</a>

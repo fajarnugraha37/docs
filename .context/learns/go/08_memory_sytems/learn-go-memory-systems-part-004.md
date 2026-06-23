@@ -2780,7 +2780,6 @@ Topik berikutnya:
 
 > Heap allocation lifecycle: allocation path, object graph, liveness, reachability.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-003.md">⬅️ Go Memory Systems — Part 003: Pointer Fundamentals</a>

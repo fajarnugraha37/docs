@@ -2180,7 +2180,6 @@ Ini sangat penting untuk sistem regulatory, workflow, case management, authoriza
 - Status: **belum selesai**
 - Seri selesai pada: **Part 035 — Capstone: Designing a Production-Grade Go Service from Zero**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-016.md">⬅️ Part 016 — Context Propagation Pattern</a>

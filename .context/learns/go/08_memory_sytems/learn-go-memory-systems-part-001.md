@@ -1914,7 +1914,6 @@ learn-go-memory-systems-part-002.md
 
 Seri belum selesai. Lanjut ke Part 002.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-000.md">⬅️ Part 000 — Orientation: Mental Model Go Memory Systems untuk Java Engineer</a>

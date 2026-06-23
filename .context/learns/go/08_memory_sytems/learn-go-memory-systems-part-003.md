@@ -2470,8 +2470,6 @@ Referensi utama yang relevan untuk part ini:
 7. Package `runtime/debug` — `SetGCPercent`, `SetMemoryLimit`, GC-related controls.  
    <https://pkg.go.dev/runtime/debug>
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-002.md">⬅️ Go Memory Systems — Part 002: Go Value Representation</a>

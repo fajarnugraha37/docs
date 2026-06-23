@@ -2521,7 +2521,6 @@ Berikutnya:
 Part 023 — Worker, Job, and Background Processing Pattern
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-021.md">⬅️ Part 021 — Command Pattern and Use Case Pattern in Go</a>

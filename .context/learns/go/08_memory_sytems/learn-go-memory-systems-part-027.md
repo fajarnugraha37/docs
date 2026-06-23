@@ -1461,7 +1461,6 @@ Topik berikutnya:
 Memory observability: pprof heap, allocs, goroutine leak, block/mutex profile
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-026.md">⬅️ Go Memory Systems Part 026 — Garbage Collector Architecture: Mark, Assist, Sweep, Write Barrier, Pacer</a>

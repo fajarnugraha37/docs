@@ -1794,8 +1794,6 @@ Referensi utama yang relevan untuk part ini:
 10. Go release history  
     https://go.dev/doc/devel/release
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-001.md">⬅️ Part 001 — Java-to-Go Pattern Reframing</a>

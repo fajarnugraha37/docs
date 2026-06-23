@@ -1955,7 +1955,6 @@ Topik berikutnya:
 Production design review: memory budgets, SLOs, failure modes, incident playbook
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-031.md">⬅️ Go Memory Systems Part 031 — High-Performance Patterns: Pools, Arena-Like Design, Object Reuse, Ownership Transfer</a>

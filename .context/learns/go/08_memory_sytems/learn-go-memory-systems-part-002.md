@@ -2436,8 +2436,6 @@ Referensi konseptual yang relevan untuk part ini:
 - Go GC guide — relation between pointers, heap, and GC behavior.
 - Go diagnostics documentation — profiling and runtime observability.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-001.md">⬅️ Go Memory Systems — Part 001: Memory Model Besar</a>

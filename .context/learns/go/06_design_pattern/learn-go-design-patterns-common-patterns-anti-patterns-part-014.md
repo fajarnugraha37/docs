@@ -2667,7 +2667,6 @@ Part berikutnya:
 Part 015 — Middleware and Interceptor Pattern
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-013.md">⬅️ Part 013 — Service Layer Pattern in Go</a>

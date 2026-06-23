@@ -1524,7 +1524,6 @@ Topik berikutnya:
 High-performance patterns: pools, arenas-like design, object reuse, ownership transfer
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-029.md">⬅️ Go Memory Systems Part 029 — Runtime Metrics: `runtime/metrics`, `ReadMemStats`, Production Dashboards</a>

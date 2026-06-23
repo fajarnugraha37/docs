@@ -3239,7 +3239,6 @@ Java-to-Go Pattern Reframing
 
 Fokus part berikutnya adalah membongkar kebiasaan desain Java yang sering terbawa ke Go, lalu menerjemahkannya menjadi mental model Go yang lebih idiomatis, eksplisit, kecil, dan production-friendly.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

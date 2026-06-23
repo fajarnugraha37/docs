@@ -3951,8 +3951,6 @@ Boxing/unboxing for Java engineers: why Go has no exact equivalent, but still ha
 
 Part 012 will build directly on this part and compare Java boxing/unboxing with Go interface conversion, reflection, `any`, variadic calls, generic alternatives, and allocation profiling.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-010.md">⬅️ Go Memory Systems — Part 010</a>

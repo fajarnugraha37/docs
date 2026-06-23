@@ -2174,8 +2174,6 @@ Validation dan state machine sangat erat. Banyak bug workflow muncul karena stat
 
 Di part 020, kita akan masuk lebih dalam ke desain lifecycle, transition table, guard, event, audit trail, illegal transition, persistence, dan anti-pattern state machine dalam Go.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-018.md">⬅️ Part 018 — Result, Decision, and Policy Pattern</a>

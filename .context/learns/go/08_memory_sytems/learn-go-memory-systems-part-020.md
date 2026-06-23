@@ -6032,7 +6032,6 @@ Kalimat review yang buruk:
 
 > Sepertinya aman karena Go punya GC.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-019.md">⬅️ Go Memory Systems Part 019 — Network Buffers: TCP, HTTP, Request/Response Body Streaming, Avoiding Buffering Disasters</a>

@@ -1929,8 +1929,6 @@ Sumber utama yang relevan untuk part ini:
 - Seri: **belum selesai**
 - Berikutnya: **Part 002 — Idiomatic Simplicity as a Design Pattern**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-000.md">⬅️ Go Design Patterns, Common Patterns, and Anti-Patterns</a>

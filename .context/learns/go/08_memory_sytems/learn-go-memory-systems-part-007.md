@@ -2635,7 +2635,6 @@ Di sana kita akan turun lebih detail ke layout data: bagaimana urutan field, ali
 - Go runtime package: https://pkg.go.dev/runtime
 - Go 1.26 Release Notes: https://go.dev/doc/go1.26
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-006.md">⬅️ Go Memory Systems Part 006 — Escape Analysis Deep Dive</a>

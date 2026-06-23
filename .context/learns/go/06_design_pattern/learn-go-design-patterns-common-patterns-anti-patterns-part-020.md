@@ -2681,8 +2681,6 @@ Jika jawaban untuk pertanyaan ini sudah kuat, kamu siap masuk ke part berikutnya
 
 Seri belum selesai. Ini adalah **Part 020 dari 035**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-019.md">⬅️ Part 019 — Validation Pattern</a>

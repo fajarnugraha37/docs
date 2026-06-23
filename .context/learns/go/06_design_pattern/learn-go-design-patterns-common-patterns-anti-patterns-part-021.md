@@ -2290,7 +2290,6 @@ Total rencana:
 
 - Part 000 sampai Part 035
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-020.md">⬅️ Part 020 — State Machine Pattern in Go</a>

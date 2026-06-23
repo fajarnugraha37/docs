@@ -2417,7 +2417,6 @@ Zero-copy in Go: what is real, what is illusion, what is unsafe, what is OS-assi
 
 Now that copy semantics are clear, we can discuss zero-copy without turning it into superstition.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-016.md">⬅️ Go Memory Systems — Part 016</a>

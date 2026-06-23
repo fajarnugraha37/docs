@@ -2400,7 +2400,6 @@ Rekomendasi lanjutan setelah seri ini:
 7. **Go Code Review Masterclass**
    - reviewing Go PRs for architecture, correctness, concurrency, error handling, observability, and operability.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-034.md">⬅️ Part 034 — Anti-Pattern Catalog and Refactoring Playbook</a>

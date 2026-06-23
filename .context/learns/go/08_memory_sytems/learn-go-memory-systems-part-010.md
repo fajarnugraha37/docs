@@ -2261,8 +2261,6 @@ Topik berikutnya:
 Interface representation: type word, data word, dynamic dispatch, boxing-like behavior
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-009.md">⬅️ Go Memory Systems — Part 009: Slice Internals</a>

@@ -2953,8 +2953,6 @@ Part berikutnya:
 
 - Part 004 — API Surface Pattern
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-002.md">⬅️ Part 002 — Idiomatic Simplicity as a Design Pattern</a>

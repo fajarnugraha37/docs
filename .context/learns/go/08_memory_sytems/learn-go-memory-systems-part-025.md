@@ -1731,7 +1731,6 @@ Topik berikutnya:
 Garbage collector architecture: mark, assist, sweep, write barrier, pacer
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-024.md">⬅️ Go Memory Systems Part 024 — Memory-Mapped Files: mmap Design, Page Faults, Crash Consistency, Resource Cleanup</a>

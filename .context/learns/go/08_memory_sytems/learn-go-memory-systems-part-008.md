@@ -2554,8 +2554,6 @@ Kamu tidak sedang mengejar “struct terkecil” sebagai tujuan absolut. Kamu me
 
 Itulah bedanya micro-optimization dengan memory systems engineering.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-007.md">⬅️ Go Memory Systems — Part 007: Allocation Mechanics</a>

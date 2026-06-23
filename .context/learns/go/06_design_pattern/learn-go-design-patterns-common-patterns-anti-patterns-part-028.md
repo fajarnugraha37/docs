@@ -2604,7 +2604,6 @@ Di Java, template method sering dibuat dengan abstract class dan inheritance. Di
 
 Kita juga akan membahas callback hell, hook ordering ambiguity, dan framework lifecycle yang terlalu dini.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-027.md">⬅️ Part 027 — Plugin, Registry, and Strategy Pattern</a>

@@ -3052,7 +3052,6 @@ Ask these in every network-heavy PR:
 
 ---
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-018.md">⬅️ Go Memory Systems Part 018 — Zero-Copy in Go: What Is Real, What Is Illusion, What Is Unsafe, What Is OS-Assisted</a>

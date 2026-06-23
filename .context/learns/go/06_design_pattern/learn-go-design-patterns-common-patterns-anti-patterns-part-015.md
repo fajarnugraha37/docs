@@ -2341,8 +2341,6 @@ Part 016 akan membahas `context.Context` lebih dalam sebagai pola desain lintas 
 - context and transaction,
 - context and observability.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-014.md">⬅️ Part 014 — Handler Pattern: HTTP, CLI, Worker, Consumer</a>

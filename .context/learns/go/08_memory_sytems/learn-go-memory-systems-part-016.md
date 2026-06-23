@@ -3334,7 +3334,6 @@ Part 017 will connect stream/buffer design to copy behavior:
 
 ---
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-015.md">⬅️ Go Memory Systems — Part 015</a>

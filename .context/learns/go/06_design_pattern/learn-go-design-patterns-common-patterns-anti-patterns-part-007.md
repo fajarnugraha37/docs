@@ -3110,8 +3110,6 @@ Progress saat ini:
 
 Total rencana: **Part 000 sampai Part 035**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-006.md">⬅️ Part 006 — Constructor and Initialization Patterns</a>

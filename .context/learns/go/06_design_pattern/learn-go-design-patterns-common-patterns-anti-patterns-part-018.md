@@ -2536,7 +2536,6 @@ Part berikutnya:
 part-019 — Validation Pattern
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-017.md">⬅️ Part 017 — Error Translation and Boundary Error Pattern</a>

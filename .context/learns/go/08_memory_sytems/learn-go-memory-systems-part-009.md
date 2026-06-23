@@ -2011,8 +2011,6 @@ Referensi utama yang relevan untuk part ini:
 9. Runtime diagnostics documentation — heap profile, allocation profile, goroutine profile.
 10. Go 1.26 Release Notes — target release seri.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-memory-systems-part-008.md">⬅️ Part 008 — Struct Layout: Alignment, Padding, Cache Locality, False Sharing, Field Ordering</a>

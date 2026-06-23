@@ -2654,7 +2654,6 @@ Kita akan membahas bagaimana generics memengaruhi design pattern Go:
 - generic abstraction over stable algorithm vs unstable domain
 - anti-pattern “generics because Java”
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-028.md">⬅️ Part 028 — Decorator Pattern in Go</a>

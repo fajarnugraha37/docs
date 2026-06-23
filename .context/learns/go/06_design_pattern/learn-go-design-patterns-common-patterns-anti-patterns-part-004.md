@@ -2613,8 +2613,6 @@ Jika banyak jawaban “tidak tahu”, API belum siap diexport.
 - Status seri: **belum selesai**
 - Berikutnya: **Part 005 — Interface Placement Pattern**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-003.md">⬅️ Part 003 — Package-Oriented Design Pattern</a>

@@ -2817,8 +2817,6 @@ Functional options are popular in Go, but also frequently misused. The next part
 - Status: **Seri belum selesai**
 - Lanjut berikutnya: **Part 007 — Functional Options Pattern, Properly Used**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-005.md">⬅️ Part 005 — Interface Placement Pattern</a>

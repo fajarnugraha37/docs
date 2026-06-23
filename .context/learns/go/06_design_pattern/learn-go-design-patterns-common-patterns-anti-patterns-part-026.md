@@ -2563,7 +2563,6 @@ Pada part berikutnya, kita akan lanjut ke **Part 027 — Plugin, Registry, and S
 - Berikutnya: **Part 027 — Plugin, Registry, and Strategy Pattern**
 - Target akhir: **Part 035 — Capstone: Designing a Production-Grade Go Service from Zero**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-025.md">⬅️ Part 025 — Rate Limiting, Bulkhead, Circuit Breaker, and Resilience Patterns</a>

@@ -2067,7 +2067,6 @@ Kita akan turun satu level ke OS dan runtime boundary:
 
 Seri belum selesai. Ini baru part 000 dari 035.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

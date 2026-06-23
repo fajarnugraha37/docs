@@ -2344,8 +2344,6 @@ Part berikutnya:
 
 > **Part 017 — Error Translation and Boundary Error Pattern**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-015.md">⬅️ Part 015 — Middleware and Interceptor Pattern</a>

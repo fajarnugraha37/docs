@@ -2351,7 +2351,6 @@ Part berikutnya:
 
 - Part 011 — Repository Pattern: Useful, Dangerous, and Often Misused
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-009.md">⬅️ Part 009 — Dependency Wiring Pattern Without DI Container</a>

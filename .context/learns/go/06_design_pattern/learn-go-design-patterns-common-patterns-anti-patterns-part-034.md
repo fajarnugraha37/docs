@@ -2652,7 +2652,6 @@ Kita akan menggabungkan seluruh seri dalam satu exercise end-to-end:
 
 Part 035 akan menjadi penutup seri dan akan menandai bahwa seri selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-033.md">⬅️ Part 033 — Codebase Architecture Pattern for Large Go Services</a>

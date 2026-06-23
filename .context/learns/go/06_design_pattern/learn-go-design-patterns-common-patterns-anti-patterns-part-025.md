@@ -2086,7 +2086,6 @@ Cache akan dibahas bukan sebagai “map dengan TTL”, tetapi sebagai pattern de
 - **Seri belum selesai.**
 - Lanjut ke **Part 026 — Cache Pattern**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-design-patterns-common-patterns-anti-patterns-part-024.md">⬅️ Part 024 — Pipeline, Fan-Out/Fan-In, and Bounded Parallelism Pattern</a>
