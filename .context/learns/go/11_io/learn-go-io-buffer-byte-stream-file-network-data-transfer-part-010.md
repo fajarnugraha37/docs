@@ -2194,8 +2194,6 @@ Path handling: path, filepath, portability, traversal safety, canonicalization
 
 Part 011 will go deeper into path manipulation itself: `path` vs `filepath`, `Clean`, `Join`, `Abs`, `Rel`, `EvalSymlinks`, slash vs OS separator, Windows path traps, root confinement, canonicalization limits, and path traversal defense.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-009.md">⬅️ Part 009 — File Basics: `os.File`, Open Flags, Permission, Lifecycle, dan Descriptor Ownership</a>

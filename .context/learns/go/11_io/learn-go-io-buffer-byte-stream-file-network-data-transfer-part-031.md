@@ -2137,7 +2137,6 @@ Kita akan masuk ke cara mengobservasi sistem IO Go di production:
 - Go 1.26 Release Notes: https://go.dev/doc/go1.26
 - Go Release History: https://go.dev/doc/devel/release
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-030.md">⬅️ Part 030 — Reverse Proxy dan Data Transfer Gateway Patterns dengan `net/http/httputil`</a>

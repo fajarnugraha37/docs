@@ -2575,7 +2575,6 @@ Topik berikutnya:
 Filesystem abstraction: io/fs, embed.FS, test FS, virtual FS, layered FS
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-010.md">⬅️ Part 010 — Filesystem Operations: Metadata, Directory Traversal, Temp Files, Atomic Replace, and Rename Semantics</a>

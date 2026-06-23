@@ -2640,8 +2640,6 @@ Referensi utama untuk seri ini:
 - Status: **Belum selesai**
 - Part berikutnya: **Part 002 — Core IO Contracts: `io.Reader`, `io.Writer`, `Closer`, `Seeker`, `ReaderAt`, `WriterAt`**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-000.md">⬅️ Part 000 — Orientation: Mental Model Go IO untuk Java Engineer</a>

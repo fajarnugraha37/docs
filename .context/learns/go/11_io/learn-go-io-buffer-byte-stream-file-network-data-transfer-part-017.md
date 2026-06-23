@@ -2240,7 +2240,6 @@ Seri belum selesai.
 - Selesai: Part 000–017
 - Berikutnya: Part 018 — Protocol Design: Framing, Length-Prefix, Delimiters, Checksums, Envelopes, Metadata
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-016.md">⬅️ Part 016 — Standard Serialization di Go: JSON, XML, CSV, Gob, Binary, Base64, Hex</a>

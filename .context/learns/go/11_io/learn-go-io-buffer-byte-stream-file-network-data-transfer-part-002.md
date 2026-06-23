@@ -2086,8 +2086,6 @@ Kita akan melihat kapan helper `io` membuat kode lebih aman, dan kapan helper it
 - Status: **belum selesai**
 - Next: `learn-go-io-buffer-byte-stream-file-network-data-transfer-part-003.md`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-001.md">⬅️ Part 001 — Data Movement Model: Byte, Slice, Stream, Descriptor, Socket, File</a>

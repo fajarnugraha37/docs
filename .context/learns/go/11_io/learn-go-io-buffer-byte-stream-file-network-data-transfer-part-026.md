@@ -2322,7 +2322,6 @@ Kita akan bergerak dari local IPC ke salah satu bentuk data transfer paling seri
 - Go `os/exec` package documentation: https://pkg.go.dev/os/exec
 - Go 1.26 Release Notes: https://go.dev/doc/go1.26
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-025.md">⬅️ Part 025 — UDP dan Packet IO: Datagram Model, MTU, Loss, Idempotence, dan Packet Protocol Design</a>

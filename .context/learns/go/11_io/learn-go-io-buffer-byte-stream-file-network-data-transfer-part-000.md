@@ -2103,8 +2103,6 @@ Kita akan membahas lebih dalam:
 - Status: **Seri belum selesai**
 - Lanjut berikutnya: **Part 001 — Data Movement Model**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-MANIFEST.md">⬅️ Go IO, Buffer, Byte, Stream, File, Networking, Data Transfer</a>

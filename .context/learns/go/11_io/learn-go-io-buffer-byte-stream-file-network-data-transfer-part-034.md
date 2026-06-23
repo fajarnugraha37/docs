@@ -2387,7 +2387,6 @@ learn-go-io-buffer-byte-stream-file-network-data-transfer
 
 **sudah selesai**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-033.md">⬅️ Part 033 — Testing IO Systems: Fake Readers/Writers, Fault Injection, Golden Files, Fuzzing, Race Boundaries</a>

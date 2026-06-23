@@ -2163,8 +2163,6 @@ Kita akan membedah:
 - memory retention trap
 - perbandingan dengan Java `ByteArrayInputStream`, `ByteBuffer`, dan `StringReader`
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-002.md">⬅️ Part 002 — Core IO Contracts: `Reader`, `Writer`, `Closer`, `Seeker`, `ReaderAt`, `WriterAt`</a>

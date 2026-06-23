@@ -2148,8 +2148,6 @@ Part berikutnya akan membahas **UDP and Packet IO**:
 - Go `crypto/tls` package: https://pkg.go.dev/crypto/tls
 - Go `net/netip` package: https://pkg.go.dev/net/netip
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-023.md">⬅️ Part 023 — TCP Servers: Accept Loop, Connection Lifecycle, Half-Close, Slow Client Defense</a>

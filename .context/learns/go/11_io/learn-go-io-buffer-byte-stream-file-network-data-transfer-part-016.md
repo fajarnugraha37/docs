@@ -2741,7 +2741,6 @@ Part 000 sampai Part 016 selesai.
 Part 017 sampai Part 034 belum dibuat.
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-015.md">⬅️ Part 015 — Binary Encoding: Endian, Varint, Fixed-Width Fields, Framing, dan Versioned Records</a>

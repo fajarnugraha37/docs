@@ -2491,7 +2491,6 @@ Part 034 adalah bagian terakhir seri ini.
 - Go `net`: https://pkg.go.dev/net
 - Go `net/http`: https://pkg.go.dev/net/http
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-032.md">⬅️ Part 032 — Observability untuk Go IO: Metrics, Logs, Tracing, pprof, Runtime Metrics, Blocked IO, Stream Leak, Descriptor Leak</a>

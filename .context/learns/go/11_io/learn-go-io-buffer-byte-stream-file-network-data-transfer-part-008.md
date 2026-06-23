@@ -1808,7 +1808,6 @@ Kita akan masuk ke filesystem level: bagaimana `os.File` merepresentasikan handl
 - Status: **belum selesai**
 - Masih tersisa: **026 part**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-007.md">⬅️ Part 007 — Console IO: stdin, stdout, stderr, Terminal Behavior, Prompt, dan CLI Data Streams</a>

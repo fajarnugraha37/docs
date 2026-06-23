@@ -2157,7 +2157,6 @@ Yang akan dibahas:
 - Go package `net` — `https://pkg.go.dev/net`
 - Go package `net/http` — `https://pkg.go.dev/net/http`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-005.md">⬅️ Part 005 — `bufio` Deep Dive: Buffered Reader/Writer, Scanner, Tokenization, dan Flush Discipline</a>

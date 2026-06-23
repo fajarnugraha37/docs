@@ -2436,7 +2436,6 @@ Kita akan masuk ke boundary network paling dasar di Go:
 - timeout classification
 - production-grade dial/accept model
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-020.md">⬅️ Part 020 — Archive Formats: TAR, ZIP, Safe Extraction, Metadata, dan Large Archive Handling</a>

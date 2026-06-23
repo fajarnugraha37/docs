@@ -2598,7 +2598,6 @@ Referensi utama:
 - Go `net/textproto` package documentation — text-based request/response protocol support in HTTP/NNTP/SMTP style.
 - Go 1.26 release notes — compatibility and standard library updates relevant to IO/network.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-017.md">⬅️ Part 017 — JSON Production Patterns: Streaming Decoder, Unknown Fields, Optional Semantics, Schema Drift, Numeric Precision, and Defensive Parsing</a>

@@ -2560,8 +2560,6 @@ Di sana kita akan naik satu level dari compression stream ke archive/container f
 - Go 1.26 Release Notes
 - Go Release History, termasuk Go 1.26.x patch line
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-018.md">⬅️ Part 018 — Protocol Design: Framing, Length-Prefix, Delimiters, Checksums, Envelopes, Metadata</a>

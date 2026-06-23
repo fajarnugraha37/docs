@@ -2,7 +2,7 @@
 
 > Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
 
-Tersedia **0 artikel** dan **11 subkategori** pada bagian ini.
+Tersedia **0 artikel** dan **12 subkategori** pada bagian ini.
 
 ## Subkategori
 - [00 Base](./00_base/index.md)
@@ -16,6 +16,7 @@ Tersedia **0 artikel** dan **11 subkategori** pada bagian ini.
 - [09 Observability](./09_observability/index.md)
 - [10 Testing](./10_testing/index.md)
 - [11 Io](./11_io/index.md)
+- [12 Sql](./12_sql/index.md)
 
 ---
 

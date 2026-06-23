@@ -2223,8 +2223,6 @@ bufio deep dive:
 - Go 1.26 release notes: https://go.dev/doc/go1.26
 - Go language specification: https://go.dev/ref/spec
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-003.md">⬅️ Part 003 — Advanced `io`: Copy, CopyBuffer, CopyN, LimitReader, MultiReader, MultiWriter, TeeReader, Pipe, ReadFull, SectionReader</a>

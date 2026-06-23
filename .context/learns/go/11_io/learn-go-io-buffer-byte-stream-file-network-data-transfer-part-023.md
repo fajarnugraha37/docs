@@ -1994,7 +1994,6 @@ Server dan client harus dipahami bersama karena banyak bug data transfer muncul 
 - Go `crypto/tls` package documentation: https://pkg.go.dev/crypto/tls
 - Go 1.26 Release Notes: https://go.dev/doc/go1.26
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-022.md">⬅️ Part 022 — Networking Foundation: `net.Conn`, `Listener`, `Dialer`, Address, DNS, Deadline, dan Failure Model Jaringan</a>

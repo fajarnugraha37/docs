@@ -2180,7 +2180,6 @@ learn-go-io-buffer-byte-stream-file-network-data-transfer-part-030.md
 
 Topik berikutnya: **Reverse Proxy dan Data Transfer Gateway Patterns menggunakan `net/http/httputil`**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-028.md">⬅️ Part 028 — HTTP Server Internals: Request Body, Response Writer, Streaming, Timeout, dan Shutdown-Safe Data Transfer</a>

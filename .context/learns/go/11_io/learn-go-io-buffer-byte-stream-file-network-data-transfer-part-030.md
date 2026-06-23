@@ -2629,7 +2629,6 @@ Part 031 akan membahas **Performance Engineering untuk IO dan Data Transfer**:
 
 Status series: **belum selesai**. Ini adalah **Part 030 dari 034**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-029.md">⬅️ Part 029 — Multipart, MIME, Upload/Download Pipeline, dan Mail-ish Data Transfer</a>

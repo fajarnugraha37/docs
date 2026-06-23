@@ -1756,7 +1756,6 @@ Part 008 berikutnya
 Part 034 terakhir
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-006.md">⬅️ Part 006 — Text IO: UTF-8, Rune Boundary, Line Protocol, CRLF, dan Malformed Input</a>

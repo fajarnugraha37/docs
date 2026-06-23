@@ -39,7 +39,6 @@ Total markdown parts: 35 (`part-000` through `part-034`).
 | 033 | `learn-go-io-buffer-byte-stream-file-network-data-transfer-part-033.md` | 60495 | `ac0491041c5a8a1b37eabe34456c1e004147b3e97a191d0b6dcbdfdd4232b3b8` |
 | 034 | `learn-go-io-buffer-byte-stream-file-network-data-transfer-part-034.md` | 64417 | `195486aa67c88e6b2c5e79597d3b98fe04136a32f76ddbfb7580331905df00ce` |
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

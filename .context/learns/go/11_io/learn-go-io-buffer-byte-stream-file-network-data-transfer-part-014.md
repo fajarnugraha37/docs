@@ -2136,7 +2136,6 @@ Kita akan membahas bagaimana mendesain format binary yang:
 
 Part 014 selesai. Series belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-013.md">⬅️ Part 013 — Large File Processing: Chunking, Streaming, Seek, Random Access, dan Resumable Reads</a>

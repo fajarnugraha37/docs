@@ -2581,7 +2581,6 @@ Topik berikutnya:
 Testing IO Systems: fake readers/writers, fault injection, golden files, fuzzing, race boundaries
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-031.md">⬅️ Part 031 — Go IO Performance Engineering: Allocation, Buffer Reuse, Syscall Count, Batching, dan Zero-Copy Limits</a>

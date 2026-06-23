@@ -2723,7 +2723,6 @@ Kita akan masuk ke cara membangun pipeline data yang reusable:
 - Go release history for Go 1.26.x security/bug fix context.
 - Go 1.24 release notes for archive writer `AddFS` behavior update.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-019.md">⬅️ Part 019 — Compression: gzip, zlib, flate, lzw, Streaming Compression, Ratio vs Latency</a>

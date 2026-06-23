@@ -2467,7 +2467,6 @@ Referensi konseptual dari seri sebelumnya:
 - Part 022 — Networking foundation
 - Part 024 — TCP clients
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-026.md">⬅️ Part 026 — Unix Sockets dan Local IPC di Go: Domain Socket, Pipe, Local Transfer Pattern, dan Boundary antar Proses</a>

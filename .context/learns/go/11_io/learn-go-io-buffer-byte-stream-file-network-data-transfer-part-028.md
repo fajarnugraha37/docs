@@ -2105,7 +2105,6 @@ Seri **belum selesai**. Part berikutnya:
 Part 029 — Multipart, MIME, mail-ish protocols, upload/download pipelines
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-027.md">⬅️ Part 027 — HTTP Client Internals: Transport, Connection Pooling, Timeout, Streaming Body, dan Client Production-Grade</a>

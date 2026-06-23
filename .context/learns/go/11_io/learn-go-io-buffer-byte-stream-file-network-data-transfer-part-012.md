@@ -2982,8 +2982,6 @@ Fokus:
 - Go 1.26 release notes: https://go.dev/doc/go1.26
 - Go release history: https://go.dev/doc/devel/release
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-011.md">⬅️ Part 011 — Path Handling: `path`, `filepath`, Portability, Traversal Safety, Canonicalization</a>

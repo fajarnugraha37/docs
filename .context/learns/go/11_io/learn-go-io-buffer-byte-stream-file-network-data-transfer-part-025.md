@@ -2106,7 +2106,6 @@ Buat test yang mensimulasikan:
 - Go 1.26 release notes
 - Go source: `net/udpsock.go`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-io-buffer-byte-stream-file-network-data-transfer-part-024.md">⬅️ Part 024 — TCP Clients: Dial Strategy, Timeout Model, Retry Boundary, Reconnect, Pooling</a>
