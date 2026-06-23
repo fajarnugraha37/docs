@@ -2656,8 +2656,6 @@ Part 004 — Sorting, Ordering, Comparison, dan Search
 
 Di Part 004, kita akan masuk ke ordering: comparator, stable vs unstable sort, binary search, lower/upper bound, top-K, partial sort, dan bagaimana ordering menjadi kontrak correctness dalam Go production code.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-002.md">⬅️ Part 002 — Arrays, Slices, dan Sequence Design</a>

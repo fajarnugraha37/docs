@@ -2841,8 +2841,6 @@ Jika Anda memahami Part 014 dengan baik, Anda akan lebih mudah memahami banyak s
 
 Seri belum selesai. Lanjut ke Part 015 untuk prefix-oriented data structures.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-013.md">⬅️ Part 013 — Balanced Trees: AVL, Red-Black, Treap, dan Ordered Index</a>

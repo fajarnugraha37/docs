@@ -2574,8 +2574,6 @@ Dynamic programming akan mengubah cara kita melihat problem yang punya overlappi
 - Go release history — validasi versi Go 1.26.x.
 - CLRS-style algorithm foundations untuk graph traversal, topological sort, shortest path, dan SCC.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-016.md">⬅️ Part 016 — Graph Fundamentals: Representation, Traversal, dan Modelling</a>

@@ -3052,8 +3052,6 @@ Di sana kita akan membahas:
 - permission inheritance;
 - event propagation impact.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-015.md">⬅️ Part 015 — Trie, Radix Tree, Patricia Tree, dan Prefix Index</a>

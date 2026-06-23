@@ -2488,7 +2488,6 @@ Berikutnya:
 
 - Part 026 — Concurrent Data Structures in Go: Correctness Before Performance
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-024.md">⬅️ Part 024 — Cache Data Structures: LRU, LFU, ARC-like Thinking, TTL Index</a>

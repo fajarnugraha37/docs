@@ -2018,7 +2018,6 @@ Berikutnya:
 
 - Part 033 — Applied Case Studies: Building Real Backend Structures
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-031.md">⬅️ Part 031 — Correctness Testing: Invariants, Fuzzing, Property Testing, Differential Testing</a>

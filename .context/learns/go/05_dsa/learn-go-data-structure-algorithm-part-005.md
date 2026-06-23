@@ -2670,7 +2670,6 @@ Dan itu adalah pertanyaan yang jauh lebih production-grade daripada sekadar “b
 - Package `container/heap` — https://pkg.go.dev/container/heap
 - Package `testing` — https://pkg.go.dev/testing
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-004.md">⬅️ Part 004 — Sorting, Ordering, Comparison, dan Search</a>

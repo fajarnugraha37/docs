@@ -2595,7 +2595,6 @@ Berikutnya:
 
 - Part 027 — Persistent, Immutable, dan Versioned Data Structures
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-025.md">⬅️ Part 025 — Time, Scheduling, Rate Limiting, dan Window Algorithms</a>

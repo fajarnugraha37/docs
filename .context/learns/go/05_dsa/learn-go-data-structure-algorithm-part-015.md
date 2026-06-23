@@ -2471,8 +2471,6 @@ Trie is about **shared prefix path**.
 
 Graph is about **arbitrary relation topology**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-014.md">⬅️ Part 014 — B-Tree, B+Tree, Page-Oriented Structure, dan Storage-Aware Index</a>

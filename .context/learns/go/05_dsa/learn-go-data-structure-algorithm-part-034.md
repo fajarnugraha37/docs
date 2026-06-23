@@ -1419,7 +1419,6 @@ Selesai:
 
 Seri **learn-go-data-structure-algorithm** sudah selesai dan mencapai bagian terakhir.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-033.md">⬅️ Part 033 — Applied Case Studies: Building Real Backend Structures</a>

@@ -2464,7 +2464,6 @@ learn-go-data-structure-algorithm-part-020.md
 Part 020 — Divide and Conquer, Selection, dan Search Space Reduction
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-018.md">⬅️ Part 018 — Dynamic Programming: Memoization, Tabulation, dan State Compression</a>

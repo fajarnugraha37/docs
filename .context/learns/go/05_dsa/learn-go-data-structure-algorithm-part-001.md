@@ -2461,7 +2461,6 @@ Progress:
 [berikutnya] Part 002 — Arrays, Slices, dan Sequence Design
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-000.md">⬅️ Part 000 — Roadmap, Mental Model, dan Batasan Seri</a>

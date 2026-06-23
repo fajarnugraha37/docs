@@ -2662,7 +2662,6 @@ Berikutnya:
 
 - Part 022 — Disjoint Set Union, Connectivity, dan Merge Semantics
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-020.md">⬅️ Part 020 — Divide and Conquer, Selection, dan Search Space Reduction</a>

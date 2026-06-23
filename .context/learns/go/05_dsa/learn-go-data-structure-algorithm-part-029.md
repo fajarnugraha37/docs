@@ -2326,7 +2326,6 @@ Berikutnya:
 
 - Part 030 — API Design for Reusable Data Structures in Go
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-028.md">⬅️ Part 028 — Serialization-Aware and Layout-Aware Data Structures</a>

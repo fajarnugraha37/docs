@@ -2176,7 +2176,6 @@ Berikutnya:
 
 - Part 024 — Cache Data Structures: LRU, LFU, ARC-like Thinking, TTL Index
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-022.md">⬅️ Part 022 — Disjoint Set Union, Connectivity, dan Merge Semantics</a>

@@ -2541,8 +2541,6 @@ Ini sangat relevan untuk sistem yang butuh auditability.
 - Seri keseluruhan: **belum selesai**.
 - Part berikutnya: **Part 013 — Balanced Trees: AVL, Red-Black, Treap, dan Ordered Index**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-011.md">⬅️ Part 011 — Hashing, Fingerprint, Checksums, dan Equality Strategy</a>

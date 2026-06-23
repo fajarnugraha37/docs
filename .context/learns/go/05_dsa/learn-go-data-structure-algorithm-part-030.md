@@ -2269,7 +2269,6 @@ Berikutnya:
 
 - Part 031 — Correctness Testing: Invariants, Fuzzing, Property Testing, Differential Testing
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-029.md">⬅️ Part 029 — External Memory Algorithms and File-Backed Structures</a>

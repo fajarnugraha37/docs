@@ -2783,8 +2783,6 @@ Part 005 — Stack, Queue, Deque, dan Worklist Algorithms
 
 Kita akan masuk ke struktur data linear berbasis operasi: push, pop, enqueue, dequeue, double-ended operation, monotonic queue, ring buffer, dan worklist algorithm untuk DFS/BFS/scheduler.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-003.md">⬅️ Part 003 — Maps, Hash Tables, dan Associative Data</a>

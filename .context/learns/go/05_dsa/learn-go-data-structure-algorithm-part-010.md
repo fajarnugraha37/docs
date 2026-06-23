@@ -2385,7 +2385,6 @@ learn-go-data-structure-algorithm-part-011.md
 Part 011 — Hashing, Fingerprint, Checksums, dan Equality Strategy
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-009.md">⬅️ Part 009 — Strings, Bytes, Runes, Tokenization, dan Text Algorithms</a>

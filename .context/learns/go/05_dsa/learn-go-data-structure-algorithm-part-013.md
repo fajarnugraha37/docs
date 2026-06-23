@@ -3273,7 +3273,6 @@ Berikutnya:
 
 Seri belum selesai. Bagian berikutnya adalah `learn-go-data-structure-algorithm-part-014.md`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-012.md">⬅️ Part 012 — Trees: Binary Tree, BST, Traversal, dan Structural Invariants</a>

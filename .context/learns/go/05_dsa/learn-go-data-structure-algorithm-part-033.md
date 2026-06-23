@@ -2319,7 +2319,6 @@ Berikutnya:
 
 - Part 034 — Final Handbook: Decision Framework, Anti-Patterns, dan Production Checklist
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-032.md">⬅️ Part 032 — Benchmarking and Profiling Data Structures</a>

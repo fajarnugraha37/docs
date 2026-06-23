@@ -562,7 +562,6 @@ IDENT(owner)
 EQ(=)
 STRING("alice smith")
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-008.md">⬅️ Part 008 — Sets, Multisets, Bag, dan Membership Models</a>

@@ -2387,8 +2387,6 @@ map untuk index job by ID
 - `slices` package — https://pkg.go.dev/slices
 - Go blog: Slices internals — https://go.dev/blog/slices-intro
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-006.md">⬅️ Part 006 — Linked List, Intrusive List, dan Pointer-Chasing Trade-off</a>

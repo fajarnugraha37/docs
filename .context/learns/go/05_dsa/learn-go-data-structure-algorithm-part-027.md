@@ -2104,7 +2104,6 @@ Berikutnya:
 
 - Part 028 — Serialization-Aware and Layout-Aware Data Structures
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-026.md">⬅️ Part 026 — Concurrent Data Structures in Go: Correctness Before Performance</a>

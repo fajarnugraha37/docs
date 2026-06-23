@@ -2694,7 +2694,6 @@ Berikutnya:
 
 - Part 029 — External Memory Algorithms and File-Backed Structures
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-027.md">⬅️ Part 027 — Persistent, Immutable, dan Versioned Data Structures</a>

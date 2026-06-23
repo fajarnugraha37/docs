@@ -2514,7 +2514,6 @@ Berikutnya:
 
 - Part 021 — Range Query Structures: Prefix Sum, Fenwick Tree, Segment Tree
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-019.md">⬅️ Part 019 — Greedy Algorithms, Exchange Argument, dan Approximation Thinking</a>

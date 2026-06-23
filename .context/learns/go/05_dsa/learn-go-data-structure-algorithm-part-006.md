@@ -2074,7 +2074,6 @@ The top-tier mental model:
 - `container/ring`: https://pkg.go.dev/container/ring
 - `container/heap`: https://pkg.go.dev/container/heap
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-005.md">⬅️ Part 005 — Stack, Queue, Deque, dan Worklist Algorithms</a>

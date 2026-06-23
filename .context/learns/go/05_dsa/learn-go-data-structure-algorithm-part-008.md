@@ -2792,7 +2792,6 @@ Setelah memahami ini, kita siap masuk ke text-oriented data structures dan algor
 
 Seri belum selesai. Masih ada Part 009 sampai Part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-structure-algorithm-part-007.md">⬅️ Part 007 — Heap, Priority Queue, dan Scheduling Algorithms</a>
