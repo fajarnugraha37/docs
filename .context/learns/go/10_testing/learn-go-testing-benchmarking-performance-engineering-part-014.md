@@ -2566,7 +2566,6 @@ Integration test maturity is not measured by the number of containers started. I
 - Testcontainers for Go PostgreSQL module: https://golang.testcontainers.org/modules/postgres/
 - Testcontainers for Go Redis module: https://golang.testcontainers.org/modules/redis/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-013.md">⬅️ Part 013 — Filesystem, Process, CLI & OS Boundary Testing</a>

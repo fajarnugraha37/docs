@@ -2162,8 +2162,6 @@ Part 007 dari 032
 
 Seri belum selesai.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-006.md">⬅️ Part 006 — Prometheus Instrumentation in Go</a>

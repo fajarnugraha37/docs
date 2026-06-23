@@ -2312,7 +2312,6 @@ Buat unit test yang memastikan field berikut tidak muncul mentah dalam output lo
 - Seri belum selesai.
 - Berikutnya: `Part 004 — Error Logging, Causality, and Failure Evidence`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-002.md">⬅️ Part 002 — `log/slog` Deep Dive</a>

@@ -2151,8 +2151,6 @@ Completed: Part 000 sampai Part 005
 Remaining: Part 006 sampai Part 032
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-004.md">⬅️ Part 004 — Error Logging, Causality, and Failure Evidence</a>

@@ -1907,8 +1907,6 @@ Benchmarking Fundamentals: What Go Benchmarks Actually Measure
 
 Di sana kita akan membedah `testing.B`, `go test -bench`, timer semantics, `-benchtime`, `-count`, `-cpu`, setup exclusion, output interpretation, dan kenapa benchmark bukan load test.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-018.md">⬅️ Part 018 — Test Suite Architecture for Large Go Codebases</a>

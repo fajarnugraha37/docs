@@ -2050,8 +2050,6 @@ Primary references used for this series direction:
 6. Prometheus documentation — counter/gauge/histogram labels and cardinality practices.
 7. Google SRE materials — symptoms, golden signals, alerting philosophy.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-003.md">⬅️ Part 003 — Logging Architecture for Services</a>

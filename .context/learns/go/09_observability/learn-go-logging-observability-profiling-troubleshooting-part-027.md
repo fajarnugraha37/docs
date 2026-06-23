@@ -1325,7 +1325,6 @@ Topik berikutnya:
 Observability Cost, Cardinality, and Data Governance
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-026.md">⬅️ Part 026 — Alerting, SLO, and Error Budget Engineering</a>

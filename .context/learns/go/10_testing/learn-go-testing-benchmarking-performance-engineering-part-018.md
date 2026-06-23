@@ -1987,8 +1987,6 @@ Referensi utama untuk bagian ini:
 - Go race detector documentation.
 - Go project conventions around `testdata` directories.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-017.md">⬅️ Part 017 — Coverage Engineering: Statement Coverage, Integration Coverage, Meaningful Quality Gates</a>

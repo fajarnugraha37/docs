@@ -2067,7 +2067,6 @@ pprof Fundamentals
 
 Kita akan masuk ke profiling runtime Go: CPU, heap, goroutine, block, mutex, threadcreate, trace profile, overhead, flame graph, call graph, dan cara membaca profile tanpa salah diagnosis.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-009.md">⬅️ Part 009 — Distributed Tracing in Go</a>

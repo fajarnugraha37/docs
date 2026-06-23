@@ -2001,7 +2001,6 @@ Kita akan membahas bagaimana membuat assertion yang kuat, readable, diagnostik, 
 
 Status seri: **belum selesai**. Ini adalah **part-004 dari part-034**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-003.md">⬅️ Part 003 — Testable Go Design: API Boundary, Dependency Direction, Seams, Ports & Adapters</a>

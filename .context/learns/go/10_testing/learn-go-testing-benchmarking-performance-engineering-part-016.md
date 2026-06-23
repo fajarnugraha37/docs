@@ -2017,7 +2017,6 @@ Topic: **Coverage Engineering: Statement Coverage, Integration Coverage, Meaning
 
 Kita akan membahas coverage bukan sebagai angka vanity metric, tetapi sebagai evidence system: `go test -cover`, `-coverprofile`, `-coverpkg`, integration coverage, `GOCOVERDIR`, `go tool covdata`, blind spots, quality gates, dan cara menjadikan coverage berguna tanpa tertipu persentase.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-015.md">⬅️ Part 015 — Concurrency Testing: Race, Ordering, Goroutine Leaks, Deadlocks & Deterministic Coordination</a>

@@ -2470,7 +2470,6 @@ Topik berikutnya:
 log/slog Deep Dive
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-000.md">⬅️ Part 000 — Orientation: Observability as Runtime Truth</a>

@@ -2118,7 +2118,6 @@ Mulai Part 001, kita masuk ke mekanisme detail `go test`: bagaimana source file 
 
 Status seri: **belum selesai**. Part terakhir adalah `part-034`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

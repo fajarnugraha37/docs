@@ -2290,8 +2290,6 @@ Pada Part 003, kita akan naik dari API `slog` ke desain arsitektur logging servi
 - Status: **belum selesai**
 - Part berikutnya: `learn-go-logging-observability-profiling-troubleshooting-part-003.md` — **Logging Architecture for Services**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-001.md">⬅️ Part 001 — Production Logging Philosophy in Go</a>

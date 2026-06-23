@@ -2176,8 +2176,6 @@ The next part will build on this by discussing **Golden Tests, Snapshot Tests, A
 - Go fuzzing documentation
 - Go release notes for current toolchain behavior
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-006.md">⬅️ Part 006 — Table-Driven Tests as Test Matrix Engineering</a>

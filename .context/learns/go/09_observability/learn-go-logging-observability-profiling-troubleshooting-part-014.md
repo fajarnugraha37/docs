@@ -1871,7 +1871,6 @@ Topik berikutnya:
 GC Observability in Go 1.26
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-013.md">⬅️ Part 013 — CPU Profiling and Hot Path Analysis</a>

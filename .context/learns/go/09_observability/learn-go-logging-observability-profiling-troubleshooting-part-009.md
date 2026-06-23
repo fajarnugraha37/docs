@@ -2082,7 +2082,6 @@ Kita akan membangun desain middleware konkret untuk HTTP/gRPC/worker yang mengga
 - timeout/cancellation evidence.
 - reusable internal observability package.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-logging-observability-profiling-troubleshooting-part-008.md">⬅️ Part 008 — OpenTelemetry Go: Architecture and Trade-offs</a>

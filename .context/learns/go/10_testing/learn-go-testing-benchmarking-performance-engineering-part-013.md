@@ -2119,8 +2119,6 @@ Database, Queue, Cache & External Dependency Integration Testing
 
 Kita akan membahas integration test harness untuk dependency eksternal seperti database, queue, dan cache dari perspektif testing strategy: lifecycle, isolation, fixtures, transaction rollback, eventual consistency, idempotency, contract boundary, container strategy, dan CI placement.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-012.md">⬅️ Part 012 — HTTP, Handler, Middleware & Client Testing</a>

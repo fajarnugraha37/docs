@@ -1590,7 +1590,6 @@ The series is **not finished yet**.
 
 Next: **part-010 — Deterministic Testing: Time, Randomness, UUID, Crypto, Scheduler & Environment**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-008.md">⬅️ Part 008 — Golden Tests, Snapshot Tests, Approval Tests & Stable Outputs</a>

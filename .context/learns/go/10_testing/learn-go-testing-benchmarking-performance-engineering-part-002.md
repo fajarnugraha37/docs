@@ -2219,7 +2219,6 @@ Testable Go Design: API Boundary, Dependency Direction, Seams, Ports & Adapters
 
 Status seri: **belum selesai**. Ini adalah **part-002 dari part-034**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-testing-benchmarking-performance-engineering-part-001.md">⬅️ Part 001 — Go Test Execution Model: Dari Source File ke Test Binary</a>
