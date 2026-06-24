@@ -3229,7 +3229,6 @@ ABAC menjawab lewat attribute. ReBAC menjawab lewat relationship. Sistem enterpr
 
 **Status seri:** belum selesai. Part 022 selesai. Lanjut ke Part 023.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-021.md">⬅️ Part 021 — Permission Modelling: Action, Resource, Scope, Constraint, Condition</a>

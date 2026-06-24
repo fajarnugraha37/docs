@@ -3249,7 +3249,6 @@ Topik berikutnya:
 MFA, OTP, TOTP, Recovery Codes, Step-Up Authentication
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-005.md">⬅️ Part 005 — Assurance Levels: IAL, AAL, FAL, Risk-Based Authentication</a>

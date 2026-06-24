@@ -2876,8 +2876,6 @@ Berikutnya:
 
 - [ ] part-021 — Permission Modelling: Action, Resource, Scope, Constraint, Condition
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-019.md">⬅️ Part 019 — Authorization Mental Model: PDP, PEP, PIP, PAP</a>

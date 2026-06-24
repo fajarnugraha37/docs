@@ -1982,7 +1982,6 @@ Part berikutnya:
 
 `learn-go-authentication-authorization-identity-permission-part-017.md` — **Building Authorization Server / Identity Provider Concepts in Go**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-015.md">⬅️ Part 015 — OpenID Connect: ID Token, UserInfo, Discovery, Claims, Nonce</a>

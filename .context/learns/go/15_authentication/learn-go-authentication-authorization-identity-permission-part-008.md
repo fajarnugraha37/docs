@@ -3432,8 +3432,6 @@ Tetapi:
 
 Part berikutnya akan masuk ke **Session Architecture**: cookie session, server-side session, stateless token, hybrid session, session rotation, logout semantics, idle timeout, absolute timeout, concurrent sessions, dan device/session management.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-007.md">⬅️ Part 007 — MFA, OTP, TOTP, Recovery Codes, Step-Up Authentication di Go</a>

@@ -2554,7 +2554,6 @@ Sumber-sumber primer/rujukan yang relevan untuk bagian ini:
 > Status: **Part 017 selesai. Seri belum selesai.**  
 > Lanjut ke: `learn-go-authentication-authorization-identity-permission-part-018.md` — Federation: SAML, OIDC Federation, External IdP, Enterprise SSO.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-016.md">⬅️ Part 016 — Building OIDC Client / Relying Party di Go</a>

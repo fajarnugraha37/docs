@@ -2523,7 +2523,6 @@ Topik berikutnya:
 OAuth2 Security BCP: PKCE, Redirect URI, State, Mix-Up, Code Injection
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-012.md">⬅️ Part 012 — Secure Auth Middleware di Go: `net/http`, chi, gin, gRPC Interceptor</a>

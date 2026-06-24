@@ -2858,7 +2858,6 @@ Topik berikutnya:
 
 > **Mental Model: Identity, Authentication, Authorization, Permission** — membongkar lebih dalam perbedaan konseptual dan operational model dari empat domain utama auth system.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

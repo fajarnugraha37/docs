@@ -3616,7 +3616,6 @@ Seri **belum selesai**. Lanjut ke:
 
 `learn-go-authentication-authorization-identity-permission-part-012.md` — **Secure Auth Middleware di Go: `net/http`, chi, gin, grpc Interceptor**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-010.md">⬅️ Part 010 — JWT, JWS, JWE, JWK, JWKS: Token Validation as Engineering Discipline</a>

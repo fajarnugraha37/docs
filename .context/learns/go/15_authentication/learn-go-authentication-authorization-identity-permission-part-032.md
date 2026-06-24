@@ -2486,7 +2486,6 @@ Abuse, Fraud, Bot, Brute Force, Enumeration, Account Takeover Defense
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-031.md">⬅️ Part 031 — Auditability & Regulatory Defensibility: Who Did What, As Whom, Under Which Authority</a>

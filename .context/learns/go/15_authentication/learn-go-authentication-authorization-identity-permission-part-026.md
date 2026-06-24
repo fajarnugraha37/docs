@@ -2780,7 +2780,6 @@ Judul berikutnya:
 Service-to-Service Auth: mTLS, JWT Bearer, Client Credentials, Workload Identity
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-025.md">⬅️ Part 025 — Capability-Based Access di Go: Delegation, Token Exchange, Fine-Grained Grants</a>

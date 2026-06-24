@@ -2449,7 +2449,6 @@ Topik berikutnya:
 Auditability & Regulatory Defensibility: Who Did What, As Whom, Under Which Authority
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-029.md">⬅️ Part 029 — API Gateway vs Service-Level Authorization: Boundary Design</a>

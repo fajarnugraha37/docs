@@ -2886,7 +2886,6 @@ Lanjut berikutnya:
 
 `learn-go-authentication-authorization-identity-permission-part-028.md` — **gRPC Auth: Metadata, Interceptor Chain, Per-RPC Authorization**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-026.md">⬅️ Part 026 — Multi-Tenant Authorization: Tenant Boundary, Org Tree, Cross-Tenant Risk</a>

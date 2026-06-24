@@ -2422,7 +2422,6 @@ Topik berikutnya:
 Identity Domain Model: User, Principal, Subject, Actor, Account, Tenant
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-001.md">⬅️ Part 001 — Mental Model: Identity, Authentication, Authorization, Permission</a>

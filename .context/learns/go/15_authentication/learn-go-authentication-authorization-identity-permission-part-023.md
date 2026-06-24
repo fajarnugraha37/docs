@@ -2699,7 +2699,6 @@ Audit preserves why the decision was defensible.
 Seri belum selesai.  
 Lanjut berikutnya: `learn-go-authentication-authorization-identity-permission-part-024.md` — **Policy-as-Code di Go: OPA/Rego, Casbin, Custom Policy Engine**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-022.md">⬅️ Part 022 — ABAC: Attribute-Based Access Control untuk Enterprise Systems di Go</a>

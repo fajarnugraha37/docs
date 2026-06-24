@@ -2776,7 +2776,6 @@ Referensi primer dan standar yang menjadi baseline seri:
 
 **Status akhir:** `learn-go-authentication-authorization-identity-permission` **selesai sampai part 035**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-034.md">⬅️ Part 034 — Production Hardening: Key Rotation, JWKS Cache, Clock Skew, Outage Mode, Runbook</a>

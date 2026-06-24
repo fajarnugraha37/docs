@@ -2562,7 +2562,6 @@ Top engineer memperlakukan federation sebagai **governed trust boundary**, bukan
 - coreos/go-oidc Go library — https://pkg.go.dev/github.com/coreos/go-oidc/v3/oidc
 - ZITADEL OIDC Go library — https://github.com/zitadel/oidc
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-017.md">⬅️ Part 017 — Building Authorization Server / Identity Provider Concepts in Go</a>

@@ -3287,7 +3287,6 @@ Bagian berikutnya:
 
 `learn-go-authentication-authorization-identity-permission-part-029.md` — **API Gateway vs Service-Level Authorization: Boundary Design**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-027.md">⬅️ Part 027 — Service-to-Service Auth: mTLS, JWT Bearer, Client Credentials, Workload Identity</a>

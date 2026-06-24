@@ -3408,7 +3408,6 @@ Part berikutnya akan masuk ke **RBAC yang benar**. Kita akan membedah kenapa RBA
 **Status seri:** belum selesai.  
 **Lanjut ke:** `learn-go-authentication-authorization-identity-permission-part-020.md` — RBAC yang Benar: Role Explosion, Hierarchy, Domain Role, Contextual Role.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-018.md">⬅️ Part 018 — Federation: SAML, OIDC Federation, External IdP, Enterprise SSO</a>

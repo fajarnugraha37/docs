@@ -3012,7 +3012,6 @@ Bagian berikutnya akan melanjutkan ke **Multi-Tenant Authorization: Tenant Bound
 11. Macaroons: Cookies with Contextual Caveats for Decentralized Authorization in the Cloud: https://research.google.com/pubs/pub41892.html
 12. Go 1.26 Release Notes: https://go.dev/doc/go1.26
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-024.md">⬅️ Part 024 — Policy-as-Code di Go: OPA/Rego, Casbin, Custom Policy Engine</a>

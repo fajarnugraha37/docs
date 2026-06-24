@@ -2581,7 +2581,6 @@ Topik berikutnya:
 Password Authentication di Go: Correctness, Storage, UX, Abuse Resistance
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-004.md">⬅️ Part 004 — Credential Lifecycle: Registration, Binding, Recovery, Rotation, Revocation</a>

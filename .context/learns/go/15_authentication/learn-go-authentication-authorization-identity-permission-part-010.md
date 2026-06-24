@@ -2700,7 +2700,6 @@ Topik berikutnya:
 Token Lifecycle: Expiry, Refresh, Rotation, Replay Detection, Revocation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-009.md">⬅️ Part 009 — Session Architecture: Cookie Session, Server-Side Session, Stateless Token</a>

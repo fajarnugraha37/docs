@@ -3326,7 +3326,6 @@ Topik berikutnya:
 Credential Lifecycle: Registration, Binding, Recovery, Rotation, Revocation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-002.md">⬅️ Part 002 — Threat Model untuk Auth System di Go</a>

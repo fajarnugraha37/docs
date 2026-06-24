@@ -3328,8 +3328,6 @@ Topik berikutnya:
 ABAC: Attribute-Based Access Control untuk Enterprise Systems
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-020.md">⬅️ Part 020 — RBAC yang Benar: Role Explosion, Hierarchy, Domain Role, Contextual Role</a>

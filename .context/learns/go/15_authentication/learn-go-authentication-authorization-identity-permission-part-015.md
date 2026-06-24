@@ -2551,7 +2551,6 @@ Building OIDC Client/Relying Party di Go
 
 Bagian berikutnya akan lebih implementatif: `coreos/go-oidc`, `golang.org/x/oauth2`, provider discovery, callback handler, ID token verifier, nonce/state/PKCE store, account linking, session creation, dan testable package architecture.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-014.md">⬅️ Part 014 — OAuth2 Security BCP: PKCE, Redirect URI, State, Mix-Up, Code Injection</a>

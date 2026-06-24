@@ -2994,7 +2994,6 @@ Part berikutnya akan masuk ke OAuth2 fundamentals: roles, grants, tokens, scopes
 - OWASP ASVS — https://owasp.org/www-project-application-security-verification-standard/
 - OWASP API Security Top 10 2023 — https://owasp.org/API-Security/editions/2023/en/0x00-header/
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-011.md">⬅️ Part 011 — Token Lifecycle: Expiry, Refresh, Rotation, Replay Detection, Revocation</a>

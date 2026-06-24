@@ -2166,7 +2166,6 @@ Topik berikutnya:
 
 > **End-to-End Reference Architecture: Enterprise Identity Platform in Go**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-033.md">⬅️ Part 033 — Abuse, Fraud, Bot, Brute Force, Enumeration, Account Takeover Defense di Go</a>

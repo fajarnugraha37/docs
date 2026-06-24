@@ -2832,7 +2832,6 @@ Topik berikutnya:
 JWT, JWS, JWE, JWK, JWKS: Token Validation as Engineering Discipline
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-008.md">⬅️ Part 008 — Passkeys & WebAuthn Relying Party Implementation di Go</a>

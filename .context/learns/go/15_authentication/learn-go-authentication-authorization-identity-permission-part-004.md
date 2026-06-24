@@ -2866,8 +2866,6 @@ Part berikutnya:
 
 - `part-005` — Assurance Levels: IAL, AAL, FAL, Risk-Based Authentication
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-003.md">⬅️ Part 003 — Identity Domain Model: User, Principal, Subject, Actor, Account, Tenant</a>

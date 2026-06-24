@@ -2484,7 +2484,6 @@ Topik berikutnya:
 Authorization in Distributed Systems: Caching, Consistency, Staleness, Revocation
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-028.md">⬅️ Part 028 — gRPC Auth: Metadata, Interceptor Chain, Per-RPC Authorization</a>

@@ -2356,7 +2356,6 @@ Lanjut ke bagian berikutnya:
 
 `learn-go-authentication-authorization-identity-permission-part-015.md` — **OpenID Connect: ID Token, UserInfo, Discovery, Claims, Nonce**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-013.md">⬅️ Part 013 — OAuth2 Fundamentals: Roles, Grants, Tokens, Scopes, Consent</a>

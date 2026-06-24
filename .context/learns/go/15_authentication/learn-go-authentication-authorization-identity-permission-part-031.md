@@ -3316,7 +3316,6 @@ Part berikutnya:
 
 `learn-go-authentication-authorization-identity-permission-part-032.md` — **Admin, Impersonation, Delegated Access, Break-Glass Access**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-030.md">⬅️ Part 030 — Authorization in Distributed Systems: Caching, Consistency, Staleness, Revocation</a>

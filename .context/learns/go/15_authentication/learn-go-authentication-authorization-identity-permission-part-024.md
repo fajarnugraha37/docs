@@ -3336,7 +3336,6 @@ Bagian berikutnya:
 
 `learn-go-authentication-authorization-identity-permission-part-025.md` — **Capability-Based Access: Delegation, Token Exchange, Fine-Grained Grants**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-023.md">⬅️ Part 023 — ReBAC: Relationship-Based Authorization dan Graph Permission di Go</a>

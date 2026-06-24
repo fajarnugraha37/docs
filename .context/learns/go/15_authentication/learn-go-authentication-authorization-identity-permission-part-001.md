@@ -2538,7 +2538,6 @@ Topik berikutnya:
 Threat Model untuk Auth System
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-authentication-authorization-identity-permission-part-000.md">⬅️ Part 000 — Orientation Handbook: Mental Model, Scope, Invariants, dan Peta Besar Go Authentication, Authorization, Identity, Permission</a>
