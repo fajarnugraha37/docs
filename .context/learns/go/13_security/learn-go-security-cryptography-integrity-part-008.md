@@ -2502,7 +2502,6 @@ Pertanyaan:
 
 Seri **belum selesai**. Masih ada `part-009` sampai `part-034`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-007.md">⬅️ Part 007 — MAC, HMAC, Keyed Hash, Canonicalization, and Constant-Time Verification in Go</a>

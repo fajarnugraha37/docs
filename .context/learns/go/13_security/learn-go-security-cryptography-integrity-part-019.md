@@ -2777,7 +2777,6 @@ API Security in Go: BOLA/IDOR, broken function authorization, mass assignment, o
 
 Seri belum selesai. Masih tersisa part 020 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-018.md">⬅️ Part 018 — Authentication Architecture in Go: Password Login, MFA, Passkeys/WebAuthn, Account Recovery, Authenticator Lifecycle, Risk-Based Auth, and Assurance Levels</a>

@@ -2283,7 +2283,6 @@ Jawab:
 [remaining] part-016 sampai part-034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-013.md">⬅️ Part 013 — X.509 and PKI in Go: Certificate Path Validation, Trust Anchors, SAN, EKU, Expiry, Revocation, Self-Signed Certs, Private CA, and `crypto/x509` Pitfalls</a>

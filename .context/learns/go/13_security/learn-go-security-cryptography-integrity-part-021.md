@@ -2571,7 +2571,6 @@ Do not expect input validation alone to stop SQL injection, command injection, t
 [remaining] part-023 sampai part-034
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-020.md">⬅️ Part 020 — API Security in Go: BOLA/IDOR, Broken Function Authorization, Mass Assignment, Object Property Authorization, Rate Limit, Quota, and OWASP API Security Top 10 2023 Mapping</a>

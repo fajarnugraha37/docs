@@ -2427,7 +2427,6 @@ Jika protocol tidak presisi, HMAC hanya memberi rasa aman palsu.
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-006.md">⬅️ Part 006 — Hashing, Digest, Checksum, Collision Resistance, Preimage Resistance, SHA-2/SHA-3, BLAKE2, and Correct Integrity Use in Go</a>

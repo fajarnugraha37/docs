@@ -2414,8 +2414,6 @@ Progress:
 [remaining] part-003 sampai part-034
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-000.md">⬅️ Go Security, Cryptography, Integrity — Part 000</a>

@@ -2023,7 +2023,6 @@ Next: `learn-go-security-cryptography-integrity-part-027.md`
 
 Topic: **Data Integrity Architecture** — checksums vs hashes vs MAC vs signatures, tamper evidence, append-only logs, Merkle tree concept, audit chain design, and integrity guarantees for regulatory-grade systems.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-025.md">⬅️ Part 025 — File, Archive, and Filesystem Security in Go</a>

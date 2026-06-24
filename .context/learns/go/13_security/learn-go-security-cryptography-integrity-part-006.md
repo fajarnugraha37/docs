@@ -1879,7 +1879,6 @@ MAC, HMAC, keyed hash, message authentication, canonicalization before signing/M
 
 Seri masih berlanjut. Part ini adalah **006 dari 034**.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-005.md">⬅️ Part 005 — Randomness, Entropy, Nonce, IV, Salt, Token Generation, and Failure Model in Go</a>

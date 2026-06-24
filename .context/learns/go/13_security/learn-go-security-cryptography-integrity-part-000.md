@@ -2800,7 +2800,6 @@ Sumber resmi yang digunakan untuk orientasi part ini:
 10. NIST SP 800-218 SSDF v1.1 — Secure Software Development Framework:  
     https://csrc.nist.gov/pubs/sp/800/218/final
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

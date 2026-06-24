@@ -2360,7 +2360,6 @@ Capstone: Internal Engineering Handbook for Secure Go Services — reference arc
 
 Part 034 akan menyatukan seluruh seri menjadi satu handbook operasional yang bisa dipakai sebagai standar internal engineering team.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-032.md">⬅️ Go Supply-Chain Security: Modules, `go.sum`, Checksum Database, `GOPROXY`, `GOSUMDB`, `GOPRIVATE`, Private Modules, Dependency Review, and Module-Cache Risk</a>

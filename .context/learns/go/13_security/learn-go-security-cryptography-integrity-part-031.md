@@ -2595,7 +2595,6 @@ and secure build/release workflow.
 
 > Status seri: belum selesai. Setelah part ini masih tersisa part 032, 033, dan 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-030.md">⬅️ Privacy and Sensitive Data Handling in Go</a>

@@ -2236,7 +2236,6 @@ Part ini adalah:
 
 Seri belum selesai.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-022.md">⬅️ 0. Why This Part Exists</a>

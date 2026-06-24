@@ -2705,7 +2705,6 @@ External security references:
 
 Seri **belum selesai**. Masih ada part 003 sampai part 034.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-001.md">⬅️ Part 001 — Security Mental Model di Go: Asset, Trust Boundary, Attack Surface, Abuse Case, Misuse Case, dan Security Invariant</a>

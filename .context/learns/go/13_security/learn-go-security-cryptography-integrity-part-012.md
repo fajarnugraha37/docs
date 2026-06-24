@@ -2422,8 +2422,6 @@ X.509, PKI, certificate path validation, trust anchor, SAN, EKU, expiry, revocat
 
 This next part will move from general key lifecycle into certificate-based trust systems.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-011.md">⬅️ Part 011 — Password Security in Go: bcrypt, scrypt, Argon2id, PBKDF2, Pepper, Migration, Breach Defense, Lockout, Throttling, and NIST SP 800-63B-4 Baseline</a>

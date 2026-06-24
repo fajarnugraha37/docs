@@ -3011,7 +3011,6 @@ Di part 004 kita mulai masuk ke fondasi crypto engineering. Fokusnya bukan langs
 **Progress:** `part-000`, `part-001`, `part-002`, dan `part-003` selesai.  
 **Sisa:** `part-004` sampai `part-034`.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-002.md">⬅️ Part 002 — Go Security Surface: Runtime, Compiler, Standard Library, Module System, OS Boundary, `unsafe`, `cgo`, Network Services, and Deployment Boundary</a>

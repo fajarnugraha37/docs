@@ -1655,7 +1655,6 @@ Sumber utama yang menjadi baseline handbook ini:
 
 # End of Series
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-033.md">⬅️ Part 033 — Vulnerability Management in Go: Go Vulnerability Database, `govulncheck`, Reachability-Based Scanning, Binary Scanning, CI Integration, Patch Triage, and Security Release Playbook</a>

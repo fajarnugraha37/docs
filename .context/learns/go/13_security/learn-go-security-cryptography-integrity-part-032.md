@@ -2048,8 +2048,6 @@ Topik:
 Vulnerability Management: Go Vulnerability Database, govulncheck, reachability-based scanning, binary scanning, CI integration, patch triage, and security release playbook.
 ```
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-031.md">⬅️ Part 031 — Availability Security in Go: DoS, Resource Exhaustion, Goroutine Leaks, Memory Pressure, Parser Bombs, Rate Limiting, Circuit Breaking, and Graceful Degradation</a>

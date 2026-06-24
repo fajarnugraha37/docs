@@ -2439,7 +2439,6 @@ PII classification, tokenization, encryption at rest, field-level encryption, ma
 
 Seri belum selesai. Lanjut ke part 030.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-028.md">⬅️ Secure Audit Logging in Go: Correlation ID, Actor Identity, Event Schema, Redaction, Immutability, Retention, and Legal Defensibility</a>

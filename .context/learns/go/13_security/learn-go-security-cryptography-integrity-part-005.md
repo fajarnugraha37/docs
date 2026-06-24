@@ -2665,8 +2665,6 @@ You have completed this part if you can confidently explain:
 - why `rand.Text()` is convenient but should not be truncated,
 - why API names should encode security intent.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-security-cryptography-integrity-part-004.md">⬅️ Part 004 — Cryptography Engineering Principles in Go</a>
