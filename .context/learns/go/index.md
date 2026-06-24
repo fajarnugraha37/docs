@@ -2,7 +2,7 @@
 
 > Halaman kategori untuk menelusuri artikel dan subtopik yang saling berhubungan.
 
-Tersedia **0 artikel** dan **13 subkategori** pada bagian ini.
+Tersedia **0 artikel** dan **14 subkategori** pada bagian ini.
 
 ## Subkategori
 - [00 Base](./00_base/index.md)
@@ -18,6 +18,7 @@ Tersedia **0 artikel** dan **13 subkategori** pada bagian ini.
 - [11 Io](./11_io/index.md)
 - [12 Sql](./12_sql/index.md)
 - [13 Security](./13_security/index.md)
+- [14 Data Mapper](./14_data_mapper/index.md)
 
 ---
 
