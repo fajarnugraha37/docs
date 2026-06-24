@@ -2443,7 +2443,6 @@ Topik:
 Anatomy of database/sql
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-000.md">⬅️ Go SQL Package, Connection Pool, Transaction Management, and Database Integration</a>

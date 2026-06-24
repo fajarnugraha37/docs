@@ -3378,7 +3378,6 @@ If you remember only one sentence:
 - MySQL documentation — InnoDB Locking: <https://dev.mysql.com/doc/refman/8.2/en/innodb-locking.html>
 - SQL Server documentation — Transaction Locking and Row Versioning Guide: <https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-017.md">⬅️ Transaction Isolation and Anomaly Modelling</a>

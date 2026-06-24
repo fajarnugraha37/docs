@@ -2536,7 +2536,6 @@ Resilience is engineering the system so that even when it fails, it fails safely
 - AWS RDS documentation — Failing over a Multi-AZ DB instance: <https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Concepts.MultiAZ.Failover.html>
 - AWS RDS documentation — Amazon RDS Proxy: <https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/rds-proxy.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-031.md">⬅️ Metrics, Logs, Traces, and Profiling</a>

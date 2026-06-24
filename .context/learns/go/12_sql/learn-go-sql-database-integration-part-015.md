@@ -3326,7 +3326,6 @@ The most important mental model:
 - Go package documentation — `database/sql/driver`: <https://pkg.go.dev/database/sql/driver>
 - Go documentation — Managing connections: <https://go.dev/doc/database/manage-connections>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-014.md">⬅️ Connection Lifetime, Idle Lifetime, and Network Reality</a>

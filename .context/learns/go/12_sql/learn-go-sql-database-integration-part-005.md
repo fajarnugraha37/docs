@@ -2514,7 +2514,6 @@ Jika bagian ini dipahami dengan benar, kamu tidak hanya bisa “connect ke datab
 - godror package documentation: https://pkg.go.dev/github.com/godror/godror
 - godror repository: https://github.com/godror/godror
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-004.md">⬅️ Driver Model and Driver Selection</a>

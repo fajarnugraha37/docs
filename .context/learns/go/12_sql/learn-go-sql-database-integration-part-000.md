@@ -2513,8 +2513,6 @@ Pastikan Anda memahami minimal:
 
 Jika checklist ini sudah masuk akal, lanjut ke Part 001.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

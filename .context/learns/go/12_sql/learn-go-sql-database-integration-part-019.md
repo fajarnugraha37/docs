@@ -3582,7 +3582,6 @@ If you remember one sentence:
 - MySQL documentation — Deadlocks in InnoDB: <https://dev.mysql.com/doc/en/innodb-deadlocks.html>
 - MySQL documentation — How to Minimize and Handle Deadlocks: <https://dev.mysql.com/doc/refman/en/innodb-deadlocks-handling.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-018.md">⬅️ Locking, Concurrency Control, and Data Integrity</a>

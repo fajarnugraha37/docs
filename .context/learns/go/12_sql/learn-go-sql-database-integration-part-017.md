@@ -3849,7 +3849,6 @@ If you remember one sentence:
 - Berenson et al. — A Critique of ANSI SQL Isolation Levels: <https://arxiv.org/abs/cs/0701157>
 - Ports and Grittner — Serializable Snapshot Isolation in PostgreSQL: <https://arxiv.org/abs/1208.4179>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-016.md">⬅️ Transaction Fundamentals in Go</a>

@@ -3104,7 +3104,6 @@ How do I insert faster without breaking data integrity, retry safety, observabil
 - MySQL documentation — `INSERT` Statement: <https://dev.mysql.com/doc/refman/8.4/en/insert.html>
 - MySQL documentation — `LOAD DATA` Statement: <https://dev.mysql.com/doc/refman/8.4/en/load-data.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-023.md">⬅️ Pagination, Sorting, Search, and Listing APIs</a>

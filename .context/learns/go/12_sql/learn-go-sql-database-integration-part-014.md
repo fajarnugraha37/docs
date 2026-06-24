@@ -2718,7 +2718,6 @@ The second strongest rule:
 - Go documentation — Executing transactions: <https://go.dev/doc/database/execute-transactions>
 - Go Wiki — SQL Interface: <https://go.dev/wiki/SQLInterface>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-013.md">⬅️ Pool Sizing and Capacity Planning</a>

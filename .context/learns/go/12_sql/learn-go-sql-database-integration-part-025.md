@@ -2780,7 +2780,6 @@ Why is this read doing so much work, and what part of the read path is actually 
 - PostgreSQL documentation — EXPLAIN: <https://www.postgresql.org/docs/current/sql-explain.html>
 - PostgreSQL documentation — LIMIT and OFFSET: <https://www.postgresql.org/docs/current/queries-limit.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-024.md">⬅️ Bulk Insert, Batch Update, and High-Throughput Write Paths</a>

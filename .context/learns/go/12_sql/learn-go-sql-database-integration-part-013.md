@@ -2851,7 +2851,6 @@ If you remember only one sentence:
 - Go documentation — Canceling in-progress operations: <https://go.dev/doc/database/cancel-operations>
 - Go documentation — Executing transactions: <https://go.dev/doc/database/execute-transactions>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-012.md">⬅️ Part 012 — Connection Pool Mental Model</a>

@@ -2288,7 +2288,6 @@ Dengan arsitektur seperti ini, kamu tidak hanya “bisa query database dari Go�
 - `otelsql` repository: <https://github.com/XSAM/otelsql>
 - `golang-migrate/migrate`: <https://github.com/golang-migrate/migrate>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-032.md">⬅️ Resilience and Failure Mode Engineering</a>

@@ -2392,7 +2392,6 @@ Kita akan membahas:
 - Go package documentation — `database/sql/driver`: `https://pkg.go.dev/database/sql/driver`
 - Go documentation — Executing transactions: `https://go.dev/doc/database/execute-transactions`
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-002.md">⬅️ Part 002 — Anatomy of `database/sql`</a>

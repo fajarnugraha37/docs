@@ -2273,7 +2273,6 @@ If you remember one sentence:
 - Oracle driver — `godror`: <https://pkg.go.dev/github.com/godror/godror>
 - Oracle Developer — Working in Go applications with Oracle Database: <https://www.oracle.com/developer/working-in-go-applications-with-oracle-database-and-oracle-cloud-autonomous-database/>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-027.md">⬅️ Specific Integration: MySQL / MariaDB</a>

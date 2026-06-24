@@ -3619,7 +3619,6 @@ A top-tier Go engineer treats MySQL/MariaDB not as a generic SQL endpoint, but a
 - MySQL documentation — LOAD DATA Statement: <https://dev.mysql.com/doc/refman/8.4/en/load-data.html>
 - MariaDB documentation — INSERT ON DUPLICATE KEY UPDATE: <https://mariadb.com/docs/server/reference/sql-statements/data-manipulation/inserting-loading-data/insert-on-duplicate-key-update>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-026.md">⬅️ Specific Integration: PostgreSQL</a>

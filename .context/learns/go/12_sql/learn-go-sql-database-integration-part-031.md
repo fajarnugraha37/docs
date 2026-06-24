@@ -3426,7 +3426,6 @@ With it, incidents become diagnosable, optimizations become measurable, and data
 - OpenTelemetry blog — Getting started with otelsql: <https://opentelemetry.io/blog/2024/getting-started-with-otelsql/>
 - `otelsql` repository: <https://github.com/XSAM/otelsql>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-030.md">⬅️ Testing Database Code</a>

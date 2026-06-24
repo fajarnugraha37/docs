@@ -2586,7 +2586,6 @@ Topik berikutnya:
 Parameter Binding and SQL Injection Boundary
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-008.md">⬅️ Scanning, Type Mapping, and Data Shape Control</a>

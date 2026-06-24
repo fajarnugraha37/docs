@@ -2111,7 +2111,6 @@ learn-go-sql-database-integration-part-005.md
 DSN, Connection Strings, and Configuration Hygiene
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-003.md">⬅️ Opening Database Handles Correctly</a>

@@ -1703,7 +1703,6 @@ Advanced Case Studies and Engineering Review
 - OpenTelemetry documentation — Go instrumentation: <https://opentelemetry.io/docs/languages/go/instrumentation/>
 - `golang-migrate/migrate`: <https://github.com/golang-migrate/migrate>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-033.md">⬅️ Production Reference Architecture</a>

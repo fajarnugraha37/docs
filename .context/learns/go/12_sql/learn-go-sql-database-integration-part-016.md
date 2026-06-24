@@ -3454,7 +3454,6 @@ Core architecture:
 - Go Wiki — SQL Interface: <https://go.dev/wiki/SQLInterface>
 - Go 1.8 Release Notes — `BeginTx`, `TxOptions`, isolation and read-only transactions: <https://go.dev/doc/go1.8>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-015.md">⬅️ Context, Timeout, Cancellation, and Deadline Propagation</a>

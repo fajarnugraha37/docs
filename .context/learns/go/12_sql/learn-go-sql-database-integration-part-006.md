@@ -2217,7 +2217,6 @@ Rows Lifecycle and Resource Safety
 
 Bagian berikutnya akan memperdalam `Rows` sebagai resource lifecycle: kapan connection tertahan, kapan `Close` error penting, bagaimana streaming result memengaruhi pool, bagaimana mendesain scan loop yang aman, dan bagaimana mendeteksi leak/partial iteration di production.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-005.md">⬅️ DSN, Connection Strings, and Configuration Hygiene</a>

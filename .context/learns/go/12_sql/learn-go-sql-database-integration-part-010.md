@@ -2309,7 +2309,6 @@ learn-go-sql-database-integration-part-011.md
 Prepared Statements Deep Dive
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-009.md">⬅️ Part 009 — NULL Semantics in Go</a>

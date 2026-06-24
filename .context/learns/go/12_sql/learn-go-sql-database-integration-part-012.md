@@ -2730,7 +2730,6 @@ learn-go-sql-database-integration-part-013.md
 Pool Sizing and Capacity Planning
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-011.md">⬅️ Part 011 — Prepared Statements Deep Dive</a>

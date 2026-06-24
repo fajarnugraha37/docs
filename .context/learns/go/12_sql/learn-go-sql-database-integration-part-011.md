@@ -1825,7 +1825,6 @@ Topik berikutnya:
 Connection Pool Mental Model
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-010.md">⬅️ Parameter Binding and SQL Injection Boundary</a>

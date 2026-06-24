@@ -3415,7 +3415,6 @@ A high-quality Go data access layer treats listing as a first-class design probl
 - MySQL documentation — `SELECT` Statement: <https://dev.mysql.com/doc/refman/9.7/en/select.html>
 - OWASP Cheat Sheet Series — SQL Injection Prevention Cheat Sheet: <https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-022.md">⬅️ Query Composition Without Losing Control</a>

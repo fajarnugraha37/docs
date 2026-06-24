@@ -3830,7 +3830,6 @@ This architecture is not about ceremony. It is about preventing partial writes, 
 - Go documentation — Executing transactions: <https://go.dev/doc/database/execute-transactions>
 - Go documentation — Managing connections: <https://go.dev/doc/database/manage-connections>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-020.md">⬅️ Error Taxonomy for Database Integration</a>

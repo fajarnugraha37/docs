@@ -3464,7 +3464,6 @@ This is the point where a Go engineer stops treating database as a black box and
 - PostgreSQL documentation — EXPLAIN: <https://www.postgresql.org/docs/current/sql-explain.html>
 - PostgreSQL documentation — Indexes: <https://www.postgresql.org/docs/current/indexes.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-025.md">⬅️ Read Path Performance and Query Efficiency</a>

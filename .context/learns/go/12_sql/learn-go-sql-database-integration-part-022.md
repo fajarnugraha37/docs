@@ -3126,7 +3126,6 @@ If you remember one sentence:
 - OWASP Cheat Sheet Series — SQL Injection Prevention Cheat Sheet: <https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html>
 - OWASP Cheat Sheet Series — Injection Prevention Cheat Sheet: <https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-021.md">⬅️ Repository Boundary and Data Access Architecture</a>

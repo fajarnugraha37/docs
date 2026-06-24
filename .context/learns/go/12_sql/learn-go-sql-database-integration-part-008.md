@@ -2638,7 +2638,6 @@ Topik berikutnya:
 NULL Semantics in Go
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-007.md">⬅️ Rows Lifecycle and Resource Safety</a>

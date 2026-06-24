@@ -2962,7 +2962,6 @@ If you remember one sentence:
 - Microsoft SQL Server documentation — Transaction Locking and Row Versioning Guide: <https://learn.microsoft.com/en-us/sql/relational-databases/sql-server-transaction-locking-and-row-versioning-guide>
 - Oracle Database documentation — Error Messages: <https://docs.oracle.com/en/database/oracle/oracle-database/>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-019.md">⬅️ Transaction Retry, Idempotency, and Exactly-Once Illusions</a>

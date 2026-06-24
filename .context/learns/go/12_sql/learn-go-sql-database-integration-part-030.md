@@ -3387,7 +3387,6 @@ A top-tier Go engineer builds fast unit tests **and** a focused real-database in
 - Testcontainers for Go MySQL module: <https://golang.testcontainers.org/modules/mysql/>
 - go-sqlmock package documentation: <https://pkg.go.dev/github.com/DATA-DOG/go-sqlmock>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-029.md">⬅️ Migrations, Schema Versioning, and Deployment Coordination</a>

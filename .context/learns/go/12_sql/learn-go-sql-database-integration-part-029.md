@@ -3482,7 +3482,6 @@ The best engineers treat migrations as production systems, not as SQL chores.
 - MySQL documentation — `ALTER TABLE`: <https://dev.mysql.com/doc/refman/8.4/en/alter-table.html>
 - SQLite documentation — `ALTER TABLE`: <https://www.sqlite.org/lang_altertable.html>
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-028.md">⬅️ Specific Integration: SQLite, SQL Server, and Oracle Notes</a>

@@ -2757,8 +2757,6 @@ Kita akan masuk lebih dalam ke:
 - Go documentation: Canceling in-progress database operations.
 - Go documentation: Executing transactions.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-sql-database-integration-part-006.md">⬅️ Query Execution Model</a>
