@@ -3108,7 +3108,6 @@ Part berikutnya akan membahas `encoding/json/v2` dan `jsontext` secara lebih eks
 - Go 1.26 release notes: https://go.dev/doc/go1.26
 - RFC 8259 — The JavaScript Object Notation JSON Data Interchange Format: https://www.rfc-editor.org/rfc/rfc8259
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-010.md">⬅️ Part 010 — Strict JSON Decoding and Unknown Field Policy</a>

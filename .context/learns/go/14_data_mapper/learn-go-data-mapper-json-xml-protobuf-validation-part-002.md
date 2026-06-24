@@ -3101,7 +3101,6 @@ Judul berikutnya:
 Mapping Invariants and Boundary Contracts
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-001.md">⬅️ Part 001 — Data Mapper Architecture for Java Engineers</a>

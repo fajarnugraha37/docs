@@ -2461,7 +2461,6 @@ Mulai part berikutnya, kita akan masuk ke desain mapper secara lebih konkret dar
 **Status seri:** belum selesai.  
 **Part berikutnya:** `learn-go-data-mapper-json-xml-protobuf-validation-part-001.md` — Data Mapper Architecture for Java Engineers.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <span></span>

@@ -2279,7 +2279,6 @@ Seri belum selesai.
 - Total rencana: `part-033`
 - Berikutnya: `learn-go-data-mapper-json-xml-protobuf-validation-part-031.md` — **Mapping and Validation in Event-Driven Systems**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-029.md">⬅️ Part 029 — Protobuf Semantic Validation with Protovalidate</a>

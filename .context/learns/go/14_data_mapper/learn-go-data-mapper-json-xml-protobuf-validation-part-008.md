@@ -2981,8 +2981,6 @@ Setelah memahami part ini, Anda seharusnya bisa melihat bahwa pertanyaan “paka
 
 Part berikutnya akan membahas **custom JSON Marshal and Unmarshal**: bagaimana membuat tipe domain Go yang bisa mengontrol representasi JSON-nya sendiri tanpa mencampur business logic, parser logic, dan transport contract secara berantakan.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-007.md">⬅️ Part 007 — JSON Nullability, Optionality, and Zero Value Semantics</a>

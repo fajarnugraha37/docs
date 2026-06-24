@@ -2868,7 +2868,6 @@ Fokus berikutnya:
 - deterministic marshal,
 - operational usage pattern di Go service.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-018.md">⬅️ Part 018 — XML Schema, XSD, and Contract Reality</a>

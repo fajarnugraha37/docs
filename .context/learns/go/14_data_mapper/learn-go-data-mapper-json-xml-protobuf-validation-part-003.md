@@ -3392,7 +3392,6 @@ Judul berikutnya:
 Struct Tags as Serialization Metadata
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-002.md">⬅️ DTO, Domain Model, API Model, Persistence Model</a>

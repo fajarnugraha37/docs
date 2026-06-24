@@ -2642,7 +2642,6 @@ JSON Fundamentals in Go
 
 The next part begins the JSON section. It will cover `encoding/json` deeply: exported field rules, tags, default encoding behavior, struct field matching, map/slice/interface handling, custom types, zero values, and the mental model required before discussing nullability, streaming, strict decoding, and JSON v2.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-004.md">⬅️ Part 004 — Struct Tags as Serialization Metadata</a>

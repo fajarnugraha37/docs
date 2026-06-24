@@ -2308,8 +2308,6 @@ Keduanya saling melengkapi, bukan saling menggantikan.
 - Package documentation: `encoding/json/jsontext`.
 - RFC 8259 — The JavaScript Object Notation Data Interchange Format.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-011.md">⬅️ Part 011 — Streaming JSON Processing</a>

@@ -2431,7 +2431,6 @@ Judul berikutnya:
 XML Schema, XSD, and Contract Reality
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-016.md">⬅️ Part 016 — XML Fundamentals in Go</a>

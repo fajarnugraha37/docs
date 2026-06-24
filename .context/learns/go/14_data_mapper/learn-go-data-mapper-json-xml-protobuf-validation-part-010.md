@@ -2952,7 +2952,6 @@ Fokus berikutnya:
 - error isolation,
 - operational pattern untuk batch/event ingestion.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-009.md">⬅️ Part 009 — Custom JSON Marshal and Unmarshal</a>

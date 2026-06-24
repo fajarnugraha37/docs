@@ -2975,7 +2975,6 @@ Jika hanya mengingat satu prinsip:
 - Seri belum selesai.
 - Part berikutnya: `learn-go-data-mapper-json-xml-protobuf-validation-part-023.md` — **Protobuf JSON Mapping**
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-021.md">⬅️ Part 021 — Protobuf Generated Code: Open Struct vs Opaque API</a>

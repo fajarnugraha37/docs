@@ -2939,7 +2939,6 @@ Judul:
 Validation Mental Model in Go
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-024.md">⬅️ Part 024 — Protobuf Schema Evolution</a>

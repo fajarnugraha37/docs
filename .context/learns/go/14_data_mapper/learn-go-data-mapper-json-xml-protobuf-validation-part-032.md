@@ -1882,7 +1882,6 @@ Judul berikutnya:
 Production Handbook and Architecture Playbook
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-031.md">⬅️ Part 031 — Mapping and Validation in Event-Driven Systems</a>

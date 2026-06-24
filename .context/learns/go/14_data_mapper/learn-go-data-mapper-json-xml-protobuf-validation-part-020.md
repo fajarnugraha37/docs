@@ -2553,7 +2553,6 @@ Judul berikutnya:
 Protobuf Generated Code: Open Struct vs Opaque API
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-019.md">⬅️ Part 019 — Protobuf Fundamentals for Go Engineers</a>

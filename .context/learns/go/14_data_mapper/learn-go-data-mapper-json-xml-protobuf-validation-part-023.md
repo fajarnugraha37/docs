@@ -2536,8 +2536,6 @@ Seri **belum selesai**.
 - Berikutnya: `learn-go-data-mapper-json-xml-protobuf-validation-part-024.md`
 - Judul berikutnya: **Protobuf Schema Evolution**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-022.md">⬅️ Part 022 — Protobuf Field Presence and Optionality</a>

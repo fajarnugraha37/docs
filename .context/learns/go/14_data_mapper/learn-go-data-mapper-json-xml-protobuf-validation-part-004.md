@@ -2721,7 +2721,6 @@ Untuk engineer senior, pertanyaannya bukan “tag apa yang harus ditulis”, mel
 
 Pada part berikutnya, kita akan masuk ke **Manual Mapping vs Reflection vs Code Generation**: kapan mapper sebaiknya ditulis manual, kapan reflection layak, kapan code generation lebih aman, dan bagaimana menilai trade-off dari maintainability, performance, type-safety, dan contract governance.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-003.md">⬅️ Part 003 — Mapping Invariants and Boundary Contracts</a>

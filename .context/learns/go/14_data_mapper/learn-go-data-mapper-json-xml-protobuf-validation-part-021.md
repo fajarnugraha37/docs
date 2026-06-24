@@ -2428,7 +2428,6 @@ Fokus berikutnya:
 - JSON/ProtoJSON presence interaction,
 - Go API consequences for `Has`, `Clear`, `Get`, and domain mapping.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-020.md">⬅️ Go Protobuf Modern Runtime</a>

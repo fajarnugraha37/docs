@@ -2892,7 +2892,6 @@ Judul berikutnya:
 Validation Error Modeling
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-026.md">⬅️ Part 026 — Validation Mental Model in Go</a>

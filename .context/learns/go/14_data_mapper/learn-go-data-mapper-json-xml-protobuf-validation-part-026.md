@@ -2589,7 +2589,6 @@ Focus:
 - error translation,
 - production pitfalls.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-025.md">⬅️ Part 025 — Buf, Proto Modules, Linting, and Breaking Change Detection</a>

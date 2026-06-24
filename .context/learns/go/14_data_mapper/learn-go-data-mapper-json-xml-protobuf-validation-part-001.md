@@ -2661,7 +2661,6 @@ Part 002 — DTO, Domain Model, API Model, Persistence Model
 
 Kita akan membedah kapan model perlu dipisah, kapan boleh disatukan, bagaimana menghindari model explosion, dan bagaimana mendesain model lifecycle untuk API, database, event, XML legacy integration, dan Protobuf contract.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-000.md">⬅️ Part 000 — Orientation: Data Representation Boundary in Go</a>

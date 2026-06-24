@@ -3075,8 +3075,6 @@ Seri belum selesai. Lanjut ke:
 
 **Part 010 — Strict JSON Decoding and Unknown Field Policy**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-008.md">⬅️ Part 008 — JSON Numbers, Precision, and Lossy Boundaries</a>

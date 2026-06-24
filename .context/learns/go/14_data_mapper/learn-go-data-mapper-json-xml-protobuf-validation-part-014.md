@@ -2291,7 +2291,6 @@ Judul berikutnya:
 OpenAPI Schema and Go DTO Governance
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-013.md">⬅️ Part 013 — JSON Schema as External Contract</a>

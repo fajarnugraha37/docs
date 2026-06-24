@@ -2685,7 +2685,6 @@ Judul:
 XML Fundamentals in Go
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-014.md">⬅️ Part 014 — JSON Schema in Go Systems</a>

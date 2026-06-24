@@ -2289,7 +2289,6 @@ Judul berikutnya:
 Mapping and Validation in HTTP APIs
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-028.md">⬅️ Part 028 — Validation Error Modeling</a>

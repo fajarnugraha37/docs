@@ -2790,8 +2790,6 @@ Seri **belum selesai**.
 - Berikutnya: `learn-go-data-mapper-json-xml-protobuf-validation-part-029.md`
 - Judul berikutnya: **Protobuf Semantic Validation with Protovalidate**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-027.md">⬅️ Part 027 — Struct Validation with `go-playground/validator`</a>

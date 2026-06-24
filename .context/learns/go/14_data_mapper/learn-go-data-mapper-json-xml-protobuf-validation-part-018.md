@@ -2623,7 +2623,6 @@ Judul berikutnya:
 Protobuf Fundamentals for Go Engineers
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-017.md">⬅️ Part 017 — XML Processing Beyond Basic Marshal</a>

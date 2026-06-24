@@ -2830,8 +2830,6 @@ Seri belum selesai.
 - Selesai: Part 000 sampai Part 007.
 - Berikutnya: `learn-go-data-mapper-json-xml-protobuf-validation-part-008.md` — **JSON Numbers, Precision, and Lossy Boundaries**.
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-006.md">⬅️ Part 006 — JSON Fundamentals in Go</a>

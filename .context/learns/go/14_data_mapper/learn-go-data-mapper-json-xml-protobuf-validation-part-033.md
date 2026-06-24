@@ -2331,8 +2331,6 @@ Referensi berikut adalah baseline yang relevan untuk seri ini:
 
 **SERI SELESAI — part 033 / 033.**
 
-
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-032.md">⬅️ Part 032 — Performance, Allocation, and Operational Trade-offs</a>

@@ -2658,7 +2658,6 @@ Judul berikutnya:
 Buf, Proto Modules, Linting, and Breaking Change Detection
 ```
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-023.md">⬅️ Part 023 — Protobuf JSON Mapping</a>

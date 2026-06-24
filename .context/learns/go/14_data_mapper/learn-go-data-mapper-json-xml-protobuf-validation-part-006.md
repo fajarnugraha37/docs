@@ -1958,7 +1958,6 @@ Seri **belum selesai**.
 - Selesai: Part 000 sampai Part 006.
 - Berikutnya: Part 007 — JSON Nullability, Optionality, and Zero Value Semantics.
 
-
 <!-- NAVIGATION_FOOTER -->
 <div class="page-nav">
 <a href="./learn-go-data-mapper-json-xml-protobuf-validation-part-005.md">⬅️ Part 005 — Manual Mapping vs Reflection vs Code Generation</a>
